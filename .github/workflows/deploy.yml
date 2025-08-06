@@ -1,0 +1,47 @@
+name: Generate & Deploy to GitHub Pages
+
+on:
+  workflow_dispatch:       # 수동 실행 가능
+  schedule:
+    - cron: '0 3 * * *'     # 매일 오전 3시 실행
+  push:
+    branches: [ main ]      # main 브랜치에 변경 시 실행
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run generator
+        run: python generate.py
+
+      - name: Deploy to gh-pages branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          mkdir temp-pages
+          cp output/index.html temp-pages/
+
+          git fetch origin gh-pages || true
+          git switch gh-pages || git checkout --orphan gh-pages
+
+          rm -rf *
+          cp ../temp-pages/index.html .
+
+          git add index.html
+          git commit -m "Deploy $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git push origin gh-pages --force
