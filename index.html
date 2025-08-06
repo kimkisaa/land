@@ -1,40 +1,247 @@
 <!DOCTYPE html>
 <html lang="ko">
-<head>
+  
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>부동산의 모든 것</title>
   <meta name="description" content="최신 부동산 뉴스와 시세 정보를 한눈에!">
   <meta name="keywords" content="부동산, 뉴스, 시세, 아파트 가격, 부동산 정보">
   <meta name="robots" content="index, follow">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #003366;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+    }
+
+    nav {
+      margin-top: 10px;
+    }
+
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .hero {
+      background-color: #e6f0ff;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    .hero h2 {
+      font-size: 2em;
+    }
+
+    .hero p {
+      font-size: 1.2em;
+    }
+
+    .hero button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 1em;
+      background-color: #003366;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #003366;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li {
+      margin-bottom: 10px;
+    }
+
+    ul li a {
+      color: #003366;
+      text-decoration: none;
+    }
+
+    form input, form textarea, form button {
+      display: block;
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 10px;
+      font-size: 1em;
+    }
+
+    form button {
+      background-color: #003366;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .card {
+      flex: 1;
+      min-width: 250px;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+    }
+
+    .price-result {
+      background: #fff;
+      padding: 15px;
+      margin-top: 15px;
+      border-left: 5px solid #003366;
+    }
+
+    footer {
+      background-color: #003366;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 600px) {
+      nav a {
+        display: block;
+        margin: 10px 0;
+      }
+
+      .cards {
+        flex-direction: column;
+      }
+    }
+  </style>
 </head>
-
 <body>
-  <h2>부동산의 모든 것</h2>
 
-  <h2>최신 뉴스</h2>
-  <ul>
-    
-      <li><a href="https://n.news.naver.com/article/119/0002987864" target="_blank">현충원 끝자락 반지하 밀집...</a></li>
-    
-      <li><a href="https://n.news.naver.com/article/119/0002987476" target="_blank">LH, 구리갈매역세권·남양주...</a></li>
-    
-      <li><a href="https://n.news.naver.com/article/011/0004517370" target="_blank">압구정5구역, 1401가구 한...</a></li>
-    
-      <li><a href="https://n.news.naver.com/article/015/0005166768" target="_blank">한강 변 제2세종문화회관 ...</a></li>
-    
-      <li><a href="https://n.news.naver.com/article/366/0001097927" target="_blank">[단독] 개포우성7차 비방전...</a></li>
-    
-  </ul>
+  <header>
+    <h1>부동산의 모든 것</h1>
+    <nav>
+      <a href="#news">뉴스</a>
+      <a href="#price">시세</a>
+      <a href="#subscription">청약</a>
+      <a href="#guide">가이드</a>
+      <a href="#contact">문의</a>
+    </nav>
+  </header>
 
-  <h2>최신 시세 정보</h2>
-  <ul>
+  <section class="hero">
+    <h2>대한민국 부동산 정보를 한눈에</h2>
+    <p>신뢰할 수 있는 부동산 뉴스, 실거래가, 청약 정보, 투자 전략까지</p>
+    <button>더 알아보기</button>
+  </section>
+
+  <section id="news">
+    <h2>📢 최신 부동산 뉴스</h2>
+    <ul>
+      
+        <li><a href="https://n.news.naver.com/article/119/0002987864" target="_blank">현충원 끝자락 반지하 밀집...</a></li>
+      
+        <li><a href="https://n.news.naver.com/article/119/0002987476" target="_blank">LH, 구리갈매역세권·남양주...</a></li>
+      
+        <li><a href="https://n.news.naver.com/article/011/0004517370" target="_blank">압구정5구역, 1401가구 한...</a></li>
+      
+        <li><a href="https://n.news.naver.com/article/015/0005166768" target="_blank">한강 변 제2세종문화회관 ...</a></li>
+      
+        <li><a href="https://n.news.naver.com/article/366/0001097927" target="_blank">[단독] 개포우성7차 비방전...</a></li>
+      
+    </ul>
+  </section>
+
+  <section id="price">
+    <h2>💰 실시간 아파트 시세</h2>
+    <form>
+      <input type="text" placeholder="예: 강남 푸르지오" />
+      <button type="submit">검색</button>
+    </form>
     
-      <li>강남 푸르지오 - 19억 5,000만원</li>
+    <div class="price-result">
+      <p>강남 푸르지오 - 19억 5,000만원</p>
+    </div>
     
-      <li>잠실 엘스 - 17억 2,000만원</li>
+    <div class="price-result">
+      <p>잠실 엘스 - 17억 2,000만원</p>
+    </div>
     
-      <li>마포 래미안 - 13억 8,000만원</li>
+    <div class="price-result">
+      <p>마포 래미안 - 13억 8,000만원</p>
+    </div>
     
-  </ul>
+  </section>
+
+  <section id="subscription">
+    <h2>🏢 청약 캘린더</h2>
+    <ul>
+      <li>08/10 - 위례자이 청약 시작</li>
+      <li>08/15 - 광명 래미안 당첨자 발표</li>
+      <li>08/25 - 세종 자이 더 시티 접수 마감</li>
+    </ul>
+  </section>
+
+  <section id="guide">
+    <h2>📘 부동산 투자 가이드</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>실거주 vs 투자용</h3>
+        <p>내 집 마련이 우선일까, 수익이 우선일까?</p>
+      </div>
+      <div class="card">
+        <h3>입지 분석 꿀팁</h3>
+        <p>교통, 학군, 개발 계획 보는 법</p>
+      </div>
+      <div class="card">
+        <h3>세금과 대출</h3>
+        <p>양도세·취득세, DSR 계산법까지</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>📩 문의 / 뉴스레터 구독</h2>
+    <form>
+      <input type="email" placeholder="이메일을 입력하세요" />
+      <textarea placeholder="문의 내용을 작성하세요"></textarea>
+      <button type="submit">제출</button>
+    </form>
+  </section>
 
   <footer>
+    <p>© 2025 부동산의 모든 것. All rights reserved.</p>
+    <p>최종 업데이트: 2025-08-06 05:03:34</p>
+  </footer>
+
+</body>
+</html>
