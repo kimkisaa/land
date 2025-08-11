@@ -4,6 +4,7 @@ title: 1. 목표 설정
 description: 내 집 마련 1단계 - 언제, 어디에, 어떤 집을 살지 목표를 구체화하고 우선순위를 정하는 방법. 실거주 vs 투자, 라이프플랜, 예산 범위, 체크리스트까지.
 permalink: /guide/1-goal-setting/
 last_modified_at: 2025-08-11
+image: /assets/images/subscription-check-og.jpg
 ---
 
 <section class="guide-detail">
