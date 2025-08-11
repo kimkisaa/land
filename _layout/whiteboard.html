@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<!-- Hero -->
 <section class="wb-hero">
   <h1>{{ page.title }}</h1>
   <p class="wb-meta">
@@ -15,7 +14,6 @@ layout: default
   {% endif %}
 </section>
 
-<!-- Media: Video / Image -->
 <section class="wb-media">
   {% if page.video_url %}
     <div class="wb-video">
@@ -32,7 +30,6 @@ layout: default
   {% endif %}
 </section>
 
-<!-- Key takeaways -->
 {% if page.takeaways %}
 <section class="wb-takeaways">
   <h2>핵심 요약</h2>
@@ -44,18 +41,15 @@ layout: default
 </section>
 {% endif %}
 
-<!-- Content (Transcript / 본문) -->
 <article class="wb-transcript">
   {{ content }}
 </article>
 
-<!-- CTA -->
 <section class="wb-cta">
-  <a class="btn" href="{{ '/land/news/' | relative_url }}">← 뉴스 목록</a>
-  <a class="btn primary" href="{{ '/land/guide/1-goal-setting.html' | relative_url }}">내 집 마련 가이드 시작하기 →</a>
+  <a class="btn" href="{{ '/news/' | relative_url }}">← 뉴스 목록</a>
+  <a class="btn primary" href="{{ '/guide/1-goal-setting.html' | relative_url }}">내 집 마련 가이드 시작하기 →</a>
 </section>
 
-<!-- Related (태그 기반 간단 추천) -->
 {% if page.tags %}
 <section class="wb-related">
   <h3>관련 글</h3>
@@ -70,7 +64,7 @@ layout: default
 </section>
 {% endif %}
 
-<!-- JSON-LD (Article + VideoObject + Breadcrumb) -->
+<!-- JSON-LD -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -80,7 +74,7 @@ layout: default
   "author": {"@type":"Person","name":"{{ page.author | default: '운영팀' | escape }}"},
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   {% if page.updated %}"dateModified": "{{ page.updated | date_to_xmlschema }}",{% endif %}
-  "image": ["{{ page.thumbnail | default: '/og-image.jpg' | absolute_url }}"],
+  "image": ["{{ page.thumbnail | default: '/og-image.jpg' | relative_url | absolute_url }}"],
   "mainEntityOfPage": {"@type":"WebPage","@id":"{{ page.url | absolute_url }}"}
 }
 </script>
@@ -92,7 +86,7 @@ layout: default
   "@type":"VideoObject",
   "name":"{{ page.title | escape }}",
   "description":"{{ page.description | default: page.excerpt | escape }}",
-  "thumbnailUrl":["{{ page.thumbnail | default: '/og-image.jpg' | absolute_url }}"],
+  "thumbnailUrl":["{{ page.thumbnail | default: '/og-image.jpg' | relative_url | absolute_url }}"],
   "uploadDate":"{{ page.date | date_to_xmlschema }}",
   "embedUrl":"{{ page.video_url | replace: 'watch?v=', 'embed/' | absolute_url }}",
   {% if page.video_duration %}"duration":"{{ page.video_duration }}",{% endif %}
@@ -106,8 +100,8 @@ layout: default
   "@context":"https://schema.org",
   "@type":"BreadcrumbList",
   "itemListElement":[
-    {"@type":"ListItem","position":1,"name":"홈","item":"{{ '/land/' | absolute_url }}"},
-    {"@type":"ListItem","position":2,"name":"뉴스","item":"{{ '/land/news/' | absolute_url }}"},
+    {"@type":"ListItem","position":1,"name":"홈","item":"{{ '/' | relative_url | absolute_url }}"},
+    {"@type":"ListItem","position":2,"name":"뉴스","item":"{{ '/news/' | relative_url | absolute_url }}"},
     {"@type":"ListItem","position":3,"name":"{{ page.title | escape }}","item":"{{ page.url | absolute_url }}"}
   ]
 }
