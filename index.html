@@ -1,152 +1,52 @@
 ---
 layout: default
+title: 부동산 뉴스 · 가이드 · 시세 · 청약 정보
+description: 2025년 최신 부동산 뉴스, 내 집 마련 가이드, 실시간 시세, 청약 일정까지 한눈에 확인하세요.
 ---
-
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>부동산의 모든 것 | 부동산 뉴스 · 가이드 · 시세 · 청약 정보</title>
-  <meta name="description" content="2025년 최신 부동산 뉴스, 내 집 마련 가이드, 실시간 시세, 청약 일정까지 한눈에 확인하세요.">
-  <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://kimkisaa.github.io/">
-  <meta property="og:title" content="부동산의 모든 것">
-  <meta property="og:description" content="부동산 뉴스, 가이드, 시세, 청약 일정을 한눈에!">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://kimkisaa.github.io/">
-  <meta property="og:image" content="https://kimkisaa.github.io/og-image.jpg">
-
-  <!-- ✅ 외부 CSS 링크 -->
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-<header>
-  <h1>부동산의 모든 것</h1>
-</header>
-
-<nav>
-  <div class="nav-container" role="navigation" aria-label="메인 메뉴">
-    <span class="hamburger" id="hamburger" aria-label="메뉴 열기">☰</span>
-	<ul class="nav-menu" id="nav-menu">
-	  <li class="dropdown">
-		<a href="#" aria-haspopup="true" aria-expanded="false">가이드 ▼</a>
-		<ul class="dropdown-menu">
-		  <li><a href="guide/1-goal-setting.html">1. 목표 설정</a></li>
-		  <li><a href="guide/2-budget-plan.html">2. 예산 및 자금 계획</a></li>
-		  <li><a href="guide/3-subscription-check.html">3. 청약 여부 확인</a></li>
-		  <li><a href="guide/4-property-research.html">4. 매물 조사 및 비교</a></li>
-		  <li><a href="guide/5-contract-process.html">5. 계약 진행</a></li>
-		  <li><a href="guide/6-loan-and-closing.html">6. 대출 실행 및 잔금 처리</a></li>
-		  <li><a href="guide/7-move-in-prep.html">7. 입주 준비</a></li>
-		  <li><a href="guide/8-tips.html">8. 팁</a></li>
-		</ul>
-	  </li>
-	  <li><a href="news/">뉴스</a></li>
-	  <!-- 아직 내용 없음
-	  <li><a href="price/">시세</a></li>
-	  <li><a href="subscription/">청약</a></li>
-	  <li><a href="contact/">문의</a></li>
-	  -->
-	  
-	</ul>
-  </div>
-</nav>
-
-
-
-
-
-<main>
 
 <!-- 🧭 내 집 마련 가이드 요약 -->
 <section id="guide-summary">
   <h2>📘 내 집 마련 8단계 가이드</h2>
   <article class="card">
     <ol>
-      <li>1. 목표 설정 – <a href="guide/1-goal-setting.html">바로가기</a></li>
-      <li>2. 예산 및 자금 계획 – <a href="guide/2-budget-plan.html">바로가기</a></li>
-      <li>3. 청약 여부 확인 – <a href="guide/3-subscription-check.html">바로가기</a></li>
-      <li>4. 매물 조사 및 비교 – <a href="guide/4-property-research.html">바로가기</a></li>
-      <li>5. 계약 진행 – <a href="guide/5-contract-process.html">바로가기</a></li>
-      <li>6. 대출 실행 및 잔금 처리 – <a href="guide/6-loan-and-closing.html">바로가기</a></li>
-      <li>7. 입주 준비 – <a href="guide/7-move-in-prep.html">바로가기</a></li>
-      <li>8. 팁 – <a href="guide/8-tips.html">바로가기</a></li>
+      <li>1. 목표 설정 – <a href="{{ '/guide/1-goal-setting/'       | relative_url }}">바로가기</a></li>
+      <li>2. 예산 및 자금 계획 – <a href="{{ '/guide/2-budget-plan/'        | relative_url }}">바로가기</a></li>
+      <li>3. 청약 여부 확인 – <a href="{{ '/guide/3-subscription-check/' | relative_url }}">바로가기</a></li>
+      <li>4. 매물 조사 및 비교 – <a href="{{ '/guide/4-property-research/'  | relative_url }}">바로가기</a></li>
+      <li>5. 계약 진행 – <a href="{{ '/guide/5-contract-process/'   | relative_url }}">바로가기</a></li>
+      <li>6. 대출 실행 및 잔금 처리 – <a href="{{ '/guide/6-loan-and-closing/'   | relative_url }}">바로가기</a></li>
+      <li>7. 입주 준비 – <a href="{{ '/guide/7-move-in-prep/'       | relative_url }}">바로가기</a></li>
+      <li>8. 팁 – <a href="{{ '/guide/8-tips/'               | relative_url }}">바로가기</a></li>
     </ol>
-    <p><a href="guide/1-goal-setting.html"><strong>1단계부터 시작하기 →</strong></a></p>
+    <p><a href="{{ '/guide/1-goal-setting/' | relative_url }}"><strong>1단계부터 시작하기 →</strong></a></p>
   </article>
 </section>
 
+<!-- 📢 최신 뉴스: 있으면 최근 3개 자동 노출, 없으면 기본 카드 -->
+<section id="news">
+  <h2>📢 최신 뉴스</h2>
 
+  {% assign latest_news = site.pages
+     | where_exp: "p", "p.url contains '/news/'"
+     | sort: "date" | reverse | slice: 0, 3 %}
 
-
-<!--
-🏢 청약 일정 요약
-<section id="subscription-summary">
-  <h2>🏢 청약 일정 안내</h2>
-  <article class="card">
-    <ul>
-      <li>08/10 (금) - 위례자이 청약 접수 시작</li>
-      <li>08/15 (목) - 광명 래미안 당첨자 발표</li>
-      <li>08/25 (일) - 세종 자이 더 시티 접수 마감</li>
-    </ul>
-    <p><a href="subscription/">청약 일정 전체 보기 →</a></p>
-  </article>
-</section>
-
-💰 시세 카드
-<section id="price-summary">
-  <h2>💰 인기 지역 아파트 시세</h2>
-  <article class="card">
-    <ul>
-      <li>강남 푸르지오: 17억</li>
-      <li>송파 리센츠: 15.5억</li>
-      <li>마포 래미안: 13억</li>
-    </ul>
-    <p><a href="price/">더 많은 시세 보기 →</a></p>
-  </article>
-</section>
-
-
-
--->
-  <section id="news">
-    <h2>📢 최신 뉴스</h2>
+  {% if latest_news.size > 0 %}
+    <article class="card">
+      <ul>
+        {% for p in latest_news %}
+          <li>
+            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+            <small> · {{ p.date | date: "%Y-%m-%d" }}</small>
+          </li>
+        {% endfor %}
+      </ul>
+      <p><a class="btn" href="{{ '/news/' | relative_url }}">뉴스 전체 보기 →</a></p>
+    </article>
+  {% else %}
     <article class="card">
       <h3>2025 부동산 정책 변경 요약</h3>
       <p>정부의 부동산 세제 개편 내용과 시장 반응을 정리했습니다.</p>
+      <p><a class="btn" href="{{ '/news/' | relative_url }}">뉴스 전체 보기 →</a></p>
     </article>
-  </section>
-</main>
-
-<footer>
-  <p>© 2025 부동산의 모든 것. All rights reserved.</p>
-</footer>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "부동산의 모든 것",
-  "url": "https://kimkisaa.github.io/"
-}
-</script>
-
-<script>
-  document.getElementById('hamburger').addEventListener('click', () => {
-    document.getElementById('nav-menu').classList.toggle('active');
-  });
-
-  document.querySelectorAll('.dropdown > a').forEach(link => {
-    link.addEventListener('click', function(e) {
-      if (window.innerWidth <= 768) {
-        e.preventDefault();
-        this.parentElement.classList.toggle('open');
-      }
-    });
-  });
-</script>
-
-</body>
-</html>
+  {% endif %}
+</section>
