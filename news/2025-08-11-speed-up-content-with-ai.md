@@ -7,8 +7,6 @@ author: 김키사
 date: 2025-08-11
 updated: 2025-08-11
 permalink: /news/speed-up-content-with-ai/   # ✅ '/land' 제거
-video_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-video_duration: PT7M12S
 thumbnail: /assets/thumbs/ai-speed.jpg        # ✅ '/land' 제거(상대경로는 relative_url이 붙임)
 tags: [콘텐츠, SEO, 영상]
 ---
