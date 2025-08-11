@@ -47,21 +47,15 @@ header{
 @media (min-width: 769px){
   header{
     display:flex;
+    flex-direction: column;   /* ← 가로(row) → 세로(column) */
     align-items:center;
     justify-content:center;
-    min-height:72px;
-    padding:0 24px;
+    min-height:auto;          /* 필요 없으면 제거/조절 */
+    padding:20px 24px;        /* 원하던 여백으로 */
+    gap:.35rem;               /* h1과 태그라인 사이 간격 */
   }
-  header h1{
-    margin:0;
-    line-height:1;
-    font-weight:700;
-  }
-  header h1 a{
-    color:#fff;
-    text-decoration:none;
-    display:inline-block;
-  }
+  header h1{ margin:0; line-height:1; font-weight:700; }
+  header .site-tagline{ margin:0; }
 }
 
 nav{
