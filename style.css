@@ -427,3 +427,10 @@ footer{
     display:inline-block;      /* 인라인 요소의 라인박스 차이 제거 */
   }
 }
+
+/* PC 버전에서 스크롤바 공간 항상 확보 */
+@media (min-width: 769px){
+  html {
+    overflow-y: scroll; /* 내용이 짧아도 스크롤바 자리 고정 */
+  }
+}
