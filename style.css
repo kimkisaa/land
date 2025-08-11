@@ -233,3 +233,15 @@ footer{
   }
   .dropdown-menu li a{ padding-left:30px; }
 }
+
+
+
+/* 가독성 상승 Guide page typography */
+.guide-detail{padding:40px 20px;max-width:980px;margin:0 auto;line-height:1.75}
+.guide-detail h1{font-size:1.9rem;margin:0 0 .8rem;color:#003366}
+.guide-detail h2{font-size:1.35rem;margin:1.6rem 0 .6rem;color:#003366}
+.guide-detail h3{font-size:1.15rem;margin:1.1rem 0 .4rem}
+.guide-detail p{margin:.6rem 0 1rem}
+.guide-detail ul,.guide-detail ol{margin:.4rem 0 1rem 1.2rem}
+.guide-detail li{margin:.25rem 0}
+.guide-detail blockquote{border-left:4px solid #e5efff;background:#f9fbff;margin:1rem 0;padding:.6rem 1rem}
