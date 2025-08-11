@@ -6,6 +6,10 @@
   <meta name="theme-color" content="#111111" />
 
   {% seo %}  <!-- jekyll-seo-tag -->
+  {% if site.naver_site_verification %}
+  <meta name="naver-site-verification" content="{{ site.naver_site_verification }}">
+  {% endif %}
+
 
   <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 </head>
