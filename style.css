@@ -311,3 +311,98 @@ footer{
 @media (prefers-reduced-motion: reduce){
   .dropdown-toggle .caret{ transition: none; }
 }
+
+
+
+
+
+
+/* ===== 드롭다운을 헤더 톤으로 통일 (데스크톱) ===== */
+.dropdown-menu{
+  background: var(--color-primary);        /* 헤더와 동일 배경 */
+  border: 1px solid rgba(255,255,255,.12);
+  color:#fff;
+  border-radius:10px;
+  padding:6px;                              /* 내부 여백 */
+  margin-top: 8px;                          /* 헤더와 분리감 */
+  min-width: 240px;                         /* 살짝 넓게 */
+  box-shadow: 0 12px 28px rgba(0,0,0,.25);  /* 네비 아래로 자연스럽게 */
+  transform: translateY(-6px);
+  opacity: 0;
+  transition: opacity .16s ease, transform .16s ease;
+}
+
+/* 열릴 때만 보이도록—기존 display:block 트리거 그대로 사용 */
+.dropdown:hover .dropdown-menu,
+.dropdown:focus-within .dropdown-menu,
+.dropdown.open .dropdown-menu{
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* 링크 톤 통일 */
+.dropdown-menu li a{
+  color:#fff;                               /* 헤더와 동일 텍스트 */
+  padding:10px 12px;
+  border-radius:6px;
+}
+
+/* 호버/포커스—상단 네비와 동일한 진한 남색 강조 */
+.dropdown-menu li a:hover,
+.dropdown-menu li a:focus-visible{
+  background: var(--color-primary-600);
+  outline: none;
+}
+
+/* 얇은 구분선(옵션) */
+.dropdown-menu hr{
+  height:1px; border:0;
+  background: rgba(255,255,255,.12);
+  margin:6px 4px;
+}
+
+/* 작은 케럿(삼각형)로 네비에서 이어지는 느낌(옵션) */
+.dropdown-menu::before{
+  content:"";
+  position:absolute;
+  top:-6px; left:20px;
+  border-width:0 6px 6px 6px;
+  border-style:solid;
+  border-color:transparent transparent var(--color-primary) transparent;
+  filter: drop-shadow(0 -1px 0 rgba(255,255,255,.12));
+}
+
+/* 모바일에서는 기존 밝은 리스트 유지 */
+@media (max-width:768px){
+  .dropdown-menu{
+    background:#f9f9f9;
+    color: var(--color-text);
+    border: none;
+    border-radius:0;
+    box-shadow:none;
+    padding:0;
+    margin-top:0;
+    transform:none; opacity:1; /* 접히는/펼치는 건 .open 으로 제어 */
+  }
+  .dropdown-menu::before{ display:none; }
+  .dropdown-menu li a{
+    color: var(--color-primary);
+    border-radius:0;
+  }
+}
+
+
+/* 헤더 톤 드롭다운(데스크톱) — overflow 보이게 바꿔 케럿 표시 */
+.dropdown-menu{
+  /* ...기존 값들 유지... */
+  overflow: visible;            /* ← 이걸로 ::before 케럿 안 잘림 */
+  z-index: 1001;                /* ← 레이어 안전빵 */
+}
+
+/* 모바일에서도 상단 구분선 유지 */
+@media (max-width:768px){
+  .dropdown-menu{
+    /* ...기존 값들 유지... */
+    border-top:1px solid #e5e5e5;  /* ← 다시 넣기 */
+  }
+}
