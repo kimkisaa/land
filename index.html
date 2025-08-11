@@ -1,52 +1,128 @@
----
-layout: default
-title: 부동산 뉴스 · 가이드 · 시세 · 청약 정보
-description: 2025년 최신 부동산 뉴스, 내 집 마련 가이드, 실시간 시세, 청약 일정까지 한눈에 확인하세요.
----
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#111111" />
 
-<!-- 🧭 내 집 마련 가이드 요약 -->
-<section id="guide-summary">
-  <h2>📘 내 집 마련 8단계 가이드</h2>
-  <article class="card">
-    <ol>
-      <li>1. 목표 설정 – <a href="{{ '/guide/1-goal-setting/'       | relative_url }}">바로가기</a></li>
-      <li>2. 예산 및 자금 계획 – <a href="{{ '/guide/2-budget-plan/'        | relative_url }}">바로가기</a></li>
-      <li>3. 청약 여부 확인 – <a href="{{ '/guide/3-subscription-check/' | relative_url }}">바로가기</a></li>
-      <li>4. 매물 조사 및 비교 – <a href="{{ '/guide/4-property-research/'  | relative_url }}">바로가기</a></li>
-      <li>5. 계약 진행 – <a href="{{ '/guide/5-contract-process/'   | relative_url }}">바로가기</a></li>
-      <li>6. 대출 실행 및 잔금 처리 – <a href="{{ '/guide/6-loan-and-closing/'   | relative_url }}">바로가기</a></li>
-      <li>7. 입주 준비 – <a href="{{ '/guide/7-move-in-prep/'       | relative_url }}">바로가기</a></li>
-      <li>8. 팁 – <a href="{{ '/guide/8-tips/'               | relative_url }}">바로가기</a></li>
-    </ol>
-    <p><a href="{{ '/guide/1-goal-setting/' | relative_url }}"><strong>1단계부터 시작하기 →</strong></a></p>
-  </article>
-</section>
+  {% seo %}  <!-- title / description / canonical / OG / Twitter / JSON-LD 자동 생성 -->
 
-<!-- 📢 최신 뉴스: 있으면 최근 3개 자동 노출, 없으면 기본 카드 -->
-<section id="news">
-  <h2>📢 최신 뉴스</h2>
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
+<a class="skip-link" href="#main">본문 바로가기</a>
 
-  {% assign latest_news = site.pages
-     | where_exp: "p", "p.url contains '/news/'"
-     | sort: "date" | reverse | slice: 0, 3 %}
+<header>
+  <h1>
+    <a href="{{ '/' | relative_url }}" style="color:#fff; text-decoration:none;">부동산의 모든 것</a>
+  </h1>
+</header>
 
-  {% if latest_news.size > 0 %}
-    <article class="card">
-      <ul>
-        {% for p in latest_news %}
-          <li>
-            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-            <small> · {{ p.date | date: "%Y-%m-%d" }}</small>
-          </li>
-        {% endfor %}
-      </ul>
-      <p><a class="btn" href="{{ '/news/' | relative_url }}">뉴스 전체 보기 →</a></p>
-    </article>
-  {% else %}
-    <article class="card">
-      <h3>2025 부동산 정책 변경 요약</h3>
-      <p>정부의 부동산 세제 개편 내용과 시장 반응을 정리했습니다.</p>
-      <p><a class="btn" href="{{ '/news/' | relative_url }}">뉴스 전체 보기 →</a></p>
-    </article>
-  {% endif %}
-</section>
+<nav>
+  <div class="nav-container" role="navigation" aria-label="메인 메뉴">
+    <!-- 햄버거: span 대신 button, aria 연결 -->
+    <button class="hamburger" id="hamburger" aria-label="메뉴 열기" aria-controls="nav-menu" aria-expanded="false">☰</button>
+    <ul class="nav-menu" id="nav-menu">
+      <li class="dropdown">
+        <!-- a 대신 button + aria -->
+        <button class="dropdown-toggle" type="button"
+                aria-haspopup="true" aria-expanded="false" aria-controls="guide-submenu">
+          가이드 ▼
+        </button>
+        <ul class="dropdown-menu" id="guide-submenu" role="menu">
+          <li role="none"><a role="menuitem" href="{{ '/guide/1-goal-setting/'       | relative_url }}">1. 목표 설정</a></li>
+          <li role="none"><a role="menuitem" href="{{ '/guide/2-budget-plan/'        | relative_url }}">2. 예산 및 자금 계획</a></li>
+          <li role="none"><a role="menuitem" href="{{ '/guide/3-subscription-check/' | relative_url }}">3. 청약 여부 확인</a></li>
+          <li role="none"><a role="menuitem" href="{{ '/guide/4-property-research/'  | relative_url }}">4. 매물 조사 및 비교</a></li>
+          <li role="none"><a role="menuitem" href="{{ '/guide/5-contract-process/'   | relative_url }}">5. 계약 진행</a></li>
+          <li role="none"><a role="menuitem" href="{{ '/guide/6-loan-and-closing/'   | relative_url }}">6. 대출 실행 및 잔금 처리</a></li>
+          <li role="none"><a role="menuitem" href="{{ '/guide/7-move-in-prep/'       | relative_url }}">7. 입주 준비</a></li>
+          <li role="none"><a role="menuitem" href="{{ '/guide/8-tips/'               | relative_url }}">8. 팁</a></li>
+        </ul>
+      </li>
+      <li><a href="{{ '/news/' | relative_url }}">뉴스</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main id="main" role="main" tabindex="-1">
+  {{ content }}
+</main>
+
+<footer>
+  <p>© 2025 부동산의 모든 것. All rights reserved.</p>
+</footer>
+
+<script>
+  // 요소 참조
+  const hamburger = document.getElementById('hamburger');
+  const navMenu = document.getElementById('nav-menu');
+  const dropdownToggle = document.querySelector('.dropdown-toggle');
+  const guideSubmenu = document.getElementById('guide-submenu');
+
+  // 모바일 메뉴 토글
+  hamburger?.addEventListener('click', () => {
+    const isOpen = navMenu.classList.toggle('active');
+    hamburger.setAttribute('aria-expanded', String(isOpen));
+  });
+
+  // 드롭다운 토글 (모바일/데스크톱 공통)
+  dropdownToggle?.addEventListener('click', (e) => {
+    e.preventDefault();
+    const isOpen = dropdownToggle.getAttribute('aria-expanded') === 'true';
+    dropdownToggle.setAttribute('aria-expanded', String(!isOpen));
+    dropdownToggle.parentElement.classList.toggle('open', !isOpen);
+  });
+
+  // Esc 키로 닫기
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      if (dropdownToggle?.getAttribute('aria-expanded') === 'true') {
+        dropdownToggle.setAttribute('aria-expanded', 'false');
+        dropdownToggle.parentElement.classList.remove('open');
+      }
+      if (hamburger?.getAttribute('aria-expanded') === 'true') {
+        hamburger.setAttribute('aria-expanded', 'false');
+        navMenu.classList.remove('active');
+      }
+    }
+  });
+
+  // 메뉴 밖 클릭 시 닫기
+  document.addEventListener('click', (e) => {
+    const withinDropdown = e.target.closest('.dropdown');
+    const withinNav = e.target.closest('.nav-container');
+    if (!withinDropdown && dropdownToggle?.getAttribute('aria-expanded') === 'true') {
+      dropdownToggle.setAttribute('aria-expanded', 'false');
+      dropdownToggle.parentElement.classList.remove('open');
+    }
+    if (!withinNav && hamburger?.getAttribute('aria-expanded') === 'true') {
+      hamburger.setAttribute('aria-expanded', 'false');
+      navMenu.classList.remove('active');
+    }
+  });
+</script>
+
+<!-- (선택) 가이드 상세 페이지에서만 Breadcrumb JSON-LD 출력 -->
+{% if page.url contains '/guide/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "홈",
+    "item": "{{ site.url }}{{ site.baseurl }}/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "{{ page.title | escape }}",
+    "item": "{{ site.url }}{{ page.url }}"
+  }]
+}
+</script>
+{% endif %}
+
+</body>
+</html>
