@@ -1,9 +1,9 @@
 ---
 layout: whiteboard
-title: AI로 콘텐츠 생산 속도 높이기 (Whiteboard 스타일)
+title: 콘텐츠 생산 속도 높이기 (Whiteboard 스타일)
 description: 영상+요약+전사 구조로 콘텐츠 생산과 확산 속도를 높이는 방법을 소개합니다.
 excerpt: “영상→요약→전사” 3단 구조로 검색 트래픽과 체류시간을 동시에 잡는 전략.
-author: 김키사
+author: 김기사
 date: 2025-08-11
 updated: 2025-08-11
 permalink: /news/speed-up-content-with-ai/   # ✅ '/land' 제거
