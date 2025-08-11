@@ -11,6 +11,7 @@ plugins:
 logo: /og-image.jpg
 
 # 모든 페이지의 기본 공유 이미지(원하면)
+logo: /og-image.jpg
 defaults:
   - scope: { path: "", type: "pages" }
     values:
