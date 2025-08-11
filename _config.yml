@@ -1,15 +1,49 @@
-# _config.yml
 title: 부동산의 모든 것
+description: 내 집 마련 8단계 가이드와 실전 부동산 뉴스/인사이트
 url: https://kimkisaa.github.io
 baseurl: /land
-lang: ko
+lang: ko_KR
+timezone: Asia/Seoul
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed         # RSS 원하면 유지(선택)
+  - jekyll-redirect-from # 슬러그 바꿀 때 유용(선택)
 
-# 사이트 로고(구조화 데이터용)
+# 사이트 로고(OG/JSON-LD용)
 logo: /og-image.jpg
+
+# 컬렉션: 뉴스
+collections:
+  news:
+    output: true
+    permalink: /news/:name/
+
+# 마크다운 설정(표/체크박스 등 GFM 호환)
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# 예쁜 URL
+permalink: pretty
+
+# 기본 이미지(페이지 메타)
 defaults:
   - scope: { path: "", type: "pages" }
     values:
       image: /og-image.jpg
+  - scope: { path: "", type: "news" }
+    values:
+      layout: whiteboard
+      image: /og-image.jpg
+
+# 빌드 제외 (원하는 것만 추가)
+exclude:
+  - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
+
+# (선택) 서치 콘솔/애널리틱스
+google_site_verification: "서치콘솔_코드_여기에"
