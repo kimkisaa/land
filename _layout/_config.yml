@@ -1,6 +1,0 @@
-title: 부동산의 모든 것
-url: https://kimkisaa.github.io
-baseurl: /land
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
