@@ -6,10 +6,10 @@ excerpt: “영상→요약→전사” 3단 구조로 검색 트래픽과 체�
 author: 김키사
 date: 2025-08-11
 updated: 2025-08-11
-permalink: /land/news/speed-up-content-with-ai/
-video_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ   # 유튜브 URL(임시)
+permalink: /news/speed-up-content-with-ai/   # ✅ '/land' 제거
+video_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 video_duration: PT7M12S
-thumbnail: /land/assets/thumbs/ai-speed.jpg
+thumbnail: /assets/thumbs/ai-speed.jpg        # ✅ '/land' 제거(상대경로는 relative_url이 붙임)
 tags: [콘텐츠, SEO, 영상]
 ---
 
