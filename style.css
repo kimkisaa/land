@@ -378,3 +378,34 @@ footer{
 @media (prefers-reduced-motion: reduce){
   .dropdown-toggle .caret{ transition: none; }
 }
+
+
+/* 공통: 데스크톱 높이/정렬 완전 동일화 */
+.nav-menu > li > a,
+.dropdown-toggle{
+  display: inline-flex;        /* 둘 다 인라인-플렉스 */
+  align-items: center;         /* 수직 가운데 */
+  gap: .35rem;                 /* 텍스트-케럿 간격 */
+  padding: 15px 20px;          /* 같은 패딩 */
+  line-height: 1;              /* 같은 라인하이트 */
+  height: 48px;                /* 고정 높이(원하면 생략 가능) */
+  box-sizing: border-box;
+}
+
+/* 케럿이 높이에 영향 안 주도록 */
+.dropdown-toggle .caret{
+  flex: 0 0 auto;
+}
+
+/* 모바일도 규칙 통일(패딩/보더 동일) */
+@media (max-width: 768px){
+  .nav-menu > li > a,
+  .dropdown-toggle{
+    width: 100%;
+    padding: 12px 15px;
+    line-height: 1.2;
+    border-bottom: 1px solid #184b80;
+    justify-content: space-between; /* 텍스트-케럿 양끝 배치(선택) */
+  }
+}
+
