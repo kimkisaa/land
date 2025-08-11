@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<section class="wb-hero">
+  <h1>{{ page.title }}</h1>
+  <p class="wb-meta">
+    <span>작성자: {{ page.author }}</span> ·
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+    {% if page.updated %} · <span>업데이트: {{ page.updated | date: "%Y-%m-%d" }}</span>{% endif %}
+  </p>
+  {% if page.excerpt %}
+    <p class="wb-excerpt">{{ page.excerpt }}</p>
+  {% endif %}
+</section>
+
+<section class="wb-media">
+  {% if page.video_url %}
+    <div class="wb-video">
+      <iframe
+        src="{{ page.video_url | replace: 'watch?v=', 'embed/' }}"
+        title="{{ page.title }}"
+        loading="lazy"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    </div>
+  {% elsif page.thumbnail %}
+    <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}">
+  {% endif %}
+</section>
+
+{% if page.takeaways %}
+<section class="wb-takeaways">
+  <h2>핵심 요약</h2>
+  <ul>
+    {% for item in page.takeaways %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<article class="wb-transcript">
+  {{ content }}
+</article>
+
+<section class="wb-cta">
+  <a class="btn" href="{{ '/news/' | relative_url }}">← 뉴스 목록</a>
+  <a class="btn primary" href="{{ '/guide/1-goal-setting.html' | relative_url }}">내 집 마련 가이드 시작하기 →</a>
+</section>
+
+{% if page.tags %}
+<section class="wb-related">
+  <h3>관련 글</h3>
+  <ul>
+  {% assign current = page.url %}
+  {% for post in site.pages %}
+    {% if post.url != current and post.tags and post.tags | join: ',' contains page.tags[0] %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<!-- JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.description | default: page.excerpt | default: site.description | escape }}",
+  "author": {"@type":"Person","name":"{{ page.author | default: '운영팀' | escape }}"},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.updated %}"dateModified": "{{ page.updated | date_to_xmlschema }}",{% endif %}
+  "image": ["{{ page.thumbnail | default: '/og-image.jpg' | relative_url | absolute_url }}"],
+  "mainEntityOfPage": {"@type":"WebPage","@id":"{{ page.url | absolute_url }}"}
+}
+</script>
+
+{% if page.video_url %}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"VideoObject",
+  "name":"{{ page.title | escape }}",
+  "description":"{{ page.description | default: page.excerpt | escape }}",
+  "thumbnailUrl":["{{ page.thumbnail | default: '/og-image.jpg' | relative_url | absolute_url }}"],
+  "uploadDate":"{{ page.date | date_to_xmlschema }}",
+  "embedUrl":"{{ page.video_url | replace: 'watch?v=', 'embed/' | absolute_url }}",
+  {% if page.video_duration %}"duration":"{{ page.video_duration }}",{% endif %}
+  "publisher":{"@type":"Organization","name":"부동산의 모든 것"}
+}
+</script>
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BreadcrumbList",
+  "itemListElement":[
+    {"@type":"ListItem","position":1,"name":"홈","item":"{{ '/' | relative_url | absolute_url }}"},
+    {"@type":"ListItem","position":2,"name":"뉴스","item":"{{ '/news/' | relative_url | absolute_url }}"},
+    {"@type":"ListItem","position":3,"name":"{{ page.title | escape }}","item":"{{ page.url | absolute_url }}"}
+  ]
+}
+</script>
