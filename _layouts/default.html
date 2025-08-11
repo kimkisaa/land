@@ -11,14 +11,35 @@
   {% endif %}
 
   <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+  <style>
+    /* hidden일 때는 확실히 안 보이도록 (JS와 일치) */
+    [hidden] { display: none !important; }
+
+    /* 케럿 회전 피드백 */
+    .dropdown-toggle .caret {
+      transition: transform .18s ease;
+      transform: translateY(1px) rotate(0deg);
+    }
+    .dropdown-toggle[aria-expanded="true"] .caret {
+      transform: translateY(1px) rotate(180deg);
+    }
+
+    /* (선택) 슬로건 톤 다운 */
+    .site-tagline {
+      margin: 6px 0 0;
+      font-size: .95rem;
+      opacity: .9;
+    }
+  </style>
 </head>
 <body>
 <a class="skip-link" href="#main">본문 바로가기</a>
 
 <header>
   <h1>
-    <a href="{{ '/' | relative_url }}" style="color:#fff; text-decoration:none;">부동산의 모든 것</a>
+    <a href="{{ '/' | relative_url }}" style="color:#fff; text-decoration:none;">Buy To Live</a>
   </h1>
+  <p class="site-tagline" style="color:#fff;">살기 위해 사자, Buy To Live</p>
 </header>
 
 <nav>
@@ -28,15 +49,20 @@
     <ul class="nav-menu" id="nav-menu">
       <!-- 드롭다운 -->
       <li class="dropdown" id="guide-dropdown" role="none">
-        <button class="dropdown-toggle" type="button"
-                aria-haspopup="true" aria-expanded="false" aria-controls="guide-submenu">
+        <button
+          class="dropdown-toggle"
+          id="guide-button"  <!-- ✅ 누락된 ID 추가 -->
+          type="button"
+          aria-haspopup="menu"
+          aria-expanded="false"
+          aria-controls="guide-submenu"
+        >
           가이드
           <svg class="caret" width="12" height="12" viewBox="0 0 24 24" aria-hidden="true">
             <path fill="currentColor" d="M7 10l5 5 5-5z"/>
           </svg>
         </button>
 
-        
         <!-- hidden으로 열림 제어 -->
         <ul
           class="dropdown-menu"
@@ -66,7 +92,7 @@
 </main>
 
 <footer>
-  <p>© 2025 부동산의 모든 것. All rights reserved.</p>
+  <p>© 2025 Buy To Live. All rights reserved.</p>
 </footer>
 
 <script>
@@ -76,7 +102,7 @@
 
   // 드롭다운 요소
   const dd        = document.getElementById('guide-dropdown');
-  const ddBtn     = document.getElementById('guide-button');
+  const ddBtn     = document.getElementById('guide-button');   // ✅ 이제 제대로 참조됨
   const ddMenu    = document.getElementById('guide-submenu');
   const ddItems   = ddMenu ? Array.from(ddMenu.querySelectorAll('[role="menuitem"]')) : [];
 
@@ -86,7 +112,6 @@
     if (!ddBtn || !ddMenu) return;
     ddBtn.setAttribute('aria-expanded', 'true');
     ddMenu.hidden = false;
-    // 첫 항목 포커스
     requestAnimationFrame(() => ddItems[0]?.focus());
     document.addEventListener('pointerdown', onOutsidePointer, { capture: true });
     document.addEventListener('keydown', onGlobalKeydown);
@@ -104,14 +129,12 @@
   hamburger?.addEventListener('click', () => {
     const active = navMenu.classList.toggle('active');
     hamburger.setAttribute('aria-expanded', String(active));
-    // 네비 열릴 때 드롭다운은 기본 닫힘 유지
     if (!active) closeMenu(false);
   });
 
   // 드롭다운 버튼: 클릭/키보드로 열기
   ddBtn?.addEventListener('click', () => (isOpen() ? closeMenu() : openMenu()));
   ddBtn?.addEventListener('keydown', (e) => {
-    // Enter/Space/ArrowDown으로 열고 첫 항목으로
     if (e.key === 'Enter' || e.key === ' ' || e.key === 'ArrowDown') {
       e.preventDefault();
       if (!isOpen()) openMenu(); else ddItems[0]?.focus();
@@ -122,51 +145,27 @@
     }
   });
 
-  // 메뉴 내 키보드 네비게이션(로빙 탭인덱스)
+  // 메뉴 내 키보드 네비게이션
   ddItems.forEach((item, index) => {
     item.addEventListener('keydown', (e) => {
       const last = ddItems.length - 1;
-      switch (e.key) {
-        case 'ArrowDown':
-          e.preventDefault();
-          ddItems[(index + 1) % ddItems.length].focus();
-          break;
-        case 'ArrowUp':
-          e.preventDefault();
-          ddItems[(index - 1 + ddItems.length) % ddItems.length].focus();
-          break;
-        case 'Home':
-          e.preventDefault();
-          ddItems[0].focus();
-          break;
-        case 'End':
-          e.preventDefault();
-          ddItems[last].focus();
-          break;
-        case 'Tab':
-          // 탭으로 메뉴 밖으로 나가면 닫기
-          closeMenu(false);
-          break;
-        case 'Escape':
-          e.preventDefault();
-          closeMenu(true);
-          break;
+      switch (e.key){
+        case 'ArrowDown': e.preventDefault(); ddItems[(index+1)%ddItems.length].focus(); break;
+        case 'ArrowUp'  : e.preventDefault(); ddItems[(index-1+ddItems.length)%ddItems.length].focus(); break;
+        case 'Home'     : e.preventDefault(); ddItems[0].focus(); break;
+        case 'End'      : e.preventDefault(); ddItems[last].focus(); break;
+        case 'Tab'      : closeMenu(false); break;
+        case 'Escape'   : e.preventDefault(); closeMenu(true); break;
       }
     });
   });
 
-  // 전역 키다운 (Esc 처리, 열려있을 때만)
   function onGlobalKeydown(e){
-    if (e.key === 'Escape' && isOpen()) {
-      e.preventDefault();
-      closeMenu(true);
-    }
+    if (e.key === 'Escape' && isOpen()) { e.preventDefault(); closeMenu(true); }
   }
 
-  // 바깥 클릭 시 닫기
   function onOutsidePointer(e){
     if (!dd.contains(e.target)) closeMenu(false);
-    // 네비 바깥 클릭 시 모바일 메뉴도 닫기
     const withinNav = e.target.closest('.nav-container');
     if (!withinNav && hamburger?.getAttribute('aria-expanded') === 'true') {
       hamburger.setAttribute('aria-expanded', 'false');
@@ -174,19 +173,16 @@
     }
   }
 
-  // 포커스가 메뉴/버튼에서 완전히 이탈하면 닫기
   dd?.addEventListener('focusout', (e) => {
-    // e.relatedTarget이 드롭다운 내부가 아니면 닫기
     const next = e.relatedTarget;
     if (isOpen() && next && !dd.contains(next)) closeMenu(false);
   });
 
-  // 접근성: 현재 페이지에 aria-current 적용(선택)
+  // 접근성: 현재 페이지 aria-current (선택)
   try {
     const currentPath = window.location.pathname.replace(/\/+$/, '');
     document.querySelectorAll('a[role="menuitem"]').forEach(a => {
-      const href = a.getAttribute('href');
-      if (!href) return;
+      const href = a.getAttribute('href'); if (!href) return;
       const path = new URL(href, window.location.origin).pathname.replace(/\/+$/, '');
       if (path === currentPath) a.setAttribute('aria-current', 'page');
     });
@@ -213,7 +209,7 @@
 </script>
 {% endif %}
 
-<!-- 선택: 사용자 선호(감소된 모션) 존중 -->
+<!-- 감소된 모션 존중 -->
 <style>
   @media (prefers-reduced-motion: reduce) {
     * { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
