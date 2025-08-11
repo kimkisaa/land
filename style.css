@@ -1,150 +1,235 @@
-* {
-  box-sizing: border-box;
+/* =========================
+   기본 세팅 & 테마 변수
+========================= */
+:root{
+  --color-primary:#003366;
+  --color-primary-600:#0055aa;
+  --color-text:#111;
+  --color-muted:#666;
+  --bg-card:#f9f9f9;
+  --border:#ccc;
 }
 
-body {
-  font-family: sans-serif;
-  margin: 0;
+*{ box-sizing:border-box; }
+
+html{ scroll-behavior:smooth; }
+@media (prefers-reduced-motion: reduce){
+  html{ scroll-behavior:auto; }
 }
 
-header {
-  background-color: #003366;
-  color: white;
-  padding: 20px;
-  text-align: center;
+body{
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, "Noto Sans KR", sans-serif;
+  margin:0;
+  color:var(--color-text);
+  line-height:1.6;
 }
 
-nav {
-  background-color: #003366;
+/* =========================
+   헤더 / 내비
+========================= */
+header{
+  background-color: var(--color-primary);
+  color:#fff;
+  padding:20px;
+  text-align:center;
 }
 
-.nav-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 15px;
+nav{
+  background-color: var(--color-primary);
+  position: sticky; /* 스크롤 고정 */
+  top:0; z-index: 1000;
 }
 
-.hamburger {
-  display: none;
-  font-size: 24px;
-  cursor: pointer;
-  color: white;
+.nav-container{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:0 15px;
 }
 
-.nav-menu {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
+.hamburger{
+  display:none;
+  font-size:24px;
+  cursor:pointer;
+  color:#fff;
 }
 
-.nav-menu > li {
-  position: relative;
+.nav-menu{
+  list-style:none;
+  margin:0;
+  padding:0;
+  display:flex;
+  flex-wrap:wrap;
 }
 
-.nav-menu > li > a {
-  color: white;
-  text-decoration: none;
-  display: block;
-  padding: 15px 20px;
-  font-weight: bold;
+.nav-menu > li{ position:relative; }
+
+.nav-menu > li > a{
+  color:#fff;
+  text-decoration:none;
+  display:block;
+  padding:15px 20px;
+  font-weight:bold;
+  outline: none;
 }
 
-.nav-menu li:hover {
-  background-color: #0055aa;
+/* hover/focus 접근성 */
+.nav-menu > li > a:hover,
+.nav-menu > li > a:focus-visible{
+  background-color: var(--color-primary-600);
 }
 
-.dropdown-menu {
-  display: none;
-  position: absolute;
-  background-color: white;
-  min-width: 200px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-  z-index: 999;
+/* 활성 메뉴 표시 */
+.nav-menu a.active{
+  box-shadow: inset 0 -3px 0 0 #fff;
 }
 
-.dropdown-menu li a {
-  color: #003366;
-  padding: 10px 15px;
-  display: block;
-  text-decoration: none;
+/* 드롭다운 */
+.dropdown-menu{
+  display:none;
+  position:absolute;
+  background-color:#fff;
+  min-width:220px;
+  box-shadow:0 2px 10px rgba(0,0,0,.1);
+  z-index:999;
+  border-radius:6px;
+  overflow:hidden;
+  margin-top:2px;
 }
 
-.dropdown:hover .dropdown-menu {
-  display: block;
+.dropdown-menu li a{
+  color:var(--color-primary);
+  padding:12px 14px;
+  display:block;
+  text-decoration:none;
 }
 
-.dropdown.open .dropdown-menu {
-  display: block;
+.dropdown-menu li a:hover,
+.dropdown-menu li a:focus-visible{
+  background:#eef5ff;
 }
 
-section {
-  padding: 40px 20px;
-  max-width: 900px;
-  margin: 0 auto;
+/* 데스크톱: hover, 키보드 포커스 둘 다 지원 */
+.dropdown:hover .dropdown-menu,
+.dropdown:focus-within .dropdown-menu{
+  display:block;
 }
 
-h2 {
-  margin-top: 0;
-  color: #003366;
+/* 모바일에서 JS가 .open 붙이면 표시 */
+.dropdown.open .dropdown-menu{ display:block; }
+
+/* =========================
+   레이아웃 공통
+========================= */
+section{
+  padding:40px 20px;
+  max-width: 980px;
+  margin:0 auto;
 }
 
-.card {
-  background-color: #f9f9f9;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 20px;
-  margin-bottom: 20px;
+h2{ margin-top:0; color:var(--color-primary); }
+
+.card{
+  background-color: var(--bg-card);
+  border:1px solid var(--border);
+  border-radius:8px;
+  padding:20px;
+  margin-bottom:20px;
+  transition: box-shadow .2s ease;
+}
+.card:hover{ box-shadow:0 6px 16px rgba(0,0,0,.06); }
+
+footer{
+  text-align:center;
+  background:#f1f1f1;
+  padding:20px;
 }
 
-footer {
-  text-align: center;
-  background: #f1f1f1;
-  padding: 20px;
+/* =========================
+   버튼(CTA)
+========================= */
+.btn{
+  display:inline-block;
+  border:1px solid #ddd;
+  padding:.6rem .9rem;
+  border-radius:.4rem;
+  text-decoration:none;
+  color:var(--color-text);
+  transition: transform .05s ease, background .2s ease, color .2s ease;
+}
+.btn:hover{ background:#fff; }
+.btn:active{ transform: translateY(1px); }
+
+.btn.primary{
+  background:#111; color:#fff; border-color:#111;
+}
+.btn.primary:hover{ background:#000; }
+
+/* =========================
+   Whiteboard 레이아웃 전용
+   (.wb-*)
+========================= */
+.wb-hero{
+  padding: 1.2rem 0 1rem;
+  border-bottom:1px solid #eee;
+}
+.wb-hero h1{ margin:0 0 .4rem; }
+.wb-meta{ color:var(--color-muted); font-size:.92rem; }
+.wb-excerpt{ margin:.6rem 0 0; font-size:1.05rem; }
+
+.wb-media{ margin:1rem 0 1.2rem; }
+.wb-video{
+  position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;
+  background:#000;
+}
+.wb-video iframe{
+  position:absolute; top:0; left:0; width:100%; height:100%; border:0;
 }
 
-/* ✅ 모바일 반응형 */
-@media (max-width: 768px) {
-  .nav-container {
-    flex-direction: column;
-    align-items: flex-start;
+.wb-takeaways{
+  background:#fafafa; padding:1rem 1.1rem; border-radius:.5rem; border:1px solid #eee;
+}
+.wb-takeaways h2{ margin:.2rem 0 .4rem; }
+.wb-takeaways ul{ margin:.4rem 0 0 1.1rem; }
+
+.wb-transcript{ margin:1.4rem 0; }
+.wb-transcript h2, .wb-transcript h3{ scroll-margin-top: 80px; } /* 앵커 점프 보정 */
+
+.wb-cta{
+  display:flex; gap:.6rem; flex-wrap:wrap; margin:2rem 0;
+}
+
+/* =========================
+   접근성 유틸
+========================= */
+.sr-only{
+  position:absolute; width:1px; height:1px; padding:0; margin:-1px;
+  overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0;
+}
+
+/* =========================
+   모바일 반응형
+========================= */
+@media (max-width: 768px){
+  .nav-container{ flex-direction:column; align-items:flex-start; }
+
+  .hamburger{
+    display:block; align-self:flex-end; margin:10px 0;
   }
 
-  .hamburger {
-    display: block;
-    align-self: flex-end;
-    margin: 10px 0;
+  .nav-menu{
+    flex-direction:column; width:100%; display:none;
+  }
+  .nav-menu.active{ display:flex; }
+
+  .nav-menu > li{ width:100%; }
+  .nav-menu > li > a{
+    padding:12px 15px; border-bottom:1px solid #184b80;
   }
 
-  .nav-menu {
-    flex-direction: column;
-    width: 100%;
-    display: none;
+  .dropdown-menu{
+    position:static; box-shadow:none; background:#f9f9f9; width:100%;
+    border-radius:0; border-top:1px solid #e5e5e5; margin-top:0;
   }
-
-  .nav-menu.active {
-    display: flex;
-  }
-
-  .nav-menu > li {
-    width: 100%;
-  }
-
-  .nav-menu > li > a {
-    padding: 12px 15px;
-    border-bottom: 1px solid #ddd;
-  }
-
-  .dropdown-menu {
-    position: static;
-    box-shadow: none;
-    background-color: #f9f9f9;
-    width: 100%;
-  }
-
-  .dropdown-menu li a {
-    padding-left: 30px;
-  }
+  .dropdown-menu li a{ padding-left:30px; }
 }
