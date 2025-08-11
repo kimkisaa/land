@@ -5,7 +5,7 @@ layout: default
 <section class="wb-hero">
   <h1>{{ page.title }}</h1>
   <p class="wb-meta">
-    <span>작성자: {{ page.author }}</span> ·
+    <span>작성자: {{ page.author | default: '관리자' }}</span> ·
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
     {% if page.updated %} · <span>업데이트: {{ page.updated | date: "%Y-%m-%d" }}</span>{% endif %}
   </p>
@@ -17,12 +17,19 @@ layout: default
     <div class="wb-video">
       <iframe
         src="{{ page.video_url | replace: 'watch?v=', 'embed/' }}"
-        title="{{ page.title }}" loading="lazy" frameborder="0"
+        title="{{ page.title }}"
+        loading="lazy"
+        decoding="async"
+        referrerpolicy="strict-origin-when-cross-origin"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen></iframe>
     </div>
   {% elsif page.thumbnail %}
-    <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" loading="lazy">
+    <img
+      src="{{ page.thumbnail | relative_url }}"
+      alt="{{ page.title }}"
+      loading="lazy"
+      decoding="async">
   {% endif %}
 </section>
 
@@ -46,16 +53,22 @@ layout: default
   <a class="btn primary" href="{{ '/guide/1-goal-setting/' | relative_url }}">내 집 마련 가이드 시작하기 →</a>
 </section>
 
+{%- comment -%}
+  스키마: 기본은 NewsArticle. 영상이 있으면 VideoObject를 추가로 출력.
+{%- endcomment -%}
 {% if page.layout == "whiteboard" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
+  "inLanguage": "ko-KR",
   "headline": "{{ page.title | escape }}",
   "description": "{{ page.excerpt | default: page.description | strip_html | truncate: 160 }}",
-  "image": ["{{ site.url }}{{ site.baseurl }}{{ page.image | default: site.image }}"],
+  "image": ["{{ site.url }}{{ site.baseurl }}{{ page.image | default: page.thumbnail | default: site.image }}"],
+  "thumbnailUrl": "{{ site.url }}{{ site.baseurl }}{{ page.thumbnail | default: page.image | default: site.image }}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.updated | default: page.date | date_to_xmlschema }}",
+  "isAccessibleForFree": true,
   "url": "{{ site.url }}{{ page.url }}",
   "mainEntityOfPage": {
     "@type": "WebPage",
@@ -67,7 +80,30 @@ layout: default
   },
   "publisher": {
     "@type": "Organization",
-    "name": "{{ site.title }}",
+    "name": "Buy To Live",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ site.logo }}"
+    }
+  },
+  "articleSection": "{{ page.category | default: 'news' }}"
+}
+</script>
+
+{% if page.video_url %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | default: page.description | strip_html | truncate: 160 }}",
+  "thumbnailUrl": "{{ site.url }}{{ site.baseurl }}{{ page.thumbnail | default: site.image }}",
+  "uploadDate": "{{ page.date | date_to_xmlschema }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "embedUrl": "{{ page.video_url | replace: 'watch?v=', 'embed/' }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Buy To Live",
     "logo": {
       "@type": "ImageObject",
       "url": "{{ site.url }}{{ site.baseurl }}{{ site.logo }}"
@@ -75,4 +111,5 @@ layout: default
   }
 }
 </script>
+{% endif %}
 {% endif %}
