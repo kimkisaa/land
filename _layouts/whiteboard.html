@@ -29,7 +29,11 @@ layout: default
 {% if page.takeaways %}
 <section class="wb-takeaways">
   <h2>핵심 요약</h2>
-  <ul>{% for item in page.takeaways %}<li>{{ item }}</li>{% endfor %}</ul>
+  <ul>
+    {% for item in page.takeaways %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
 </section>
 {% endif %}
 
@@ -39,5 +43,36 @@ layout: default
 
 <section class="wb-cta">
   <a class="btn" href="{{ '/news/' | relative_url }}">← 뉴스 목록</a>
-  <a class="btn primary" href="{{ '/guide/1-goal-setting' | relative_url }}">내 집 마련 가이드 시작하기 →</a>
+  <a class="btn primary" href="{{ '/guide/1-goal-setting/' | relative_url }}">내 집 마련 가이드 시작하기 →</a>
 </section>
+
+{% if page.layout == "whiteboard" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | default: page.description | strip_html | truncate: 160 }}",
+  "image": ["{{ site.url }}{{ site.baseurl }}{{ page.image | default: site.image }}"],
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.updated | default: page.date | date_to_xmlschema }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author | default: '관리자' }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.baseurl }}{{ site.logo }}"
+    }
+  }
+}
+</script>
+{% endif %}
