@@ -406,3 +406,24 @@ footer{
     border-top:1px solid #e5e5e5;  /* ← 다시 넣기 */
   }
 }
+
+/* PC 헤더 타이틀 위치 고정 */
+@media (min-width: 769px){
+  header{
+    display:flex;
+    align-items:center;        /* 수직 중앙 정렬 */
+    justify-content:center;    /* 수평 중앙 정렬 */
+    min-height:72px;           /* 고정 높이로 흔들림 방지 */
+    padding:0 24px;            /* 좌우 여백만 유지 */
+  }
+  header h1{
+    margin:0;                  /* UA 기본 마진 제거 */
+    line-height:1;             /* 줄간격 통일 */
+    font-weight:700;           /* 페이지별 굵기 차이 방지(원하는 굵기로) */
+  }
+  header h1 a{
+    color:#fff;
+    text-decoration:none;
+    display:inline-block;      /* 인라인 요소의 라인박스 차이 제거 */
+  }
+}
