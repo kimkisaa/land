@@ -9,9 +9,6 @@ plugins:
 
 # 사이트 로고(구조화 데이터용)
 logo: /og-image.jpg
-
-# 모든 페이지의 기본 공유 이미지(원하면)
-logo: /og-image.jpg
 defaults:
   - scope: { path: "", type: "pages" }
     values:
