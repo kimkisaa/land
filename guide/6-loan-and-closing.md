@@ -85,7 +85,7 @@ last_modified_at: 2025-08-11
 
 <p>
 <a class="btn primary" href="{{ '/guide/7-move-in-prep/' | relative_url }}">다음 단계 → 7. 입주 준비</a>
-<a class="btn" href="{{ '/guide/5-contract-process/' | relative_url }}">← 이전 단계: 계약 진행</a>
+<a class="btn" href="{{ '/guide/5-purchase-negotiation/' | relative_url }}">← 이전 단계: 계약 진행</a>
 </p>
 
 </section>
