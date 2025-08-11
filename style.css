@@ -256,3 +256,58 @@ footer{
   left:16px; top:10px; width:auto; height:auto; padding:.5rem .75rem;
   background:#fff; color:#000; border:2px solid #000; z-index:10000;
 }
+
+/* === 가이드 드롭다운: 뉴스 링크와 톤 매칭 === */
+.dropdown-toggle{
+  font: inherit;
+  font-weight: bold;             /* 뉴스 링크와 동일 굵기 */
+  color:#fff;                    /* 헤더 텍스트 색 */
+  background: transparent;
+  border: 0;
+  padding: 15px 20px;            /* 뉴스 링크와 동일 패딩 */
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;                   /* 텍스트-아이콘 간격 */
+  cursor: pointer;
+  outline: none;                 /* 포커스 처리는 아래에서 */
+  line-height: 1;                /* 링크 높이와 맞춤 */
+}
+
+/* hover/focus 시 뉴스 링크와 동일한 배경 강조 */
+.dropdown-toggle:hover,
+.dropdown-toggle:focus-visible{
+  background-color: var(--color-primary-600);
+}
+
+/* 케럿 애니메이션: 열리면 뒤집혀 상태 표시 */
+.dropdown-toggle .caret{
+  transform: translateY(1px) rotate(0deg);
+  transition: transform .18s ease;
+  opacity: .9;
+}
+.dropdown.open .dropdown-toggle .caret,
+.dropdown-toggle[aria-expanded="true"] .caret{
+  transform: translateY(1px) rotate(180deg);
+}
+
+/* 키보드 포커스 링(헤더가 어두워서 밝게) */
+.dropdown-toggle:focus-visible{
+  box-shadow: 0 0 0 2px rgba(255,255,255,.45);
+  border-radius: 6px;
+}
+
+/* 드롭다운 패널 모양 살짝 개선(선택) — 톤은 기존 유지 */
+.dropdown-menu{
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* 모바일에선 링크 높이 줄인 만큼 버튼도 살짝 줄여 정렬 */
+@media (max-width: 768px){
+  .dropdown-toggle{ padding: 12px 15px; }
+}
+
+/* 모션 최소화 환경 존중 */
+@media (prefers-reduced-motion: reduce){
+  .dropdown-toggle .caret{ transition: none; }
+}
