@@ -1,25 +1,16 @@
+# _config.yml
 title: 부동산의 모든 것
-description: 2025년 최신 부동산 뉴스, 내 집 마련 가이드, 실시간 시세, 청약 일정까지 한눈에 확인하세요.
 url: https://kimkisaa.github.io
 baseurl: /land
 lang: ko
-locale: ko_KR
-
-logo: /og-image.jpg     # 기본 썸네일/로고로 활용됨(있으면 좋아요)
-
-# (선택) 소셜 프로필
-twitter:
-  username: your_twitter_id
-social:
-  links:
-    - https://www.youtube.com/@your_channel
-    - https://twitter.com/your_twitter_id
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# (선택) 모든 페이지의 기본 OG 이미지 지정
+# 사이트 로고(구조화 데이터용)
+logo: /og-image.jpg
+
+# 모든 페이지의 기본 공유 이미지(원하면)
 defaults:
   - scope: { path: "", type: "pages" }
     values:
