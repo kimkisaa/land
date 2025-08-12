@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#111111" />
+
+  {% seo %}  <!-- jekyll-seo-tag -->
+  {% if site.naver_site_verification %}
+  <meta name="naver-site-verification" content="{{ site.naver_site_verification }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+  <style>
+    /* hidden일 때는 확실히 안 보이도록 (JS와 일치) */
+    [hidden] { display: none !important; }
+
+    /* 케럿 회전 피드백 */
+    .dropdown-toggle .caret {
+      transition: transform .18s ease;
+      transform: translateY(1px) rotate(0deg);
+    }
+    .dropdown-toggle[aria-expanded="true"] .caret {
+      transform: translateY(1px) rotate(180deg);
+    }
+
+    /* (선택) 슬로건 톤 다운 */
+    .site-tagline {
+      margin: 6px 0 0;
+      font-size: .95rem;
+      opacity: .9;
+    }
+  </style>
+</head>
+<body>
+<a class="skip-link" href="#main">본문 바로가기</a>
+
+<header>
+  <h1>
+    <a href="{{ '/' | relative_url }}" style="color:#fff; text-decoration:none;">Buy To Live</a>
+  </h1>
+  <p class="site-tagline" style="color:#fff;">살기 위해 사자, Buy To Live</p>
+</header>
+
+<nav>
+  <div class="nav-container" role="navigation" aria-label="메인 메뉴">
+    <button class="hamburger" id="hamburger" aria-label="메뉴 열기" aria-controls="nav-menu" aria-expanded="false">☰</button>
+
+    <ul class="nav-menu" id="nav-menu">
+      <!-- 드롭다운 -->
+      <li class="dropdown" id="guide-dropdown" role="none">
+        <button
+          class="dropdown-toggle"
+          id="guide-button"
+          type="button"
+          aria-haspopup="menu"
+          aria-expanded="false"
+          aria-controls="guide-submenu"
+        >
+          가이드
+          <svg class="caret" width="12" height="12" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" d="M7 10l5 5 5-5z"/>
+          </svg>
+        </button>
+
+        <!-- hidden으로 열림 제어 -->
+        <ul
+          class="dropdown-menu"
+          id="guide-submenu"
+          role="menu"
+          aria-labelledby="guide-button"
+          hidden
+        >
+          <li role="none"><a role="menuitem" tabindex="-1" href="{{ '/guide/1-goal-setting/'         | relative_url }}">1. 목표 설정</a></li>
+          <li role="none"><a role="menuitem" tabindex="-1" href="{{ '/guide/2-budget-plan/'          | relative_url }}">2. 예산 및 자금 계획</a></li>
+          <li role="none"><a role="menuitem" tabindex="-1" href="{{ '/guide/3-subscription-check/'   | relative_url }}">3. 청약 여부 확인</a></li>
+          <li role="none"><a role="menuitem" tabindex="-1" href="{{ '/guide/4-property-research/'    | relative_url }}">4. 매물 조사 및 비교</a></li>
+          <li role="none"><a role="menuitem" tabindex="-1" href="{{ '/guide/5-purchase-negotiation/' | relative_url }}">5. 계약 진행</a></li>
+          <li role="none"><a role="menuitem" tabindex="-1" href="{{ '/guide/6-loan-and-closing/'     | relative_url }}">6. 대출 실행 및 잔금 처리</a></li>
+          <li role="none"><a role="menuitem" tabindex="-1" href="{{ '/guide/7-move-in-prep/'         | relative_url }}">7. 입주 준비</a></li>
+          <li role="none"><a role="menuitem" tabindex="-1" href="{{ '/guide/8-tips/'                 | relative_url }}">8. 팁</a></li>
+        </ul>
+      </li>
+
+      <li role="none"><a role="menuitem" href="{{ '/news/' | relative_url }}">뉴스</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main id="main" role="main" tabindex="-1">
+  {{ content }}
+</main>
+
+<footer>
+  <p>© 2025 Buy To Live. All rights reserved.</p>
+</footer>
+
+<script>
+  // 요소 핸들
+  const hamburger = document.getElementById('hamburger');
+  const navMenu = document.getElementById('nav-menu');
+
+  // 드롭다운 요소
+  const dd        = document.getElementById('guide-dropdown');
+  const ddBtn     = document.getElementById('guide-button');   // ✅ 이제 제대로 참조됨
+  const ddMenu    = document.getElementById('guide-submenu');
+  const ddItems   = ddMenu ? Array.from(ddMenu.querySelectorAll('[role="menuitem"]')) : [];
+
+  // 유틸
+  const isOpen = () => ddBtn?.getAttribute('aria-expanded') === 'true';
+  const openMenu = () => {
+    if (!ddBtn || !ddMenu) return;
+    ddBtn.setAttribute('aria-expanded', 'true');
+    ddMenu.hidden = false;
+    requestAnimationFrame(() => ddItems[0]?.focus());
+    document.addEventListener('pointerdown', onOutsidePointer, { capture: true });
+    document.addEventListener('keydown', onGlobalKeydown);
+  };
+  const closeMenu = (focusBtn = true) => {
+    if (!ddBtn || !ddMenu) return;
+    ddBtn.setAttribute('aria-expanded', 'false');
+    ddMenu.hidden = true;
+    document.removeEventListener('pointerdown', onOutsidePointer, { capture: true });
+    document.removeEventListener('keydown', onGlobalKeydown);
+    if (focusBtn) ddBtn.focus();
+  };
+
+  // 햄버거 토글
+  hamburger?.addEventListener('click', () => {
+    const active = navMenu.classList.toggle('active');
+    hamburger.setAttribute('aria-expanded', String(active));
+    if (!active) closeMenu(false);
+  });
+
+  // 드롭다운 버튼: 클릭/키보드로 열기
+  ddBtn?.addEventListener('click', () => (isOpen() ? closeMenu() : openMenu()));
+  ddBtn?.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ' || e.key === 'ArrowDown') {
+      e.preventDefault();
+      if (!isOpen()) openMenu(); else ddItems[0]?.focus();
+    }
+    if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      if (!isOpen()) openMenu(); else ddItems[ddItems.length - 1]?.focus();
+    }
+  });
+
+  // 메뉴 내 키보드 네비게이션
+  ddItems.forEach((item, index) => {
+    item.addEventListener('keydown', (e) => {
+      const last = ddItems.length - 1;
+      switch (e.key){
+        case 'ArrowDown': e.preventDefault(); ddItems[(index+1)%ddItems.length].focus(); break;
+        case 'ArrowUp'  : e.preventDefault(); ddItems[(index-1+ddItems.length)%ddItems.length].focus(); break;
+        case 'Home'     : e.preventDefault(); ddItems[0].focus(); break;
+        case 'End'      : e.preventDefault(); ddItems[last].focus(); break;
+        case 'Tab'      : closeMenu(false); break;
+        case 'Escape'   : e.preventDefault(); closeMenu(true); break;
+      }
+    });
+  });
+
+  function onGlobalKeydown(e){
+    if (e.key === 'Escape' && isOpen()) { e.preventDefault(); closeMenu(true); }
+  }
+
+  function onOutsidePointer(e){
+    if (!dd.contains(e.target)) closeMenu(false);
+    const withinNav = e.target.closest('.nav-container');
+    if (!withinNav && hamburger?.getAttribute('aria-expanded') === 'true') {
+      hamburger.setAttribute('aria-expanded', 'false');
+      navMenu.classList.remove('active');
+    }
+  }
+
+  dd?.addEventListener('focusout', (e) => {
+    const next = e.relatedTarget;
+    if (isOpen() && next && !dd.contains(next)) closeMenu(false);
+  });
+
+  // 접근성: 현재 페이지 aria-current (선택)
+  try {
+    const currentPath = window.location.pathname.replace(/\/+$/, '');
+    document.querySelectorAll('a[role="menuitem"]').forEach(a => {
+      const href = a.getAttribute('href'); if (!href) return;
+      const path = new URL(href, window.location.origin).pathname.replace(/\/+$/, '');
+      if (path === currentPath) a.setAttribute('aria-current', 'page');
+    });
+  } catch(_) {}
+</script>
+
+{% if page.url contains '/guide/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "홈",
+    "item": "{{ site.url }}{{ site.baseurl }}/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "{{ page.title | escape }}",
+    "item": "{{ site.url }}{{ page.url }}"
+  }]
+}
+</script>
+{% endif %}
+
+<!-- 감소된 모션 존중 -->
+<style>
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+  }
+</style>
+</body>
+</html>
