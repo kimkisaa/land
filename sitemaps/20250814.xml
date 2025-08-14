@@ -1,0 +1,47 @@
+---
+layout: null
+permalink: /sitemaps/20250814.xml   # 최종 URL = https://kimkisaa.github.io/land/sitemaps/20250814.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% assign base = site.url | append: site.baseurl %}
+  {% assign this_sitemap = base | append: '/sitemaps/20250814.xml' %}
+
+  {% assign docs = site.pages %}
+  {% if site.posts %}{% assign docs = docs | concat: site.posts %}{% endif %}
+  {% if site.collections %}
+    {% for coll in site.collections %}
+      {% if coll.output and coll.label != "posts" %}
+        {% assign docs = docs | concat: coll.docs %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {%- for p in docs -%}
+    {% assign loc = p.url | absolute_url %}
+    {% assign urlpath = p.url %}
+    {% assign head = loc | slice: 0, base.size %}
+
+    {% assign skip = false %}
+    {% if head != base %}{% assign skip = true %}{% endif %}
+    {% if loc == this_sitemap %}{% assign skip = true %}{% endif %}
+    {% if urlpath contains '/assets/' %}{% assign skip = true %}{% endif %}
+    {% if urlpath contains '.' %}{% assign skip = true %}{% endif %}
+    {% if urlpath contains '.xml' or urlpath contains '.txt' or urlpath contains '.json' or
+          urlpath contains '.js'  or urlpath contains '.css' or urlpath contains '.map'  or
+          urlpath contains '.pdf' or urlpath contains '.svg' or urlpath contains '.png'  or
+          urlpath contains '.jpg' or urlpath contains '.jpeg' or urlpath contains '.webp' or
+          urlpath contains '.ico' %}{% assign skip = true %}{% endif %}
+
+    {% unless skip or p.sitemap == false %}
+      <url>
+        <loc>{{ loc }}</loc>
+        {% if p.last_modified_at %}
+          <lastmod>{{ p.last_modified_at | date_to_xmlschema }}</lastmod>
+        {% elsif p.date %}
+          <lastmod>{{ p.date | date_to_xmlschema }}</lastmod>
+        {% endif %}
+      </url>
+    {% endunless %}
+  {%- endfor -%}
+</urlset>
