@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: /land/sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% assign pages_list = site.pages | concat: site.posts %}
+  {% for p in pages_list %}
+    {% if p.sitemap != false and p.url %}
+      {% assign head = p.url | slice: 0, site.baseurl.size %}
+      {% if head == site.baseurl %}
+        <url>
+          <loc>{{ p.url | absolute_url }}</loc>
+          {% if p.last_modified_at %}
+            <lastmod>{{ p.last_modified_at | date_to_xmlschema }}</lastmod>
+          {% elsif p.date %}
+            <lastmod>{{ p.date | date_to_xmlschema }}</lastmod>
+          {% endif %}
+        </url>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</urlset>
