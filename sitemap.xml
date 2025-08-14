@@ -1,16 +1,32 @@
 ---
-layout: null   # 또는 layout: none (둘 다 OK)
-permalink: /sitemap.xml
+layout: none
+permalink: /sitemap.xml   # 최종 경로: https://kimkisaa.github.io/land/sitemap.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% assign pages_list = site.pages | concat: site.posts %}
-  {% for p in pages_list %}
-    {% if p.sitemap != false and p.url %}
-      {% assign head = p.url | slice: 0, site.baseurl.size %}
-      {% if head == site.baseurl %}
+  {% assign base = site.url | append: site.baseurl %}
+  {% assign this_sitemap = base | append: '/sitemap.xml' %}
+
+  {%- comment -%}
+  페이지 + (있다면) 포스트 + 모든 출력되는 컬렉션을 한 배열로 합칩니다.
+  {%- endcomment -%}
+  {% assign docs = site.pages %}
+  {% if site.posts %}{% assign docs = docs | concat: site.posts %}{% endif %}
+  {% if site.collections %}
+    {% for coll in site.collections %}
+      {% if coll.output and coll.label != "posts" %}
+        {% assign docs = docs | concat: coll.docs %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {%- for p in docs -%}
+    {% assign loc = p.url | absolute_url %}
+    {% if loc and p.sitemap != false %}
+      {% assign head = loc | slice: 0, base.size %}
+      {% if head == base and loc != this_sitemap %}
         <url>
-          <loc>{{ p.url | absolute_url }}</loc>
+          <loc>{{ loc }}</loc>
           {% if p.last_modified_at %}
             <lastmod>{{ p.last_modified_at | date_to_xmlschema }}</lastmod>
           {% elsif p.date %}
@@ -19,5 +35,5 @@ permalink: /sitemap.xml
         </url>
       {% endif %}
     {% endif %}
-  {% endfor %}
+  {%- endfor -%}
 </urlset>
