@@ -1,9 +1,11 @@
 ---
 layout: default
-title: 0단계 — 집을 살까?
+title: 1단계 — 집을 살까?
 description: 매매·전세·월세의 차이, 총거주비, 타이밍과 체크리스트로 ‘지금 사야 할지’를 5분 만에 점검합니다.
-permalink: /land/guide/0-should-i-buy/
+permalink: /guide/2-budget-plan/
+last_modified_at: 2025-08-14
 ---
+
 
 ## 한눈 요약
 집 결정은 **필요(거주 계획)**와 **가능(돈·대출·리스크 감내)**이 동시에 충족될 때가 가장 안전합니다.
