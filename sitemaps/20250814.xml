@@ -1,6 +1,7 @@
 ---
-layout: null
-permalink: /sitemaps/20250814.xml   # 최종 URL = https://kimkisaa.github.io/land/sitemaps/20250814.xml
+layout: none
+sitemap: false
+permalink: /sitemaps/20250814.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -27,11 +28,6 @@ permalink: /sitemaps/20250814.xml   # 최종 URL = https://kimkisaa.github.io/la
     {% if loc == this_sitemap %}{% assign skip = true %}{% endif %}
     {% if urlpath contains '/assets/' %}{% assign skip = true %}{% endif %}
     {% if urlpath contains '.' %}{% assign skip = true %}{% endif %}
-    {% if urlpath contains '.xml' or urlpath contains '.txt' or urlpath contains '.json' or
-          urlpath contains '.js'  or urlpath contains '.css' or urlpath contains '.map'  or
-          urlpath contains '.pdf' or urlpath contains '.svg' or urlpath contains '.png'  or
-          urlpath contains '.jpg' or urlpath contains '.jpeg' or urlpath contains '.webp' or
-          urlpath contains '.ico' %}{% assign skip = true %}{% endif %}
 
     {% unless skip or p.sitemap == false %}
       <url>
