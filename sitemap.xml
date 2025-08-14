@@ -1,6 +1,6 @@
 ---
-layout: null
-permalink: /land/sitemap.xml
+layout: null   # 또는 layout: none (둘 다 OK)
+permalink: /sitemap.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
