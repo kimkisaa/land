@@ -1,15 +1,13 @@
 ---
-layout: none
-permalink: /sitemap.xml   # 최종 경로: https://kimkisaa.github.io/land/sitemap.xml
+layout: null
+permalink: /sitemap.xml   # 최종 URL: https://kimkisaa.github.io/land/sitemap.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% assign base = site.url | append: site.baseurl %}
   {% assign this_sitemap = base | append: '/sitemap.xml' %}
 
-  {%- comment -%}
-  페이지 + (있다면) 포스트 + 모든 출력되는 컬렉션을 한 배열로 합칩니다.
-  {%- endcomment -%}
+  {%- comment -%} 페이지 + (있다면) 포스트 + 출력되는 컬렉션을 합치기 {%- endcomment -%}
   {% assign docs = site.pages %}
   {% if site.posts %}{% assign docs = docs | concat: site.posts %}{% endif %}
   {% if site.collections %}
@@ -22,9 +20,21 @@ permalink: /sitemap.xml   # 최종 경로: https://kimkisaa.github.io/land/sitem
 
   {%- for p in docs -%}
     {% assign loc = p.url | absolute_url %}
-    {% if loc and p.sitemap != false %}
-      {% assign head = loc | slice: 0, base.size %}
-      {% if head == base and loc != this_sitemap %}
+    {% assign is_under = loc | slice: 0, base.size %}
+    {% if is_under == base and p.sitemap != false %}
+      {%- assign urlpath = p.url -%}
+      {%- assign skip = false -%}
+
+      {%- comment -%} 자기 자신/피드/정적파일/자산 제외 {%- endcomment -%}
+      {% if loc == this_sitemap %}{% assign skip = true %}{% endif %}
+      {% if urlpath contains '/assets/' %}{% assign skip = true %}{% endif %}
+      {% if urlpath contains '.xml' or urlpath contains '.txt' or urlpath contains '.json' or
+            urlpath contains '.js'  or urlpath contains '.css' or urlpath contains '.map'  or
+            urlpath contains '.pdf' or urlpath contains '.svg' or urlpath contains '.png'  or
+            urlpath contains '.jpg' or urlpath contains '.jpeg' or urlpath contains '.webp' or
+            urlpath contains '.ico' %}{% assign skip = true %}{% endif %}
+
+      {% unless skip %}
         <url>
           <loc>{{ loc }}</loc>
           {% if p.last_modified_at %}
@@ -33,7 +43,7 @@ permalink: /sitemap.xml   # 최종 경로: https://kimkisaa.github.io/land/sitem
             <lastmod>{{ p.date | date_to_xmlschema }}</lastmod>
           {% endif %}
         </url>
-      {% endif %}
+      {% endunless %}
     {% endif %}
   {%- endfor -%}
 </urlset>
