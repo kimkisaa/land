@@ -195,35 +195,38 @@ footer{
    Whiteboard 레이아웃 전용
    (.wb-*)
 ========================= */
+/* =========================
+   Whiteboard 레이아웃 전용
+   (.wb-*)
+========================= */
 .wb-hero{
-  padding: 1.2rem 0 1rem;
+  padding: 1.2rem 1rem 1rem;  /* 좌우 padding 확보 */
   border-bottom:1px solid #eee;
-}
-.wb-hero h1{ margin:0 0 .4rem; }
-.wb-meta{ color:var(--color-muted); font-size:.92rem; }
-.wb-excerpt{ margin:.6rem 0 0; font-size:1.05rem; }
-
-.wb-media{ margin:1rem 0 1.2rem; }
-.wb-video{
-  position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;
-  background:#000;
-}
-.wb-video iframe{
-  position:absolute; top:0; left:0; width:100%; height:100%; border:0;
+  max-width: 980px;           /* 너무 넓지 않게 제한 */
+  margin: 0 auto;             /* 중앙 정렬 */
 }
 
-.wb-takeaways{
-  background:#fafafa; padding:1rem 1.1rem; border-radius:.5rem; border:1px solid #eee;
+.wb-hero h1{ 
+  margin:0 0 .4rem; 
 }
-.wb-takeaways h2{ margin:.2rem 0 .4rem; }
-.wb-takeaways ul{ margin:.4rem 0 0 1.1rem; }
 
-.wb-transcript{ margin:1.4rem 0; }
-.wb-transcript h2, .wb-transcript h3{ scroll-margin-top: 80px; } /* 앵커 점프 보정 */
-
-.wb-cta{
-  display:flex; gap:.6rem; flex-wrap:wrap; margin:2rem 0;
+.wb-meta{ 
+  color:var(--color-muted); 
+  font-size:.92rem; 
 }
+
+.wb-excerpt{ 
+  margin:.6rem 0 0; 
+  font-size:1.05rem; 
+}
+
+/* 모바일 추가 여백 조정 */
+@media (max-width: 600px){
+  .wb-hero{
+    padding: 1rem 0.8rem 1rem;
+  }
+}
+
 
 /* =========================
    접근성 유틸
