@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-18T00:08:07.943134Z",
+  "generatedAt": "2025-08-18T00:14:59.132302Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
@@ -9,8 +9,17 @@
       "link": "https://www.mk.co.kr/article/11395617",
       "naver": "https://n.news.naver.com/mnews/article/009/0005542749?sid=101",
       "host": "mk.co.kr",
-      "score": 2.8582,
+      "score": 2.842,
       "pubDate": "2025-08-17T23:13:00+00:00"
+    },
+    {
+      "title": "삼양컴텍, 코스닥 상장 첫날 '따블'",
+      "desc": "삼양컴텍은 지난 5~6일 공모주 청약을 진행했다. 당시 경쟁률은 927.97대 1에 달했다. 청약 증거금은 12조9510억원에 육박했다. 앞서 진행한 기관 투자자 대상 수요예측에서도 경쟁률 565.55대 1을 기록했다. 특히...",
+      "link": "https://www.hankyung.com/article/2025081851516",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005171779?sid=101",
+      "host": "hankyung.com",
+      "score": 2.6948,
+      "pubDate": "2025-08-18T00:13:00+00:00"
     },
     {
       "title": "[주요 신문 사설](18일 조간)",
@@ -18,7 +27,7 @@
       "link": "https://www.yna.co.kr/view/AKR20250818009100505?input=1195m",
       "naver": "https://n.news.naver.com/mnews/article/001/0015570323?sid=110",
       "host": "yna.co.kr",
-      "score": 2.6278,
+      "score": 2.6122,
       "pubDate": "2025-08-17T23:00:00+00:00"
     },
     {
@@ -27,7 +36,7 @@
       "link": "https://www.sedaily.com/NewsView/2GWO8JK5FF",
       "naver": "https://n.news.naver.com/mnews/article/011/0004521893?sid=101",
       "host": "sedaily.com",
-      "score": 2.6027,
+      "score": 2.5894,
       "pubDate": "2025-08-17T22:01:00+00:00"
     },
     {
@@ -36,7 +45,7 @@
       "link": "https://biz.chosun.com/real_estate/real_estate_general/2025/08/18/YWRCL3UOPFHE3JIDO3MFYBCNFY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "naver": "https://n.news.naver.com/mnews/article/366/0001100872?sid=101",
       "host": "biz.chosun.com",
-      "score": 2.6027,
+      "score": 2.5894,
       "pubDate": "2025-08-17T22:01:00+00:00"
     },
     {
@@ -45,7 +54,7 @@
       "link": "https://www.yna.co.kr/view/AKR20250818020400008?input=1195m",
       "naver": "https://n.news.naver.com/mnews/article/001/0015570362?sid=101",
       "host": "yna.co.kr",
-      "score": 2.5148,
+      "score": 2.4976,
       "pubDate": "2025-08-17T23:36:00+00:00"
     },
     {
@@ -54,7 +63,7 @@
       "link": "https://biz.chosun.com/stock/market_trend/2025/08/18/JLMSN457YZAVRD4AE7J3T6AZGU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "naver": "https://n.news.naver.com/mnews/article/366/0001100892?sid=101",
       "host": "biz.chosun.com",
-      "score": 2.4861,
+      "score": 2.4675,
       "pubDate": "2025-08-18T00:03:00+00:00"
     },
     {
@@ -63,8 +72,26 @@
       "link": "https://www.chosun.com/economy/economy_general/2025/08/19/J5KVAZ5PMRHVZLSAJ22FYW2BAM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "naver": "https://n.news.naver.com/mnews/article/023/0003923644?sid=101",
       "host": "chosun.com",
-      "score": 2.4591,
+      "score": 2.441,
       "pubDate": "2025-08-17T23:53:00+00:00"
+    },
+    {
+      "title": "'월세 전성시대' 가속화…올해 거래량 벌써 100만건 넘었다",
+      "desc": "주택 공급이 부족한 상황에서 고강도 대출 규제와 금리인하가 겹치면서 '전세의 월세화'가 빨라진건데, 내... 그나마 있던 전세 물건도 집주인들이 월세로 돌리는 상황입니다. 마포 공인중개사 \"잔금 대출을 할수가...",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2025/08/18/2025081890021.html",
+      "naver": "https://n.news.naver.com/mnews/article/448/0000550215?sid=101",
+      "host": "news.tvchosun.com",
+      "score": 2.4397,
+      "pubDate": "2025-08-17T23:12:00+00:00"
+    },
+    {
+      "title": "'코스닥 데뷔' 삼양컴텍, 장초반 90% 급등[특징주]",
+      "desc": "지난 5일~6일 양일간 일반 투자자를 대상으로 청약을 진행, 927.97대 1의 경쟁률을 기록했다. 일반 투자자 배정 물량 362만 5000주 모집에 40만 3911건, 총 33억 6390만 2400주가 신청됐다. 이에 따라 집계된 청약증거금은...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02299286642268632",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006092400?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.431,
+      "pubDate": "2025-08-18T00:08:00+00:00"
     },
     {
       "title": "공급감소→패닉바잉→뒷북공급…집값만 흔들었다[집슐랭]",
@@ -72,17 +99,17 @@
       "link": "https://www.sedaily.com/NewsView/2GWO8UR2TR",
       "naver": "https://n.news.naver.com/mnews/article/011/0004521895?sid=101",
       "host": "sedaily.com",
-      "score": 2.4027,
+      "score": 2.3894,
       "pubDate": "2025-08-17T22:01:00+00:00"
     },
     {
-      "title": "이재명 대통령에게 5억 빌려준 ‘찐친’ 금감원장 등판에 은행권 ‘긴장...",
-      "desc": "공정거래위원회 소관이지만 ‘부동산 담보대출비율(LTV) 담합 의혹’에 대한 금감원의 시각도 주목된다. 공정위는 KB국민·신한·하나·우리 등 4대 은행이 LTV를 담합했다며 거액의 과징금을 부과할 방침으로, 업계에서는...",
-      "link": "https://www.mk.co.kr/article/11395651",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005542775?sid=101",
+      "title": "“채용되면 보너스 7천만원+학자금 8천만원 대출 탕감”…美 정부, 이민...",
+      "desc": "ICE는 채용 계약 시 최대 5만 달러(약 7000만 원)의 보너스와 최대 6만 달러(약 8300만 원)의 학자금 대출 탕감 혜택을 제공한다고 밝혔다. 직무는 △추방 담당관 △범죄 수사관 △일반 변호사 3개로 나뉘며, 추방...",
+      "link": "https://www.mk.co.kr/article/11395652",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005542776?sid=104",
       "host": "mk.co.kr",
-      "score": 2.3944,
-      "pubDate": "2025-08-18T00:06:00+00:00"
+      "score": 2.381,
+      "pubDate": "2025-08-18T00:08:00+00:00"
     },
     {
       "title": "서울 '전세의 월세화' 가속…동대문구 '월세' 비중 가장 높아",
@@ -90,7 +117,7 @@
       "link": "https://www.hankyung.com/article/2025081850006",
       "naver": "https://n.news.naver.com/mnews/article/015/0005171765?sid=101",
       "host": "hankyung.com",
-      "score": 2.3644,
+      "score": 2.3462,
       "pubDate": "2025-08-17T23:55:00+00:00"
     },
     {
@@ -99,17 +126,8 @@
       "link": "https://cc.newdaily.co.kr/site/data/html/2025/08/18/2025081800014.html",
       "naver": "https://cc.newdaily.co.kr/site/data/html/2025/08/18/2025081800014.html",
       "host": "cc.newdaily.co.kr",
-      "score": 2.3186,
+      "score": 2.3032,
       "pubDate": "2025-08-17T22:56:00+00:00"
-    },
-    {
-      "title": "대출규제 제외된 중도금대출, 가산금리 인하…지방 연 3.5%",
-      "desc": "이렇게 되면 금리인하 기조가 본격화되는 11~12월 서울 분양단지들의 중도금대출 금리는 더 떨어질 가능성도 배제할 수 없다. 올해 상반기 분양한 서울 방배동의 '래미안 원페를라'와 대조동의 '힐스테이트 메디알레...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508170119107630873",
-      "naver": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508170119107630873",
-      "host": "dnews.co.kr",
-      "score": 2.2628,
-      "pubDate": "2025-08-17T21:40:00+00:00"
     },
     {
       "title": "월세 비중 60%대 첫 진입… 올해 7월까지 100만건 넘어",
@@ -117,17 +135,26 @@
       "link": "https://www.donga.com/news/Economy/article/all/20250817/132201017/2",
       "naver": "https://n.news.naver.com/mnews/article/020/0003654676?sid=101",
       "host": "donga.com",
-      "score": 2.2608,
+      "score": 2.254,
       "pubDate": "2025-08-17T18:01:00+00:00"
     },
     {
-      "title": "\"강남 아파트 살 돈으로 고급 콘도 열 채\"…뜨는 투자처 [더 머니이스트...",
-      "desc": "올해 1분기 신규 분양의 30~50%가 이미 계약 완료되는 등 수요도 탄탄합니다. 디지털 경제 허브로서의 위상... 일부 지역 고급 콘도 미분양률은 74.5%에 달하며, 환율 변동에 따른 자산가치 변동 가능성도 존재합니다....",
-      "link": "https://www.hankyung.com/article/202508140932Q",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005171728?sid=101",
-      "host": "hankyung.com",
-      "score": 2.2447,
-      "pubDate": "2025-08-17T21:30:00+00:00"
+      "title": "대출규제 제외된 중도금대출, 가산금리 인하…지방 연 3.5%",
+      "desc": "이렇게 되면 금리인하 기조가 본격화되는 11~12월 서울 분양단지들의 중도금대출 금리는 더 떨어질 가능성도 배제할 수 없다. 올해 상반기 분양한 서울 방배동의 '래미안 원페를라'와 대조동의 '힐스테이트 메디알레...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508170119107630873",
+      "naver": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508170119107630873",
+      "host": "dnews.co.kr",
+      "score": 2.2503,
+      "pubDate": "2025-08-17T21:40:00+00:00"
+    },
+    {
+      "title": "토스뱅크-서울신보, ‘안심통장 특별보증’ 2차 시행 맞손",
+      "desc": "이번 협약은 서울신보가 보증을 제공하고, 토스뱅크 등 협약은행(우리은행, 하나은행, 카카오뱅크)이 대출... 총 2000억원 규모로 공급되는 이번 상품은 서울시 소재 개인사업자에게 최대 1000만원 한도의 한도대출...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02312406642268632",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006092406?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.2338,
+      "pubDate": "2025-08-18T00:09:00+00:00"
     },
     {
       "title": "서울아파트 절반은 ‘월세’…금리하락·6·27 규제 등 영향[부동산360]",
@@ -135,26 +162,8 @@
       "link": "https://biz.heraldcorp.com/article/10555544?ref=naver",
       "naver": "https://n.news.naver.com/mnews/article/016/0002515327?sid=101",
       "host": "biz.heraldcorp.com",
-      "score": 2.238,
+      "score": 2.2203,
       "pubDate": "2025-08-17T23:45:00+00:00"
-    },
-    {
-      "title": "HMM, 자사주 매입 후 ‘남은 현금성 자산’ 사용처 관건-하나",
-      "desc": "HMM의 주요 주주는 산업은행(36.0%), 해양진흥공사(35.7%)인데, 전량 매입에 응한다는 전제하에 각각 7660억원과 7586억원을 확보하게 된다.(배당소득세 제외) HMM은 자사주 공개매수 청약 기준일을 9월 12일로 설정했다....",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01886006642268632",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006092267?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2287,
-      "pubDate": "2025-08-17T22:38:00+00:00"
-    },
-    {
-      "title": "소비 위축 길어졌다…소상공인 매출 전년比 0.8%↓",
-      "desc": "금융 현황을 보면 올해 2분기 국내 총 개인사업자 대출잔액은 723조 5000억원으로 나타났다. 은행업권이 432조 8000억원(59.8%), 비은행업권이 290조 7000억원을 차지했으며 비은행업권 중에서는 상호금융업권의 대출 비중이...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02210726642268632",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006092370?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2144,
-      "pubDate": "2025-08-17T23:55:00+00:00"
     },
     {
       "title": "부산, 하반기 1만가구 분양…해수부 이전 호재 기대 ‘업’",
@@ -162,7 +171,7 @@
       "link": "https://www.dailian.co.kr/news/view/1535883/?sc=Naver",
       "naver": "https://n.news.naver.com/mnews/article/119/0002991764?sid=101",
       "host": "dailian.co.kr",
-      "score": 2.2027,
+      "score": 2.1894,
       "pubDate": "2025-08-17T22:01:00+00:00"
     },
     {
@@ -171,17 +180,8 @@
       "link": "https://biz.heraldcorp.com/article/10555039?ref=naver",
       "naver": "https://n.news.naver.com/mnews/article/016/0002515278?sid=101",
       "host": "biz.heraldcorp.com",
-      "score": 2.2027,
+      "score": 2.1894,
       "pubDate": "2025-08-17T22:01:00+00:00"
-    },
-    {
-      "title": "[오늘의 청약 일정] ‘남양주진접2A1(공공분양)’ 청약 접수 등",
-      "desc": "이투데이=정유정 기자 | 부동산 정보업체 부동산R114에 따르면 18일 오늘은 경기 남양주시 '남양주진접2A1(공공분양)'과 화성시 '화성동탄2C14(공공임대)'의 청약 접수를 실시한다. 접수 기간은 이날부터 19일까지다. 또...",
-      "link": "https://www.etoday.co.kr/news/view/2497253",
-      "naver": "https://www.etoday.co.kr/news/view/2497253",
-      "host": "etoday.co.kr",
-      "score": 2.2007,
-      "pubDate": "2025-08-17T22:00:00+00:00"
     }
   ]
 }
