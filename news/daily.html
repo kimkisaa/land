@@ -3,6 +3,29 @@ layout: default
 title: 오늘의 부동산 뉴스 Top 20
 permalink: /news/daily/
 ---
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const el = document.querySelector(".last-updated");
+  if (!el) return;
+
+  const updatedTime = new Date(el.dataset.updated);
+  const now = new Date();
+  const diffMinutes = Math.floor((now - updatedTime) / 60000);
+
+  let text = "";
+  if (diffMinutes < 1) {
+    text = "방금 전";
+  } else if (diffMinutes < 60) {
+    text = diffMinutes + "분 전";
+  } else if (diffMinutes < 60 * 24) {
+    text = Math.floor(diffMinutes / 60) + "시간 전";
+  } else {
+    text = Math.floor(diffMinutes / (60 * 24)) + "일 전";
+  }
+
+  el.textContent = `마지막 업데이트: ${el.dataset.updated} (${text})`;
+});
+</script>
 
 <section class="wb-hero">
   <h1>오늘의 부동산 뉴스 Top 20</h1>
