@@ -69,8 +69,7 @@ image: /assets/images/og-image.jpg
 
 <ul>
   <li>실거주 겸 투자</li>
-  <li>2년 후 전세 만기 전까지</li>
-  <li>아내 직장 40분 이내, 내 직장 1시간 이내</li>
+  <li>2년 후 전세 만기 전까지</li>  
 </ul>
 
 <br>
@@ -85,7 +84,7 @@ image: /assets/images/og-image.jpg
   <tbody>
     <tr>
       <td><strong>필수</strong></td>
-      <td>구축 아파트 20평대, 300세대 이상, 초등학교 인근, 방 3개, 계단식</td>
+      <td>아내 직장 40분 이내, 내 직장 1시간 이내, 구축 아파트 20평대, 300세대 이상, 초등학교 인근, 방 3개, 계단식</td>
     </tr>
     <tr>
       <td><strong>선택</strong></td>
