@@ -21,7 +21,7 @@ image: /assets/images/og-image.jpg
   <li><strong>거주 안정성</strong> : 계약 만료 걱정 없음, 내 공간이라는 심리적 만족감</li>
   <li><strong>자산 증식</strong> : 장기적으로 집값은 우상향, 대출 상환 = 강제 저축 효과</li>
 </ul>
-<p>아직 집을 왜 사야하는지 고민이라면 → <a href="https://blog.naver.com/truelite/223133124922">집을 사야 하는 이유(장기적 우상향)</a></p>
+<p>아직 집을 살지 말지 고민이라면 → <a href="https://blog.naver.com/truelite/223133124922">집을 사야 하는 이유</a></p>
 
 <hr>
 
