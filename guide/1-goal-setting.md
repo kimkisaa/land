@@ -64,17 +64,38 @@ image: /assets/images/og-image.jpg
   <li>어떤 집이 맞는가? (세부 조건)</li>
 </ul>
 
-<p><strong>예시)</strong> 제 개인 상황을 기준으로 정리한 체크리스트입니다. 
+<p><strong>예시)</strong> 제 개인 상황을 기준으로 정리한 체크리스트입니다.<br>
 각자의 조건은 다를 수 있으니 참고만 해주세요.</p>
 
 <ul>
   <li>실거주 겸 투자</li>
   <li>2년 후 전세 만기 전까지</li>
   <li>아내 직장 40분 이내, 내 직장 1시간 이내</li>
-  <li>(필수) 구축 아파트 20평대, 300세대 이상, 초등학교 인근, 방 3개, 계단식</li>
-  <li>(선택) 중층 이상, 남향 선호</li>
-  <li>(불가) 1~2층, 북향, 복도식</li>
 </ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>조건 예시</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>필수</strong></td>
+      <td>구축 아파트 20평대, 300세대 이상, 초등학교 인근, 방 3개, 계단식</td>
+    </tr>
+    <tr>
+      <td><strong>선택</strong></td>
+      <td>중층 이상, 남향 선호</td>
+    </tr>
+    <tr>
+      <td><strong>불가</strong></td>
+      <td>1~2층, 북향, 복도식</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <p>
