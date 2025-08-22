@@ -85,15 +85,15 @@ image: /assets/images/og-image.jpg
   <tbody>
     <tr>
       <td><strong>필수</strong></td>
-      <td style="text-align:left;">구축 아파트 20평대, 300세대 이상, 초등학교 인근, 방 3개, 계단식</td>
+      <td>구축 아파트 20평대, 300세대 이상, 초등학교 인근, 방 3개, 계단식</td>
     </tr>
     <tr>
       <td><strong>선택</strong></td>
-      <td style="text-align:left;">중층 이상, 남향 선호</td>
+      <td>중층 이상, 남향 선호</td>
     </tr>
     <tr>
       <td><strong>불가</strong></td>
-      <td style="text-align:left;">1~2층, 북향, 복도식</td>
+      <td>1~2층, 북향, 복도식</td>
     </tr>
   </tbody>
 </table>
