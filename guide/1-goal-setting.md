@@ -64,7 +64,9 @@ image: /assets/images/og-image.jpg
   <li>어떤 집이 맞는가? (세부 조건)</li>
 </ul>
 
-<p><strong>예시</strong></p>
+<p><strong>예시)</strong> 제 개인 상황을 기준으로 정리한 체크리스트입니다. 
+각자의 조건은 다를 수 있으니 참고만 해주세요.</p>
+
 <ul>
   <li>실거주 겸 투자</li>
   <li>2년 후 전세 만기 전까지</li>
@@ -73,6 +75,7 @@ image: /assets/images/og-image.jpg
   <li>(선택) 중층 이상, 남향 선호</li>
   <li>(불가) 1~2층, 북향, 복도식</li>
 </ul>
+
 
 <p>
 <a class="btn primary" href="{{ '/guide/2-budget-plan/' | relative_url }}">다음 단계 → 2. 예산 및 자금 계획</a>
