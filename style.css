@@ -431,7 +431,7 @@ th {
   text-align: center;
 }
 
-/* 두 번째 열(td)만 왼쪽 정렬 */
-td:nth-child(2) {
-  text-align: left;
+/* 왼쪽 열  → 가운데 정렬 */
+th, td:first-child {
+  text-align: center;
 }
