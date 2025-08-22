@@ -424,5 +424,14 @@ table, th, td {
 
 th, td {
   padding: 8px;
+}
+
+/* 기본은 가운데 정렬 */
+th {
   text-align: center;
+}
+
+/* 두 번째 열(td)만 왼쪽 정렬 */
+td:nth-child(2) {
+  text-align: left;
 }
