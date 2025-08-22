@@ -73,6 +73,8 @@ image: /assets/images/og-image.jpg
   <li>아내 직장 40분 이내, 내 직장 1시간 이내</li>
 </ul>
 
+<br>
+
 <table>
   <thead>
     <tr>
