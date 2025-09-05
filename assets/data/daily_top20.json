@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2025-09-04T23:12:23.544417Z",
+  "generatedAt": "2025-09-05T23:11:52.401994Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "[주요 신문 사설](5일 조간)",
-      "desc": "경북일보 = 허술한 군 총기 관리…기강 해이 뿌리 뽑아야 새마을금고 또 불법 대출…감독체계 바꿔라 ▲ 대경일보 = 기준금리보다 낮은 TK 지자체들의 금고 계약 양성평등주간, 단순한 행사에 머물지 않기를 (서울=연합뉴스)",
-      "link": "https://www.yna.co.kr/view/AKR20250905015400505?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015606952?sid=110",
+      "title": "서울 아파트 분양가 ㎡당 2000만 원 시대…'국평'은 17억 근접",
+      "desc": "5일 분양평가 전문업체 리얼하우스가 한국부동산원 청약홈 자료를 분석한 결과 지난달 서울 아파트의 전용 면적 기준 ㎡당 분양가는 2007만 원으로 집계됐다. 이는 전월 대비 2.87% 오른 금액이다. 작년 같은...",
+      "link": "https://www.sedaily.com/NewsView/2GXSP7XVKD",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004529836?sid=101",
+      "host": "sedaily.com",
+      "score": 2.733,
+      "pubDate": "2025-09-05T22:06:00+00:00"
+    },
+    {
+      "title": "[부동산캘린더] 내주 서울 영등포·마포서 소규모 단지 청약",
+      "desc": "6일 부동산R114에 따르면 9월 둘째 주에는 전국 10개 단지에서 총 5천512가구(일반분양 3천215가구)가 분양을... 부산시 부산진구 부암동 '서면어반센트데시앙'이 개관할 예정이다. 다음은 내주 공급 일정. [부동산R114 제공]",
+      "link": "https://www.yna.co.kr/view/AKR20250905156600003?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015608880?sid=101",
       "host": "yna.co.kr",
-      "score": 2.6665,
-      "pubDate": "2025-09-04T23:00:00+00:00"
+      "score": 2.6935,
+      "pubDate": "2025-09-05T21:00:00+00:00"
     },
     {
-      "title": "카카오톡서 챗GPT 바로 쓴다…\"구글 이어 오픈AI도 법인 설립\" 글로벌 ‘...",
-      "desc": "‘빚 잘 갚은’ 소상공인, 정책대출 한도 6000만원→1억 상향 - 핵심 요약: 정부가 빚을 성실히 갚는 소상공인을 위해 대출 한도를 대폭 늘리고 금리는 낮춘 정책상품을 내놓는다. 대출 갈아타기를 포함한 ‘금리감면...",
-      "link": "https://www.sedaily.com/NewsView/2GXS8SVB9I",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004529461?sid=101",
-      "host": "sedaily.com",
-      "score": 2.5453,
-      "pubDate": "2025-09-04T22:52:00+00:00"
+      "title": "[부동산캘린더] 9곳서 3520가구 분양…수도권 물량 포함",
+      "desc": "6일 부동산 전문 리서치업체 리얼투데이에 따르면 9월 둘째 주에는 전국 9곳에서 총 3520가구(공공분양 포함, 행복주택 제외)가 청약 접수를 받는다. 수도권에서는 ▲서울 영등포구 '대방역 여의도 더로드캐슬'(46가구)...",
+      "link": "https://dealsite.co.kr/articles/147735",
+      "naver": "https://dealsite.co.kr/articles/147735",
+      "host": "dealsite.co.kr",
+      "score": 2.4732,
+      "pubDate": "2025-09-05T23:02:00+00:00"
     },
     {
-      "title": "李, 노사상생 강조에 “주 4.5일제 시행·정년연장” 요구한 勞…HD현대...",
-      "desc": "■ 금융정책 변화: 정부가 소상공인 정책대출 한도는 6000만 원에서 1억 원으로 66% 확대되고 우대금리도 0.2... 늘리고 금리는 낮춘 정책상품을 내놓는다. 대출 갈아타기를 포함한 ‘금리감면 3종 세트’를 통해...",
-      "link": "https://www.sedaily.com/NewsView/2GXS7L9GGQ",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004529460?sid=101",
-      "host": "sedaily.com",
-      "score": 2.54,
-      "pubDate": "2025-09-04T22:50:00+00:00"
+      "title": "6·27 대책 시행 두 달…8월 은행 가계대출 둔화세 이어갈까[한은 미리보...",
+      "desc": "정부의 6·27 부동산 대출 규제가 두 달째로 접어들면서 가계부채가 둔화세를 이어갈 수 있을지가... 8월에는 부동산 대책 시행이 두 달 차에 접어드는 만큼 가계부채 감소가 확대됐을 것이란 기대가 크다. 하지만...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01672806642297496",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006108678?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.4205,
+      "pubDate": "2025-09-05T23:01:00+00:00"
     },
     {
-      "title": "매경이 전하는 세상의 지식 (매-세-지, 9월 5일)",
-      "desc": "연체 이력 없이 성실히 대출을 갚은 소상공인 등을 대상으로 정부가 10조원 규모 저금리 자금 지원에 나섭니다. IBK기업은행과 신용보증기금의 ‘소상공인 더드림 패키지’ 재원을 늘려 대출 한도를 높이고 금리를 낮추는...",
-      "link": "https://www.mk.co.kr/article/11411354",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005553507?sid=102",
+      "title": "\"오르기 전에 기름 넣어야지\"…주유소 기름값 4주 연속 내려",
+      "desc": "이번 주 국제유가는 중동 내 지정학 리스크 고조, 미국 연준의 금리 인하 기대 등으로 상승했으나, OPEC+의 10월 증산 가능성 보도로 상승 폭은 제한됐다. 수입 원유 가격 기준인 두바이유는 전주보다 0.9달러 오른 70....",
+      "link": "https://www.hankyung.com/article/2025090665747",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005181090?sid=101",
+      "host": "hankyung.com",
+      "score": 2.3929,
+      "pubDate": "2025-09-05T22:31:00+00:00"
+    },
+    {
+      "title": "[트렌드 경제] \"국평이 17억\"… 서울 아파트 분양가, ㎡당 2000만원 돌파",
+      "desc": "지난달 서울 민간 아파트 ㎡당 분양가가 처음으로 2000만원을 넘어섰다. 5일 분양평가 전문회사 리얼하우스가 청약홈 자료를 분석한 결과, 8월 서울 아파트의 ㎡(전용면적 기준)당 분양 가격이 2007만원으로...",
+      "link": "http://woman.chosun.com/news/articleView.html?idxno=123011",
+      "naver": "http://woman.chosun.com/news/articleView.html?idxno=123011",
+      "host": "woman.chosun.com",
+      "score": 2.3517,
+      "pubDate": "2025-09-05T22:14:00+00:00"
+    },
+    {
+      "title": "고용냉각·경기둔화 우려…3대 지수 하락 마감 [뉴욕증시 브리핑]",
+      "desc": "미국의 고용 사정이 8월 들어서도 예상 밖으로 악화한 것으로 나타나면서 미국 중앙은행(Fed)이 9월 중 금리 인하에 나서고 최종적인 금리 인하 폭도 더 커질 것이란 기대가 커졌다. 금리 인하 기대 강화에 뉴욕증시...",
+      "link": "https://www.hankyung.com/article/2025090665457",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005181085?sid=101",
+      "host": "hankyung.com",
+      "score": 2.3423,
+      "pubDate": "2025-09-05T22:10:00+00:00"
+    },
+    {
+      "title": "“직원 너무 많으면 언제 파업할지 몰라”…노조 목소리 커질수록 로봇...",
+      "desc": "배당금을 주가로 나눈 배당수익률은 5.45%로, 시중은행 예금 금리의 2배 수준이다. 배당주로서 매력도 충분하다는 평가다. LG전자의 예상 PER과 주가순자산비율(PBR)은 각각 9.11배, 0.64배다. PBR이 1배 미만으로 절대적...",
+      "link": "https://www.mk.co.kr/article/11412688",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005554112?sid=101",
       "host": "mk.co.kr",
-      "score": 2.5204,
-      "pubDate": "2025-09-04T22:01:00+00:00"
+      "score": 2.3232,
+      "pubDate": "2025-09-05T22:43:00+00:00"
     },
     {
-      "title": "대출 규제에도 집값 반등 전망… 고양 ‘더샵포레나’ 분양 관심",
-      "desc": "공동주택 착공 물량은 2021년 58만 호에서 지난해 30만 호 수준으로 감소했고, 내년 수도권 아파트 입주 예정 물량은 올해보다 20% 줄어든 11만 1,287가구에 그칠 전망이다. 이후에도 감소세는 이어져 2029년에는 2만 가구에도...",
-      "link": "http://www.fnnews.com/news/202509021410347249",
-      "naver": "https://n.news.naver.com/mnews/article/014/0005402053?sid=101",
-      "host": "fnnews.com",
-      "score": 2.4585,
-      "pubDate": "2025-09-04T22:57:00+00:00"
-    },
-    {
-      "title": "400세대 넘는 대규모 아파트 통째로 공매",
-      "desc": "침체된 부동산 시장에서 분양 전략이 실패하자 자금을 일부 회수하기 위한 시도라는 분석도 나옵니다.... 부동산 시장 침체로 인한 대규모 미분양이 영향을 미친 것으로 보입니다. 2023년 진행된 청약에선 84제곱미터 기준...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8349515&ref=A",
-      "naver": "https://n.news.naver.com/mnews/article/056/0012023165?sid=101",
-      "host": "news.kbs.co.kr",
-      "score": 2.4558,
-      "pubDate": "2025-09-04T22:56:00+00:00"
-    },
-    {
-      "title": "'아크로드 서초'·'래미안 트리니원' 출격준비…분양시장 달구나",
-      "desc": "양호한 청약 경쟁률을 기록하며 수요를 확인하면서다. 일정을 미뤘던 수도권 단지들 역시 속속 올 하반기... 통상 분양가 심의 이후 한 두달 이내 분양 공고가 이뤄지는 만큼, 이르면 11월께 래미안 트리니원 청약이...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01469446642297168",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006107561?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.4379,
-      "pubDate": "2025-09-04T20:01:00+00:00"
-    },
-    {
-      "title": "'채권 자경단' 피한 미국 국채…의외의 승자로 부상",
-      "desc": "올해 들어 미국 10년물 국채 금리는 0.3%포인트 넘게 하락하며 주요 선진국 가운데 유일하게 중장기 금리가 낮아졌다. 30년물도 미국은 0.125%포인트 상승에 그친 반면, 영국·프랑스·일본은 각각 0.5~1%포인트 급등했다....",
-      "link": "https://www.hankyung.com/article/202509054228i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005180582?sid=104",
-      "host": "hankyung.com",
-      "score": 2.4092,
-      "pubDate": "2025-09-04T22:38:00+00:00"
-    },
-    {
-      "title": "S&P, 국채 금리 하락에 사상 최고치 기록 [뉴욕증시 모닝브리핑]",
-      "desc": "5일 발표 예정인 고용보고서를 앞두고 국채 금리가 하락하면서 주요 지수들이 반등한 영향이다. 특히 S&P... 이번 주 국채시장에서 미 국채 금리가 하락한 것은 미국 중앙은행(Fed)가 곧 금리를 인하할 것이라는...",
-      "link": "https://www.hankyung.com/article/202509054213i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005180578?sid=104",
-      "host": "hankyung.com",
-      "score": 2.3843,
-      "pubDate": "2025-09-04T22:28:00+00:00"
-    },
-    {
-      "title": "[마켓뷰] 금리인하 기대에 美증시 상승…코스피도 강세 이어갈까",
-      "desc": "오늘 밤 미국 고용보고서 발표 앞두고 '눈치보기 장세' 가능성도 미 국채금리 이틀 연속 하향 안정…금 시세도 신고가 행진 멈춰 미국 연방준비제도(Fed·연준)의 기준금리 인하 기대감에 뉴욕 증시가 상승...",
-      "link": "https://www.yna.co.kr/view/AKR20250905014800008?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015606943?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.3168,
-      "pubDate": "2025-09-04T22:41:00+00:00"
-    },
-    {
-      "title": "가시화하는 美 고용시장 둔화 신호…\"연준, 금리 얼마나 내릴까\"[채권브...",
-      "desc": "5일 국내 국고채 시장은 간밤 미국채 흐름 등을 반영하며 강세(금리 하락) 출발할 것으로 예상된다. 채권의 금리와 가격은 반대로 움직인다. 이날 밤에는 시장의 이목이 쏠린 미국의 8월 고용보고서가 발표된다....",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02450166642297168",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006107634?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2382,
-      "pubDate": "2025-09-04T23:08:00+00:00"
-    },
-    {
-      "title": "미분양 이미 많은데…부산 아파트 청약 또 미달",
-      "desc": "5일 한국부동산원 청약홈에 따르면 부산 강서구 강동동에 들어서는 '에코델타시티 푸르지오 트레파크'는... 부동산R114에 따르면 부산의 올해 상반기 기준 청약 경쟁률은 평균 0.4대 1에 불과하다. 전남(0.1대 1)에 이어...",
-      "link": "https://www.etoday.co.kr/news/view/2503308",
-      "naver": "https://www.etoday.co.kr/news/view/2503308",
+      "title": "[분양 캘린더] 9월 둘째 주 ‘천안아이파크시티2단지’ 등 5512가구 분양",
+      "desc": "◇청약 단지(10곳) 부동산 정보업체 부동산R114에 따르면 9월 둘째 주에는 전국 10개 단지 총 5512가구(일반분양 3215가구)가 분양을 시작한다. 9일에는 경기 수원시 '망포역푸르지오르마크', 인천 미추홀구...",
+      "link": "https://www.etoday.co.kr/news/view/2503685",
+      "naver": "https://www.etoday.co.kr/news/view/2503685",
       "host": "etoday.co.kr",
-      "score": 2.1964,
-      "pubDate": "2025-09-04T21:02:00+00:00"
+      "score": 2.3193,
+      "pubDate": "2025-09-05T22:00:00+00:00"
     },
     {
-      "title": "자본잠식 가구회사가 장외 유망 바이오주, 상폐 기업까지 사들인다... 배...",
-      "desc": "유상증자 청약·납입일은 이달 8일이다. 코아스는 3일 또 다른 투자 계획을 발표했다. 한국거래소로부터 상장폐지 결정을 받아 정리매매가 이뤄지고 있는 이화전기·이아이디·이트론 등 이화그룹주 3개 회사의 주식을...",
-      "link": "https://biz.chosun.com/stock/2025/09/05/AUEVQQ6AQNE2ZIMB4WVONFBUAA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001105588?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.1945,
-      "pubDate": "2025-09-04T21:01:00+00:00"
+      "title": "“신종자본증권에 빠진 금융社”…금광 ETF, 금값보다 3배 올랐다 [AI 프...",
+      "desc": "금리 인하기 진입으로 자금 조달 비용이 낮아지고 회계상 자본으로 분류되는 만큼 재무 건전성... 공모 희망 금리는 연 4.00~4.50%로 최대 1300억 원까지 증액을 고려하고 있으며, 영구채 발행은 다음 달 16일...",
+      "link": "https://www.sedaily.com/NewsView/2GXSP8F34R",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004529855?sid=101",
+      "host": "sedaily.com",
+      "score": 2.2979,
+      "pubDate": "2025-09-05T23:11:00+00:00"
     },
     {
-      "title": "[체험기] SNS 유명 과일업체 주문했더니… 상한 복숭아 12개 배송에 구매...",
-      "desc": "이내에 청약을 철회할 수 있다고 규정한다. 환급은 제품 반환일로부터 3영업일 이내다. 같은 법 제21조엔 청약 철회 환급을 거부·지연하는 사업자에 대한 과태료 및 시정 조치도 규정돼 있다. 공정거래위원회 관계자는...",
-      "link": "https://biz.chosun.com/distribution/food/2025/09/05/SNAKZQCDFREETIHOLKEPKE4YZU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001105594?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.1945,
-      "pubDate": "2025-09-04T21:01:00+00:00"
+      "title": "내주 전국 5512가구 분양...서울 소규모 단지 2곳 청약",
+      "desc": "6일 부동산R114에 따르면 9월 둘째 주에는 전국 10개 단지에서 총 5512가구(일반분양 3천215가구)가 분양을 시작한다. 사진=유토이미지 서울에서는 소규모 단지 2곳에서 분양한다. 영등포구 '대방역 여의도 더로드캐슬...",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=675480",
+      "naver": "https://www.slist.kr/news/articleView.html?idxno=675480",
+      "host": "slist.kr",
+      "score": 2.2622,
+      "pubDate": "2025-09-05T21:34:00+00:00"
     },
     {
-      "title": "서울 전세매물 3개월 새 8% 감소…'전셋값' 상승 압력 커졌다",
-      "desc": "9월과 10월 두 달 동안 서울에서 분양을 통해 공급되는 신규 입주 물량은 6곳 1118가구에 그쳐 대단지 아파트 한 곳 규모에 불과하다. 악화된 수급 불균형을 해소하기 어려운 구조다. 여기에 6·27 대출 규제로 매매...",
-      "link": "https://www.news1.kr/realestate/general/5901966",
-      "naver": "https://n.news.naver.com/mnews/article/421/0008467814?sid=101",
-      "host": "news1.kr",
-      "score": 2.1944,
-      "pubDate": "2025-09-04T20:05:00+00:00"
+      "title": "“백악관 있다가 가끔 연준 출근해”…측근 ‘겸직’시킨 트럼프, 금리...",
+      "desc": "악화에 금리인하 무게 연방준비제도(Fed·연준) 이사로 새로 합류할 스티븐 마이런 백악관... 연준 내 금리 인하파가 늘어나고 악화된 고용지표들이 잇달아 발표되면서 9월 연방공개시장위원회(FOMC)에서 기준금리 인하는...",
+      "link": "https://www.mk.co.kr/article/11412683",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005554109?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.2447,
+      "pubDate": "2025-09-05T22:11:00+00:00"
     },
     {
-      "title": "[취재파일] 나흘 만에 16억…보이스피싱, '아직도 속냐'는 냉소에 대하...",
-      "desc": "금융사의 비용 부담이 고객 수수료나 대출 금리에 전가되는 부작용이 있을 수도 있습니다. 또 소비자가 범죄 예방을 위해 주의 노력을 얼마나 기울였는지 평가하기 애매해 분쟁이 늘어날 것이라는 전망도 있습니다. 핵심은...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008242611&plink=ORI&cooper=NAVER",
-      "naver": "https://n.news.naver.com/mnews/article/055/0001289903?sid=101",
-      "host": "news.sbs.co.kr",
-      "score": 2.1692,
-      "pubDate": "2025-09-04T23:01:00+00:00"
+      "title": "“금융계 블루오션 ‘대한외국인’ 시장, 해외송금·신용대출·맞춤상품...",
+      "desc": "해외송금·신용대출·국적별 맞춤상품을 강화해야 한다는 제언이 나왔다. 외국 금융사들이 글로벌 핀테크... 신용대출도 불가하다는 점이다. 글로벌 은행은 외국인 근로자·이민자 등 새롭게 부상하는 고객 요구에...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01666246642297496",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006108676?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.2205,
+      "pubDate": "2025-09-05T23:01:00+00:00"
     },
     {
-      "title": "은행 중기대출 확대 불가피…성패 갈림길은 '리스크 관리'",
-      "desc": "[연합뉴스]  기준금리 인하 기조와 정부의 '상생금융' 정책이 맞물리면서 은행권 중소기업 대출 금리가 빠르게 낮아지고 있다. 기준금리는 한국은행이 시중 자금 흐름을 조절하기 위해 정하는 대표 금리로, 대출 금리에...",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=102982",
-      "naver": "https://www.ziksir.com/news/articleView.html?idxno=102982",
-      "host": "ziksir.com",
-      "score": 2.1665,
-      "pubDate": "2025-09-04T23:00:00+00:00"
-    },
-    {
-      "title": "국내 은행 부실채권 비율 0.59%…3년째 상승세 계속",
-      "desc": "주택담보대출(0.23%)은 0.01%포인트 상승했고, 기타 신용대출은 0.01%포인트 하락했다. 신용카드채권 부실채권비율(1.93%)은 같은 기간 0.08%포인트 내렸다. 금감원은 “향후 신용위험 확대 가능성에 대비해...",
-      "link": "https://www.khan.co.kr/article/202509050759001",
-      "naver": "https://n.news.naver.com/mnews/article/032/0003394456?sid=101",
+      "title": "주유소 기름값 4주 연속 하락…“다음주 상승 전망”",
+      "desc": "이번 주 국제유가는 중동 내 지정학 리스크 고조, 미국 연준의 금리 인하 기대 등으로 상승했지만 OPEC+의 10월 증산 가능성 보도로 상승 폭이 제한됐다. 수입 원유 가격 기준인 두바이유는 전주보다 0.9달러 오른 70....",
+      "link": "https://www.khan.co.kr/article/202509060757001",
+      "naver": "https://n.news.naver.com/mnews/article/032/0003394606?sid=101",
       "host": "khan.co.kr",
-      "score": 2.1638,
-      "pubDate": "2025-09-04T22:59:00+00:00"
+      "score": 2.1598,
+      "pubDate": "2025-09-05T22:57:00+00:00"
     },
     {
-      "title": "코미디언 이수지, ‘청탁 루머’에 발끈… “실력으로 인정받은 것”",
-      "desc": "한편 이수지는 지난해 경기 파주에서 4억 원대 주택을 분양받으려다 사기를 당해 전 재산을 잃은 바 있다. 최근 방송 ‘관상학개론’에서는 “죽을 때까지 집은 사지 않겠다. 두 번 다시 사기 당하지 않을 거다. 전세로...",
-      "link": "https://isplus.com/article/view/isp202509050010",
-      "naver": "https://m.entertain.naver.com/article/241/0003464373",
-      "host": "isplus.com",
-      "score": 2.1558,
-      "pubDate": "2025-09-04T22:56:00+00:00"
+      "title": "의정부시의회, 5일 제338회 임시회 폐회...39개 안건 심의·의결",
+      "desc": "3명) △의정부시 전세사기 예방 및 안전전세 관리단 운영 조례안(김태은 의원 외 9명) 등이다.의정부시의회는 다음 달 28일부터 11월 6일까지 10일간의 일정으로 제339회 임시회를 열어 2025년도 행정사무감사 조치현황...",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20250906010003388",
+      "naver": "https://www.asiatoday.co.kr/view.php?key=20250906010003388",
+      "host": "asiatoday.co.kr",
+      "score": 2.1518,
+      "pubDate": "2025-09-05T22:54:00+00:00"
     },
     {
-      "title": "\"서산 소상공인 자금난 푼다\"…충남신보·하나銀·서산시, 72억원 특례보...",
-      "desc": "저금리로 공급한다는 계획이다. 지원대상은 서산시 관내 소상공인으로 보증금액은 업체당 최대 5000만원까지 지원한다. 대출금리는 2%대 후반으로 보증기간은 최대 5년까지 설정 가능해 소상공인의 금융비용 부담을...",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=710205",
-      "naver": "https://www.econovill.com/news/articleView.html?idxno=710205",
-      "host": "econovill.com",
-      "score": 2.1505,
-      "pubDate": "2025-09-04T22:54:00+00:00"
+      "title": "뉴욕증시, 美 고용 쇼크·경기둔화 우려에 하락",
+      "desc": "미국의 고용 사정이 8월 들어서도 예상 밖으로 악화한 것으로 나타나면서 연방준비제도(Fed·연준)가 9월 중 금리 인하에 나서고 최종적인 금리 인하 폭도 더 커질 것이라는 기대감이 커졌다. 금리 인하에 대한...",
+      "link": "https://biz.chosun.com/international/international_economy/2025/09/06/2FE2U62HNVFJNDBTDT45ELV6FY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001105905?sid=104",
+      "host": "biz.chosun.com",
+      "score": 2.133,
+      "pubDate": "2025-09-05T22:06:00+00:00"
+    },
+    {
+      "title": "전세 급감, 월세 치솟는다…“서민 집값 스트레스 최고조”[주형연의 에...",
+      "desc": "최근 부동산 시장에서 가장 눈에 띄는 현상 중 하나는 ‘전세의 월세화’입니다. 정부의 대출 규제 강화와... KB부동산 전세거래지수는 기준선인 100을 한참 밑도는 30대까지 하락했습니다. 이는 전세 거래가 급격히 줄어든...",
+      "link": "https://www.dt.co.kr/article/12016244?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/029/0002980465?sid=101",
+      "host": "dt.co.kr",
+      "score": 2.1193,
+      "pubDate": "2025-09-05T22:00:00+00:00"
+    },
+    {
+      "title": "미국 주택담보대출 금리 하락세 지속",
+      "desc": "한편, 부동산회사 리얼터닷컴의 최근 보고서에 따르면 미국 주택시장의 주택 중 일반 가구가 감당할 수 있는 가격대의 주택은 30% 미만인 것으로 조사됐다. 8월 기준 시장에 나와 있는 주택 중 일반 가구가 감당할 수...",
+      "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=153598",
+      "naver": "http://www.choicenews.co.kr/news/articleView.html?idxno=153598",
+      "host": "choicenews.co.kr",
+      "score": 2.1105,
+      "pubDate": "2025-09-05T22:38:00+00:00"
+    },
+    {
+      "title": "대전시 금고 운용사 공모에 농협·하나은행 2곳 신청",
+      "desc": "대전시는 금고지정심의위원회를 구성해 금융기관의 대내외적 신용도 및 재무구조의 안전성, 대출 및 예금금리, 시민 이용 편의성, 금고 업무 관리능력 등을 평가해 제1금고와 제2금고를 지정한다. 시는 오는 9월 금고 지정...",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=195016",
+      "naver": "https://www.tfmedia.co.kr/news/article.html?no=195016",
+      "host": "tfmedia.co.kr",
+      "score": 2.1054,
+      "pubDate": "2025-09-05T22:36:00+00:00"
+    },
+    {
+      "title": "IBK기업은행, 7.5조원 규모 소상공인 지원 프로그램 운영",
+      "desc": "금리 감면, 신용·기술보증기금 보증 등을 통한 저금리 대출 등이 주요 지원 방식이다. IBK기업은행 관계자는 \"내수 부진, 고물가 등으로 위기를 겪는 소상공인을 위해 지원 프로그램을 운영하고 있다\"며 \"앞으로도...",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=195015",
+      "naver": "https://www.tfmedia.co.kr/news/article.html?no=195015",
+      "host": "tfmedia.co.kr",
+      "score": 2.0905,
+      "pubDate": "2025-09-05T22:30:00+00:00"
     }
   ]
 }
