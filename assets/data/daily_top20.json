@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2025-12-05T23:13:49.195087Z",
+  "generatedAt": "2025-12-06T23:12:45.531527Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "[부동산캘린더] 전국 1만여가구 공급…남양주왕숙 2개 블록 본청약",
-      "desc": "6일 부동산R114에 따르면 12월 둘째 주에는 전국 10개 단지에서 총 1만2가구(일반분양 3천646가구)가... ※ ♣=오피스텔 ※ 서수원에피트센트럴마크(M1·M2)는 1개 단지로 취급 [부동산R114 제공]",
-      "link": "https://www.yna.co.kr/view/AKR20251205128500003?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015782012?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.6897,
-      "pubDate": "2025-12-05T21:00:00+00:00"
-    },
-    {
-      "title": "[정보근 변호사의 부동산 법을 부탁해]부동산 취득 관련 법률",
-      "desc": "부동산이 우리 삶의 큰 부분을 차지하는 만큼 부동산 관련 법률도 우리 일상 속에 깊이 자리하고 있다. 인기 드라마 ‘서울 자가에 대기업 다니는 김부장’에서 김부장은 소위 분양사기를 당한다. 퇴직금 전부에 대출까지...",
-      "link": "https://www.sedaily.com/NewsView/2H1MIURGCT",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004564197?sid=102",
-      "host": "sedaily.com",
-      "score": 2.6653,
-      "pubDate": "2025-12-05T23:01:00+00:00"
-    },
-    {
-      "title": "[부동산캘린더] 전국 10곳 3172가구 분양…3기 신도시 포함",
-      "desc": "6일 부동산 전문 리서치업체 리얼투데이에 따르면 12월 둘째 주에는 민간참여 공공분양·공공분양·공공지원 민간임대를 포함한 총 3172가구(행복주택 제외)의 청약 접수가 진행된다. 수도권에서는 3기 신도시...",
-      "link": "https://dealsite.co.kr/articles/152840",
-      "naver": "https://dealsite.co.kr/articles/152840",
-      "host": "dealsite.co.kr",
-      "score": 2.4788,
-      "pubDate": "2025-12-05T23:06:00+00:00"
-    },
-    {
-      "title": "'창원센트럴아이파크' 등 전국 10개 단지 분양…1만 2가구 청약 돌입",
-      "desc": "6일 부동산R114에 따르면 12월 둘째 주에는 전국 10개 단지 총 1만 2가구(일반분양 3646가구)가 공급된다. 경기 남양주시 진접읍 '남양주왕숙B-17' (공공분양), 경기 군포시 대야미동 '군포대야미A-2신혼희망타운'(공공분양)...",
-      "link": "https://www.news1.kr/realestate/general/5999797",
-      "naver": "https://n.news.naver.com/mnews/article/421/0008646363?sid=101",
-      "host": "news1.kr",
-      "score": 2.4626,
-      "pubDate": "2025-12-05T23:00:00+00:00"
-    },
-    {
-      "title": "위장전입·위장이혼에 청약자격 매매까지…부정청약 천태만상 [많이 본...",
-      "desc": "올 상반기 수도권 분양단지에 들어가기 위해 위법한 방법으로 청약에 나선 사례가 대거 적발됐습니다. 위장전입, 위장이혼, 이런 방법은 클래식이고요. 국가유공자를 매수해 불법 청약에 나선 브로커도 있었습니다. 진짜...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000276549?division=NAVER",
-      "naver": "https://n.news.naver.com/mnews/article/374/0000479088?sid=101",
-      "host": "biz.sbs.co.kr",
-      "score": 2.4626,
-      "pubDate": "2025-12-05T23:00:00+00:00"
-    },
-    {
-      "title": "[머니플로우] 고환율 부담에 일주일새 美주식 매수 절반으로 '뚝'",
-      "desc": "(Fed·연준)의 금리 인하 등을 주목해야 할 포인트로 짚었다. 한편 이달 들어 국내 투자자들이 급격히 주워... 이달 미국 연방준비제도(Fed·연준)가 금리 인하를 앞둔 상황에서 단기채 금리 하락으로 차익 실현을...",
-      "link": "https://www.yna.co.kr/view/AKR20251205067400008?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015782079?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.3626,
-      "pubDate": "2025-12-05T23:00:00+00:00"
-    },
-    {
-      "title": "[분양 캘린더] 12월 둘째 주, 전국 3172가구 청약...3기 왕숙신도시 본청...",
-      "desc": "6일 부동산 전문 리서치업체 리얼투데이에 따르면, 12월 둘째 주에는 전국 10곳, 총 3172가구(민간참여 공공분양·공공분양·공공지원 민간임대 포함, 행복주택 제외)의 청약 접수가 진행된다. 다음 주는 수도권 3기...",
-      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=409878",
-      "naver": "https://www.bizwork.co.kr/news/articleView.html?idxno=409878",
-      "host": "bizwork.co.kr",
-      "score": 2.3519,
-      "pubDate": "2025-12-05T22:16:00+00:00"
-    },
-    {
-      "title": "규제 피한 '실수요자·생초' 대출…내집마련 틈새 노려라[S money+]",
-      "desc": "30대의 생애 첫 부동산 구매 비율은 2020년 47%까지 상승한 뒤 부동산 시장이 침체되면서 2022년 36.7%로 내려갔다. 서울 자치구별로 살펴보면 성북구에서 상월곡동과 하월곡동 인근의 아파트에 내 집 마련 매수세가...",
-      "link": "https://www.sedaily.com/NewsView/2H1MHLNQB3",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004564174?sid=101",
-      "host": "sedaily.com",
-      "score": 2.3171,
-      "pubDate": "2025-12-05T22:01:00+00:00"
-    },
-    {
-      "title": "[분양 캘린더] 12월 둘째 주 ‘창원센트럴아이파크’ 등 1만2가구 분양",
-      "desc": "◇청약 단지(10곳) 부동산 정보업체 부동산R114에 따르면 12월 둘째 주에는 전국 10개 단지 총 1만2가구(일반분양 3646가구)가 분양을 시작한다. 9일에는 경남 창원시 '창원센트럴아이파크'에서 1순위 청약을 진행한다....",
-      "link": "https://www.etoday.co.kr/news/view/2533253",
-      "naver": "https://www.etoday.co.kr/news/view/2533253",
-      "host": "etoday.co.kr",
-      "score": 2.3148,
-      "pubDate": "2025-12-05T22:00:00+00:00"
-    },
-    {
-      "title": "내주 전국 1만여가구 공급…남양주왕숙 2개 블록 본청약",
-      "desc": "6일 부동산R114에 따르면 12월 둘째 주에는 전국 10개 단지에서 총 1만2가구(일반분양 3천646가구)가 분양한다. 사진=유토이미지 주요 단지별로 경기 남양주시 진접읍 '남양주 왕숙지구 A-24·B-17블록', 경기 군포시...",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=699556",
-      "naver": "https://www.slist.kr/news/articleView.html?idxno=699556",
-      "host": "slist.kr",
-      "score": 2.3014,
-      "pubDate": "2025-12-05T21:54:00+00:00"
-    },
-    {
-      "title": "6주 연속 치솟은 기름값…\"다음 주 소폭 하락 전환 예상\"",
-      "desc": "이번 주 국제유가는 미국과 러시아 간 러시아-우크라이나 평화협상 교착, 미국 연준의 12월 금리 인하에 대한 시장 기대 확대 등으로 상승했다. 수입 원유 가격 기준인 두바이유는 지난주보다 0.3달러 오른 63....",
-      "link": "https://www.hankyung.com/article/2025120673697",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005220949?sid=101",
+      "title": "주담대 금리 한 달 만에…'어쩌나' 잠 설치는 영끌족",
+      "desc": "시장금리를 반영한 은행권 대출금리가 기조적 인상 흐름으로 돌아서면서 '영끌족'들의 긴장이 이어지고 있다. 7일 금융권에 따르면 KB국민·신한·하나·우리은행의 4일 기준 주택담보대출 혼합형(고정) 금리...",
+      "link": "https://www.hankyung.com/article/2025120779337",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005221037?sid=101",
       "host": "hankyung.com",
-      "score": 2.2751,
-      "pubDate": "2025-12-05T21:42:00+00:00"
+      "score": 2.6521,
+      "pubDate": "2025-12-06T22:15:00+00:00"
     },
     {
-      "title": "아파트 시장, ‘가성비 실수요 시대’ 열린다 [2026 대예측포럼]",
-      "desc": "핵심 지역 대단지 신축 아파트는 여전히 선호도가 높지만, 대출·청약·다주택 규제 강화로 다주택자가... 크며 청약 시장, 중저가 주택 시장, 정비사업을 진행 중인 노후 주택 시장이 활성화될 여지가 있다”고 말했다. 2026...",
-      "link": "https://www.mk.co.kr/article/11485523",
-      "naver": "https://n.news.naver.com/mnews/article/024/0000101840?sid=101",
+      "title": "[부동산 캘린더] 내주 3172가구 공급…\"3기 왕숙신도시 본청약\"",
+      "desc": "부동산 전문 리서치업체 리얼투데이에 따르면, 수도권에서는 남양주시 진접읍 ‘남양주왕숙A24 신혼희망타운’(164가구), ‘남양주왕숙B17’(88가구) 등이 청약을 앞뒀다. 또한 공공택지에서 민간분양을 진행하는...",
+      "link": "https://www.sentv.co.kr/article/view/sentv202512050059",
+      "naver": "https://www.sentv.co.kr/article/view/sentv202512050059",
+      "host": "sentv.co.kr",
+      "score": 2.4709,
+      "pubDate": "2025-12-06T23:02:00+00:00"
+    },
+    {
+      "title": "美 금리 내릴까…코스피, FOMC 앞두고 방향성 탐색 [주간전망]",
+      "desc": "기준금리 결정을 지켜보면서 방향성 탐색에 나설 것으로 전망했다. NH투자증권은 7일 이번주 코스피지수가 3850~4200선 사이에서 움직일 것으로 예상했다. 이 증권사 나정환 연구원은 \"미 Fed 기준금리 발표와 미국 주요...",
+      "link": "https://www.hankyung.com/article/2025120569186",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005221041?sid=101",
+      "host": "hankyung.com",
+      "score": 2.4682,
+      "pubDate": "2025-12-06T23:01:00+00:00"
+    },
+    {
+      "title": "온기 번지는 공모주 시장…4분기 새내기주 평균 130% 상승",
+      "desc": "의무보유확약은 공모주 청약을 진행할 때 수요예측에 참여하는 기관투자자가 공모주를 배정받은 뒤에도 일정 기간 보유하겠다고 하는 자발적 약속이다. 금융당국은 기관 투자자들이 공모주 '단타'로 IPO 시장을...",
+      "link": "https://www.yna.co.kr/view/AKR20251205158000008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015782473?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.4521,
+      "pubDate": "2025-12-06T22:15:00+00:00"
+    },
+    {
+      "title": "고환율에 수입물가 더 뛰었나…美 연준 기준금리 결정 [한동훈의 위클리...",
+      "desc": "은행권 가계대출 증가 폭은 지난 6월 6조 2000억 원에서 6·27 부동산 대책 영향으로 9월 1조 9000억 원까지 떨어졌다가 10월에 다시 3조 5000억원으로 늘었다. 10·15 부동산 대책을 앞두고 주택 거래가 몰리면서 계약금...",
+      "link": "https://www.sedaily.com/NewsView/2H1MZ3EGAF",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004564300?sid=101",
+      "host": "sedaily.com",
+      "score": 2.4196,
+      "pubDate": "2025-12-06T22:01:00+00:00"
+    },
+    {
+      "title": "위기 속 믿을 구석…방향성 제시한 정진완 우리은행장[CEO열전]①",
+      "desc": "혁신 : 대고객·내부 업무에도 AI…AX 혁신 박차 우리은행은 지난해 ‘AI예적금상담원’, ‘AI대출상담원’에 이어 최근 ‘AI청약상담원’을 출시하며 대고객 AI 서비스를 확장하고 있다. 청약상담원 서비스는 지난 1월...",
+      "link": "https://economist.co.kr/article/view/ecn202512010074",
+      "naver": "https://n.news.naver.com/mnews/article/243/0000089223?sid=101",
+      "host": "economist.co.kr",
+      "score": 2.3655,
+      "pubDate": "2025-12-06T23:00:00+00:00"
+    },
+    {
+      "title": "‘오픈런’ 하면 소득 없어도 2%대로 대출…새해 국민연금 ‘이것’ 확...",
+      "desc": "“반전세 보증금을 올려 달라는 집주인 성화에 목돈 마련이 쉽지 않았는데 연 2%대로 국민연금 ‘긴급자금대출’ 1000만원을 받아 겨우 한고비 넘겼어요.”(70대 이모 씨) 이모 씨는 ‘급전 창구’로 불리는 국민연금공단의...",
+      "link": "https://www.mk.co.kr/article/11483406",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005601968?sid=101",
       "host": "mk.co.kr",
-      "score": 2.2153,
-      "pubDate": "2025-12-05T10:16:00+00:00"
+      "score": 2.3499,
+      "pubDate": "2025-12-06T21:29:00+00:00"
     },
     {
-      "title": "대표이사 사재 출연도 역부족...코난테크놀로지, 자금난 해소 '난망'",
-      "desc": "특히 김영섬 대표는 신주인수권의 최대 20%까지 가능한 초과청약을 단행했다. 김영섬 대표는 유상증자에 참여하기 위해 30억원 규모의 추가 주식담보대출을 받기까지 했다. 현재 김영섬 대표의 주식담보대출 규모는...",
-      "link": "https://www.newspim.com/news/view/20251204001080",
-      "naver": "https://www.newspim.com/news/view/20251204001080",
+      "title": "\"강남 아파트 얼른 손자 줘야지\"…서울 아파트, 미리 물려주는 '증여 전...",
+      "desc": "서울 부동산의 상승장 속에서도 매매 대신 증여를 선택하는 사례가 크게 늘고 있다. 세금 부담과 규제 강화... 부동산 업계는 이를 두고 “매매 규제와 세 부담이 증여 수요를 끌어올린 것”이라는 진단을 내놓고 있다....",
+      "link": "https://www.sedaily.com/NewsView/2H1MYR93OO",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004564304?sid=101",
+      "host": "sedaily.com",
+      "score": 2.3391,
+      "pubDate": "2025-12-06T22:50:00+00:00"
+    },
+    {
+      "title": "[마켓인사이트] 美연준으로 쏠리는 눈길…유동성 랠리 속도낼까",
+      "desc": "금주 코스피는 미국 연방준비제도(Fed·연준)의 금리 결정을 앞둔 경계감 속에 추가 상승 여부를 타진할... 그간 시장을 짓누르던 '인공지능(AI) 버블' 논쟁이 한풀 꺾이고, 연준의 금리인하 사이클이 둔화할 수...",
+      "link": "https://www.yna.co.kr/view/AKR20251205157200008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015782462?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.2173,
+      "pubDate": "2025-12-06T22:00:00+00:00"
+    },
+    {
+      "title": "“만점 청약통장 여기에 쓰면 되는거죠?”…서울 알짜단지 내년에 총출...",
+      "desc": "부동산R114에 따르면 올해(1월 1일~11월 30일) 서울지역 1순위 청약 신청자는 27만5766명에 달했고, 평균 경쟁률은 146.21대1이었다. 지난해(115.08대1)보다 더 높아진 수치다. 2026년에도 실수요자라면 청약시장에 관심을 계속...",
+      "link": "https://www.mk.co.kr/article/11485832",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005601960?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.1988,
+      "pubDate": "2025-12-06T20:08:00+00:00"
+    },
+    {
+      "title": "입지가 성적 갈랐다…같은 김포지만 풍무 '흥행'·걸포북변 '부진'",
+      "desc": "◆ 생활 인프라·개발 기대감에 풍무역세권 수요 집중 7일 업계에 따르면 김포 분양시장은 생활권 숙성도에 따라 단지별 청약 결과 양극화가 뚜렷해질 것이란 전망이 나온다. 지난달 말 청약을 진행한 '김포북변 칸타빌...",
+      "link": "https://www.newspim.com/news/view/20251205000694",
+      "naver": "https://www.newspim.com/news/view/20251205000694",
       "host": "newspim.com",
-      "score": 2.2148,
-      "pubDate": "2025-12-05T22:00:00+00:00"
+      "score": 2.1918,
+      "pubDate": "2025-12-06T21:00:00+00:00"
     },
     {
-      "title": "외국인 석 달 만에 ‘셀 코리아’ 돌아서나…11월 동향 주목[한은 미리...",
-      "desc": "10·15 추가 부동산 대책을 앞두고 주택거래가 먼저 이뤄지면서 계약금 등의 선수요가 있었던 영향이다. 11월에도 가계대출은 증가세가 이뤄질 가능성이 크다. 박민철 한은 시장총괄팀 차장은 지난달 “11월...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01685926642395896",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006178666?sid=101",
+      "title": "\"자고 나면 뛰어 오르네\"…영끌족, 이젠 어쩌지 '멘붕'",
+      "desc": "은행권 대출금리가 인상 흐름으로 돌아선 가운데 금리 폭도 커지고 있다. 7일 금융권에 따르면, KB국민·신한·하나·우리은행의 4일 기준 주택담보대출 혼합형(고정) 금리(은행채 5년물 기준)는 연 4.120∼6.200...",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202512070028&t=NN",
+      "naver": "https://n.news.naver.com/mnews/article/215/0001233657?sid=004",
+      "host": "wowtv.co.kr",
+      "score": 2.1522,
+      "pubDate": "2025-12-06T22:55:00+00:00"
+    },
+    {
+      "title": "\"월급 들어온 날 절반이 은행으로\"...식은 땀 나는 '영끌족'",
+      "desc": "시장금리를 반영한 은행권 대출금리가 기조적 인상 흐름으로 돌아서면서 '영끌족'들의 긴장이 이어지고 있습니다. 7일 금융권에 따르면 KB국민·신한·하나·우리은행의 4일 기준 주택담보대출 혼합형(고정) 금리...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000276902?division=NAVER",
+      "naver": "https://n.news.naver.com/mnews/article/374/0000479134?sid=101",
+      "host": "biz.sbs.co.kr",
+      "score": 2.1159,
+      "pubDate": "2025-12-06T22:41:00+00:00"
+    },
+    {
+      "title": "국민연금 年 2%대·1000만원 받았는데...새해 바뀐다고?",
+      "desc": "저금리로 이자 부담을 덜 수 있어 노년층 서민들에게 ‘감로수’ 역할을 톡톡히 하고 있습니다. 연간 국민연금 수령액의 2배 이내에서 최대 1000만원의 실사용 비용을 빌릴 수 있습니다. 그러나 대출금리가 낮고 기초...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000276901?division=NAVER",
+      "naver": "https://n.news.naver.com/mnews/article/374/0000479132?sid=101",
+      "host": "biz.sbs.co.kr",
+      "score": 2.0933,
+      "pubDate": "2025-12-06T22:32:00+00:00"
+    },
+    {
+      "title": "24개월 최고 연 5.15%, 제주은행 'MZ 플랜적금' [이주의 은행 적금금리-...",
+      "desc": "우대 조건은 ▲소득이체 연 0.6%p ▲카드이용 연 0.3%p ▲오픈뱅킹 연 0.6%p ▲청약보유 연 0.3%p ▲마케팅 동의 연 0.1%p 등이다. 가입 한도는 월 300만원 이하며 1인 다계좌 개설 가능하다. 국민은행...",
+      "link": "http://www.fntimes.com/html/view.php?ud=2025120514261812515e6e69892f_18",
+      "naver": "http://www.fntimes.com/html/view.php?ud=2025120514261812515e6e69892f_18",
+      "host": "fntimes.com",
+      "score": 2.0918,
+      "pubDate": "2025-12-06T21:00:00+00:00"
+    },
+    {
+      "title": "올해 마지막 미국 FOMC…원·달러 환율, 방향성 전환하나[주간외환전망...",
+      "desc": "올해 마지막 미국 연방공개시장위원회(FOMC) 이벤트에서 기준금리 인하가 기정사실화한 가운데 달러 약세 전환에 따른 원·달러 환율의 소폭 하락이 예상된다. 기준금리 인하로 미국 증시가 재차 상승할 경우 해외 투자...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01102086642396224",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006178799?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.2126,
-      "pubDate": "2025-12-05T23:00:00+00:00"
+      "score": 2.0673,
+      "pubDate": "2025-12-06T22:00:00+00:00"
     },
     {
-      "title": "뉴욕증시, 금리인하 기대에 상승 마감… 나스닥 0.3%↑",
-      "desc": "뉴욕증시의 주요 지수가 다음주 연방준비제도(Fed·연준)의 기준금리 결정을 앞두고 상승 마감했다.... 다음주 연준의 연방공개시장위원회(FOMC) 회의를 앞두고 금리 인하 기대가 강화되며 주가 상승을...",
-      "link": "https://biz.chosun.com/international/international_economy/2025/12/06/MEA7DZQ5WZB6BKCJ36L4GAWAV4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001128437?sid=104",
-      "host": "biz.chosun.com",
-      "score": 2.1955,
-      "pubDate": "2025-12-05T22:34:00+00:00"
+      "title": "20대 사회초년생 \"막 취업, 월급 330만원인데...3년 뒤 결혼 준비 어떻게...",
+      "desc": "저축은 아직 청약 2만원씩만 하고 있다. 비정기 지출로 나가는 연간 비용은 아직 파악 전이다. 자산은 입출금통장(50만원), 청약저축(100만원) 등 600만원이 있다. 부채는 200만원이다. 7일 금융감독원에 따르면 이제 막...",
+      "link": "http://www.fnnews.com/news/202512051559573702",
+      "naver": "https://n.news.naver.com/mnews/article/014/0005445141?sid=101",
+      "host": "fnnews.com",
+      "score": 2.0655,
+      "pubDate": "2025-12-06T23:00:00+00:00"
     },
     {
-      "title": "“막대한 AI 투자금 회수 어렵다… 생산성 개선 효과도 의문”",
-      "desc": "수익이 기대에 미치지 못할 경우, 주가 하락뿐만 아니라 대출 실적 악화, 재융자 규제와 대출 기준 강화 등의 결과로 이어질 수 있다. 리스크가 금융 시스템의 핵심에 직접 연결되어 있다는 뜻이다.” 거시 경제 환경도...",
-      "link": "https://biz.chosun.com/it-science/ict/2025/12/06/HJXMREKYQZBILOU7375UF3DEUE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001128424?sid=105",
-      "host": "biz.chosun.com",
-      "score": 2.1916,
-      "pubDate": "2025-12-05T21:01:00+00:00"
+      "title": "[이번주 IPO]12월 둘째 주 수요예측·청약 일정",
+      "desc": "나라스페이스, 알지노믹스, 삼진식품은 일반청약을 앞두고 있다. ◆세미파이브= 2019년 설립된... 예상 시가총액은 7080억~8092억원으로, 오는 10~16일 수요예측을 진행하고 오는 18~19일 일반 청약을 받을 예정이다....",
+      "link": "https://view.asiae.co.kr/article/2025120617265779821",
+      "naver": "https://n.news.naver.com/mnews/article/277/0005689911?sid=101",
+      "host": "view.asiae.co.kr",
+      "score": 2.0655,
+      "pubDate": "2025-12-06T23:00:00+00:00"
     },
     {
-      "title": "'창원 센트럴 아이파크' 등 1만2가구 분양예정[분양캘린더]",
-      "desc": "6일 부동산R114에 따르면, 청약 일정은 경기 남양주시 진접읍 '남양주왕숙 B-17(공공분양)', 경기 군포시 대야미동 '군포 대야미 A-2 신혼희망타운(공공분양)', 경남 창원시 신월동 '창원 센트럴 아이파크' 등에서...",
-      "link": "https://www.newsis.com/view/NISX20251205_0003430152",
-      "naver": "https://n.news.naver.com/mnews/article/003/0013642668?sid=101",
-      "host": "newsis.com",
-      "score": 2.1897,
-      "pubDate": "2025-12-05T21:00:00+00:00"
+      "title": "[공모주달력]세미파이브, 신고서 고쳤지만 공모가는 그대로...수요예측...",
+      "desc": "삼진식품·나라스페이스·알지노믹스, 청약 어묵회사 삼진식품은 10일 공모가를 확정하고 주관사 대신증권에서 11~12일 이틀간 일반 투자자 청약을 받아요. 리브스메드는 12일 공모가 확정 후 15~16일 청약을 진행해요....",
+      "link": "http://news.bizwatch.co.kr/article/market/2025/12/05/0027",
+      "naver": "https://n.news.naver.com/mnews/article/648/0000042457?sid=101",
+      "host": "news.bizwatch.co.kr",
+      "score": 2.0655,
+      "pubDate": "2025-12-06T23:00:00+00:00"
     },
     {
-      "title": "박나래, 전 남친 급여·전세금 3억까지… 전 매니저 ‘횡령 고발’ vs 박...",
-      "desc": "앞서 두 사람은 박나래의 부동산에 대해 부동산 가압류 신청을 제기하며 손해배상 소송을 예고한 바 있다. 박나래 소속사는 이날 공식입장을 통해 전 매니저들이 퇴직 후 회사 전년도 매출 10%를 요구했고, 요구 금액이...",
-      "link": "https://www.mk.co.kr/article/11485625",
-      "naver": "https://m.entertain.naver.com/article/410/0001101951",
-      "host": "mk.co.kr",
-      "score": 2.1764,
-      "pubDate": "2025-12-05T20:53:00+00:00"
-    },
-    {
-      "title": "저축은행, 정책대출 늘렸지만… 정작 최저신용자는 밀려났다",
-      "desc": "사잇돌2는 중저신용자에게 중금리 금융 공급을 목적으로 SGI서울보증보험과 연계해 취급하는 저축은행의 대출 상품이다. 개인당 최대 3000만원 한도에서 60개월까지 빌릴 수 있다. 평균 금리는 연 12~13% 수준이다. 같은...",
-      "link": "https://www.mt.co.kr/finance/2025/12/06/2025112814555057271",
-      "naver": "https://n.news.naver.com/mnews/article/008/0005288184?sid=101",
-      "host": "mt.co.kr",
-      "score": 2.1626,
-      "pubDate": "2025-12-05T23:00:00+00:00"
-    },
-    {
-      "title": "조진웅, '소년범' 의혹 인정…7년 전 동창 댓글 재조명",
-      "desc": "해당 댓글에 또 다른 누리꾼은 '그걸 어떻게 알았지, 아는 사람 별로 없는데'라고 적었고, '원준아~ 녀석들 모여서 왜 술을 먹고 아파트 담벼락에 불을 질러. 형이 꺼내준 건 기억하려나 모르겠네. 그래도 그중에 네가...",
-      "link": "https://www.hankyung.com/article/2025120673997",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005220955?sid=102",
-      "host": "hankyung.com",
-      "score": 2.1182,
-      "pubDate": "2025-12-05T22:43:00+00:00"
+      "title": "\"커플,부부,삼각관계,가족애까지\".. KBS단막프로젝트 '러브:' 트랙'",
+      "desc": "‘늑대가 사라진 밤에’(연출 정광수, 극본 이선화)의 공민정(유달래 역), 임성재(서대강 역), ‘사랑청약조건’(연출 배은혜, 극본 강정인)의 전혜진(유리 역), 양대혁(지후 역)은 이별을 앞둔 부부의 복잡하고 현실적인...",
+      "link": "https://kstar.kbs.co.kr/list_view.html?idx=386490",
+      "naver": "https://m.entertain.naver.com/article/438/0000077090",
+      "host": "kstar.kbs.co.kr",
+      "score": 2.0628,
+      "pubDate": "2025-12-06T22:59:00+00:00"
     }
   ]
 }
