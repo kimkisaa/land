@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2025-12-27T23:13:58.372203Z",
+  "generatedAt": "2025-12-28T23:13:38.551471Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "신한금융, 조직·성과지표 개편해 110조 생산적 금융 실행력 높인다",
-      "desc": "신한금융은 새해를 맞아 신한은행, 제주은행, 신한저축은행이 동참해 고금리 가계대출 금리를 일괄 인하하는 ‘헬프업 & 밸류업’을 포함한 밸류업 3종 프로젝트를 고도화해 새롭게 선보일 계획이다. 땡겨요...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01134886642403112",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006190573?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.5149,
-      "pubDate": "2025-12-27T23:01:00+00:00"
-    },
-    {
-      "title": "'산타 랠리' 연초까지 이어질까…\"FOMC 의사록 주목\" [주간전망]",
-      "desc": "미국 중앙은행(Fed)은 12월 FOMC서 기준금리를 연 3.5∼3.75%로 0.25%포인트 인하했다. 다만 기준금리 인하 여부와 그 폭을 두고 투표권을 가진 위원 12명 중 3명이 다른 의견을 냈다. FOMC에서 3명이 다른 의견을 낸 건 2019년...",
-      "link": "https://www.hankyung.com/article/2025122772546",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005229690?sid=101",
-      "host": "hankyung.com",
-      "score": 2.4649,
-      "pubDate": "2025-12-27T23:01:00+00:00"
-    },
-    {
-      "title": "개인투자자, 올해 금·은·달러에 몰렸다…최대 기록 속출",
-      "desc": "통상 환경과 국내외 금리 향방을 둘러싼 불확실성이 커지자 변동성이 큰 주식·부동산 대신 ‘안전 자산’으로 자금이 빠르게 이동한 것이다. 28일 금융권에 따르면 5대 은행(KB국민·신한·하나·우리·NH농협)은...",
-      "link": "https://www.hankyung.com/article/2025122878987",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005229688?sid=101",
-      "host": "hankyung.com",
-      "score": 2.4516,
-      "pubDate": "2025-12-27T22:56:00+00:00"
-    },
-    {
-      "title": "폴란드, 러시아 영공침범 대비해 국경에 '드론장벽' 구축",
-      "desc": "톰치크 차관은 유럽연합(EU)의 국방 대출 프로그램을 통해 자원을 마련할 계획이라고 설명했다. 폴란드가 드론 방벽을 세우기로 한 것은 올해 초부터 러시아 드론의 영공 침범이 이어지고 있기 때문이다. 지난 9월에는...",
-      "link": "https://www.yna.co.kr/view/AKR20251228005500009?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015816582?sid=104",
-      "host": "yna.co.kr",
-      "score": 2.3623,
-      "pubDate": "2025-12-27T23:00:00+00:00"
-    },
-    {
-      "title": "개인투자자, 올해 금·은·달러 쓸어담았다…최대 기록 속출",
-      "desc": "연초에는 일시적 토지거래허가 해제를 틈타 부동산을 사들이다가 잇단 규제로 막히자 국내외 주식으로 눈을 돌렸고, 통상 환경과 국내외 금리 향방에 불확실성이 커질수록 금·은·달러 등 이른바 '안전 자산'도 쓸어...",
-      "link": "https://www.yna.co.kr/view/AKR20251227043200002?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015816475?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.2687,
-      "pubDate": "2025-12-27T20:49:00+00:00"
-    },
-    {
-      "title": "\"'유럽 주변부' 딱지 뗀다\" 완전히 달라진 이탈리아·스페인",
-      "desc": "이탈리아와 스페인의 국채 금리 프리미엄이 16년 만에 최저 수준으로 떨어졌다. 재정 건전성 개선이... 스프레드는 안전자산으로 여겨지는 독일 국채 대비 추가 금리를 의미한다. 해당 국가에 대한 대출 위험을...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01102086642403112",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006190564?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2395,
-      "pubDate": "2025-12-27T21:00:00+00:00"
-    },
-    {
-      "title": "올해 서울 분양·입주권 거래 1000건 돌…6년 만에 최대",
-      "desc": "부동산R114에 따르면 올해 서울 청약 평균 경쟁률은 146.64대 1로 4년 만에 최고치를 넘어섰다. 청약 가점이... 10·15 부동산 대책에 따른 대출 규제가 서울 공급의 핵심인 정비사업 속도를 늦추고 있어서다. 여기에...",
-      "link": "https://www.news1.kr/realestate/general/6020946",
-      "naver": "https://n.news.naver.com/mnews/article/421/0008682263?sid=101",
-      "host": "news1.kr",
-      "score": 2.1836,
-      "pubDate": "2025-12-27T20:00:00+00:00"
-    },
-    {
-      "title": "경기도 예산안 확정…\"경기도민 삶 이렇게 달라집니다\"",
-      "desc": "전세사기 피해 지원을 위해 33억 원의 예산을 마련해 도민의 주거권을 철저히 보호하도록 했다. 올해 경기도가 선보였던 수출 방파제 정책은 계속 이어져 미국 관세 장벽 등 대외 변수에 대한 수출 기업을 지원하기...",
-      "link": "https://www.kpinews.kr/newsView/1065566868744314",
-      "naver": "https://www.kpinews.kr/newsView/1065566868744314",
-      "host": "kpinews.kr",
-      "score": 2.1703,
-      "pubDate": "2025-12-27T23:03:00+00:00"
-    },
-    {
-      "title": "은행권 새해 대출 완화 움직임에 당국 제동…\"현 기조 유지해야\"",
-      "desc": "이 때문에 실수요자들은 연말 낮은 한도·높은 금리의 '대출 한파'를 반복적으로 겪고 있다. 실제 주요... 한도는 쪼그라들고 대출 금리는 오르면서 실수요자들의 대출 여건이 새해에도 별로 개선되지 않을 것이란...",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2025/12/28/2025122890012.html",
-      "naver": "https://n.news.naver.com/mnews/article/448/0000579819?sid=101",
-      "host": "news.tvchosun.com",
-      "score": 2.1676,
-      "pubDate": "2025-12-27T23:02:00+00:00"
-    },
-    {
-      "title": "고환율보다 무서운 '부실 악령' … 韓 경제 엄습 [N-경제포커스]",
-      "desc": "고금리·고물가가 장기화되는 가운데 내수 회복이 지연되면서 자영업자와 중소기업의 상환 여력이 한계에... 매출 회복이 지연되는 상황에서 고금리 부담까지 겹치며 자영업자 대출의 연체율이 빠르게 높아졌고, 이에...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/26/2025122600149.html",
-      "naver": "https://biz.newdaily.co.kr/site/data/html/2025/12/26/2025122600149.html",
-      "host": "biz.newdaily.co.kr",
-      "score": 2.1623,
-      "pubDate": "2025-12-27T23:00:00+00:00"
-    },
-    {
-      "title": "경기도 2026년 예산,도민 삶을 바꾸는 40조577억원의 쓰임세 점검",
-      "desc": "전세사기 피해 도민 보호를 위해 33억 원을 편성해 주거권 보호를 강화하고, 미국 관세 장벽 등 대외 불확실성에 대응하기 위한 수출 방파제 정책을 지속하기 위해 268억 원을 투입한다. ◆ 요람에서 무덤까지, 촘촘한...",
-      "link": "http://www.seoulwire.com/news/articleView.html?idxno=687737",
-      "naver": "http://www.seoulwire.com/news/articleView.html?idxno=687737",
-      "host": "seoulwire.com",
-      "score": 2.1516,
-      "pubDate": "2025-12-27T22:56:00+00:00"
-    },
-    {
-      "title": "“벌써 20억 넘었다고?”...서울 아파트 평균 분양가 ‘쑥쑥’ [호모 집...",
-      "desc": "고금리와 공사비 상승 여파로 분양가 오름세가 지속되는 가운데, 강력한 대출 규제까지 겹치면서 내년 청약 시장은 가격 경쟁력에 따른 양극화가 심화할 전망이다. 주택도시보증공사(HUG)가 발표한 11월 말 기준...",
-      "link": "https://www.mk.co.kr/article/11588758",
-      "naver": "https://n.news.naver.com/mnews/article/024/0000102370?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.1407,
-      "pubDate": "2025-12-27T04:01:00+00:00"
-    },
-    {
-      "title": "고환율에 물가 더 올랐나…재경부·기획처 출범 [한동훈의 위클리전망대...",
-      "desc": "기준금리를 0.25%포인트 인하한 가운데 연준 위원들이 최근 경기 흐름을 어떻게 진단했는지, 3명은 어떤 이유에서 금리 인하를 반대했는지 확인할 수 있다. 고환율에 물가 더 올랐나…재경부·기획처 출범 [한동훈의...",
-      "link": "https://www.sedaily.com/NewsView/2H1WLWZHBK",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004572034?sid=101",
+      "title": "[분양캘린더] '용인 푸르지오 클루센트' 등 11개 단지서 6989가구 분양",
+      "desc": "28일 부동산R114에 따르면 이달 30일 ‘용인 푸르지오 클루센트’, ‘수지자이 에디시온’, ‘태화강 센트럴 아이파크’ 등의 1순위 청약 접수가 진행된다. 용신 푸르지오 클루센트는 경기도 용인시 처인구 역북동...",
+      "link": "https://www.sedaily.com/NewsView/2H1X1QK4BD",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004572288?sid=101",
       "host": "sedaily.com",
-      "score": 2.1168,
-      "pubDate": "2025-12-27T22:01:00+00:00"
+      "score": 2.7175,
+      "pubDate": "2025-12-28T22:01:00+00:00"
     },
     {
-      "title": "24개월 최고 연 5.15%, 제주은행 'MZ 플랜적금' [이주의 은행 적금금리-...",
-      "desc": "우대금리 조건은 ▲주거래우대 0.50%p ▲공과금 자동이체 0.40%p~0.60%p ▲주택청약종합저축 보유 0.10%p... 우대조건은 ▲소득이체 연 0.6%p ▲카드이용 연 0.3%p ▲오픈뱅킹 연 0.6%p ▲청약보유 연 0.3%p ▲마케팅 동의 연...",
-      "link": "http://www.fntimes.com/html/view.php?ud=202512260859213740300bf52dd2_18",
-      "naver": "http://www.fntimes.com/html/view.php?ud=202512260859213740300bf52dd2_18",
-      "host": "fntimes.com",
-      "score": 2.0933,
-      "pubDate": "2025-12-27T21:02:00+00:00"
+      "title": "내년 전국 아파트 분양 18만가구 웃돌아",
+      "desc": "내년 전국에 분양하는 민간 아파트 물량이 18만가구를 웃돌 전망이다. 올해보다 소폭 많다. 29일 연합뉴스에 따르면 시공능력평가 100위권 건설사들의 내년 전국 민간 아파트 분양 물량을 조사한 결과...",
+      "link": "https://www.hankyung.com/article/2025122990516",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005229938?sid=101",
+      "host": "hankyung.com",
+      "score": 2.5847,
+      "pubDate": "2025-12-28T23:08:00+00:00"
     },
     {
-      "title": "연말 IPO 훈풍, 내년까지 이어질까…‘옥석가리기’ 시험대 오른 코스닥",
-      "desc": "바이오와 AI 반도체 등 최근 주도 업종을 중심으로 청약 경쟁률과 증거금이 크게 늘었고, 연말까지 예정된 공모 일정에도 자금 유입이 이어졌다. 증권가에서는 연말 증시 랠리와 맞물려 공모주 시장이 코스닥 단기...",
-      "link": "http://www.metroseoul.co.kr/article/20251228500001",
-      "naver": "http://www.metroseoul.co.kr/article/20251228500001",
-      "host": "metroseoul.co.kr",
-      "score": 2.0839,
-      "pubDate": "2025-12-27T23:08:00+00:00"
+      "title": "中에 팔리기 직전 '기사회생'…AI시대 전력칩 핵심 기업으로 성장 [황정...",
+      "desc": "DB그룹은 대규모 파운드리 설비투자를 위해 산업은행을 비롯한 국내 금융기관들로부터 1조2000억원 규모 대출을 일으켰다. 막대한 이자 부담은 DB그룹을 흔들었다. 2000년대 초 정보기술(IT) 버블 붕괴 사태가...",
+      "link": "https://www.hankyung.com/article/202512298907i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005229937?sid=101",
+      "host": "hankyung.com",
+      "score": 2.4847,
+      "pubDate": "2025-12-28T23:08:00+00:00"
     },
     {
-      "title": "연말 막바지 공급에 나서는 건설사들..전국 4970가구 청약 접수",
-      "desc": "한국정경신문 이진성 기­자 jinlee@g.skku.edu [한국정경신문=이진성 기자] 12월 마지막 주 전국 9곳에서 4970가구(행복주택 제외)가 청약 접수를 받는다.28일 부동산 전문 리서치업체 리얼투데이는 신규 물량 공급이...",
-      "link": "http://kpenews.com/View.aspx?No=3906902",
-      "naver": "http://kpenews.com/View.aspx?No=3906902",
-      "host": "kpenews.com",
-      "score": 2.073,
-      "pubDate": "2025-12-27T23:04:00+00:00"
+      "title": "“내년에도 내집마련 꿈도 꾸지말라네요”…당국, 벌써부터 대출자제령",
+      "desc": "게다가 최근 법이 바뀌어 내년부터 은행이 출연금 등 비용을 대출 금리에 반영시킬 수 없게 됐다. 한 시중은행 관계자는 “은행이 내야 할 돈은 늘어나는데 금리에 전가할 수도 없으니 고액 주담대를 취급할 요인이 떨어질...",
+      "link": "https://www.mk.co.kr/article/11868764",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005612929?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.4584,
+      "pubDate": "2025-12-28T21:34:00+00:00"
     },
     {
-      "title": "내일부터 청약 돌입…'인천영종국제도시 디에트르 라 메르 Ⅰ', 29일(월...",
-      "desc": "고층 아파트 및 오션뷰, 호수뷰 아파트는 같은 단지 내에서도 층수와 뷰에 따라 거래가격 차이가 큰 만큼 긍정적 반응을 모은다. 또한 일부 고급 유상가구(마감재)를 무상으로 제공하는 혜택도 마련됐다. 통상 선택...",
-      "link": "https://www.dailian.co.kr/news/view/1591103/?sc=Naver",
-      "naver": "https://n.news.naver.com/mnews/article/119/0003041845?sid=101",
-      "host": "dailian.co.kr",
-      "score": 2.0649,
-      "pubDate": "2025-12-27T23:01:00+00:00"
+      "title": "‘물어보살’ 한국 귀화한 33세 女",
+      "desc": "이혼 당시 신혼부부 청약으로 당첨된 5억 원 상당의 아파트 분양권을 사연자가 가지게 되었고, 현재 매달 250만 원의 대출을 갚아야 하는 상황이라고. 아이의 양육권과 친권은 전남편에게 있지만, 실제 양육은 사연자가...",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202512290011",
+      "naver": "https://www.bntnews.co.kr/article/view/bnt202512290011",
+      "host": "bntnews.co.kr",
+      "score": 2.4522,
+      "pubDate": "2025-12-28T22:16:00+00:00"
     },
     {
-      "title": "\"숫자에 눈먼 대출규제, 이사난민 쏟아진다\" [데스크칼럼]",
-      "desc": "대출을 막은 주범은 당국의 부동산 총량규제다. 부동산 총량규제는 정부가 은행권의 전체 가계대출 증가 규모를 특정 한도 내로 묶어 부동산 시장의 과열을 막는 정책이다. 주택담보대출비율(LTV)〮총부채원리금상환비율...",
-      "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=178902",
-      "naver": "http://www.sisaon.co.kr/news/articleView.html?idxno=178902",
-      "host": "sisaon.co.kr",
-      "score": 2.0623,
-      "pubDate": "2025-12-27T23:00:00+00:00"
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "desc": "29일 부동산R114와 연합뉴스가 시공능력평가 100위권 건설사들의 내년 전국 민간 아파트 분양 물량을 조사한 결과 현재까지 구체적인 계획이 수립된 53개사의 분양 물량은 18만7천525가구로 집계됐다. 전문보기...",
+      "link": "https://www.yna.co.kr/view/AKR20251229012500011?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015817435?sid=102",
+      "host": "yna.co.kr",
+      "score": 2.386,
+      "pubDate": "2025-12-28T22:30:00+00:00"
     },
     {
-      "title": "전혜진, 이혼 결심했는데…아파트 잔금 때문에 불편한 동거 (러브:트랙...",
-      "desc": "28일(일) 밤 10시 50분 방송되는 ‘사랑청약조건’(연출 배은혜, 극본 강정인)은 아파트 청약 조건 때문에 잔금 납부까지만 함께 살기로 했던 이혼 예정 부부가 입주를 앞두고 한 달간 헤어짐을 준비하는 이야기를 그린...",
-      "link": "http://enews.imbc.com/News/RetrieveNewsInfo/488707",
-      "naver": "https://m.entertain.naver.com/article/408/0000292629",
-      "host": "enews.imbc.com",
-      "score": 2.0516,
-      "pubDate": "2025-12-27T22:56:00+00:00"
+      "title": "글로벌 AI ASIC 전문기업 세미파이브, 코스닥 데뷔[오늘 상장]",
+      "desc": "앞서 지난 18~19일 양일간 일반 투자자를 대상으로 공모주 청약을 실시한 결과 967.6대 1의 경쟁률, 1934.2대 1의 비례경쟁률을 기록했다. 이에 따른 상장 청약 증거금은 약 15조 6751억원, 청약 건수는 44만 8632건으로...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01974566642403440",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006190875?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.3763,
+      "pubDate": "2025-12-28T22:46:00+00:00"
     },
     {
-      "title": "[Why] 사노피·BMS 등 글로벌 제약사, 조 단위 M&A 나선 까닭은",
-      "desc": "관세·금리·약가 정책 등 산업 환경의 불확실성이 커진 가운데 프랑스 제약기업 사노피(Sanofi), 미국... 상반기에는 미국의 관세·금리·약가 정책 불확실성이 커지면서 제약 분야 M&A 시장이 위축된 흐름을 보였다....",
-      "link": "https://biz.chosun.com/science-chosun/bio/2025/12/28/XZKGMH42U5AK3AFR5E3YLCNUQQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001132672?sid=101",
+      "title": "가상자산 규제 푸는 러시아…채굴업체에 첫 코인담보대출 허용",
+      "desc": "가상자산담보대출 상품을 선보였다. 29일 러시아 매체인 RBC에 따르면 스베르뱅크는 이날 자국 내 최대 비트코인 채굴업체 중 하나인 인텔리온 데이터(Intelion Data)가 보유하고 있는 비트코인을 담보로 대출을 시행했다고...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01958166642403440",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006190873?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.3661,
+      "pubDate": "2025-12-28T22:42:00+00:00"
+    },
+    {
+      "title": "서장훈, 무엇이든 물어보살서 싱글맘에 현실 조언",
+      "desc": "이후 첫 직장에서 만난 남편과 혼전 임신으로 결혼했지만 결혼 생활은 오래가지 못했고, 이혼 당시 신혼부부 청약으로 당첨된 5억 원 상당의 아파트 분양권을 사연자가 가지게 된 상황이라고 말해 출연진을 집중하게...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=15918794",
+      "naver": "https://www.topstarnews.net/news/articleView.html?idxno=15918794",
+      "host": "topstarnews.net",
+      "score": 2.3522,
+      "pubDate": "2025-12-28T22:16:00+00:00"
+    },
+    {
+      "title": "전셋값 오르자…올해 서울 아파트 갱신계약 절반이 갱신권 사용[집슐랭...",
+      "desc": "한국부동산원의 주택가격동향조사 통계에 따르면 올해 1월부터 11월까지 서울 아파트 월세(보증부 월세)... 부동산R114 윤지해 리서치랩장은 \"6·27 대출 규제에 이어 10·15대책까지 규제 확대로 주택 갈아타기와 상향...",
+      "link": "https://www.sedaily.com/NewsView/2H1X2V1IUW",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004572295?sid=101",
+      "host": "sedaily.com",
+      "score": 2.3175,
+      "pubDate": "2025-12-28T22:01:00+00:00"
+    },
+    {
+      "title": "“빵빵백으로 하시죠”…알짜 재건축 단지에 등장한 ‘황금 옵션’ 뭐길...",
+      "desc": "삼성물산이 시공권을 따낸 영등포구 여의도 대교아파트 재건축과 용산구 남영2구역 재개발 사업장 등이 대표적이다. 하지만 통상 빵빵백은 건설사가 조합에 신용 보강을 해 줘 금융사로부터 집단 대출을 받도록 도와주는...",
+      "link": "https://www.mk.co.kr/article/11868776",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005612936?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.2984,
+      "pubDate": "2025-12-28T22:35:00+00:00"
+    },
+    {
+      "title": "전세사기 보증금 물어주겠다더니… 내년 국토부 예산 ‘0원’",
+      "desc": "예산안에서 ‘전세 사기 피해자 최소지원금’ 사업 예산이 빠진 것으로 나타났다. 여야 합의에도 재정 부담... 29일 국회 등에 따르면 전세 사기 피해자 최소지원금 사업 예산은 2026년 국토부 예산안 최종 심의 과정에서...",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2025/12/29/S6HFRO5WWFGLJDJSAN7PDOMW5Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001132777?sid=101",
       "host": "biz.chosun.com",
-      "score": 2.0289,
-      "pubDate": "2025-12-27T21:20:00+00:00"
+      "score": 2.2939,
+      "pubDate": "2025-12-28T21:02:00+00:00"
+    },
+    {
+      "title": "[인터뷰] “자동차 담보대출 받아 월급 주던 사장… 이젠 창업자 마음 ...",
+      "desc": "그래서 타고 다니던 자동차를 담보로 대출을 받아 월급을 준 적이 있다. 그때 호창성 전 대표가 개인 돈을 회사에 빌려주면서 했던 말이 ‘사장이 포기하면 회사는 망한다’는 것이었다. 자신이 창업자 출신이기 때문에...",
+      "link": "https://biz.chosun.com/stock/market_trend/2025/12/29/7BYKGCHQCJG2BJSQYZSV6MDNG4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001132785?sid=101",
+      "host": "biz.chosun.com",
+      "score": 2.2657,
+      "pubDate": "2025-12-28T23:01:00+00:00"
+    },
+    {
+      "title": "내년 전국 민간아파트 분양 18만7천525가구…올해대비 소폭↑",
+      "desc": "29일 부동산R114와 연합뉴스가 시공능력평가 100위권 건설사들의 내년 전국 민간 아파트 분양 물량을... 부동산R114 관계자는 \"분양시장은 공사비 상승, 인구 구조 변화, 주거 선호 변화 등에 따라 상대적으로...",
+      "link": "https://www.yna.co.kr/view/AKR20251228022700003?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015817355?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.1901,
+      "pubDate": "2025-12-28T21:00:00+00:00"
+    },
+    {
+      "title": "부동산 경기 ‘꽁꽁’ 얼었지만 현대·대우건설 존재감 ‘뿜뿜’ [2025 건...",
+      "desc": "올해 상반기 청약시장은 대출 규제 강화 기조 속에 미온적인 분위기가 이어졌다. 여기에 중순 이후 조기... 서울과 수도권에서는 청약 수요가 유지되며 분양이 이어진 반면, 지방은 미분양 우려로 분양 연기와 일정...",
+      "link": "http://www.fntimes.com/html/view.php?ud=20251228223631359dd55077bc2_18",
+      "naver": "http://www.fntimes.com/html/view.php?ud=20251228223631359dd55077bc2_18",
+      "host": "fntimes.com",
+      "score": 2.1874,
+      "pubDate": "2025-12-28T20:02:00+00:00"
+    },
+    {
+      "title": "입주 가뭄에 전세·월세 동반 비상…내년 수도권 전월세난 심화",
+      "desc": "공급 감소와 대출 규제, 정책 변수 속에서 집값과 전셋값, 청약 시장의 향방에 대한 관심도 높아지고 있다. 뉴스1은 전문가와 연구기관 전망을 토대로 내년 부동산 시장의 주요 변화를 집값·전월세·청약·정책 등 네 가지...",
+      "link": "https://www.news1.kr/realestate/general/6021230",
+      "naver": "https://n.news.naver.com/mnews/article/421/0008683133?sid=101",
+      "host": "news1.kr",
+      "score": 2.1841,
+      "pubDate": "2025-12-28T20:00:00+00:00"
+    },
+    {
+      "title": "이상일, 구윤철 경제부총리에 용인의 반도체 국가산단 지원 강력 요청",
+      "desc": "단지의 분양대금, 양도소득세 등 세금 부담을 감당하기 어려운 측면이 있기 때문에 이주와 이전에 대한 자금 확보 방안 마련이 필요하다\"고 말했다. 이 시장은 그러면서 구 부총리에게 이주민과 이주기업이 이주정착...",
+      "link": "https://www.ekn.kr/web/view.php?key=20251229026572592",
+      "naver": "https://www.ekn.kr/web/view.php?key=20251229026572592",
+      "host": "ekn.kr",
+      "score": 2.1792,
+      "pubDate": "2025-12-28T23:06:00+00:00"
+    },
+    {
+      "title": "불광역세권 일대 장기전세주택 재개발로 4,285세대 들어선다",
+      "desc": "총 공급 세대수는 4,285세대며 이 중 분양주택이 2,793세대, 재개발 의무임대 325세대, 법적상한 임대(장기전세·SHIFT) 1,167세대다. 전용 85㎡ 이하 주택 비율은 94.3%로 중소형 위주다. 정비계획에는 도로 확폭과 신설...",
+      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=29815",
+      "naver": "https://www.rcast.co.kr/news/articleView.html?idxno=29815",
+      "host": "rcast.co.kr",
+      "score": 2.1792,
+      "pubDate": "2025-12-28T23:06:00+00:00"
+    },
+    {
+      "title": "이범석 청주시장 \"시민과 함께 100만 자족도시 완성할 것\"[신년인터뷰]",
+      "desc": "이들의 경쟁력을 높이고 지역경제 활성화를 위해 1%대 소상공인 초저금리 육성자금을 지원하고 대출 기간도 3년에서 5년으로 늘렸다. 낮은 신용등급과 담보력 부재로 대출 실행에 어려움을 겪는 소상공인에게는 최대 0.5...",
+      "link": "https://www.newsis.com/view/NISX20251228_0003456731",
+      "naver": "https://n.news.naver.com/mnews/article/003/0013680207?sid=102",
+      "host": "newsis.com",
+      "score": 2.1711,
+      "pubDate": "2025-12-28T23:03:00+00:00"
+    },
+    {
+      "title": "이상일 용인특례시장, 구윤철 경제부총리에게 용인의 반도체 국가산단...",
+      "desc": "단지의 분양대금, 양도소득세 등 세금 부담을 감당하기 어려운 측면이 있기 때문에 이주와 이전에 대한 자금 확보 방안 마련이 필요하다\"고 말했다. 그러면서 구 부총리에게 이주민과 이주기업이 이주정착 자금을...",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=420488",
+      "naver": "http://www.econonews.co.kr/news/articleView.html?idxno=420488",
+      "host": "econonews.co.kr",
+      "score": 2.1524,
+      "pubDate": "2025-12-28T22:56:00+00:00"
     }
   ]
 }
