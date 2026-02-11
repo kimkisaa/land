@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-02-10T23:32:52.110095Z",
+  "generatedAt": "2026-02-11T23:25:16.609736Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "“부동산감독원, 개인 금융거래정보 ‘보충적으로만 활용’”",
-      "desc": "분양사기, 부정청약, 재건축·재개발비리, 업다운계약, 외국인 토지거래허가위반, 집값띄우기, 실거주위반, 명의신탁, 미등기전매, 탈세, 대출금 목적 외 사용, 법인자금유용, 중개사·감평사 위법행위 등이 모두 조사...",
-      "link": "https://www.sedaily.com/article/20007491?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004589078?sid=100",
+      "title": "[AI 청약 모집공고] 경기 '구리역 하이니티 리버파크' 1530가구 일반분양",
+      "desc": "구리역 하이니티 리버파크 청약 개요 [AI일러스트=조수민기자] ▲ 단지 정보 단지명: 구리역 하이니티 리버파크 위치: 경기도 구리시 수택동 496-6 일대(수택E구역 주택재개발정비사업) 규모: 아파트...",
+      "link": "https://www.newspim.com/news/view/20260211001401",
+      "naver": "https://www.newspim.com/news/view/20260211001401",
+      "host": "newspim.com",
+      "score": 2.4695,
+      "pubDate": "2026-02-11T23:14:00+00:00"
+    },
+    {
+      "title": "“1월 고용 증가폭 1년여 만에 최저”…20대는 39개월째 고용 감소",
+      "desc": "신한은행, 40년 고정금리 청년 주담대 내놓는다 - 핵심 요약: 신한은행이 이르면 올 하반기 만 34세 이하 청년을 대상으로 40년 만기 고정금리 주택담보대출 상품을 출시한다. 해당 상품은 ‘같이성장’이라는...",
+      "link": "https://www.sedaily.com/article/20008234?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004589601?sid=101",
       "host": "sedaily.com",
-      "score": 2.7131,
-      "pubDate": "2026-02-10T21:31:00+00:00"
+      "score": 2.4116,
+      "pubDate": "2026-02-11T22:10:00+00:00"
     },
     {
-      "title": "[인천소식] 인천시, 일상돌봄 서비스 지원대상 13∼64세로 확대",
-      "desc": "▲ 인천시, 전세사기 예방 보증료 최대 40만원 지원 = 인천시는 무주택 임차인의 전세사기 피해 예방을 돕기 위해 전세보증금 반환보증료 지원 사업을 추진한다고 11일 밝혔다. 시는 올해 총 9억6천만원을 들여 임차인이...",
-      "link": "https://www.yna.co.kr/view/AKR20260211025100065?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015899173?sid=102",
-      "host": "yna.co.kr",
-      "score": 2.6924,
-      "pubDate": "2026-02-10T23:30:00+00:00"
-    },
-    {
-      "title": "\"KT, 올해 주주환원 확대 기대감 유효…목표가↑\"-SK",
-      "desc": "지난해 일회성 부동산 분양 수익이 제거되면서 영업이익 감소가 불가피할 것이란 예상이다. 다만 유무선 통신의 안정적 성장과 비용 효율화 효과가 지속돼 매력적인 수준의 주주환원이 가능할 것으로 전망한다.",
-      "link": "https://www.hankyung.com/article/2026021179596",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005249733?sid=101",
-      "host": "hankyung.com",
-      "score": 2.5679,
-      "pubDate": "2026-02-10T23:21:00+00:00"
-    },
-    {
-      "title": "“증시호황에 대출금리 오를수도”...‘이것’ 때문",
-      "desc": "또한 2021년 8월부터 한국은행이 기준금리를 0.5%에서 단계적으로 올렸다. 그 결과 4대 은행 총수신 내... 한은은 2023년 1월까지 기준금리를 3.5%까지 올린 뒤 동결했다. 하지만 한은은 2024년 9월부터 경기둔화에 금리를...",
-      "link": "https://www.sedaily.com/article/20007666?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004589116?sid=101",
-      "host": "sedaily.com",
-      "score": 2.5414,
-      "pubDate": "2026-02-10T23:11:00+00:00"
-    },
-    {
-      "title": "태광산업, 협력사에 납품대금 전액 조기 집행",
-      "desc": "이를 통해 2020년부터 신한은행과 상생대출 협약을 맺고, 중소 협력사에 77차례의 금리 인하 혜택을 제공했다. 또 자사 건물 입점 소상공인을 대상으로 월 200만원 한도내에서 임대료를 30% 감면해주는 ‘착한 임대료...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03030726645349536",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006217109?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.5341,
-      "pubDate": "2026-02-10T23:27:00+00:00"
-    },
-    {
-      "title": "집값 폭등으로 ‘국평’이 바뀐다?…59㎡ 인기가 84㎡ 추월",
-      "desc": "백동현 기자 최근 아파트 분양가가 급격히 상승하고 대출 규제가 적용되면서 수도권 부동산 시장에서... 10일 부동산R114에 따르면 지난해 수도권 아파트 청약자 48만5271명 가운데 소형(전용 60㎡ 이하) 청약자는...",
-      "link": "https://www.munhwa.com/article/11567653?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/021/0002770367?sid=101",
-      "host": "munhwa.com",
-      "score": 2.5207,
-      "pubDate": "2026-02-10T23:03:00+00:00"
-    },
-    {
-      "title": "“분양가 너무 비싸”…수도권 청약, ‘국평’ 대신 ‘소형’으로 몰렸...",
-      "desc": "부동산R114 “수도권 청약자수, 작년 소형이 중형 첫 추월” 분양가 상승과 대출 규제 부담이 겹치면서... 뉴시스 11일 부동산R114에 따르면 지난해 수도권 아파트 청약자 총 48만 5271명으로 집계됐다. 이중 소형...",
-      "link": "https://www.segye.com/newsView/20260211502969?OutUrl=naver",
-      "naver": "https://n.news.naver.com/mnews/article/022/0004105072?sid=101",
-      "host": "segye.com",
-      "score": 2.5029,
-      "pubDate": "2026-02-10T22:56:00+00:00"
-    },
-    {
-      "title": "4개 카드사, 순이익 8% 감소…수수료 인하·대출규제 '이중고'",
-      "desc": "가맹점 수수료율 인하와 카드론 규제, 금리 상승에 따른 이자비용 증가가 동시에 작용한 결과다. 카드사... 2024년 5.9% 증가세를 보였던 실적이 다시 역성장으로 돌아섰으며, '레고랜드 사태' 여파로 시장금리가...",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=693029",
-      "naver": "https://www.cstimes.com/news/articleView.html?idxno=693029",
-      "host": "cstimes.com",
-      "score": 2.3924,
-      "pubDate": "2026-02-10T23:30:00+00:00"
-    },
-    {
-      "title": "[마켓인]케이뱅크 수요예측 '훈훈'…공모가 범위 상단 예약?",
-      "desc": "한편, 기관투자자 대상 수요예측을 끝낸 케이뱅크는 오는 20일과 23일 양일간 일반 청약을 시행한다. 공동 대표 주관사로는 삼성증권과 NH투자증권이 이름을 올렸다.",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02840486645349536",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006217080?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.3758,
-      "pubDate": "2026-02-10T23:05:00+00:00"
-    },
-    {
-      "title": "[마켓뷰] 코스피, 미국 경기 우려 확산 속 방향성 탐색 전망",
-      "desc": "미래에셋증권 서상영 연구원은 \"미국 증시는 소매판매가 예상을 하회한 결과를 내놓자 경기에 대한 불안으로 하락했다\"며 \"그러나 (경기 부진은) 일시적으로 금리 인하 기대를 높인다는 점에서 반발 매수세도...",
-      "link": "https://www.yna.co.kr/view/AKR20260211020600008?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015899142?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.313,
-      "pubDate": "2026-02-10T23:00:00+00:00"
-    },
-    {
-      "title": "’부동산 감독원’ 없이 투기 못 잡는다!...“카르텔, 금융범죄 수준 처...",
-      "desc": "금융권은 담보 대출을 통해 안정적인 수익을 올리고, 투기 세력은 정책 발표... 문재인 정부는 세금과 대출을 옥죄었고, 윤석열 정부는 규제 완화를 강조했다. 보수와...",
-      "link": "http://www.breaknews.com/1184265",
-      "naver": "http://www.breaknews.com/1184265",
-      "host": "breaknews.com",
-      "score": 2.2979,
-      "pubDate": "2026-02-10T23:32:00+00:00"
-    },
-    {
-      "title": "카드사 순이익 7.8% 급감…삼성 '1위 굳히기', 현대만 웃었다",
-      "desc": "가맹점 수수료율 인하와 카드론(장기카드대출) 규제, 시장금리 상승에 따른 이자비용 증가가 동시에... 합산 순이익 규모는 레고랜드 사태 여파로 시장금리가 급등해 수익성이 악화했던 2023년(1조8천462억원)보다도...",
-      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=54309",
-      "naver": "http://www.newsroad.co.kr/news/articleView.html?idxno=54309",
-      "host": "newsroad.co.kr",
-      "score": 2.2979,
-      "pubDate": "2026-02-10T22:54:00+00:00"
-    },
-    {
-      "title": "신용카드업계, 실적 다시 뒷걸음질",
-      "desc": "가맹점 수수료율 인하와 대출 규제, 금리 상승에 따른 이자 부담이 한꺼번에 작용하면서 수익성이 눈에... 이는 시장금리가 급등하며 업계 전반의 수익성이 크게 악화됐던 2023년(1조8462억원)에도 못 미치는...",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=294759",
-      "naver": "https://www.straightnews.co.kr/news/articleView.html?idxno=294759",
-      "host": "straightnews.co.kr",
-      "score": 2.2589,
-      "pubDate": "2026-02-10T22:38:00+00:00"
-    },
-    {
-      "title": "서울 소형 아파트값 5.7% 상승…중형보다 더 올랐다",
-      "desc": "분양가 상승과 대출규제 강화 영향으로 수도권에서 소형 아파트가 인기를 끌고 있다. 지난해 서울에서는 전용면적 60㎡이하 아파트 매매가격이 가장 높은 상승률을 기록했고, 청약시장에서도 수요자의 60%가...",
-      "link": "https://www.newsis.com/view/NISX20260210_0003510248",
-      "naver": "https://n.news.naver.com/mnews/article/003/0013762728?sid=101",
-      "host": "newsis.com",
-      "score": 2.2542,
-      "pubDate": "2026-02-10T21:00:00+00:00"
-    },
-    {
-      "title": "바닥 찍고 전세 급등…세종시 올핸 다를까 [감평사의 부동산 현장진단]",
-      "desc": "세종시 부동산 시장은 가격이 반등했다기보단 ‘거래가 조금씩 회복하는 단계’로 볼 수 있다. 올해 분양 물량이 많은 만큼 청약 결과에 따라 세종시 부동산 시장이 다시 한 번 요동칠 수 있다. [강승태 감정평가사]",
-      "link": "https://www.mk.co.kr/article/11955879",
-      "naver": "https://n.news.naver.com/mnews/article/024/0000103395?sid=101",
+      "title": "올 경제성장률 1.9%로 높인 KDI…美관세·AI거품·환율 ‘3대 복병’",
+      "desc": "이윤수 서강대 경제학과 교수는 “고환율(원화 약세)이 건설 원가를 올리고, 정부의 대출 규제 정책까지 겹치면서 지방 부동산을 중심으로 건설 경기가 더 안 좋아질 수도 있다”고 평가했다. 향후 3대 리스크로는...",
+      "link": "https://www.mk.co.kr/article/11960579",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005636270?sid=101",
       "host": "mk.co.kr",
-      "score": 2.2464,
-      "pubDate": "2026-02-10T12:01:00+00:00"
+      "score": 2.3571,
+      "pubDate": "2026-02-11T21:45:00+00:00"
     },
     {
-      "title": "태광산업, 설 전 협력사 대금 조기 지급…1051억원 규모",
-      "desc": "이를 통해 2020년부터 신한은행과 상생대출 협약을 맺고, 중소 협력사에 77차례의 금리 인하 혜택을 제공했다. 또 자사 건물 입점 소상공인을 대상으로 월 200만원 한도내에서 임대료를 30% 감면해주는 ‘착한 임대료...",
-      "link": "https://biz.heraldcorp.com/article/10674105?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/016/0002599150?sid=101",
-      "host": "biz.heraldcorp.com",
-      "score": 2.1924,
-      "pubDate": "2026-02-10T23:30:00+00:00"
+      "title": "20억 용산집, 8억 전세 끼고 매입땐…전세반환대출 1억, 현금 19억 필요",
+      "desc": "양도세 중과유예조치 Q&A 9월9일까지 계약금+잔금 입주할때 보증금 돌려줘야 재건축 아파트 매입한다면... 다시 말해 20억원짜리 아파트를 매매하려면 현금 19억원이 있어야 한다.” - 세입자가 있는 주택을 사고팔 때...",
+      "link": "https://www.mk.co.kr/article/11960578",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005636269?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.355,
+      "pubDate": "2026-02-11T21:44:00+00:00"
     },
     {
-      "title": "태광산업, 협력사 설 납품대금 전액 현금 조기 지급",
-      "desc": "이를 통해 2020년부터 신한은행과 상생대출 협약을 맺고, 중소 협력사에 77차례의 금리 인하 혜택을 제공했다. 또 자사 건물 입점 소상공인을 대상으로 월 200만원 한도내에서 임대료를 30% 감면해주는 '착한 임대료 운동...",
-      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=261734",
-      "naver": "https://www.newsquest.co.kr/news/articleView.html?idxno=261734",
-      "host": "newsquest.co.kr",
-      "score": 2.1924,
-      "pubDate": "2026-02-10T23:30:00+00:00"
+      "title": "[더벨][은행권 생산적 금융 대전환] 신한금융, 20조원 규모 생산적 금융...",
+      "desc": "포용금융 분야에서는 미소금융재단을 통한 청년·지방 취약계층 지원을 확대하고, 고금리 부담 완화와 보이스피싱·전세사기 피해자 지원 등 기존 사업의 범위도 넓히기로 했다. 진 회장은 \"초혁신경제 활성화를 위한...",
+      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202602111547368840106018",
+      "naver": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202602111547368840106018",
+      "host": "thebell.co.kr",
+      "score": 2.2937,
+      "pubDate": "2026-02-11T22:02:00+00:00"
     },
     {
-      "title": "태광산업, 설 앞두고 협력사 대금 전액 조기 지급",
-      "desc": "2020년 신한은행과 상생 대출 협약을 맺고 중소 협력사에 77차례의 금리 인하 혜택을 제공했다. 태광산업 관계자는 \"앞으로도 상생 경영을 통해 건강한 산업 생태계를 구축하는데 최선을 다할 것\"이라고 말했다.",
-      "link": "https://www.newsis.com/view/NISX20260211_0003510756",
-      "naver": "https://n.news.naver.com/mnews/article/003/0013762920?sid=101",
+      "title": "에이프릴바이오, '10% 급락→상한가' 롤러코스터",
+      "desc": "에이프릴바이오는 \"스톡옵션 행사 시 수익의 절반에 달하는 세금을 납부해야 하고, 전세자금대출 상환과 집주인의 매도로 인한 이사 등 개인적인 사정이 있었다\"며 \"우려와 혼선을 드려 죄송하다\"고 밝혔다. 또한...",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=933869",
+      "naver": "https://www.dailymedi.com/news/news_view.php?wr_id=933869",
+      "host": "dailymedi.com",
+      "score": 2.2858,
+      "pubDate": "2026-02-11T23:20:00+00:00"
+    },
+    {
+      "title": "국회, 오늘 본회의 열고 비쟁점 법안 처리 전망",
+      "desc": "민주당은 아동수당 지급액을 상향 조정하는 아동수당법 개정안, 전세 사기 피해자의 공공 임대주택 지원 대상 확대를 위한 '전세사기 피해자법' 등 129건의 법안을 우선 통과 법안으로 선정한 상태다.",
+      "link": "https://www.yna.co.kr/view/AKR20260211184800001?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015901691?sid=100",
+      "host": "yna.co.kr",
+      "score": 2.2656,
+      "pubDate": "2026-02-11T20:00:00+00:00"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "desc": "전문보기: https://www.yna.co.kr/view/AKR20260211167400530 ■ 자영업자 대출, 소득의 3.4배…非자영업자 2.2배보다 높아 국내 자영업자들의 소득 대비 가계대출 비율(LTI)이 비(非) 자영업자보다 크게 높은 것으로...",
+      "link": "https://www.yna.co.kr/view/AKR20260212016100011?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015901785?sid=103",
+      "host": "yna.co.kr",
+      "score": 2.2579,
+      "pubDate": "2026-02-11T22:30:00+00:00"
+    },
+    {
+      "title": "[절세톡톡] 오피스텔이 있는 경우 장기주택저당차입금 이자상환액 공제",
+      "desc": "다만, 그 공제하는 금액과 주택임차자금 원리금 상환액공제, 주택청약종합저축 소득공제를 합쳐 최대 2,000만원까지 공제합니다. &lt;공제한도&gt; ① 만기 10년 이상 15년미만이고, 고정금리방식 또는 비거치식 분할상환방식은...",
+      "link": "https://www.sejungilbo.com/news/articleView.html?idxno=56956",
+      "naver": "https://www.sejungilbo.com/news/articleView.html?idxno=56956",
+      "host": "sejungilbo.com",
+      "score": 2.2437,
+      "pubDate": "2026-02-11T22:24:00+00:00"
+    },
+    {
+      "title": "美고용 호조보다 ‘엔화 강세’…환율 1440원대로 하락[외환브리핑]",
+      "desc": "발표 직후 미국채 금리가 급등하고 달러화가 강세로 반전됐다. 견조한 고용시장이 지속될 것임을 시사하자 연방준비제도(Fed·연준)의 금리 동결 가능성도 확대됐다. 여기에 올해 투표권이 있는 베스 해맥...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02719126645349864",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006217963?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.2358,
+      "pubDate": "2026-02-11T23:20:00+00:00"
+    },
+    {
+      "title": "미 고용 서프라이즈에 금리 상승…장 중 외국인 수급 주시[채권브리핑]",
+      "desc": "12일 국내 국고채 시장은 간밤 미국채 금리 흐름과 원·달러 환율 등을 주시하며 약보합 출발할 것으로 전망된다. 전거래일 저가매수 유입 등으로 강세를 보인 반면 간밤 미국채 금리가 상승하며 약세 압력을...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02692886645349864",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006217958?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.2276,
+      "pubDate": "2026-02-11T23:17:00+00:00"
+    },
+    {
+      "title": "경기도, 의정부·구리·오산 추가…주거복지센터 29곳 확대",
+      "desc": "전세사기 피해자도 지원 대상이다. 전세사기 피해주택 가운데 긴급 보수가 필요한 주택에 최대 2000만원의 공사비를 지원한다. 안전 확보와 피해 복구가 시급하지만 임대인 소재를 알 수 없거나 연락이 두절된 경우가...",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2394106",
+      "naver": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2394106",
+      "host": "enewstoday.co.kr",
+      "score": 2.1858,
+      "pubDate": "2026-02-11T23:20:00+00:00"
+    },
+    {
+      "title": "무보, 철강산업 위기 극복을 위한 수출금융 지원",
+      "desc": "보증 1호 기업인 티지에스파이프는 수출자금 10억원 외에도 ▲보증비율(90%→100%) ▲보증료(업체당 최대 4000만원) ▲대출금리 우대 혜택을 활용해 유리한 조건으로 수출금융을 조달할 예정이다. 티지에스파이프는...",
+      "link": "https://www.dailian.co.kr/news/view/1609899/?sc=Naver",
+      "naver": "https://n.news.naver.com/mnews/article/119/0003059061?sid=101",
+      "host": "dailian.co.kr",
+      "score": 2.1776,
+      "pubDate": "2026-02-11T23:17:00+00:00"
+    },
+    {
+      "title": "“설 전후 1~2월 사기 집중”…최대 피해 연령은",
+      "desc": "또 설 시즌에는 티켓, 상품권, 게임 아이템처럼 비교적 소액인 거래뿐 아니라 명절 자금 지원, 대출 연장을 사칭한 피싱 및 대출 사기 피해도 함께 증가하는 것으로 조사됐다. 더치트의 연령별 데이터를 분석한 결과, 설...",
+      "link": "https://www.sedaily.com/article/20008016?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004589610?sid=101",
+      "host": "sedaily.com",
+      "score": 2.1723,
+      "pubDate": "2026-02-11T22:36:00+00:00"
+    },
+    {
+      "title": "[천지일보 여론조사] 국민 10명 중 3명 \"중과세 보완책에 '다주택자 규제...",
+      "desc": "이어 '실수요자에게 대출한도 확대' 25.2%, '분양가 상한제와 공공분양 확대' 17.8%, '수도권에 주택공급 확대' 14.5% 순이었다. '모름'은 13.0%였다. 성별로는 남녀 모두 다주택자 규제 강화를 1순위로 꼽았다. 남성은...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3374327",
+      "naver": "https://www.newscj.com/news/articleView.html?idxno=3374327",
+      "host": "newscj.com",
+      "score": 2.1719,
+      "pubDate": "2026-02-11T21:02:00+00:00"
+    },
+    {
+      "title": "서울 빼고는 '청약 한산'…수도권 초기 분양률 60% 역대 최저",
+      "desc": "수도권 민간아파트 평균 초기 분양률이 60%로 역대 최저치를 기록했다. 수도권 초기 분양률은 2024년 4분기 83.9%를 기록한 뒤 4분기 연속 하락했다. 12일 주택도시보증공사(HUG)에 따르면 2025년 4분기 수도권 민간아파트...",
+      "link": "https://www.newsis.com/view/NISX20260211_0003511110",
+      "naver": "https://n.news.naver.com/mnews/article/003/0013765506?sid=101",
       "host": "newsis.com",
-      "score": 2.1896,
-      "pubDate": "2026-02-10T23:29:00+00:00"
+      "score": 2.1682,
+      "pubDate": "2026-02-11T21:00:00+00:00"
     },
     {
-      "title": "부산, 3년 새 입주 물량 반토막…아파트값 9개월 연속 '상승'",
-      "desc": "11일 부동산 R114에 따르면, 지난해 부산의 입주 물량은 1만3352가구였다. 지난 2022년 2만4289가구가 입주한... 굵직한 개발 사업들이 추진되고 있어 부동산 상승세에 힘을 더하고 있다\"고 말했다. 이슬기 한경닷컴 기자",
-      "link": "https://www.hankyung.com/article/2026021178966",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005249735?sid=101",
+      "title": "래미안 엘라비네, 포레나더샵 인천시청역…교통 등 입지 우수",
+      "desc": "일반적으로 1~2월은 분양 비수기로 꼽히지만 올해는 수도권의 청약 열기가 살아 있는 데 따른 것이라는... 시세 대비 분양가의 적정성 등을 따져 청약통장을 활용하는 게 내 집 마련의 지름길”이라고 설명했다.",
+      "link": "https://www.hankyung.com/article/2026021184561",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005250057?sid=101",
       "host": "hankyung.com",
-      "score": 2.1814,
-      "pubDate": "2026-02-10T23:26:00+00:00"
+      "score": 2.1652,
+      "pubDate": "2026-02-11T07:02:00+00:00"
     },
     {
-      "title": "태광산업, 협력사에 설 납품대금 전액 조기 지급",
-      "desc": "이를 통해 2020년부터 신한은행과 상생대출 협약을 맺고, 중소 협력사에 77차례의 금리 인하 혜택을 제공했다. 또 자사 건물 입점 소상공인을 대상으로 월 200만원 한도내에서 임대료를 30% 감면해주는 '착한 임대료 운동...",
-      "link": "https://www.ajunews.com/view/20260211082122346",
-      "naver": "https://www.ajunews.com/view/20260211082122346",
-      "host": "ajunews.com",
-      "score": 2.1814,
-      "pubDate": "2026-02-10T23:26:00+00:00"
+      "title": "경기도, 의정부·구리·오산에 주거복지센터 29개 설치 주거약자 돕는다",
+      "desc": "전세사기 피해자들도 주거복지센터에서 지원을 받을 수 있다. 경기도는 전세사기 피해주택 중 긴급 보수가 필요한 주택에 최대 2000만 원의 공사비를 지원한다. 지원 대상은 안전 확보 및 피해 복구가 시급하지만 임대인의...",
+      "link": "https://www.viva100.com/article/20260212500083",
+      "naver": "https://www.viva100.com/article/20260212500083",
+      "host": "viva100.com",
+      "score": 2.1588,
+      "pubDate": "2026-02-11T23:10:00+00:00"
+    },
+    {
+      "title": "하나은행-KOSA, AI·SW 기업의 ESG경영 확산 위한 금융연계 지원",
+      "desc": "사진=하나은행 하나은행(은행장 이호성)은 한국인공지능·소프트웨어산업협회(KOSA, 회장 조준희)의 'AI·SW기업 ESG경영 진단서'를 발급 받은 기업에게 최대 2.0%의 우대금리를 제공하는 대출상품을 출시했다고 밝혔다....",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=91686",
+      "naver": "http://www.sisacast.kr/news/articleView.html?idxno=91686",
+      "host": "sisacast.kr",
+      "score": 2.1588,
+      "pubDate": "2026-02-11T23:10:00+00:00"
+    },
+    {
+      "title": "경기도, 연말까지 주거복지센터 29곳으로 확대",
+      "desc": "전세사기 피해 지원도 주요 기능이다. 긴급 보수가 필요한 피해주택에 대해 최대 2000만원의 공사비를 지원하며, 피해 가구에는 100만원의 긴급생계비를 지급한다. 긴급주거지원 대상자가 새로운 주거지로 이전할 경우...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=125273",
+      "naver": "http://www.bizwnews.com/news/articleView.html?idxno=125273",
+      "host": "bizwnews.com",
+      "score": 2.1482,
+      "pubDate": "2026-02-11T23:06:00+00:00"
     }
   ]
 }
