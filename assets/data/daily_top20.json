@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-02-12T23:22:05.764159Z",
+  "generatedAt": "2026-02-13T23:24:01.253399Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "트럼프 가문 주도 WLFI, 대출 넘어 외환시장 진출 선언",
-      "desc": "사용자의 순자산, 담보 비율(, 공급 및 대출 현황을 실시간으로 대시보드에서 확인 가능하며 스테이블코인 등을 활용한 대출 금리가 연 3.53% 수준으로 형성되어 있어 시중 금리 대비 경쟁력을 갖추고 있다. WLFI는...",
-      "link": "https://www.mk.co.kr/article/11962209",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005636976?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.6919,
-      "pubDate": "2026-02-12T23:19:00+00:00"
-    },
-    {
-      "title": "[전국 주요 신문 톱뉴스](13일 조간)",
-      "desc": "담합·전세사기, 일벌백계\" ▲ 중부일보 = 관세 위기 속 빛난 경기도 '실리 외교' ▲ 현대일보 = 해사국제상사법원 인천 설치 확정 ▲ 강원도민일보 = 삼척~강릉 고속화 철도 예타 통과 ▲ 강원일보 = 삼척~동해~강릉...",
-      "link": "https://www.yna.co.kr/view/AKR20260213015800505?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015904994?sid=102",
-      "host": "yna.co.kr",
-      "score": 2.6409,
-      "pubDate": "2026-02-12T23:00:00+00:00"
-    },
-    {
-      "title": "“왜 가계대출 늘리나”…당국 경고에 상호금융 다시 ‘대출조이기’",
-      "desc": "서울시 내 아파트의 잔금을 치르는 과정에서 지역단위농협 대출을 받은 직장인 A씨는 “주거래은행보다 특판 금리가 1%포인트 이상 낮았다”고 말했다. 상호금융은 지난해에도 가계대출 총량을 크게 초과했다....",
-      "link": "https://www.mk.co.kr/article/11962125",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005636953?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.4703,
-      "pubDate": "2026-02-12T21:48:00+00:00"
-    },
-    {
-      "title": "이번엔 대출규제…李 “버티기 다주택자, 대출연장 공정하냐”",
-      "desc": "李, 또 X에 부동산 정책 의견 게재 “양도세 깎아주며 수년간 기회 줘” “비거주 다주택 금융혜택 또 주는 건 문제” 이재명 대통령이 13일 다주택자 기존 대출만기와 관련해 추가 연장에 대한 공정성 문제를 제기했다....",
-      "link": "https://biz.chosun.com/policy/politics/president_office/2026/02/13/M4IWTDQIAZCCLEIZFEX4ERWELM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001142507?sid=100",
-      "host": "biz.chosun.com",
-      "score": 2.4025,
-      "pubDate": "2026-02-12T22:45:00+00:00"
-    },
-    {
-      "title": "5월9일까지 계약서 써야 중과 회피...6개월 미만 다주택자 매물 유주택...",
-      "desc": "부동산 거래신고법에 따르면 신청일부터 15 영업일 이내 허가 심사를 하게 돼 있으므로 이를 고려해야 한다. 예를 들어 2월 12일 신청한다면 15영업일 이후인 3월 10일 이전에 허가가 가능하다. Q)전세대출을 이용 중인...",
-      "link": "https://www.sedaily.com/article/20008811?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004590093?sid=101",
-      "host": "sedaily.com",
-      "score": 2.3326,
-      "pubDate": "2026-02-12T22:16:00+00:00"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "desc": "전문보기: https://www.yna.co.kr/view/AKR20260213009351007 ■ 李대통령 \"다주택자에 대출연장 공정한가…금융 혜택 문제 있어\" 이재명 대통령은 13일 \"다주택자들의 기존 대출은 만기가 되면 어떻게 처리해야 하나\"라며...",
-      "link": "https://www.yna.co.kr/view/AKR20260213017700011?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015904935?sid=102",
-      "host": "yna.co.kr",
-      "score": 2.2656,
-      "pubDate": "2026-02-12T22:30:00+00:00"
-    },
-    {
-      "title": "SK온, 국산 소재 카드로 ESS 수주 50.3% 대반전",
-      "desc": "▶기사 바로가기: 넥슨, 또 최대 실적…간판 IP·신작 쌍끌이 성장 ▶기사 바로가기: 박정원 “AI 대전환기, 에너지·소재에 기회” 설연휴 전 광폭 현장 행보 ▶기사 바로가기: 무주택자, 대출받아 다주택자 집 사면...",
-      "link": "https://www.sedaily.com/article/20008820?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004590106?sid=101",
-      "host": "sedaily.com",
-      "score": 2.2514,
-      "pubDate": "2026-02-12T23:04:00+00:00"
-    },
-    {
-      "title": "\"소비 갉아먹는 '좀비 차주', DSR 규제 강화로 막아야\"",
-      "desc": "이들은 대출 연장이나 갈아타기를 하며 대출을 연체하진 않지만 빚을 계속 안고 있기 때문에 오랜 기간 소비를 제약하고 있다는 분석이다. 서울 시내 은행의 대출 창구. (사진= 연합뉴스) 한국은행이 최근 발간한...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02273046645350192",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006218776?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2509,
-      "pubDate": "2026-02-12T22:02:00+00:00"
-    },
-    {
-      "title": "안전자산 선호 회복에 금리 하락…9000억원 규모 50년물 입찰[채권브리...",
-      "desc": "금리 흐름과 원·달러 환율 등을 주시하며 강세 출발할 것으로 전망된다. 미국 증시가 조정을 받으면서 위험자산 선호 심리가 다소 회복된 점은 긍정적으로 작용할 전망이다. 사진=AFP 간밤 미국채 10년물 금리...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02850326645350192",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006218821?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2364,
-      "pubDate": "2026-02-12T23:17:00+00:00"
-    },
-    {
-      "title": "\"AI가 모든 산업 잠식한다\" 공포에…3대지수 일제히 하락 [뉴욕증시 브리...",
-      "desc": "부동산 업종마저 급락했다. AI가 부동산 감정 평가 및 실수요 매칭, 규제 확인 등 상당수 서비스를 대신할 수 있다는 불안이 제기된 탓이다. 반면 월마트는 3.78% 올랐고 코스트코는 2.12% 상승했다. 소비 둔화에 대한...",
-      "link": "https://www.hankyung.com/article/2026021336156",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005251025?sid=101",
+      "title": "다주택자 매물만 '갭투자' 허용에…1주택자 역차별 지적도",
+      "desc": "이은형 대한건설정책연구원 연구위원은 “무주택 상태를 유지하다 청약을 통해 강남권 주택을 상대적으로 저렴하게 분양받는 사례도 있으나 이는 제한적”이라며 “상급지 다주택자 매물을 흡수하기에는 수요가 충분치...",
+      "link": "https://www.hankyung.com/article/202602135210i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005251461?sid=101",
       "host": "hankyung.com",
-      "score": 2.2234,
-      "pubDate": "2026-02-12T22:12:00+00:00"
+      "score": 2.7724,
+      "pubDate": "2026-02-13T21:01:00+00:00"
     },
     {
-      "title": "연초 청약 양극화 심화…비규제·지방 미달 속출, 서울은 수십대 1",
-      "desc": "새 아파트에 몰려들고 있다. 특히 서울은 분양가 상한제 적용으로 주변 시세 대비 저렴하게 내 집을 마련할 수 있다는 게 가장 큰 특징이다. 입주 물량 부족도 서울 청약에 수요가 쏠리는 이유다. 올해 서울 아파트...",
-      "link": "https://www.news1.kr/realestate/general/6071540",
-      "naver": "https://n.news.naver.com/mnews/article/421/0008773110?sid=101",
-      "host": "news1.kr",
-      "score": 2.2203,
-      "pubDate": "2026-02-12T20:30:00+00:00"
+      "title": "[부동산캘린더] 설 연휴에 쉬어가는 내주 분양 시장…견본주택 3곳 개관",
+      "desc": "14일 부동산R114에 따르면 2월 셋째 주에는 설 연휴의 영향으로 아파트·오피스텔 청약 접수를 진행하는 단지가 없는 것으로 조사됐다. R114 집계에는 임대 물량이나 조합원 취소 등의 재공급 물량은 포함되지 않는다....",
+      "link": "https://www.yna.co.kr/view/AKR20260213162700003?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015906529?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.6705,
+      "pubDate": "2026-02-13T21:00:00+00:00"
     },
     {
-      "title": "소상공인 '회생보듬자금'...전북도 지원한다",
-      "desc": "시군과 금융기관이 함께 참여하는 협력체계를 통해 저금리 자금과 장기보증을 제공해 경영회복을... 간접지원은 시군 특례보증에 도가 이차보전을 더해 대출금리를 낮추는 구조다. 지원 한도는 기업 상황에 맞춰...",
-      "link": "https://www.etoday.co.kr/news/view/2556524",
-      "naver": "https://www.etoday.co.kr/news/view/2556524",
-      "host": "etoday.co.kr",
-      "score": 2.1782,
-      "pubDate": "2026-02-12T23:14:00+00:00"
+      "title": "설 연휴에 숨 고르는 분양시장… 279가구 청약",
+      "desc": "14일 부동산 전문 리서치업체 리얼투데이에 따르면 2월 셋째 주에는 전국 6곳에서 총 279가구(오피스텔·공공지원 민간임대·민간임대·기업형 민간임대 포함, 행복주택 제외)가 청약 접수를 받는다. 설 연휴가 겹치면서...",
+      "link": "https://dealsite.co.kr/articles/157107",
+      "naver": "https://dealsite.co.kr/articles/157107",
+      "host": "dealsite.co.kr",
+      "score": 2.4357,
+      "pubDate": "2026-02-13T23:00:00+00:00"
     },
     {
-      "title": "국내 대기업 19곳, 설 전 협력사에 납품대금 8.1조 조기 지급",
-      "desc": "LG는 협력사를 대상으로 저금리·무이자 대출, 설비와 기술 인프라 지원 등 금융·기술 지원 프로그램을 통해 협력사의 경영 안정과 경쟁력 강화를 지원 중이다. 롯데는 협력사 임직원을 대상으로 명절 선물을 지원하고...",
-      "link": "https://www.mt.co.kr/industry/2026/02/13/2026021308110543193",
-      "naver": "https://n.news.naver.com/mnews/article/008/0005318234?sid=101",
-      "host": "mt.co.kr",
-      "score": 2.1782,
-      "pubDate": "2026-02-12T23:14:00+00:00"
+      "title": "“집은 못 사도 캐비아 정도는”...美 내 집 포기 세대의 ‘역설’ [글로...",
+      "desc": "월스트리트저널에 따르면 학자금 대출과 고금리로 내 집 마련을 포기한 MZ세대가 대신 ‘작은 사치’에 지갑을 여는 소비가 확산하고 있습니다. 지난해 11월 문을 연 고급 식료품점 메도레인은 15달러 치킨 너겟...",
+      "link": "https://www.sedaily.com/article/20009292?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004590435?sid=104",
+      "host": "sedaily.com",
+      "score": 2.3943,
+      "pubDate": "2026-02-13T22:01:00+00:00"
     },
     {
-      "title": "\"청약통장, 해지 말고 전략적으로\"…민간·공공 당첨 공식 따져보니 [집...",
-      "desc": "민영주택은 래미안, 푸르지오, 자이, 힐스테이트 등 건설사가 공급하는 일반 분양 아파트를, 공공주택은... 신축 아파트를 상대적으로 저렴한 가격에 분양받을 수 있는 기회가 청약을 통해서만 가능하다는 이유에서다....",
-      "link": "http://www.fnnews.com/news/202602120025278624",
-      "naver": "https://n.news.naver.com/mnews/article/014/0005478308?sid=101",
-      "host": "fnnews.com",
-      "score": 2.176,
-      "pubDate": "2026-02-12T21:01:00+00:00"
+      "title": "같은 수도권인데…서울은 청약 '완판' 경기는 '미달' 왜",
+      "desc": "최근 분양가 상승과 고강도 부동산 규제 확대로 수요자들의 선별 청약 경향이 강해지면서 수도권 아파트... 14일 부동산R114에 따르면, 지난해 수도권 아파트 평균 청약 경쟁률은 10.07대 1로 집계됐다. 지역별로는...",
+      "link": "https://www.newsis.com/view/NISX20260213_0003515691",
+      "naver": "https://n.news.naver.com/mnews/article/003/0013770561?sid=101",
+      "host": "newsis.com",
+      "score": 2.3921,
+      "pubDate": "2026-02-13T22:00:00+00:00"
     },
     {
-      "title": "[생산적 금융의 現場②] 하나금융, \"대출을 넘어 투자로\"…'4조 벤처+8.2...",
-      "desc": "5%p 금리 감면을 걸면서 \"생산적 금융이 창구에서 움직이기 시작했다\"는 평가가 나왔다. 그리고 2월 들어 하나금융지주의 무게중심은 한 단계 더 전진했다. 단기 유동성 지원(금리·한도)에서 멈추지 않고, 벤처...",
-      "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=97107",
-      "naver": "https://www.upkoreanews.kr/news/articleView.html?idxno=97107",
-      "host": "upkoreanews.kr",
-      "score": 2.1409,
-      "pubDate": "2026-02-12T23:00:00+00:00"
+      "title": "수도권 분양시장, 소형 면적 인기···청약자 수 '국평' 제쳐",
+      "desc": "14일 부동산R114에 따르면, 지난해 수도권 아파트 청약자 총 48만5271명 가운데 전용면적 60㎡ 이하 소형... 한국부동산원 청약홈에서 주택 청약 접수가 시작된 2020년 이래 소형 면적 청약자가 중형 면적 청약자 수를...",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=419199",
+      "naver": "https://www.sisajournal-e.com/news/articleView.html?idxno=419199",
+      "host": "sisajournal-e.com",
+      "score": 2.3852,
+      "pubDate": "2026-02-13T22:40:00+00:00"
     },
     {
-      "title": "재계, 설 앞두고 8.1조 규모 협력사 납품 대금 조기 지급",
-      "desc": "LG는 협력사를 대상으로 저금리·무이자 대출, 설비 및 기술 인프라 지원 등 금융·기술 지원 프로그램을 통해 협력사의 경영 안정과 경쟁력 강화를 지원하고 있다. 또 사업장 인근 지역을 중심으로 취약계층 대상 명절...",
-      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=328693",
-      "naver": "https://www.epnc.co.kr/news/articleView.html?idxno=328693",
-      "host": "epnc.co.kr",
-      "score": 2.1409,
-      "pubDate": "2026-02-12T23:00:00+00:00"
+      "title": "‘15주 연속 상승’ 지방 부동산...설 연휴 살펴볼 신규 분양 어디?",
+      "desc": "한국부동산원이 발표한 주간 아파트 시세에 따르면 2월 둘째 주 기준 지방 아파트 가격은 전주보다 0.03... 부동산R114 등에 따르면 올 상반기에도 수도권을 제외한 전국 곳곳에서 3만 8709가구의 신규 아파트가 분양한다....",
+      "link": "https://www.sedaily.com/article/20009307?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004590450?sid=101",
+      "host": "sedaily.com",
+      "score": 2.341,
+      "pubDate": "2026-02-13T23:02:00+00:00"
     },
     {
-      "title": "\"美는 급락했는데\"…5500 시대 연 코스피, 오늘은 숨 고를까 [오늘장 미...",
-      "desc": "운송·물류를 비롯해 부동산 서비스 기업도 급락했다. 제이드 라마니 KBW 애널리스트는 \"AI가 주도하는 파괴적 혁신에서 잠재적으로 취약한 것으로 보이는 고수수료, 노동집약적 사업 모델에서 투자자가 이탈 중...",
-      "link": "https://www.hankyung.com/article/202602133631i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005251036?sid=101",
+      "title": "뉴욕증시, 혼조 마감…AI 공포 시장 압박",
+      "desc": "그러면서 \"변동성이 큰 주가 움직임과 AI가 촉발한 대격변이 더 광범위한 거시경제 및 신용 문제로 번질 것이라는 우려 속에서도 성장과 금리, 기업 실적은 양호한 수준을 유지하고 있다\"고 덧붙였다.",
+      "link": "https://www.hankyung.com/article/2026021459277",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005251469?sid=101",
       "host": "hankyung.com",
-      "score": 2.1202,
-      "pubDate": "2026-02-12T22:52:00+00:00"
+      "score": 2.3189,
+      "pubDate": "2026-02-13T22:12:00+00:00"
     },
     {
-      "title": "국내 19대 그룹, 설 앞두고 협력사에 8.1조원 조기 지급",
-      "desc": "LG는 협력사에 저금리·무이자 대출, 설비 및 기술 인프라 지원 등 금융·기술 지원 프로그램을 운영 중이다. 사업장 인근 지역을 중심으로 취약계층 대상 명절 나눔 활동도 추진한다. 롯데는 협력사 임직원을 대상으로...",
-      "link": "https://biz.heraldcorp.com/article/10676041?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/016/0002600562?sid=101",
-      "host": "biz.heraldcorp.com",
-      "score": 2.1151,
-      "pubDate": "2026-02-12T22:50:00+00:00"
+      "title": "[분양 캘린더] 2월 둘째 주...분양 시장도 연휴 돌입, 전국 279가구 청약...",
+      "desc": "14일 부동산 전문 리서치업체 리얼투데이에 따르면, 2월 둘째 주에는 전국 6곳에서 총 279가구(오피스텔·공공지원 민간임대·민간임대·기업형 민간임대 포함, 행복주택 제외)의 청약 접수가 진행된다. 설 연휴가...",
+      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=412617",
+      "naver": "https://www.bizwork.co.kr/news/articleView.html?idxno=412617",
+      "host": "bizwork.co.kr",
+      "score": 2.2921,
+      "pubDate": "2026-02-13T22:00:00+00:00"
     },
     {
-      "title": "보령시, 발전소 주변 4개 면 주민·기업 융자 지원…연 1% 저금리",
-      "desc": "융자 대상자 결정 후 융자기관인 농협 보령시지부의 대출 심사를 통과해야 최종 지원이 가능하다. 자세한 사항은 시 누리집 공고문을 확인하거나 시 에너지과 에너지자원팀으로 문의하면 된다.",
-      "link": "https://www.news1.kr/local/daejeon-chungnam/6072574",
-      "naver": "https://n.news.naver.com/mnews/article/421/0008773388?sid=102",
-      "host": "news1.kr",
-      "score": 2.1151,
-      "pubDate": "2026-02-12T22:50:00+00:00"
+      "title": "[분양캘린더] \"설 연휴에 숨 고르기\"···2월 둘째 주 전국 6곳·279가구...",
+      "desc": "14일 부동산 전문 리서치업체 리얼투데이에 따르면 이번 주 전국 6개 단지에서 총 279가구(오피스텔·공공지원 민간임대·민간임대·기업형 민간임대 포함, 행복주택 제외)가 청약 접수를 진행한다. 견본주택은 3곳이...",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=136104",
+      "naver": "https://www.smartbizn.com/news/articleView.html?idxno=136104",
+      "host": "smartbizn.com",
+      "score": 2.2921,
+      "pubDate": "2026-02-13T22:00:00+00:00"
     },
     {
-      "title": "'렌탈王'코웨이 \"ROE 하락, 2년만 참아달라\"는 이유 [이슈체크]",
-      "desc": "소비자에게 할부금융을 한다면 조달금리가 대출금리(할부금융금리)보다는 낮아야 할 것입니다. 그러나 지금의 코웨이는 조달금리(Cost of Equity)가 대출금리보다 높은 상황이라고 얼라인은 진단합니다. 더 쉽게...",
-      "link": "https://news.mtn.co.kr/news-detail/2026021223575920501",
-      "naver": "https://news.mtn.co.kr/news-detail/2026021223575920501",
-      "host": "news.mtn.co.kr",
-      "score": 2.1,
-      "pubDate": "2026-02-12T22:44:00+00:00"
+      "title": "설연휴에 쉬어가는 내주 분양시장…견본주택 3곳 개관",
+      "desc": "사진=유토이미지 14일 부동산R114에 따르면 2월 셋째 주에는 설 연휴의 영향으로 아파트·오피스텔 청약 접수를 진행하는 단지가 없는 것으로 조사됐다. R114 집계에는 임대 물량이나 조합원 취소 등의 재공급 물량은...",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=716964",
+      "naver": "https://www.slist.kr/news/articleView.html?idxno=716964",
+      "host": "slist.kr",
+      "score": 2.2704,
+      "pubDate": "2026-02-13T21:50:00+00:00"
+    },
+    {
+      "title": "[달리자! 병오년] 2026 경기·인천 공공·민간 분양 흐름은",
+      "desc": "고금리·고환율에 요동치는 정부의 부동산 정책까지 더해지며 현장의 셈법도 복잡해지고 있다. ■ 2·3기... 부동산 플랫폼 직방과 부동산R114 집계를 보면 상반기에 3만1천326호가 배치돼 있고 하반기에는...",
+      "link": "https://www.kyeongin.com/article/1759122",
+      "naver": "https://www.kyeongin.com/article/1759122",
+      "host": "kyeongin.com",
+      "score": 2.2051,
+      "pubDate": "2026-02-13T22:48:00+00:00"
+    },
+    {
+      "title": "매경이 전하는 세상의 지식 (매-세-지, 2월 14일)",
+      "desc": "이재명 대통령이 SNS에서 “대출 만기가 된 다주택자들에게 연장 혜택을 추가로 주는 것이 공정한가”라며 대출정책 개선 필요성을 시사했습니다. 이 대통령의 발언은 대출 만기가 비교적 짧은 임대사업자 보유 주택의...",
+      "link": "https://www.mk.co.kr/article/11962777",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005637513?sid=102",
+      "host": "mk.co.kr",
+      "score": 2.1943,
+      "pubDate": "2026-02-13T22:01:00+00:00"
+    },
+    {
+      "title": "치솟는 분양가로 '국평' 약세…소형 몰리는 청약",
+      "desc": "소형 아파트 설계 고도화가 맞물리면서 소형 면적 선호가 뚜렷해지고 있다. 이는 단기적인 청약 쏠림을... 2025년 수도권 아파트 청약자 48만5271명 가운데 소형(전용 60㎡ 이하) 접수자는 21만8047명으로, 중형(전용 60...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026021311474731951",
+      "naver": "https://www.newsway.co.kr/news/view?ud=2026021311474731951",
+      "host": "newsway.co.kr",
+      "score": 2.1932,
+      "pubDate": "2026-02-13T21:12:00+00:00"
+    },
+    {
+      "title": "[안선영의 아주-머니] 적금·주식으로 우리 아이 세뱃돈 불리기",
+      "desc": "증권연계 계좌 등록과 주택청약종합저축 가입 등의 조건을 충족하면 우대금리를 챙길 수 있다. 1년 단위로 원리금을 자동 재예치해 장기적으로 굴릴수록 복리 효과를 기대할 수 있는 것도 장점이다. 넉넉한 납입 한도가...",
+      "link": "https://www.ajunews.com/view/20260213085430264",
+      "naver": "https://www.ajunews.com/view/20260213085430264",
+      "host": "ajunews.com",
+      "score": 2.1921,
+      "pubDate": "2026-02-13T22:00:00+00:00"
+    },
+    {
+      "title": "'오르락 내리락' 환율, 1400원 밑으로 내려갈까",
+      "desc": "연방준비제도의 금리 인하 지연 우려 등이 복합적으로 작용하면서 달러 수요를 자극할 수 있다는 것이다.... 정책금리 인하 예상 폭도 커지지 않고 있는 점은 미 달러화 가치를 지지하는 요인”이라고 설명했다....",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02013926645350520",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006219467?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.1883,
+      "pubDate": "2026-02-13T23:01:00+00:00"
+    },
+    {
+      "title": "설 연휴 쉬어가는 청약시장…견본주택 3곳 개관[분양캘린더]",
+      "desc": "2월 셋째주에는 주말부터 닷새간 이어지는 설 연휴로 인해 전국 아파트 청약시장도 잠시 쉬어간다. 14일... 코오롱글로벌은 부산 금정구 장전동 일원에 주상복합 아파트 '금정산하늘채루미엘'을 분양한다. 지하 6층...",
+      "link": "https://www.newsis.com/view/NISX20260213_0003515236",
+      "naver": "https://n.news.naver.com/mnews/article/003/0013770473?sid=101",
+      "host": "newsis.com",
+      "score": 2.1705,
+      "pubDate": "2026-02-13T21:00:00+00:00"
+    },
+    {
+      "title": "[AI 청약 모집공고] 쌍용건설, 부천 '쌍용 더 플래티넘 온수역' 분양",
+      "desc": "쌍용 더 플래티넘 온수역 청약 개요 [AI일러스트=조수민기자] ▲ 단지 정보 단지명: 쌍용 더 플래티넘 온수역 위치: 경기도 부천시 소사구 괴안동 201번지 일원 규모: 아파트 지하 3층~지상 35층, 6개동 총...",
+      "link": "https://www.newspim.com/news/view/20260213001048",
+      "naver": "https://www.newspim.com/news/view/20260213001048",
+      "host": "newspim.com",
+      "score": 2.1705,
+      "pubDate": "2026-02-13T21:00:00+00:00"
+    },
+    {
+      "title": "\"검사입니다\" 전화에 '번뜩'…\"피싱범죄 체험 앱 직접 만들었죠\"[경찰人...",
+      "desc": "이 체험 프로그램에서는 셀프 감금 협박 시나리오뿐 아니라 ‘가족 사칭’, ‘수사기관 사칭’, ‘대출 빙자’, ‘카드 배송 사칭’, ‘노쇼 사기’ 등과 같은 다양한 유형의 피싱 범죄 상황을 선택해 체험해 볼 수 있다....",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01954886645350520",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006219465?sid=102",
+      "host": "edaily.co.kr",
+      "score": 2.1626,
+      "pubDate": "2026-02-13T22:51:00+00:00"
+    },
+    {
+      "title": "광진구, 취득세 안내·전세사기 예방 챗봇으로 한번에 해결",
+      "desc": "청약 아파트 취득 시 주택 수 산정, 세대 인정 기준 등 착오가 빈번한 법령 해석 사항을 사례 중심으로 구성했다. 챗봇에는 세무 안내뿐 아니라 부동산 거래 전 과정에 대한 종합 정보안내 기능도 담겼다. 중개보수 상한요율...",
+      "link": "https://www.yna.co.kr/view/AKR20260213127300004?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015906059?sid=102",
+      "host": "yna.co.kr",
+      "score": 2.1541,
+      "pubDate": "2026-02-13T05:54:00+00:00"
     }
   ]
 }
