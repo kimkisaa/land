@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-02-18T23:22:49.938699Z",
+  "generatedAt": "2026-02-19T23:23:27.027680Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "한국, 2030년 부채 비율 60% 돌파… “재정 완충 능력 약화 우려”",
-      "desc": "다만 수도권·규제지역 유주택자에 이어 무주택자의 전세대출 이자 상환액도 DSR에 새로 반영하는 방안을 검토 중이다. 총대출 1억 원 이하 대출의 DSR 규제 적용 여부도 논의 대상에 올랐다. 현재 40%인 은행권의...",
-      "link": "https://www.sedaily.com/article/20009959?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004591173?sid=101",
-      "host": "sedaily.com",
-      "score": 2.6131,
-      "pubDate": "2026-02-18T22:50:00+00:00"
-    },
-    {
-      "title": "당첨되면 시세차익만 ‘10억’…설 이후 강남 ‘로또 분양’ 쏟아진다는...",
-      "desc": "예정이어서 청약 수요가 집중될 것으로 보인다. 18일 부동산 리서치업체에 따르면 올해 1분기 서울 분양 예정 물량은 총 1만 175가구로 집계됐다. 최근 5년 사이 최대 수준이다. 공급 확대 기대감 속에 청약 시장이 다시...",
-      "link": "https://www.sedaily.com/article/20009931?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004591136?sid=101",
-      "host": "sedaily.com",
-      "score": 2.4774,
-      "pubDate": "2026-02-18T20:05:00+00:00"
-    },
-    {
-      "title": "[단독]주요 은행 6년간 전세대출 이자수익 29조원…“전세사기 사회적 ...",
-      "desc": "국내 주요 은행들이 2020년 이후 전세대출로 29조원 넘는 이자수익을 거둔 것으로 나타났다. 사실상 무위험 상품인 전세대출로 거둔 수익이라는 점에서 은행들도 전세사기 피해 회복을 위해 앞장서야 한다는 지적이...",
-      "link": "https://www.khan.co.kr/article/202602190600001",
-      "naver": "https://n.news.naver.com/mnews/article/032/0003428323?sid=101",
-      "host": "khan.co.kr",
-      "score": 2.4727,
-      "pubDate": "2026-02-18T21:00:00+00:00"
-    },
-    {
-      "title": "엔비디아·메타 협력에 환호했지만…금리 인상 거론에 '움찔' [뉴욕증시...",
-      "desc": "유틸리티와 부동산, 필수소비재 등 경기방어주를 제외한 모든 업종이 상승했고 에너지는 2%, 임의소비재는 1% 상승했다. 신용평가회사 무디스는 4분기 매출과 주당순이익(EPS)이 모두 예상치를 웃돌면서 주가가 6.51...",
-      "link": "https://www.hankyung.com/article/2026021900696",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005252137?sid=101",
-      "host": "hankyung.com",
-      "score": 2.371,
-      "pubDate": "2026-02-18T22:33:00+00:00"
-    },
-    {
-      "title": "서울 집합건물 생애 최초 매수자 절반이 30대…2010년 이후 최대",
-      "desc": "작년 생애최초 등기 건수 중 49.84% 청년에게 유리한 정책 대출 등 영향 아파트값 급등세도 매수 심리 부추겨 지난해 서울에서 집합건물(아파트·연립주택·오피스텔 등)을 ‘생애최초’ 자격으로 사들인 매수자...",
-      "link": "https://www.mk.co.kr/article/11965577",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005638512?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.3626,
-      "pubDate": "2026-02-18T23:09:00+00:00"
-    },
-    {
-      "title": "[마켓뷰] 설 연휴 마친 코스피, 美 기술주 강세에 상승 출발할까",
-      "desc": "간밤 뉴욕증시, 금리 인상 우려 속 강세 마감…반도체지수 강세 설 연휴로 인해 19일 엿새 만에 문을 여는... 다만 1월 연방공개시장위원회(FOMC) 회의에서 금리 인상 시나리오가 거론됐다는 소식에 상승분을 대폭 반납한...",
-      "link": "https://www.yna.co.kr/view/AKR20260219020400008?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015911025?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.3573,
-      "pubDate": "2026-02-18T23:07:00+00:00"
-    },
-    {
-      "title": "\"서울서 돈 벌 곳 여기뿐이라지만\"…재건축·재개발의 함정 [정비의 시...",
-      "desc": "도시 및 주거환경정비법(도정법)에 따르면 투기과열지구 내 정비사업에서 관리처분계획에 따라 분양대상자 혹은 해당 가구에 속한 경우 분양대상자 선정일로부터 5년 이내에는 투기과열지구 내 정비사업의 분양신청을 할...",
-      "link": "https://www.hankyung.com/article/2026021226166",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005252123?sid=101",
-      "host": "hankyung.com",
-      "score": 2.3332,
-      "pubDate": "2026-02-18T21:31:00+00:00"
-    },
-    {
-      "title": "“이번에는 진짜 상장할까”…3.3조 대어 케이뱅크, 코스피 입성 청신호",
-      "desc": "삼수 끝에 공모절차 들어가 공모가 8300원, 20일 청약 설 명절 이후 올해 상반기 기업공개(IPO) 최대어 중... 18일 금융투자업계에 따르면 케이뱅크는 오는 20·23일 양일간 일반투자자 대상 청약을 받는다. 앞서...",
-      "link": "https://www.mk.co.kr/article/11965428",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005638490?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.3013,
-      "pubDate": "2026-02-18T21:15:00+00:00"
-    },
-    {
-      "title": "[더벨][디벨로퍼 분양 인사이드] 넥스플랜, 용산서 '에테르노' 경쟁력 재...",
-      "desc": "부동산 디벨로퍼 넥스플랜이 '에테르노 용산' 사전청약에서 양호한 성적을 거두며 본계약에 대한 기대감을 키우고 있다. 올해 중순 본PF 조달과 착공에 들어갈 예정이다. 에테르노 용산은 청담·압구정에 이어...",
-      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202602111606046400108339",
-      "naver": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202602111606046400108339",
-      "host": "thebell.co.kr",
-      "score": 2.2991,
-      "pubDate": "2026-02-18T22:02:00+00:00"
-    },
-    {
-      "title": "비트코인 한때 6만6000달러 붕괴… 美 금리 불확실성 영향",
-      "desc": "미국 중앙은행인 연방준비제도(Fed·연준)에서 추후 금리인하 여부를 두고 내분이 벌어지고 있다는... 이날 연준은 1월 FOMC 회의록을 공개하며 “인플레이션이 하락할 경우, 추가 금리 인하가 가능하다”고...",
-      "link": "https://biz.chosun.com/stock/finance/2026/02/19/SCAEUEFP5BG43AXDBAIOT4UXDM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001143028?sid=101",
+      "title": "‘846대1′ 과천주암 당첨 커트라인 청약저축 납입액 2960만원",
+      "desc": "올해 공공주택 청약 커트라인 보니 1순위 청약저축 납입액 평균 1939만원 공공주택 당첨 위한 청약 전략 수립해야 최근 청약을 진행한 공공주택을 분양받으려면 적어도 청약저축 납입액이 1900만원은 넘어야 했던...",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/02/20/INFQSHO2PVEFNFJNM7PBJH6H3E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001143262?sid=101",
       "host": "biz.chosun.com",
-      "score": 2.268,
-      "pubDate": "2026-02-18T23:11:00+00:00"
+      "score": 2.5734,
+      "pubDate": "2026-02-19T21:01:00+00:00"
     },
     {
-      "title": "[부동산 PF 2라운드③] \"서울은 회복? 지방은 정체\"… 분양률이 가르는...",
-      "desc": "[사진=뉴시안] ［뉴시안= 이태영 기자］부동산 프로젝트파이낸싱(PF) 위기는 겉으로는 진정된 듯 보인다.... 한 부동산 금융 전문가는 \"PF 1라운드가 금리 급등이라는 외부 충격이었다면, 2라운드는 각 지역의 실질 수요가...",
-      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=86252",
-      "naver": "http://www.newsian.co.kr/news/articleView.html?idxno=86252",
-      "host": "newsian.co.kr",
-      "score": 2.2599,
-      "pubDate": "2026-02-18T23:08:00+00:00"
+      "title": "분양가 5년 새 약 58% 상승...주거형 오피스텔로 실수요·투자 이동",
+      "desc": "정부의 '10.15 부동산 대책' 이후 규제지역 내 주택담보대출비율(LTV)은 40%까지 축소되었으며, 차주별 소득... 부동산 전문가는 \"다만, 오피스텔도 분양가나 입지가 미치는 영향도 적지 않으므로 수요자 입장에서는 이를...",
+      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=412651",
+      "naver": "https://www.bizwork.co.kr/news/articleView.html?idxno=412651",
+      "host": "bizwork.co.kr",
+      "score": 2.4798,
+      "pubDate": "2026-02-19T23:16:00+00:00"
     },
     {
-      "title": "금리인상 등장한 FOMC 의사록…장 중 외국인 수급 주시[채권브리핑]",
-      "desc": "19일 국내 국고채 시장은 간밤 미국채 금리 흐름과 원·달러 환율 등을 주시하며 강보합 출발할 것으로 전망된다. 설 연휴를 거치며 미국채 10년물 금리가 4.1%를 하회 중인 만큼 레벨 맞추기에 들어갈 예정이다. 미국...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02712566645352160",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006220510?sid=101",
+      "title": "5700 고지 앞둔 코스피 지수, 흐름 정체될 가능성 높아 [오늘장 미리보...",
+      "desc": "사모시장·대체자산 운용사 블루아울캐피탈은 14억달러 규모 대출자산을 매각하고 투자자 유동성을 제한하겠다고 발표했다. 블루아울캐피탈 주가는 6% 급락했다. 아폴로글로벌매니지먼트와 TPG 등도 약세였다....",
+      "link": "https://www.hankyung.com/article/202602202702i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005252757?sid=101",
+      "host": "hankyung.com",
+      "score": 2.4663,
+      "pubDate": "2026-02-19T23:11:00+00:00"
+    },
+    {
+      "title": "'제 2의 금융위기' 오나…불안에 떠는 2600조 시장",
+      "desc": "대신 대출 상환, 자산 매각, 기타 거래를 통해 확보한 자금으로 정기 분배 방식의 자본 반환을 진행할 계획이다. 블루아울은 투자자 유동성 확보를 위해 3개 펀드에서 약 14억 달러 규모의 직접 대출 자산을 매각했다고...",
+      "link": "https://www.hankyung.com/article/202602202692i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005252755?sid=104",
+      "host": "hankyung.com",
+      "score": 2.4636,
+      "pubDate": "2026-02-19T23:10:00+00:00"
+    },
+    {
+      "title": "“오늘이 제일 싸다, 지금 아니면 집 못 사”…돈 싸 들고 서울 몰려간...",
+      "desc": "부동산R114 자료에 따르면, 2025년 서울 아파트 3.3㎡당 평균 분양가는 5131만원을 기록했다. 2022년 평당 3477만원과 비교하면 48% 올랐다. ‘국민평형’으로 불리는 전용면적 84㎡의 경우 2022년 12억원에서 2025년...",
+      "link": "https://www.sedaily.com/article/20010468?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004591602?sid=101",
+      "host": "sedaily.com",
+      "score": 2.3663,
+      "pubDate": "2026-02-19T23:11:00+00:00"
+    },
+    {
+      "title": "[마켓뷰] 美 증시 삭풍에 먹구름…코스피 '불장' 쉬어가나",
+      "desc": "뉴욕증시, 중동·사모대출 리스크에 하락…반도체지수 약세 최근 사상 최고치 랠리를 이어간 국내 증시가 20일 간밤 뉴욕증시 약세에 쉬어갈지 주목된다. 전날 코스피는 뉴욕증시 강세와 설 연휴 기간 대기 수요가...",
+      "link": "https://www.yna.co.kr/view/AKR20260220023400008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015913368?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3583,
+      "pubDate": "2026-02-19T23:08:00+00:00"
+    },
+    {
+      "title": "나랏빚만 2400조 원 브라질 결국 손 들었다 한국 빚 2배 넘긴 파산의 전...",
+      "desc": "천문학적 이자 비용과 시장 신뢰의 붕괴 적자의 핵심 원인은 살인적인 고금리 기조 속에서 눈덩이처럼... 고금리 유지는 서민들의 대출 부담을 가중시킨다. 세금과 물가, 금리라는 세 갈래 채찍이 국민의 삶을 동시에...",
+      "link": "https://www.g-enews.com/view.php?ud=202602200743035148f4f9a46d5b_1",
+      "naver": "https://www.g-enews.com/view.php?ud=202602200743035148f4f9a46d5b_1",
+      "host": "g-enews.com",
+      "score": 2.2965,
+      "pubDate": "2026-02-19T22:44:00+00:00"
+    },
+    {
+      "title": "'IPO 대어' 케이뱅크, 일반 청약 돌입[오늘 청약]",
+      "desc": "케이뱅크가 오늘(20일)부터 이틀간 일반 투자자를 대상으로 공모청약에 나선다. NH투자증권과 삼성증권이 공동 주관, 신한투자증권이 인수사를 맡았다. 다음달 5일 유가증권시장에 상장한다. 케이뱅크 사옥. 케이뱅크...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02355046645352488",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006221156?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.2452,
-      "pubDate": "2026-02-18T23:21:00+00:00"
+      "score": 2.2863,
+      "pubDate": "2026-02-19T22:19:00+00:00"
     },
     {
-      "title": "연휴 끝 달러 강세 추종…환율 1450원대로 상승 시도[외환브리핑]",
-      "desc": "미국 경제가 견조하자 금리 인하 기대감이 축소되면서 달러화가 강세를 보이고 있어, 원화를 비롯한... 또한 간밤 발표된 1월 연방공개시장위원회(FOMC) 의사록에 따르면 일부 위원들이 지난 회의에서 금리 인상...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02689606645352160",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006220507?sid=101",
+      "title": "금융감독원 “공시위반 중조치 급증”… 전기차, 내수판매 507%↑",
+      "desc": "유상증자 시 50명 이상에게 청약을 권유할 경우 의무인 증권신고서를 제출하지 않은 위반이 대부분이었다. 금감원은 올해 증시 불공정거래 근절 원년을 맞아 대규모 자금 모집 관련 중요 사건을 중심으로...",
+      "link": "https://www.sedaily.com/article/20010450?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004591576?sid=101",
+      "host": "sedaily.com",
+      "score": 2.2716,
+      "pubDate": "2026-02-19T21:50:00+00:00"
+    },
+    {
+      "title": "‘트럼프 측근’ 마이런 연준 이사, 비둘기파 입장 다소 완화",
+      "desc": "스티브 마이런 연방준비제도(연준, Fed) 이사가 최근 경제 지표가 예상 보다 강하다면서 올해 기준금리를... 그는 연준의 12월 점도표에서 올해 연말까지 기준금리가 2.25% 이하로 떨어질 것이라고 전망했다. 올해 금리를...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02797846645352488",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006221195?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.237,
-      "pubDate": "2026-02-18T23:18:00+00:00"
+      "score": 2.2408,
+      "pubDate": "2026-02-19T23:20:00+00:00"
     },
     {
-      "title": "[오늘의 경제뉴스] 주담대 금리 상단 7% 진입 목전...'영끌족' 비상",
-      "desc": "시중은행 관계자는 \"작년 하반기 이후 은행들이 부동산 규제에 따라 주로 주담대 관련 우대금리를 줄이고 가산금리를 늘리면서 신용대출 금리가 주담대 금리를 밑도는 역전 현상이 나타났다\"며 \"여전히 역전 상태지만...",
-      "link": "https://www.newsverse.kr/news/articleView.html?idxno=9712",
-      "naver": "https://www.newsverse.kr/news/articleView.html?idxno=9712",
-      "host": "newsverse.kr",
-      "score": 2.2308,
-      "pubDate": "2026-02-18T22:16:00+00:00"
+      "title": "‘빚투’에 5대 은행 신용대출 금리 6.4%로↑…NH농협은행만 인하 나서",
+      "desc": "한 업계 관계자는 “은행은 현재 정부의 강력한 부동산 규제로 주담대를 줄이고 있는데 신용대출은 늘고 있으니 건전성과 수익성이 흔들릴 가능성이 높아진 상황”이라고 말했다. [CEO스코어데일리 / / ]",
+      "link": "https://www.ceoscoredaily.com/page/view/2026021915384165962",
+      "naver": "https://www.ceoscoredaily.com/page/view/2026021915384165962",
+      "host": "ceoscoredaily.com",
+      "score": 2.1933,
+      "pubDate": "2026-02-19T22:00:00+00:00"
     },
     {
-      "title": "[설 이후 부동산 시장]②&lt;주택시장&gt;“5월9일까지 매물 늘고 집값 오름폭...",
-      "desc": "선호 청약경쟁률 양극화 현상 심화 예고 [대한경제=황은우 기자]시장 전문가들에 따르면 서울 아파트값... 분양시장도 ‘똘똘한 한 채’ 지속 분양시장의 경우 다주택자 규제와 맞물려 청약경쟁률 양극화가 심해질 것으로...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202602172223028160112",
-      "naver": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202602172223028160112",
+      "title": "경기 극저신용대출 2.0 신청자 29%, '고금리·불법사금융 이용 경험 있다...",
+      "desc": "경기도가 금융취약계층의 마지막 안전망 역할로 추진한 '경기 극저신용대출 2.0' 1차 신청자 29%가 고금리·불법사금융 이용 경험이 있는 것으로 조사됐다. 경기도는 지난 2월 11일 마감한 '경기 극저신용대출 2.0...",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=84397",
+      "naver": "https://www.thereport.co.kr/news/articleView.html?idxno=84397",
+      "host": "thereport.co.kr",
+      "score": 2.1798,
+      "pubDate": "2026-02-19T23:16:00+00:00"
+    },
+    {
+      "title": "경기 극저신용대출 2.0 신청 10명중 3명 '고금리·불법사금융 이용 경험...",
+      "desc": "극저신용대출 2.0 신청 10명중 3명 가량이 '고금리·불법사금융 이용 경험 있다'고 응답한 것으로 나타났다. 20일 경기동 따르면 도가 금융취약계층의 마지막 안전망 역할로 추진한 '경기 극저신용대출 2.0' 1차 신청자...",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1338581",
+      "naver": "https://www.m-i.kr/news/articleView.html?idxno=1338581",
+      "host": "m-i.kr",
+      "score": 2.1744,
+      "pubDate": "2026-02-19T23:14:00+00:00"
+    },
+    {
+      "title": "뉴욕증시, 이란·블루아울이 자극한 위험 회피…하락 마감",
+      "desc": "시카고상품거래소(CME) 페드워치툴에 따르면 연방기금금리 선물시장은 3월 금리동결 확률을 94.1%로 반영했다. 시카고옵션거래소(CBOE) 변동성 지수(VIX)는 전장 대비 0.61포인트(3.11%) 오른 20.23을 가리켰다.",
+      "link": "https://www.yna.co.kr/view/AKR20260220013000009?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015913298?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.1652,
+      "pubDate": "2026-02-19T21:47:00+00:00"
+    },
+    {
+      "title": "'경기 극저신용대출 2.0' 신청자 29% \"불법 사금융 경험\"",
+      "desc": "금융취약계층 안전망 역할을 하는 '경기 극저신용대출 2.0' 1차 신청자 29%가 고금리 대출이나 불법사금융 이용 경험이 있는 것으로 나타났다. 20일 경기도가 지난 11일 마감한 '경기 극저신용대출 2.0' 신청자 2195명을...",
+      "link": "https://www.sidae.com/article/2026022007222013629",
+      "naver": "https://n.news.naver.com/mnews/article/417/0001130539?sid=102",
+      "host": "sidae.com",
+      "score": 2.1556,
+      "pubDate": "2026-02-19T23:07:00+00:00"
+    },
+    {
+      "title": "성북구, 소상공인 특별융자 60억 추가지원",
+      "desc": "성북구 새마을금고 협의회·서울신용보증재단과 자금 지원에 맞손 업체당 대출한도 5000만 원, 대출금리 연 2.6% 변동금리 적용 이승로 성북구청장을 포함한 세 명의 남성이 실내에서 협약서로 보이는 서류를 들고 서...",
+      "link": "https://biz.heraldcorp.com/article/10678755?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/016/0002602460?sid=102",
+      "host": "biz.heraldcorp.com",
+      "score": 2.1346,
+      "pubDate": "2026-02-19T22:59:00+00:00"
+    },
+    {
+      "title": "\"알아서 척척\"…KB국민은행, 26일부터 '금리인하요구권 대행 서비스' 시...",
+      "desc": "KB국민은행은 오는 26일 '금리인하요구권 대행 서비스'를 선보인다. 사진=KB국민은행  KB국민은행(은행장 이환주)은 오는 26일 마이데이터로 연결된 타 금융사 대출까지 한 번에 대출금리 인하를 신청할 수 있도록 돕는...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=125811",
+      "naver": "http://www.bizwnews.com/news/articleView.html?idxno=125811",
+      "host": "bizwnews.com",
+      "score": 2.1166,
+      "pubDate": "2026-02-19T22:52:00+00:00"
+    },
+    {
+      "title": "경기도, 금융취약계층 안전망 강화…상환기간 최대 10년 확대",
+      "desc": "자료=경기도 경기도가 추진 중인 '경기 극저신용대출 2.0' 1차 신청자 가운데 29%가 고금리 대출이나 불법사금융을 이용한 경험이 있는 것으로 나타났다. 금융취약계층의 제도권 금융 접근이 여전히 제한적임을...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=125931",
+      "naver": "http://www.bizwnews.com/news/articleView.html?idxno=125931",
+      "host": "bizwnews.com",
+      "score": 2.1166,
+      "pubDate": "2026-02-19T22:52:00+00:00"
+    },
+    {
+      "title": "[머니테크] 세뱃돈 목돈 불리기, 은행 적금으로 금융교육",
+      "desc": "우대금리 항목은 청약통장 보유 0.5%p, 아동수당 수급 0.3%p, 체크카드 결제실적 0.3%p, 재예치 0.1%p를 적용한다.... 기본금리도 3%에 가까운 연 2.95%로, 우대금리는 최초 가입 0.2%p, 청약우대0.4%p 등을 적용할 수 있다. 분기...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202602170106077270097",
+      "naver": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202602170106077270097",
       "host": "dnews.co.kr",
-      "score": 2.202,
-      "pubDate": "2026-02-18T20:20:00+00:00"
+      "score": 2.1139,
+      "pubDate": "2026-02-19T21:22:00+00:00"
     },
     {
-      "title": "예대마진 넘어 생산적 금융으로…2026년, 은행권 수익모델 전환 본격화",
-      "desc": "기준금리 인하 기대가 약해진 가운데 금융당국의 가계부채 관리 기조가 이어지면서 가계대출 확대를 통한... 19일 금융권에 따르면 올해도 가계대출 총량 관리와 스트레스 DSR(총부채원리금상환비율) 규제가 유지될...",
-      "link": "https://www.goodkyung.com/news/articleView.html?idxno=282944",
-      "naver": "https://www.goodkyung.com/news/articleView.html?idxno=282944",
-      "host": "goodkyung.com",
-      "score": 2.1947,
-      "pubDate": "2026-02-18T22:00:00+00:00"
-    },
-    {
-      "title": "대전시, 2026년 전세사기피해자 지원사업 추진",
-      "desc": "대전시는 전세사기 피해를 입은 시민들의 주거 안정과 일상 회복을 돕기 위해 ‘2026년 전세사기피해자 지원사업’을 추진한다. 이번 사업은 즉각 체감할 수 있는 현금성․생활 밀착형 지원이 핵심이다. 대상은...",
-      "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2193148",
-      "naver": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2193148",
-      "host": "shinailbo.co.kr",
-      "score": 2.1815,
-      "pubDate": "2026-02-18T23:16:00+00:00"
-    },
-    {
-      "title": "[설 이후 부동산] 상승세 속 정책 속도 따라 '국지적 요동' 가능(종합)",
-      "desc": "고준석 연세대 상남경영원 교수는 \"매매시장 회복과 공급 감소로 인한 희소성이 청약 수요를 자극할 것\"이라고 분석했다. 송승현 도시와 경제 대표는 \"분양가가 수요자가 감당할 수준을 넘어서는 경우, 지방 시장 회복...",
-      "link": "https://www.news1.kr/realestate/general/6073850",
-      "naver": "https://n.news.naver.com/mnews/article/421/0008779600?sid=101",
-      "host": "news1.kr",
-      "score": 2.1727,
-      "pubDate": "2026-02-18T21:00:00+00:00"
-    },
-    {
-      "title": "[진중권 칼럼] 새로운 복음",
-      "desc": "전에는 열심히 일해 저축하고, 그 돈으로 전세 얻고, 청약에 당첨되면 대출받아 집을 사는 표준경로가 존재했다. 하지만 이제는 수도권에, 특히 서울에는 더이상 집 지을 땅이 없다. 그러니 남은 것은 수요억제뿐. 하지만...",
-      "link": "https://www.joongang.co.kr/article/25405619",
-      "naver": "https://n.news.naver.com/mnews/article/025/0003503741?sid=110",
-      "host": "joongang.co.kr",
-      "score": 2.1616,
-      "pubDate": "2026-02-18T15:20:00+00:00"
-    },
-    {
-      "title": "“빚 내서 버텼는데 금리부터 올랐다”… 4% 넘어선 대출, 가계 다시 긴...",
-      "desc": "신용대출 금리 하단이 다시 연 4%를 넘어섰습니다. 투자 열기는 이어지고 있지만 돈을 빌리는 비용은 빠르게 올라가고 있습니다. 저금리에 기대 형성된 가계의 금융 구조가 다시 시험대에 오른 모습입니다. 시장에서는...",
-      "link": "https://www.jibs.co.kr/news/articles/articlesDetail/57954?feed=na",
-      "naver": "https://n.news.naver.com/mnews/article/661/0000071533?sid=101",
-      "host": "jibs.co.kr",
-      "score": 2.152,
-      "pubDate": "2026-02-18T23:05:00+00:00"
+      "title": "금융위기 전조?···미 대형 사모대출 펀드 환매중단에 위험회피심리 ...",
+      "desc": "정보기술(IT) 업종 사모대출에 주로 투자한 미국의 사모펀드 블루아울 캐피털이 19일(현지시간) 일부... 블루아울 캐피털은 사모대출에 강점을 가진 사모펀드로, AI 데이터센터를 비롯한 AI 인프라와 기술 업종에 대한...",
+      "link": "https://www.khan.co.kr/article/202602200745001",
+      "naver": "https://n.news.naver.com/mnews/article/032/0003428633?sid=101",
+      "host": "khan.co.kr",
+      "score": 2.099,
+      "pubDate": "2026-02-19T22:45:00+00:00"
     }
   ]
 }
