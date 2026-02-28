@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-02-27T23:17:57.341151Z",
+  "generatedAt": "2026-02-28T23:15:30.655191Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "반도체 호재 업은 경부축…'수지자이 에디시온' 분양",
-      "desc": "이른바 ‘경부축’이 수도권 부동산 시장을 주도하는 흐름이 강화되고 있다. 서울 강남권의 매수세가... 전문가들은 이 같은 첨단 산업의 확장이 부동산 가치 상승과 직결된다고 분석한다. 부동산인포 관계자는...",
-      "link": "https://www.hankyung.com/article/202602279955O",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005256542?sid=101",
+      "title": "3월 전국 3.7만가구 '벚꽃 분양'…지방선거 앞두고 공급 봇물",
+      "desc": "1일 부동산R114에 따르면 이 달 전국에서는 47개 단지, 총 3만7381가구(임대 포함)가 분양에 나설 예정이다.... 부동산R114 관계자는 “서울 및 수도권 선호 지역은 높은 분양가에도 비교적 양호한 청약 성적을 이어가고...",
+      "link": "https://www.dailian.co.kr/news/view/1615111/?sc=Naver",
+      "naver": "https://n.news.naver.com/mnews/article/119/0003064185?sid=101",
+      "host": "dailian.co.kr",
+      "score": 2.3133,
+      "pubDate": "2026-02-28T22:01:00+00:00"
+    },
+    {
+      "title": "\"30%에 사서 80% 받는다?\"…韓수출기업 '파산 채권' 경고등 [글로벌 머니...",
+      "desc": "고금리 장기화와 지정학적 공급망 재편의 비용이 누적되면서 삭스 글로벌 등 미국 대형 유통·제조업체의... 과거 제로 금리 시대에 대규모 차입에 의존해 무리하게 외형을 확장했던 기업의 연명 줄이 끊어지면서다....",
+      "link": "https://www.hankyung.com/article/202602270346i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005256678?sid=101",
       "host": "hankyung.com",
-      "score": 2.5543,
-      "pubDate": "2026-02-27T23:01:00+00:00"
+      "score": 2.3133,
+      "pubDate": "2026-02-28T22:01:00+00:00"
     },
     {
-      "title": "\"이대로 가다간 한국도…\" 점점 조여오는 '그림자 세금' 공포 [글로벌 머...",
-      "desc": "이런 현상은 주택 및 부동산 모기지(주택담보대출) 시장에 영향을 미쳤다. 모든 모기지 대출에는 담보물에 대한 적정 수준의 보험 유지가 필수다. 만약 차주가 보험 갱신을 거절당하거나 증가한 요율을 감당하지 못해...",
-      "link": "https://www.hankyung.com/article/202602266400i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005256533?sid=101",
-      "host": "hankyung.com",
-      "score": 2.5078,
-      "pubDate": "2026-02-27T22:01:00+00:00"
-    },
-    {
-      "title": "美증시, AI 파괴론에 PPI 급등도 부담...엔비디아 4.2% 추가 하락 [데일리...",
-      "desc": "이같은 흐름이 이어질 경우 올해 연방준비제도(Fed·연준)의 금리 인하 폭은 더 줄어들 수밖에 없다. AI의 파괴적 혁신으로 미국 월가에서 은행과 투자회사들의 대출 부실화 우려가 커진 점도 증시에 부담을 줬다....",
-      "link": "https://www.sedaily.com/article/20013831?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004594453?sid=104",
-      "host": "sedaily.com",
-      "score": 2.4658,
-      "pubDate": "2026-02-27T22:26:00+00:00"
-    },
-    {
-      "title": "[주간분양] 이번 주 '쌍용 더 플래티넘 온수역' 1순위 마감",
-      "desc": "28일 한국부동산원에 따르면 지난 23일부터 27일까지 전국에서 분양 아파트 5개 단지가 청약홈을 통해 입주자를 모집했다. 청약 결과를 보면 '쌍용 더 플래티넘 온수역'이 109가구 모집에 1317건을 접수하며 평균...",
-      "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2196729",
-      "naver": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2196729",
-      "host": "shinailbo.co.kr",
-      "score": 2.4516,
-      "pubDate": "2026-02-27T23:00:00+00:00"
-    },
-    {
-      "title": "\"협박당했어요\" 호소에도…라오스 활동 보이스피싱 조직원 3년형",
-      "desc": "대출을 받아 일부는 수표로 출금하여 전달하고 나머지는 계좌 이체를 해라\"는 식으로 속였다. 조직원들이 검사, 금융감독원 과장 역할 등을 나누고 차례대로 피해자와 통화해 속게 했다. A씨는 지난해 5월부터 다른...",
-      "link": "https://www.yna.co.kr/view/AKR20260227123500060?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015930046?sid=102",
+      "title": "금융위, 전방위 규제 강구…비주거용 대출·투기1주택도 사정권",
+      "desc": "당국, 일주일간 통계 정비…3일 부위원장 주재 4차 회의 금융당국이 부동산 대출 통계를 정비하고 부동산시장 정상화를 위한 전방위적 규제 마련에 본격 착수한다. 주거용 임대사업자 대출회수 중심에서 규제 대상과...",
+      "link": "https://www.yna.co.kr/view/AKR20260228043500002?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015930672?sid=101",
       "host": "yna.co.kr",
-      "score": 2.3516,
-      "pubDate": "2026-02-27T23:00:00+00:00"
+      "score": 2.2696,
+      "pubDate": "2026-02-28T20:51:00+00:00"
     },
     {
-      "title": "봄 성수기 분양대전 예고…수도권·지방 곳곳서 청약 물량 증가",
-      "desc": "27일 부동산 정보업체 부동산R114 조사 결과에 따르면 전국 47개 단지에서 총 3만7381가구(임대 포함)가 3월 분양을 앞두고 있다. 지난해 3월은 윤석열 전 대통령 탄핵 심판을 앞둔 정치적 불확실성 여파로 분양 물량이...",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026022709105178135",
-      "naver": "https://www.newsway.co.kr/news/view?ud=2026022709105178135",
-      "host": "newsway.co.kr",
-      "score": 2.3375,
-      "pubDate": "2026-02-27T22:14:00+00:00"
-    },
-    {
-      "title": "[분양 캘린더] 3월 첫째 주, 수도권·지방 대단지 물량 '기지개'",
-      "desc": "27일 부동산 전문 리서치업체 리얼투데이에 따르면, 3월 셋째 주에는 전국 5곳에서 총 4379가구가 청약 접수를 받는다. 3월 첫째 주엔 수도권과 지방 주요 거점 지역에서 1000가구 이상의 대단지 공급이 예정돼 있다....",
-      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=412973",
-      "naver": "https://www.bizwork.co.kr/news/articleView.html?idxno=412973",
-      "host": "bizwork.co.kr",
-      "score": 2.3191,
-      "pubDate": "2026-02-27T22:06:00+00:00"
-    },
-    {
-      "title": "[분양 캘린더] 3월 첫째 주 ‘천안아이파크시티5·6단지’ 등 5961가구 분...",
-      "desc": "◇청약 단지(5곳) 부동산 정보업체 부동산R114에 따르면 3월 첫째 주에는 전국 5개 단지 총 5961가구(일반분양 3440가구)가 분양을 시작한다. 4일에는 서울 노원구 '해링턴플레이스노원센트럴'과 경기 구리시...",
-      "link": "https://www.etoday.co.kr/news/view/2560582",
-      "naver": "https://www.etoday.co.kr/news/view/2560582",
-      "host": "etoday.co.kr",
-      "score": 2.3055,
-      "pubDate": "2026-02-27T22:00:00+00:00"
-    },
-    {
-      "title": "부산 아파트값도 상승 주춤…전셋값은 상승폭 확대",
-      "desc": "28일 한국부동산원의 '주간 아파트 가격 동향 조사' 결과에 따르면 2월 넷째 주(2월 23일 기준) 부산의... 강정규 동아대학교 부동산학과 교수는 \"정부의 다주택자 규제 강화 등으로 매수 심리가 꺾이면서 주거...",
-      "link": "https://www.yna.co.kr/view/AKR20260226168600051?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015930053?sid=101",
+      "title": "IMF '눈물의 비디오'도 틀어…금융지주, 잘 나갈 때 기강 잡는다",
+      "desc": "가계대출 규제부터 은행에서 증권사로의 자금 이동, 스테이블 코인 법제화, 인공지능(AI) 기술 발전 등 불확실성이 크기 때문이다. 특히 스테이블 코인은 카드, 은행 등 기존의 금융 시스템을 완전히 대체할 수 있다는...",
+      "link": "https://www.yna.co.kr/view/AKR20260228039600002?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015930671?sid=101",
       "host": "yna.co.kr",
-      "score": 2.2516,
-      "pubDate": "2026-02-27T23:00:00+00:00"
+      "score": 2.2659,
+      "pubDate": "2026-02-28T20:49:00+00:00"
     },
     {
-      "title": "다우 1%↓…물가가 불붙이고, 이란이 흔들고, AI·신용이 무너뜨렸다[월...",
-      "desc": "특히 영국 부동산 담보 대출업체 마켓 파이낸셜 솔루션스(MFS)가 이중 담보 설정 의혹 속에 파산 절차에 들어가면서 파장이 확산됐다. 바클레이스, 제프리스, 아폴로 산하 아틀라스 등 월가 주요 금융사들이 총...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01879446645355112",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006226339?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2449,
-      "pubDate": "2026-02-27T23:16:00+00:00"
-    },
-    {
-      "title": "“바퀴벌레 더 있다” 경고 현실화?…미 금융주 5% 급락",
-      "desc": "특히 영국 부동산 담보 대출업체 마켓 파이낸셜 솔루션스(MFS)가 이중 담보 설정 의혹 속에 파산 절차에 들어가면서 파장이 확산됐다. 바클레이스, 제프리스, 아폴로 산하 아틀라스 등 월가 주요 금융사들이 총...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01787606645355112",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006226332?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2016,
-      "pubDate": "2026-02-27T23:00:00+00:00"
-    },
-    {
-      "title": "[주간 분양 트렌드] 3040 실수요자, '학세권' 최선호…거리 따라 집값 격...",
-      "desc": "특히 도보로 통학이 가능한 초등학교가 단지 안에 있거나 반경 500m 이내에 위치한 아파트는 부동산 경기... 부동산 전문 리서치 업체 리얼투데이에 따르면, 지난해 전국 1순위 청약 경쟁률 상위 5개 단지 모두가...",
-      "link": "https://www.goodkyung.com/news/articleView.html?idxno=283705",
-      "naver": "https://www.goodkyung.com/news/articleView.html?idxno=283705",
-      "host": "goodkyung.com",
-      "score": 2.1819,
-      "pubDate": "2026-02-27T21:00:00+00:00"
-    },
-    {
-      "title": "[분양캘린더] 3월 첫째 주 4379가구 청약···구리·천안 '대단지 분양...",
-      "desc": "28일 부동산 전문 리서치업체 리얼투데이에 따르면 이번 주 전국 5개 단지에서 청약이 진행된다. 모델하우스 오픈은 4곳, 당첨자 발표는 5곳, 정당계약은 3곳에서 예정돼 있다. 최근 분양가 상승 기조가 이어지는...",
-      "link": "https://www.smartbizn.com/news/articleView.html?idxno=137296",
-      "naver": "https://www.smartbizn.com/news/articleView.html?idxno=137296",
-      "host": "smartbizn.com",
-      "score": 2.1819,
-      "pubDate": "2026-02-27T21:00:00+00:00"
-    },
-    {
-      "title": "'천안아이파크시티5·6단지' 등 5961가구 분양예정[분양캘린더]",
-      "desc": "28일 부동산R114에 따르면, 청약 일정은 서울 노원구 상계동 '해링턴플레이스노원센트럴', 경기 구리시 수택동 '구리역하이니티리버파크', 충남 천안시 성성동 '천안아이파크시티5·6단지' 등에서 진행된다....",
-      "link": "https://www.newsis.com/view/NISX20260227_0003529443",
-      "naver": "https://n.news.naver.com/mnews/article/003/0013793520?sid=101",
-      "host": "newsis.com",
-      "score": 2.1819,
-      "pubDate": "2026-02-27T21:00:00+00:00"
-    },
-    {
-      "title": "[AI 청약 모집공고] 해링턴플레이스 노원 센트럴 분양...59㎡ 8억대",
-      "desc": "해링턴플레이스 노원 센트럴 청약 개요 [AI일러스트=조수민기자] ▲ 단지 정보 단지명: 해링턴플레이스 노원 센트럴 위치: 서울특별시 노원구 노원로 495 (상계동 690) 규모: 아파트 지하 4층~지상 23층, 1개동...",
-      "link": "https://www.newspim.com/news/view/20260227000909",
-      "naver": "https://www.newspim.com/news/view/20260227000909",
-      "host": "newspim.com",
-      "score": 2.1819,
-      "pubDate": "2026-02-27T21:00:00+00:00"
-    },
-    {
-      "title": "[뉴욕채권] 국채가↑…英 모기지업체 파산에 '신용 위험' 우려 급부상",
-      "desc": "파산한 영국 MFS에 대형 금융사들 대출…'부실 의혹' 또 불거져 'PPI 쇼크' 안전선호에 묻혀…10년물 금리... 연합인포맥스의 해외금리 일중 화면(화면번호 6532)에 따르면 27일(미국 동부시간) 오후 3시 현재 뉴욕...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4400999",
-      "naver": "https://news.einfomax.co.kr/news/articleView.html?idxno=4400999",
-      "host": "news.einfomax.co.kr",
-      "score": 2.173,
-      "pubDate": "2026-02-27T23:08:00+00:00"
-    },
-    {
-      "title": "PPI 충격에 AI 고용 위협까지…뉴욕증시 일제히 하락",
-      "desc": "연방준비제도(Fed)가 금리 인하 대신 인상에 나설 수 있다는 전망도 제기됐다. AI 관련 불안도 이어졌다. 트위터 공동 창업자 잭 도시가 이끄는 블록은 인공지능(AI)에 따른 자동화 확대를 이유로 직원의...",
-      "link": "https://biz.chosun.com/international/international_economy/2026/02/28/QTHLWKOZKNGSBBNJ2VAC2NVXSY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001145050?sid=104",
+      "title": "[단독] 김병주 회장의 ‘자택 담보’… MBK, 홈플러스에 홀로 1000억 수혈",
+      "desc": "또 600억원 규모의 DIP 대출에 대해 개인 보증을 서고 이에 대한 구상권을 포기한 상태다. 현재 홈플러스의 회생 여부는 매우 긴박한 상황을 맞고 있다. 지난해 3월 4일 시작된 법정관리 시한이 다음달 3일 종료된다....",
+      "link": "https://biz.chosun.com/stock/market_trend/2026/03/01/3BCFX2LC6FFOPMERQGIVH2FXKU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001145161?sid=101",
       "host": "biz.chosun.com",
-      "score": 2.0988,
-      "pubDate": "2026-02-27T21:57:00+00:00"
+      "score": 2.2608,
+      "pubDate": "2026-02-28T23:01:00+00:00"
     },
     {
-      "title": "“지방선거까지 이 분위기 이어질 듯”…부산 아파트, 가격 상승 ‘주춤...",
-      "desc": "28일 한국부동산원의 주간 아파트 가격 동향 조사 결과에 따르면 2월 넷째 주(23일 기준) 부산의 아파트 매매가격은 직전 주보다 0.03% 올랐다. 이로써 부산 아파트값은 지난해 10월 넷째 주부터 17주째 상승했다. 다만...",
-      "link": "https://www.mk.co.kr/article/11975262",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005643379?sid=101",
+      "title": "마이데이터 뭐길래? 금융권, 앞다퉈 '금리인하요구권' 서비스 출시",
+      "desc": "서울경제티브이 이지영 기자 [서울경제TV=이지영기자] 금융소비자가 신용 상태 개선을 근거로 대출 금리 인하를 요구할 수 있는 '금리인하요구권'이 마이데이터와 결합하며 재조명받고 있다. 그간 번거로운 서류 제출과...",
+      "link": "https://www.sentv.co.kr/article/view/sentv202602270166",
+      "naver": "https://www.sentv.co.kr/article/view/sentv202602270166",
+      "host": "sentv.co.kr",
+      "score": 2.1635,
+      "pubDate": "2026-02-28T23:02:00+00:00"
+    },
+    {
+      "title": "지난해 불법사금융 신고 1만7,538건…13년 만에 최대",
+      "desc": "이인영 의원은 \"가계부채와 부동산 과열을 잡기 위한 대출 총량 관리의 취지는 존중한다\"며 \"다만 불법사금융 피해가 더 늘지 않도록 저축은행·카드사 등에서 중금리·저신용자 대출을 확대해 총량 규제 틀 안에서...",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260301063657T0u",
+      "naver": "https://n.news.naver.com/mnews/article/422/0000839059?sid=101",
+      "host": "yonhapnewstv.co.kr",
+      "score": 2.1609,
+      "pubDate": "2026-02-28T21:37:00+00:00"
+    },
+    {
+      "title": "강원 전세사기 법률자문단 본격 가동...피해 회복 지원",
+      "desc": "강원특별자치도가 지속적으로 발생하고 있는 전세사기 피해자의 재산권 보호와 일상 회복을 돕기 위해 전세사기 법률자문단을 본격적으로 가동한다. 도는 지난달 전문가 7명을 위촉, 기존 비정기적으로 운영되던 상담...",
+      "link": "http://www.fnnews.com/news/202602271713373604",
+      "naver": "https://n.news.naver.com/mnews/article/014/0005484330?sid=102",
+      "host": "fnnews.com",
+      "score": 2.1608,
+      "pubDate": "2026-02-28T23:01:00+00:00"
+    },
+    {
+      "title": "청약 열기 식나…전국 평균 경쟁률 6.3대 1로 '뚝'",
+      "desc": "전국 1순위 청약 경쟁률이 6.33대 1을 기록하며, 30개월 만에 최저점을 찍었다. 분양평가 회사 리얼하우스는 청약홈 자료를 토대로 올해 1월 전국 1순위 평균 청약 경쟁률이 전달 대비 0.6포인트(p) 낮아진 6.33대...",
+      "link": "https://www.newsis.com/view/NISX20260226_0003527283",
+      "naver": "https://n.news.naver.com/mnews/article/003/0013794281?sid=101",
+      "host": "newsis.com",
+      "score": 2.1317,
+      "pubDate": "2026-02-28T20:30:00+00:00"
+    },
+    {
+      "title": "이혼 후 알게 된 남편 외도, 지금도 위자료 가능할까요?[양친소]",
+      "desc": "전세금이 있었는데, 남편이 2억 제가 1억을 보태 마련한 거라 내 놓은 돈만큼만 나누어 가지고, 남편이 주식 한다고 제게서 가져간 돈은 지금 마이너스라며 나중에 준다고 약속하면서 마침표를 찍었죠. 그런데 이혼하고...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01157846645379056",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006226512?sid=102",
+      "host": "edaily.co.kr",
+      "score": 2.1151,
+      "pubDate": "2026-02-28T21:39:00+00:00"
+    },
+    {
+      "title": "2월 물가 2% 넘게 올랐나....중국 ‘양회’ 개막 [한동훈의 위클리전망...",
+      "desc": "다만 수요 둔화 추세가 지속되고 있다는 평가가 강화될 경우 시장 금리에는 하락 요익으로 작용할 수 있다. 이 밖에 미국의 이란 침공으로 인한 국제 금융시장의 변동성도 커질 것으로 전망된다.",
+      "link": "https://www.sedaily.com/article/20013922?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004594569?sid=101",
+      "host": "sedaily.com",
+      "score": 2.1111,
+      "pubDate": "2026-02-28T22:00:00+00:00"
+    },
+    {
+      "title": "12개월 최고 연 4.95%, 제주은행 'MZ 플랜적금' [이주의 은행 적금금리-...",
+      "desc": "우대조건은 ▲주거래우대 0.50% ▲공과금 자동이체 0.40~0.60% ▲신규고객 0.20% ▲주택청약종합저축 보유 0.10% ▲전자명함을 통한 신규 시 0.2% 등이다. 광주은행 ‘여행스케치 남도투어적금’은 세전이자율 2.20%에...",
+      "link": "http://www.fntimes.com/html/view.php?ud=2026022716075359395e6e69892f_18",
+      "naver": "http://www.fntimes.com/html/view.php?ud=2026022716075359395e6e69892f_18",
+      "host": "fntimes.com",
+      "score": 2.0904,
+      "pubDate": "2026-02-28T21:02:00+00:00"
+    },
+    {
+      "title": "24개월 최고 연 5.15%, 제주은행 'MZ 플랜적금' [이주의 은행 적금금리-...",
+      "desc": "우대조건으로는 ▲주거래우대 0.50% ▲공과금 자동이체 0.40~0.60% ▲신규고객 0.20% ▲주택청약종합저축... 우대 조건은 ▲소득이체 연 0.6%p ▲카드이용 연 0.3%p ▲오픈뱅킹 연 0.6%p ▲청약보유 연 0.3%p ▲마케팅 동의...",
+      "link": "http://www.fntimes.com/html/view.php?ud=2026022716085815425e6e69892f_18",
+      "naver": "http://www.fntimes.com/html/view.php?ud=2026022716085815425e6e69892f_18",
+      "host": "fntimes.com",
+      "score": 2.0904,
+      "pubDate": "2026-02-28T21:02:00+00:00"
+    },
+    {
+      "title": "구리역 하이니티리버파크, 최고가 배짱 어디가고...미분양 안절부절",
+      "desc": "불법 부동산질서를 교란시킬 수도 있다는 지적을 받고 있다. (사진 이준혁 기자) 경기 구리에서 역대급... (이준혁 기자) 인근 부동산 중개업소 관계자는 \"이들 MGM 인력이 추가 청약 예정자 확보를 위해 방문객의 인적...",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=296206",
+      "naver": "https://www.straightnews.co.kr/news/articleView.html?idxno=296206",
+      "host": "straightnews.co.kr",
+      "score": 2.0716,
+      "pubDate": "2026-02-28T19:54:00+00:00"
+    },
+    {
+      "title": "[공모주달력]케이뱅크 드디어 증시 입성…메쥬·한패스 수요예측",
+      "desc": "이번 주는 세 차례나 증권신고서를 고친 카나프테라퓨틱스의 청약과 함께 메쥬, 한패스 수요예측... 향후 청약 흥행으로 이어질지 관심이 쏠리고 있어요.카나프테라퓨틱스, 3차 정정 끝에 일반청약 금융당국의 까다로운...",
+      "link": "https://news.bizwatch.co.kr/article/market/2026/02/27/0016",
+      "naver": "https://n.news.naver.com/mnews/article/648/0000044863?sid=101",
+      "host": "news.bizwatch.co.kr",
+      "score": 2.0582,
+      "pubDate": "2026-02-28T23:00:00+00:00"
+    },
+    {
+      "title": "[이번주 IPO]3월 첫째 주 수요예측·청약 일정",
+      "desc": "카나프테라퓨틱스는 일반 청약을 앞두고 있다. ◆메쥬= 메쥬는 생체신호 정밀 계측 기술과 온디바이스... 기관투자자 대상 수요 예측은 2월23~27일, 일반 청약은 3월5~6일에 진행되며 상장 주관사는 신한투자증권이...",
+      "link": "https://view.asiae.co.kr/article/2026022821365798045",
+      "naver": "https://n.news.naver.com/mnews/article/277/0005727602?sid=101",
+      "host": "view.asiae.co.kr",
+      "score": 2.0582,
+      "pubDate": "2026-02-28T23:00:00+00:00"
+    },
+    {
+      "title": "‘7000피’냐, 조정장이냐…갈림길 선 코스피[선데이 머니카페]",
+      "desc": "미국의 기준금리 인하 사이클 종료 가능성, 11월 미국 중간선거를 앞둔 도널드 트럼프 행정부의 정책 불확실성 확대, 인공지능(AI) 산업 경쟁 심화, 6일 한국 증시 마감 이후 발표될 비농업 고용보고서 발표 등 모두...",
+      "link": "https://www.sedaily.com/article/20013939?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004594565?sid=101",
+      "host": "sedaily.com",
+      "score": 2.0483,
+      "pubDate": "2026-02-28T21:31:00+00:00"
+    },
+    {
+      "title": "“우린 규제 빼주세요”...임대사업자 들고 일어난 까닭 [김경민의 부동...",
+      "desc": "이들은 비아파트 전세자금대출 한도 정상화, 전세금반환보증 기준 현실화, 서민임대주택의 주택 수 제외 등을 요구하고 나섰다. 임대사업자 대출 상환 압박이 현실화되면 전세 매물이 줄고 월세 전환이 가속화돼 주거비...",
+      "link": "https://www.mk.co.kr/article/11974588",
+      "naver": "https://n.news.naver.com/mnews/article/024/0000103761?sid=101",
       "host": "mk.co.kr",
-      "score": 2.0949,
-      "pubDate": "2026-02-27T23:16:00+00:00"
+      "score": 2.0405,
+      "pubDate": "2026-02-28T04:01:00+00:00"
     },
     {
-      "title": "분양 폭증 앞둔 청약시장, '양극화 경고등'",
-      "desc": "28일 부동산R114에 따르면 다음 달 전국에서 47개 단지, 총 3만7381가구(임대포함)가 분양을 앞두고 있다. 정치적 불확실성으로 공급이 크게 위축됐던 지난해 3월(4761가구)과 비교하면 약 8배에 달하는 물량이다. 봄 분양...",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026022716150300729",
-      "naver": "https://www.newsway.co.kr/news/view?ud=2026022716150300729",
-      "host": "newsway.co.kr",
-      "score": 2.0934,
-      "pubDate": "2026-02-27T20:10:00+00:00"
+      "title": "\"하자 없다면서요\"…개인 간 중고거래 분쟁, 법 적용 안될까? [돈의 오해...",
+      "desc": "만약 거래한 당사자가 사업자라면 전자상거래법에 따라 청약철회권 행사가 가능하다. 중고거래 플랫폼 4곳... 이 경우 중고거래 플랫폼이더라도 판매 주체가 사업자라면 소비자는 청약철회권 등 전자상거래법에 따른 권리...",
+      "link": "https://view.asiae.co.kr/article/2026022616331527483",
+      "naver": "https://n.news.naver.com/mnews/article/277/0005727597?sid=102",
+      "host": "view.asiae.co.kr",
+      "score": 2.0319,
+      "pubDate": "2026-02-28T22:50:00+00:00"
     },
     {
-      "title": "다음 주 전국 4379가구 청약… 대단지 잇단 출격",
-      "desc": "28일 부동산 전문 리서치업체 리얼투데이에 따르면 3월 셋째 주 전국 5곳에서 총 4379가구가 청약 접수를 받는다. 특히 수도권과 지방에서 1000가구 이상 대단지 공급이 예정돼 있어 시장의 관심이 쏠린다. 일반적으로...",
-      "link": "https://dealsite.co.kr/articles/157653",
-      "naver": "https://dealsite.co.kr/articles/157653",
-      "host": "dealsite.co.kr",
-      "score": 2.0676,
-      "pubDate": "2026-02-27T23:06:00+00:00"
+      "title": "무리한 날에 무리하지 않아도 되는 여행, 웰니스 여주",
+      "desc": "누구나, 모두의 예술 '여주미술관' 도심의 야트막한 언덕 위에는 새로 지은 빌라와 오래된 상가가 어깨를 맞대고, 미술관 뒤편으로는 고층 아파트가 빼곡하다. 이를 굽어보는 여주미술관은 속세에 있으면서도 어딘지 한발...",
+      "link": "https://www.hankyung.com/article/202602278826K",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005256680?sid=103",
+      "host": "hankyung.com",
+      "score": 2.027,
+      "pubDate": "2026-02-28T22:07:00+00:00"
     }
   ]
 }
