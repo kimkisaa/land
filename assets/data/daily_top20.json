@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-02-28T23:15:30.655191Z",
+  "generatedAt": "2026-03-01T23:16:55.373593Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "3월 전국 3.7만가구 '벚꽃 분양'…지방선거 앞두고 공급 봇물",
-      "desc": "1일 부동산R114에 따르면 이 달 전국에서는 47개 단지, 총 3만7381가구(임대 포함)가 분양에 나설 예정이다.... 부동산R114 관계자는 “서울 및 수도권 선호 지역은 높은 분양가에도 비교적 양호한 청약 성적을 이어가고...",
-      "link": "https://www.dailian.co.kr/news/view/1615111/?sc=Naver",
-      "naver": "https://n.news.naver.com/mnews/article/119/0003064185?sid=101",
-      "host": "dailian.co.kr",
-      "score": 2.3133,
-      "pubDate": "2026-02-28T22:01:00+00:00"
+      "title": "하나은행, 이란 사태 피해 기업에 12조원 긴급 금융 지원",
+      "desc": "아울러 대출 만기 최대 1년 연장, 대출 분할 상환 기간 최대 6개월 유예, 대출 금리 최대 1.0%포인트(P) 감면 등도 지원할 예정이다. 하나은행은 이란 사태 신속 대응반을 신설해 분쟁 지역 모니터링을 강화하고 신속한...",
+      "link": "https://www.yna.co.kr/view/AKR20260302010600002?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015931925?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.6053,
+      "pubDate": "2026-03-01T22:41:00+00:00"
     },
     {
-      "title": "\"30%에 사서 80% 받는다?\"…韓수출기업 '파산 채권' 경고등 [글로벌 머니...",
-      "desc": "고금리 장기화와 지정학적 공급망 재편의 비용이 누적되면서 삭스 글로벌 등 미국 대형 유통·제조업체의... 과거 제로 금리 시대에 대규모 차입에 의존해 무리하게 외형을 확장했던 기업의 연명 줄이 끊어지면서다....",
-      "link": "https://www.hankyung.com/article/202602270346i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005256678?sid=101",
+      "title": "KB금융 \"중동 불안 관련 피해기업 금융 지원\"",
+      "desc": "KB국민은행, 우대금리 적용 운전·시설자금 대출 KB금융그룹은 최근 중동 지역 무력 충돌과 관련해 비상... 2일 KB금융지주에 따르면 양종희 회장 등 주요 계열사 대표들은 실시간으로 환율·금리·유가 등을 점검하고...",
+      "link": "https://www.yna.co.kr/view/AKR20260302010200002?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015931924?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.6003,
+      "pubDate": "2026-03-01T22:39:00+00:00"
+    },
+    {
+      "title": "급여일 묻자마자 채용 취소…法 “명백한 부당해고”",
+      "desc": "재판부는 “구인 공고는 근로계약에 관한 청약의 유인이고, 입사 지원은 청약, 면접 후 합격 통보는 승낙에 해당한다”며 “근로계약이 성립했음에도 해고 사유와 시기를 서면으로 통지하지 않은 채 4분 만에 일방적으로...",
+      "link": "https://www.hankyung.com/article/202603012583i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005256871?sid=102",
       "host": "hankyung.com",
-      "score": 2.3133,
-      "pubDate": "2026-02-28T22:01:00+00:00"
+      "score": 2.5101,
+      "pubDate": "2026-03-01T22:01:00+00:00"
     },
     {
-      "title": "금융위, 전방위 규제 강구…비주거용 대출·투기1주택도 사정권",
-      "desc": "당국, 일주일간 통계 정비…3일 부위원장 주재 4차 회의 금융당국이 부동산 대출 통계를 정비하고 부동산시장 정상화를 위한 전방위적 규제 마련에 본격 착수한다. 주거용 임대사업자 대출회수 중심에서 규제 대상과...",
-      "link": "https://www.yna.co.kr/view/AKR20260228043500002?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015930672?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.2696,
-      "pubDate": "2026-02-28T20:51:00+00:00"
-    },
-    {
-      "title": "IMF '눈물의 비디오'도 틀어…금융지주, 잘 나갈 때 기강 잡는다",
-      "desc": "가계대출 규제부터 은행에서 증권사로의 자금 이동, 스테이블 코인 법제화, 인공지능(AI) 기술 발전 등 불확실성이 크기 때문이다. 특히 스테이블 코인은 카드, 은행 등 기존의 금융 시스템을 완전히 대체할 수 있다는...",
-      "link": "https://www.yna.co.kr/view/AKR20260228039600002?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015930671?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.2659,
-      "pubDate": "2026-02-28T20:49:00+00:00"
-    },
-    {
-      "title": "[단독] 김병주 회장의 ‘자택 담보’… MBK, 홈플러스에 홀로 1000억 수혈",
-      "desc": "또 600억원 규모의 DIP 대출에 대해 개인 보증을 서고 이에 대한 구상권을 포기한 상태다. 현재 홈플러스의 회생 여부는 매우 긴박한 상황을 맞고 있다. 지난해 3월 4일 시작된 법정관리 시한이 다음달 3일 종료된다....",
-      "link": "https://biz.chosun.com/stock/market_trend/2026/03/01/3BCFX2LC6FFOPMERQGIVH2FXKU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001145161?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.2608,
-      "pubDate": "2026-02-28T23:01:00+00:00"
-    },
-    {
-      "title": "마이데이터 뭐길래? 금융권, 앞다퉈 '금리인하요구권' 서비스 출시",
-      "desc": "서울경제티브이 이지영 기자 [서울경제TV=이지영기자] 금융소비자가 신용 상태 개선을 근거로 대출 금리 인하를 요구할 수 있는 '금리인하요구권'이 마이데이터와 결합하며 재조명받고 있다. 그간 번거로운 서류 제출과...",
-      "link": "https://www.sentv.co.kr/article/view/sentv202602270166",
-      "naver": "https://www.sentv.co.kr/article/view/sentv202602270166",
-      "host": "sentv.co.kr",
-      "score": 2.1635,
-      "pubDate": "2026-02-28T23:02:00+00:00"
-    },
-    {
-      "title": "지난해 불법사금융 신고 1만7,538건…13년 만에 최대",
-      "desc": "이인영 의원은 \"가계부채와 부동산 과열을 잡기 위한 대출 총량 관리의 취지는 존중한다\"며 \"다만 불법사금융 피해가 더 늘지 않도록 저축은행·카드사 등에서 중금리·저신용자 대출을 확대해 총량 규제 틀 안에서...",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260301063657T0u",
-      "naver": "https://n.news.naver.com/mnews/article/422/0000839059?sid=101",
-      "host": "yonhapnewstv.co.kr",
-      "score": 2.1609,
-      "pubDate": "2026-02-28T21:37:00+00:00"
-    },
-    {
-      "title": "강원 전세사기 법률자문단 본격 가동...피해 회복 지원",
-      "desc": "강원특별자치도가 지속적으로 발생하고 있는 전세사기 피해자의 재산권 보호와 일상 회복을 돕기 위해 전세사기 법률자문단을 본격적으로 가동한다. 도는 지난달 전문가 7명을 위촉, 기존 비정기적으로 운영되던 상담...",
-      "link": "http://www.fnnews.com/news/202602271713373604",
-      "naver": "https://n.news.naver.com/mnews/article/014/0005484330?sid=102",
-      "host": "fnnews.com",
-      "score": 2.1608,
-      "pubDate": "2026-02-28T23:01:00+00:00"
-    },
-    {
-      "title": "청약 열기 식나…전국 평균 경쟁률 6.3대 1로 '뚝'",
-      "desc": "전국 1순위 청약 경쟁률이 6.33대 1을 기록하며, 30개월 만에 최저점을 찍었다. 분양평가 회사 리얼하우스는 청약홈 자료를 토대로 올해 1월 전국 1순위 평균 청약 경쟁률이 전달 대비 0.6포인트(p) 낮아진 6.33대...",
-      "link": "https://www.newsis.com/view/NISX20260226_0003527283",
-      "naver": "https://n.news.naver.com/mnews/article/003/0013794281?sid=101",
-      "host": "newsis.com",
-      "score": 2.1317,
-      "pubDate": "2026-02-28T20:30:00+00:00"
-    },
-    {
-      "title": "이혼 후 알게 된 남편 외도, 지금도 위자료 가능할까요?[양친소]",
-      "desc": "전세금이 있었는데, 남편이 2억 제가 1억을 보태 마련한 거라 내 놓은 돈만큼만 나누어 가지고, 남편이 주식 한다고 제게서 가져간 돈은 지금 마이너스라며 나중에 준다고 약속하면서 마침표를 찍었죠. 그런데 이혼하고...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01157846645379056",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006226512?sid=102",
-      "host": "edaily.co.kr",
-      "score": 2.1151,
-      "pubDate": "2026-02-28T21:39:00+00:00"
-    },
-    {
-      "title": "2월 물가 2% 넘게 올랐나....중국 ‘양회’ 개막 [한동훈의 위클리전망...",
-      "desc": "다만 수요 둔화 추세가 지속되고 있다는 평가가 강화될 경우 시장 금리에는 하락 요익으로 작용할 수 있다. 이 밖에 미국의 이란 침공으로 인한 국제 금융시장의 변동성도 커질 것으로 전망된다.",
-      "link": "https://www.sedaily.com/article/20013922?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004594569?sid=101",
+      "title": "합격 통보 후 4분 만에 “채용 취소합니다”… 法 “부당해고 해당”",
+      "desc": "입사지원은 근로계약의 청약에 해당하고, 회사가 지원자에게 합격 통보를 한 순간 해당 청약을 승낙한 것으로 봐야 한다는 취지다. 2일 법조계에 따르면 서울행정법원 행정13부(재판장 진현섭)는 A주식회사가...",
+      "link": "https://www.sedaily.com/article/20014063?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004594704?sid=102",
       "host": "sedaily.com",
-      "score": 2.1111,
-      "pubDate": "2026-02-28T22:00:00+00:00"
+      "score": 2.3101,
+      "pubDate": "2026-03-01T22:01:00+00:00"
     },
     {
-      "title": "12개월 최고 연 4.95%, 제주은행 'MZ 플랜적금' [이주의 은행 적금금리-...",
-      "desc": "우대조건은 ▲주거래우대 0.50% ▲공과금 자동이체 0.40~0.60% ▲신규고객 0.20% ▲주택청약종합저축 보유 0.10% ▲전자명함을 통한 신규 시 0.2% 등이다. 광주은행 ‘여행스케치 남도투어적금’은 세전이자율 2.20%에...",
-      "link": "http://www.fntimes.com/html/view.php?ud=2026022716075359395e6e69892f_18",
-      "naver": "http://www.fntimes.com/html/view.php?ud=2026022716075359395e6e69892f_18",
-      "host": "fntimes.com",
-      "score": 2.0904,
-      "pubDate": "2026-02-28T21:02:00+00:00"
+      "title": "유럽 \"달러 의존 끝내자\"…유로화 우회망 구축 승부수 [글로벌 머니 X파...",
+      "desc": "한국의 금융 당국과 수출 기업은 단기적인 환율 등락이나 미 중앙은행의 금리 정책에도 영향을 받을 수밖에 없다. [글로벌 머니 X파일은 중요하지만 잘 알려지지 않은 세계 돈의 흐름을 짚어드립니다. 필요한 글로벌...",
+      "link": "https://www.hankyung.com/article/202603012260i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005256870?sid=101",
+      "host": "hankyung.com",
+      "score": 2.3101,
+      "pubDate": "2026-03-01T22:01:00+00:00"
     },
     {
-      "title": "24개월 최고 연 5.15%, 제주은행 'MZ 플랜적금' [이주의 은행 적금금리-...",
-      "desc": "우대조건으로는 ▲주거래우대 0.50% ▲공과금 자동이체 0.40~0.60% ▲신규고객 0.20% ▲주택청약종합저축... 우대 조건은 ▲소득이체 연 0.6%p ▲카드이용 연 0.3%p ▲오픈뱅킹 연 0.6%p ▲청약보유 연 0.3%p ▲마케팅 동의...",
-      "link": "http://www.fntimes.com/html/view.php?ud=2026022716085815425e6e69892f_18",
-      "naver": "http://www.fntimes.com/html/view.php?ud=2026022716085815425e6e69892f_18",
-      "host": "fntimes.com",
-      "score": 2.0904,
-      "pubDate": "2026-02-28T21:02:00+00:00"
-    },
-    {
-      "title": "구리역 하이니티리버파크, 최고가 배짱 어디가고...미분양 안절부절",
-      "desc": "불법 부동산질서를 교란시킬 수도 있다는 지적을 받고 있다. (사진 이준혁 기자) 경기 구리에서 역대급... (이준혁 기자) 인근 부동산 중개업소 관계자는 \"이들 MGM 인력이 추가 청약 예정자 확보를 위해 방문객의 인적...",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=296206",
-      "naver": "https://www.straightnews.co.kr/news/articleView.html?idxno=296206",
-      "host": "straightnews.co.kr",
-      "score": 2.0716,
-      "pubDate": "2026-02-28T19:54:00+00:00"
-    },
-    {
-      "title": "[공모주달력]케이뱅크 드디어 증시 입성…메쥬·한패스 수요예측",
-      "desc": "이번 주는 세 차례나 증권신고서를 고친 카나프테라퓨틱스의 청약과 함께 메쥬, 한패스 수요예측... 향후 청약 흥행으로 이어질지 관심이 쏠리고 있어요.카나프테라퓨틱스, 3차 정정 끝에 일반청약 금융당국의 까다로운...",
-      "link": "https://news.bizwatch.co.kr/article/market/2026/02/27/0016",
-      "naver": "https://n.news.naver.com/mnews/article/648/0000044863?sid=101",
-      "host": "news.bizwatch.co.kr",
-      "score": 2.0582,
-      "pubDate": "2026-02-28T23:00:00+00:00"
-    },
-    {
-      "title": "[이번주 IPO]3월 첫째 주 수요예측·청약 일정",
-      "desc": "카나프테라퓨틱스는 일반 청약을 앞두고 있다. ◆메쥬= 메쥬는 생체신호 정밀 계측 기술과 온디바이스... 기관투자자 대상 수요 예측은 2월23~27일, 일반 청약은 3월5~6일에 진행되며 상장 주관사는 신한투자증권이...",
-      "link": "https://view.asiae.co.kr/article/2026022821365798045",
-      "naver": "https://n.news.naver.com/mnews/article/277/0005727602?sid=101",
-      "host": "view.asiae.co.kr",
-      "score": 2.0582,
-      "pubDate": "2026-02-28T23:00:00+00:00"
-    },
-    {
-      "title": "‘7000피’냐, 조정장이냐…갈림길 선 코스피[선데이 머니카페]",
-      "desc": "미국의 기준금리 인하 사이클 종료 가능성, 11월 미국 중간선거를 앞둔 도널드 트럼프 행정부의 정책 불확실성 확대, 인공지능(AI) 산업 경쟁 심화, 6일 한국 증시 마감 이후 발표될 비농업 고용보고서 발표 등 모두...",
-      "link": "https://www.sedaily.com/article/20013939?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004594565?sid=101",
+      "title": "주식시장 호황도 ‘강 건너 불 구경’...적자가구 비율 7년만에 최고 [P...",
+      "desc": "누적된 가계대출 탓에 가구당 월평균 이자비용 역시 13만4000원으로 4분기 기준 역대 최대를 기록했다.... 누적된 가계대출 잔액 증가로 이자 부담은 역대 최대 수준으로 확대됐다. 지난해 4분기 비소비지출 가운데...",
+      "link": "https://www.sedaily.com/article/20014069?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004594710?sid=101",
       "host": "sedaily.com",
-      "score": 2.0483,
-      "pubDate": "2026-02-28T21:31:00+00:00"
+      "score": 2.2282,
+      "pubDate": "2026-03-01T22:50:00+00:00"
     },
     {
-      "title": "“우린 규제 빼주세요”...임대사업자 들고 일어난 까닭 [김경민의 부동...",
-      "desc": "이들은 비아파트 전세자금대출 한도 정상화, 전세금반환보증 기준 현실화, 서민임대주택의 주택 수 제외 등을 요구하고 나섰다. 임대사업자 대출 상환 압박이 현실화되면 전세 매물이 줄고 월세 전환이 가속화돼 주거비...",
-      "link": "https://www.mk.co.kr/article/11974588",
-      "naver": "https://n.news.naver.com/mnews/article/024/0000103761?sid=101",
+      "title": "“양치승 관장의 실체를 폭로한다”…제작진이 전한 설날 생긴일",
+      "desc": "양치승은 헬스장 전세 보증금 사기를 당해 지난해 7월 결국 헬스장을 폐업했다. 이후 그는 회사원이 됐다며 “아파트 커뮤니티 하고 건물 같은 거 관리 운영하는 회사인데 같이 해보지 않겠냐고 연락 왔다”고 전한 바 있다.",
+      "link": "https://www.mk.co.kr/article/11975926",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005643840?sid=103",
       "host": "mk.co.kr",
-      "score": 2.0405,
-      "pubDate": "2026-02-28T04:01:00+00:00"
+      "score": 2.218,
+      "pubDate": "2026-03-01T22:46:00+00:00"
     },
     {
-      "title": "\"하자 없다면서요\"…개인 간 중고거래 분쟁, 법 적용 안될까? [돈의 오해...",
-      "desc": "만약 거래한 당사자가 사업자라면 전자상거래법에 따라 청약철회권 행사가 가능하다. 중고거래 플랫폼 4곳... 이 경우 중고거래 플랫폼이더라도 판매 주체가 사업자라면 소비자는 청약철회권 등 전자상거래법에 따른 권리...",
-      "link": "https://view.asiae.co.kr/article/2026022616331527483",
-      "naver": "https://n.news.naver.com/mnews/article/277/0005727597?sid=102",
-      "host": "view.asiae.co.kr",
-      "score": 2.0319,
-      "pubDate": "2026-02-28T22:50:00+00:00"
+      "title": "하나금융그룹, 중동 현지 교민 및 기업 지원 프로그램 가동",
+      "desc": "또 ▲만기도래 여신 최장 1년 이내 기한 연장 ▲최장 6개월 이내 분할상환 유예 ▲최대 1.0%p 범위내 대출금리 감면 등의 방식으로 피해를 입은 우리 기업들을 지원할 예정이다. 이번 금융지원은 ▲중동지역에 진출한 기업...",
+      "link": "https://www.raonnews.com/news/article.html?no=56334",
+      "naver": "https://www.raonnews.com/news/article.html?no=56334",
+      "host": "raonnews.com",
+      "score": 2.1922,
+      "pubDate": "2026-03-01T23:14:00+00:00"
     },
     {
-      "title": "무리한 날에 무리하지 않아도 되는 여행, 웰니스 여주",
-      "desc": "누구나, 모두의 예술 '여주미술관' 도심의 야트막한 언덕 위에는 새로 지은 빌라와 오래된 상가가 어깨를 맞대고, 미술관 뒤편으로는 고층 아파트가 빼곡하다. 이를 굽어보는 여주미술관은 속세에 있으면서도 어딘지 한발...",
-      "link": "https://www.hankyung.com/article/202602278826K",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005256680?sid=103",
-      "host": "hankyung.com",
-      "score": 2.027,
-      "pubDate": "2026-02-28T22:07:00+00:00"
+      "title": "하나금융, '이란 사태' 현지 교민·피해기업 긴급 지원",
+      "desc": "아울러 만기도래 여신 최장 1년 이내 기한 연장, 최장 6개월 이내 분할상환 유예, 최대 1.0%p 범위 내 대출금리 감면 등의 방식으로 피해를 입은 국내 기업들을 지원할 예정이다. 지원 대상은 중동지역에 진출한 기업, 2025년...",
+      "link": "https://www.newsis.com/view/NISX20260302_0003531202",
+      "naver": "https://n.news.naver.com/mnews/article/003/0013795598?sid=101",
+      "host": "newsis.com",
+      "score": 2.1651,
+      "pubDate": "2026-03-01T23:04:00+00:00"
+    },
+    {
+      "title": "하나은행, 중동 사태 피해 기업에 12조 금융지원",
+      "desc": "아울러 대출 만기 최대 1년 연장, 대출 분할 상환 기간 최대 6개월 유예, 대출 금리 최대 1.0%포인트(P) 감면 등도 지원할 예정이다. 하나은행은 이란 사태 신속 대응반을 신설해 분쟁 지역 모니터링을 강화하고 신속한...",
+      "link": "https://www.newspim.com/news/view/20260302000023",
+      "naver": "https://www.newspim.com/news/view/20260302000023",
+      "host": "newspim.com",
+      "score": 2.157,
+      "pubDate": "2026-03-01T23:01:00+00:00"
+    },
+    {
+      "title": "내 대출 금리, AI가 알아서 낮춰준다고?[금알못]",
+      "desc": "직장에 취직하거나 월급이 오르면 은행 대출금리도 낮출 수 있다는 사실, 알고 계셨나요? 바로 '금리인하요구권'입니다. 취업·승진·소득 증가·신용점수 상승 등으로 신용 상태가 나아졌을 때 금융사에 금리 인하를...",
+      "link": "https://www.newsis.com/view/NISX20260301_0003530813",
+      "naver": "https://n.news.naver.com/mnews/article/003/0013795582?sid=101",
+      "host": "newsis.com",
+      "score": 2.1544,
+      "pubDate": "2026-03-01T23:00:00+00:00"
+    },
+    {
+      "title": "[이란 사태] 함영주 하나금융 회장 \"교민·기업 안정에 그룹 모든역량 ...",
+      "desc": "또한 △만기도래 여신 최장 1년 이내 기한 연장 △최장 6개월 이내 분할상환 유예 △최대 1.0%포인트(P) 범위내 대출금리 감면 등의 방식으로 피해를 입은 국내 기업들을 지원할 예정이다. 이번 금융지원은 △중동지역에...",
+      "link": "https://www.g-enews.com/view.php?ud=2026030123003425bb91c46fcd_1",
+      "naver": "https://www.g-enews.com/view.php?ud=2026030123003425bb91c46fcd_1",
+      "host": "g-enews.com",
+      "score": 2.118,
+      "pubDate": "2026-03-01T22:46:00+00:00"
+    },
+    {
+      "title": "'기지개' 켜는 봄 분양 … 전국 4370가구",
+      "desc": "경기도서 매머드급 단지 나와 1일 부동산 전문 리서치 업체 리얼투데이에 따르면 3~6일 전국 5곳에서 총 4379가구가 청약을 접수한다. 서울에서는 노원구 상계동에 건설되는 '해링턴플레이스 노원 센트럴'이 분양될...",
+      "link": "https://www.mk.co.kr/article/11975770",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005643735?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.0873,
+      "pubDate": "2026-03-01T08:39:00+00:00"
+    },
+    {
+      "title": "5대銀, 2월 가계대출 4000억 줄 듯…'불장'에 신용대출 재확대 변수",
+      "desc": "정부의 강도 높은 대출 규제와 금리 상승 여파로 시중 유동성이 빠르게 위축되면서 부동산 시장은 물론 자산시장 전반의 자금 흐름에도 변화 조짐이 나타나고 있다. 다만 부동산 대출이 막힌 자금이 증시로 이동할...",
+      "link": "https://www.ajunews.com/view/20260227150346532",
+      "naver": "https://www.ajunews.com/view/20260227150346532",
+      "host": "ajunews.com",
+      "score": 2.0839,
+      "pubDate": "2026-03-01T21:00:00+00:00"
+    },
+    {
+      "title": "\"교민·기업 지킨다\"…하나금융, 중동 위기에 12조 긴급 유동성 지원",
+      "desc": "또 만기도래 여신 최장 1년 이내 기한 연장, 최장 6개월 이내 분할상환 유예, 최대 1.0%p 범위내 대출금리 감면 등의 방식으로 피해를 입은 국내 기업들을 지원할 예정이다. 이번 금융지원은 ▲중동지역에 진출한 기업...",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3046345",
+      "naver": "https://www.apnews.kr/news/articleView.html?idxno=3046345",
+      "host": "apnews.kr",
+      "score": 2.0684,
+      "pubDate": "2026-03-01T22:26:00+00:00"
+    },
+    {
+      "title": "하나금융그룹, '이란 사태' 관련 현지 교민·피해기업 대상 지원 실시",
+      "desc": "또한 ▲만기도래 여신 최장 1년 이내 기한 연장 ▲최장 6개월 이내 분할상환 유예 ▲최대 1.0%p 범위내 대출금리 감면 등의 방식으로 피해를 입은 국내 기업들을 지원할 예정이다. 이번 금융지원은 ▲중동지역에 진출한 기업...",
+      "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=161722",
+      "naver": "http://www.choicenews.co.kr/news/articleView.html?idxno=161722",
+      "host": "choicenews.co.kr",
+      "score": 2.0399,
+      "pubDate": "2026-03-01T22:14:00+00:00"
+    },
+    {
+      "title": "하나금융, 이란 교민 인도적 지원→피해기업 특별 금융지원",
+      "desc": "또한 ▲만기도래 여신 최장 1년 이내 기한 연장 ▲최장 6개월 이내 분할상환 유예 ▲최대 1.0%p 범위내 대출금리 감면 등의 방식으로 피해를 입은 국내 기업들을 지원할 예정이다. 이번 금융지원은 ▲중동지역에 진출한 기업...",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=720432",
+      "naver": "https://www.slist.kr/news/articleView.html?idxno=720432",
+      "host": "slist.kr",
+      "score": 2.0353,
+      "pubDate": "2026-03-01T22:12:00+00:00"
+    },
+    {
+      "title": "\"계약은 처음이라\"…대구·경북 전세사기, 청년·신입생에 집중",
+      "desc": "부동산 전문가는 \"전세가율 90% 이상 매물, 신축 오피스텔, 시세보다 과도하게 저렴한 매물은 특히 조심해야 한다\"며 \"사후 구제보다 계약 전 점검이 가장 효과적인 예방책\"이라고 말했다.",
+      "link": "https://www.news1.kr/local/daegu-gyeongbuk/6085399",
+      "naver": "https://n.news.naver.com/mnews/article/421/0008800547?sid=102",
+      "host": "news1.kr",
+      "score": 2.0329,
+      "pubDate": "2026-03-01T22:11:00+00:00"
+    },
+    {
+      "title": "위기 속 리더십 교체...롯데카드 정상화 시계 빨라진다",
+      "desc": "국내 회사채 대비 경쟁력 있는 금리로 발행에 성공하면서 금융비용을 절감하고 시장 변동성에 대한 대응력을 강화했다는 평가다. 고객 편의 제고를 위한 서비스도 선보였다. 지난 26일에는 고객을 대신해 대출 금리인하...",
+      "link": "https://news.dealsitetv.com/articles/166178",
+      "naver": "https://news.dealsitetv.com/articles/166178",
+      "host": "news.dealsitetv.com",
+      "score": 2.0124,
+      "pubDate": "2026-03-01T22:02:00+00:00"
+    },
+    {
+      "title": "이 대통령 \"집 팔고 사는 것은 개인 자유…이익·손실은 정부가 정해\"",
+      "desc": "이재명 대통령이 부동산 투기가 이익이 되지 않도록 하겠다는 뜻을 분명히 밝혔다. 싱가포르·필리핀... 이어 이 대통령은 \"세금, 금융, 규제 등 국가제도를 운영함에 있어 부동산 투기가 불가능하도록 만들었다면, 집을 많이...",
+      "link": "https://www.wikitree.co.kr/articles/1121844",
+      "naver": "https://www.wikitree.co.kr/articles/1121844",
+      "host": "wikitree.co.kr",
+      "score": 1.9922,
+      "pubDate": "2026-03-01T23:14:00+00:00"
     }
   ]
 }
