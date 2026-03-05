@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-03-04T23:24:04.943504Z",
+  "generatedAt": "2026-03-05T23:45:16.172048Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "\"'토허제 우회통로' 악용 가능성\"…경매 부정거래 들여다본다",
-      "desc": "발생한 아파트 경매 거래 가운데 이상 거래를 선별하기 위한 작업을 진행 중이다. 기본적으로 금융권 대출... 경매를 통해 아파트가 손바뀜할 경우 규제지역이라도 토지거래허가 등 실거주해야 할 의무가 없다. 이...",
-      "link": "https://www.hankyung.com/article/202603048685i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005258406?sid=101",
-      "host": "hankyung.com",
-      "score": 2.662,
-      "pubDate": "2026-03-04T23:10:00+00:00"
+      "title": "2월 민간아파트 분양가 전달보다 상승…국민평형 평균 ‘7억1050만원’",
+      "desc": "6일 부동산 분양 평가 전문회사 리얼하우스가 청약홈 자료를 집계한 결과, 2026년 2월 전국 민간아파트 전용면적당 평균 분양가(12개월 이동평균)는 ㎡당 852만원으로 전월 843만원보다 1.1% 상승했다. 1월 대비...",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/03/06/E3REH5G3LJBNZFADK75EM62WWA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001146232?sid=101",
+      "host": "biz.chosun.com",
+      "score": 2.8534,
+      "pubDate": "2026-03-05T23:28:00+00:00"
     },
     {
-      "title": "카타나, 바이낸스월렛·OKX 연동 디파이 출시…TVL 5억달러 돌파",
-      "desc": "예치 자산은 대출 수익을 기반으로 한 이자 외에 MORPHO 토큰, KAT 토큰, USDC·USDT 인센티브 등 추가 보상을 받을 수 있다. 카타나는 \"이러한 구조가 중앙화 거래소의 사용자 경험과 디파이 인프라를 결합한 새로운...",
-      "link": "https://www.hankyung.com/article/202603059924O",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005258409?sid=101",
-      "host": "hankyung.com",
-      "score": 2.4647,
-      "pubDate": "2026-03-04T23:11:00+00:00"
-    },
-    {
-      "title": "금감원, 해외 사모대출펀드 판매 증권사 소집…“비상 계획 마련하라”",
-      "desc": "5원까지 급등하자 KB금융(105560)·신한금융·하나금융·우리금융 등 4대 금융지주가 비상 대응 체계를 가동하고 환율·금리·유가 등 시장 지표를 긴급 점검했다. 우리금융은 임종룡 우리금융지주(316140) 회장 주재로...",
-      "link": "https://www.sedaily.com/article/20015398?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004595888?sid=101",
-      "host": "sedaily.com",
-      "score": 2.4561,
-      "pubDate": "2026-03-04T22:28:00+00:00"
-    },
-    {
-      "title": "[분양 리포트] 2월 청약 ‘래미안 원페를라’ 최고 경쟁률",
-      "desc": "부동산114에 따르면 설 연휴로 일정이 조정된 단지가 늘면서 계획 대비 실적도 저조했다. 2월 예정 물량... 한국부동산원 ‘청약 HOME’ 자료에 따르면 2월 동안 진행된 청약 결과 수도권에서는 최대 세 자릿수 청약...",
-      "link": "https://www.fetv.co.kr/news/article.html?no=214260",
-      "naver": "https://www.fetv.co.kr/news/article.html?no=214260",
-      "host": "fetv.co.kr",
-      "score": 2.4409,
-      "pubDate": "2026-03-04T23:02:00+00:00"
-    },
-    {
-      "title": "울산경자청, 기업에 '찾아가는 지원실' 본격 운영…\"애로 해결\"",
-      "desc": "주요 상담 분야는 건축 허가·신고, 용도 변경, 사용 승인, 사업장 폐기물 관리, 산업시설 허가, 기반 시설 공사, 산업단지 분양, 자금 지원 연계, 노동·인력 확보, 수출·판촉 등이다. 또 법무, 노무, 세무·회계, 특허 등 4개...",
-      "link": "https://www.yna.co.kr/view/AKR20260304178300057?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015938624?sid=102",
-      "host": "yna.co.kr",
-      "score": 2.4253,
-      "pubDate": "2026-03-04T22:56:00+00:00"
-    },
-    {
-      "title": "대우건설, 417만주 자사주 소각…LH, 전세임대 3.8만 가구 공급",
-      "desc": "[부동산 투자자 관심 뉴스] 1. 4대 금융, 중동 리스크 확산에 환율·대출 긴급 점검 - 핵심 요약: 미국의... [부동산 투자자 참고 뉴스] 4. “100兆 시장안정프로그램 대기”…증안펀드도 18년만에 가동하나 - 핵심 요약...",
-      "link": "https://www.sedaily.com/article/20015393?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004595883?sid=101",
-      "host": "sedaily.com",
-      "score": 2.3513,
-      "pubDate": "2026-03-04T22:26:00+00:00"
-    },
-    {
-      "title": "300가구 미만 ‘나홀로 단지’ 빛보나...용적률 파격 혜택 준다는데",
-      "desc": "역세권 장기전세주택 사업은 역세권에 아파트를 건립하면 시가 용적률을 최대 500%까지 높여주고, 증가한... ‘나홀로 아파트’도 후보지로 거론된다. 국토교통부에 따르면 지난달 기준 서울에 1~2개 동으로 구성된...",
-      "link": "https://www.mk.co.kr/article/11979242",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005645428?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.2409,
-      "pubDate": "2026-03-04T23:02:00+00:00"
-    },
-    {
-      "title": "[이란 국경에서] \"1천500명 발 묶여…신이 인내심 허락하길\"",
-      "desc": "한편 전쟁통에 귀국 비행기편을 찾지 못한 이란 국가대표 농구팀이 전세버스를 타고 검문소에 도착해 눈길을... 몇분 뒤 등장한 전세버스에서 내린 한 젊은 여성은 무심코 '우리는 비행기 승무원'이라고 내뱉었다가 옆...",
-      "link": "https://www.yna.co.kr/view/AKR20260305011400108?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0015938672?sid=104",
-      "host": "yna.co.kr",
-      "score": 2.2382,
-      "pubDate": "2026-03-04T23:01:00+00:00"
-    },
-    {
-      "title": "상호금융 중금리대출 3분의 1 '뚝'…총량 규제에 막힌 서민들 [금융규제...",
-      "desc": "상호금융권의 중금리대출 취급 규모가 1년 새 3분의 2 수준으로 쪼그라든 것으로 나타났다. 중저신용자 지원... 5일 금융권에 따르면 새마을금고의 지난해 4분기 민간 중금리대출(사잇돌 제외) 취급액은 410억9100만원으로...",
-      "link": "https://www.dailian.co.kr/news/view/1616778/?sc=Naver",
-      "naver": "https://n.news.naver.com/mnews/article/119/0003065463?sid=101",
-      "host": "dailian.co.kr",
-      "score": 2.2188,
-      "pubDate": "2026-03-04T22:12:00+00:00"
-    },
-    {
-      "title": "예금은 2%대, 대출은 6%대…예대차에 차주부담 '쑥'",
-      "desc": "한 시중은행 관계자는 \"금융당국의 가계대출 총량 관리로 대출을 적극적으로 늘리기 어려운 상황이고 부동산 거래도 활발하지 않아 대출 수요 역시 제한적\"이라며 \"굳이 높은 예금금리를 제시해 자금을 조달할...",
-      "link": "http://www.metroseoul.co.kr/article/20260305500051",
-      "naver": "http://www.metroseoul.co.kr/article/20260305500051",
-      "host": "metroseoul.co.kr",
-      "score": 2.1946,
-      "pubDate": "2026-03-04T23:22:00+00:00"
-    },
-    {
-      "title": "인간·AI의 발전적 동행을 위한 ‘고영향 AI 판단 가이드라인’ [지평 테...",
-      "desc": "법은 에너지, 먹는물, 보건의료, 의료기기, 핵물질과 원자력시설, 범죄수사, 채용∙대출심사, 교통수단... 당장 실무적으로 많은 질의를 받는 영역은 금융업권에서의 대출심사 부문, 기업 인재채용 부문, 디지털의료기기...",
-      "link": "https://www.mk.co.kr/article/11978759",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005645408?sid=102",
-      "host": "mk.co.kr",
-      "score": 2.1942,
-      "pubDate": "2026-03-04T22:01:00+00:00"
-    },
-    {
-      "title": "“전 업종 동반 급락은 ‘패닉셀’…코스피 5000선, 대기자금 유입 구간...",
-      "desc": "2000년 4월 17일(IT버블·금리 인상 우려), 2001년 9월 12일(9·11 테러), 2020년 3월 19일(코로나19 공포)이며, 이들 사례 이후 주가는 대체로 바닥권을 형성하는 흐름을 보였다는 게 보고서의 결론이다. 가격 조정 폭만 놓고...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02686326645380368",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006228720?sid=101",
+      "title": "[포토] 은평구, 식품진흥기금 융자 지원 사업",
+      "desc": "총 소요 금액의 80% 이내에서 지원하며, 대출금리는 연 1~2% 수준의 저금리를 적용한다. 융자 신청은 연중 가능하다. 다만 예산이 소진되면 조기 마감될 수 있으므로 유의해야 한다. 자세한 내용은 은평구청 누리집 고시...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02709286645380696",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006229476?sid=100",
       "host": "edaily.co.kr",
-      "score": 2.1935,
-      "pubDate": "2026-03-04T23:03:00+00:00"
+      "score": 2.4721,
+      "pubDate": "2026-03-05T23:16:00+00:00"
     },
     {
-      "title": "“지방 발령 난 직장인도 투기꾼인가요”... 비거주 1주택 규제에 선의...",
-      "desc": "5월 9일 양도세 중과 유예 종료 앞두고 서울 매물 한 달 새 최대 52.5% 급증 비거주 1주택자 전세대출 보증... 대출 규제는 까다롭고 금리도 여전히 부담스러우니 일단 전세로 더 버텨보려 합니다” 서울에서 내 집 마련을...",
-      "link": "https://www.segye.com/newsView/20260304520188?OutUrl=naver",
-      "naver": "https://n.news.naver.com/mnews/article/022/0004110267?sid=101",
-      "host": "segye.com",
-      "score": 2.1707,
-      "pubDate": "2026-03-04T20:02:00+00:00"
+      "title": "‘유일한 상장 저축은행’ 푸른저축銀, 99억 횡령에 거래 정지",
+      "desc": "금융계의 한 관계자는 “저축은행이 근근이 명맥을 유지해오고 있지만 최근에는 부동산 프로젝트파이낸싱(PF) 부실과 가계대출 규제로 전반적으로 경영이 어려운 상황”이라고 전했다.",
+      "link": "https://www.sedaily.com/article/20015954?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004596355?sid=101",
+      "host": "sedaily.com",
+      "score": 2.4614,
+      "pubDate": "2026-03-05T23:31:00+00:00"
     },
     {
-      "title": "아크로드서초·오티에르반포 등 서울 핵심 정비사업 분양 스타트 임박",
-      "desc": "상반기 서울 아파트 청약 시장은 분양가 급등에도 불구하고 주요 정비사업지를 중심으로 높은 열기를... 서초신동아 1·2차 아파트를 재건축하는 사업으로, DL이앤씨가 시공을 맡았다. 자사 하이엔드 브랜드인 '아크로...",
-      "link": "https://www.newspim.com/news/view/20260304001016",
-      "naver": "https://www.newspim.com/news/view/20260304001016",
-      "host": "newspim.com",
-      "score": 2.1704,
-      "pubDate": "2026-03-04T21:00:00+00:00"
+      "title": "청약 시장 옥석 가리기 본격화… 신축도 15억 넘으면 ‘미달’",
+      "desc": "15억원 이하 아파트의 경우 6억원까지 대출이 가능하지만, 15억원 이상 아파트의 경우 대출 한도가 4억원으로 제한된다. 전용 110㎡를 신청할 경우 12억~13억원 이상을 현금으로 동원해야 해 자본력이 크지 않은...",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/03/06/VGBDRDWNGJETXBPRQPH5NQZOI4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001146211?sid=101",
+      "host": "biz.chosun.com",
+      "score": 2.4338,
+      "pubDate": "2026-03-05T21:01:00+00:00"
     },
     {
-      "title": "[포토] 마포구, 특별신용보증 융자 지원사업",
-      "desc": "사업자당 융자한도도 최대 5천만 원에서 최대 1억 원으로 늘었으며 금리는 연 2.61%~3.11%이다. 상반기 신청 기간은 3월 9일부터 3월 13일까지이며, 마포구청 경제진흥과를 방문해 접수하면 된다. 마포구 관계자는 “고금리...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02584646645380368",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006228709?sid=100",
+      "title": "저축은행 예금금리 계속 올린다…증시 '머니무브'에 유동성 방어",
+      "desc": "신규 대출을 적극적으로 늘리지 않아 대출 규모는 크게 변동이 없는 반면, 예금 잔액이 증시 등 투자시장으로 이탈하면서 예대율 규제를 맞추기 위해 금리 인상에 나선 것으로 풀이된다. 6일 연합인포맥스 저축은행...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4402091",
+      "naver": "https://news.einfomax.co.kr/news/articleView.html?idxno=4402091",
+      "host": "news.einfomax.co.kr",
+      "score": 2.3967,
+      "pubDate": "2026-03-05T23:44:00+00:00"
+    },
+    {
+      "title": "1000만 관객 눈앞…'왕과 사는 남자' 대박에 인기 폭발한 곳",
+      "desc": "책 대출이 늘었다. 도서관 정보나루는 전국 공공 도서관 약 1500곳에서 수집한 장서 자료, 대출 현황 등을 분석해 공개하고 있다. 가장 대출 건수가 폭발적으로 증가한 책은 이광수 작가의 소설 '단종애사'다. 출판사...",
+      "link": "https://www.hankyung.com/article/2026030625947",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005258904?sid=103",
+      "host": "hankyung.com",
+      "score": 2.3772,
+      "pubDate": "2026-03-05T22:58:00+00:00"
+    },
+    {
+      "title": "'빅쇼트' 버리, 코스피 급등락에 \"기관 투기거래…종말 징후\"",
+      "desc": "버리는 2008년 미국의 비우량 주택담보대출(서브프라임 모기지) 사태를 미리 예견해 관련 자산의 가격 하락에 돈을 거는 공매도 기법으로 큰 부를 쌓았고, 그의 이야기는 2015년 영화 '빅 쇼트'로 만들어졌다. 그는 최근...",
+      "link": "https://www.yna.co.kr/view/AKR20260306029200072?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015941676?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3748,
+      "pubDate": "2026-03-05T23:36:00+00:00"
+    },
+    {
+      "title": "한투증권, 케이뱅크 투자의견 중립…\"가계대출 확대 쉽지 않아\"",
+      "desc": "한국투자증권은 6일 케이뱅크가 가계대출을 늘리기 쉽지 않은 상황이라면서 투자 의견 '중립'으로... 이에 따라 그는 케이뱅크가 \"11조2천억원 대출 확대 여력이 생기며 이는 민감도상 이자이익 1천830억원, 영업이익...",
+      "link": "https://www.yna.co.kr/view/AKR20260306031500008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0015941677?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3748,
+      "pubDate": "2026-03-05T23:36:00+00:00"
+    },
+    {
+      "title": "미·이란 전쟁에 중동 하늘·바닷길 막혔다…국내 스타트업 ‘직격탄’",
+      "desc": "마련하고 금리 인하 및 대출 확대를 추진한다. 구윤철 부총리 겸 재정경제부 장관은 5일 임시... ▶기사 바로가기: 등유 78%·수입소고기 64%↑…금리도 들썩 ‘2% 성장’ 경고등 ▶기사 바로가기: 송영숙 “한미그룹...",
+      "link": "https://www.sedaily.com/article/20015939?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004596333?sid=105",
+      "host": "sedaily.com",
+      "score": 2.3698,
+      "pubDate": "2026-03-05T22:11:00+00:00"
+    },
+    {
+      "title": "‘왕과 사는 남자’ 천만 관객 초읽기에 대박 난 곳…뜻밖이네",
+      "desc": "등의 대출이 늘었다. 도서관 정보나루는 전국 공공 도서관 약 1천500곳에서 수집한 장서 자료, 대출 현황 등을 분석해 공개하고 있다. 도서별로 보면 이광수(1892∼1950)의 소설 ‘단종애사’(새움·2015)는 작년에는 한...",
+      "link": "https://www.mk.co.kr/article/11980548",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005646066?sid=103",
+      "host": "mk.co.kr",
+      "score": 2.3247,
+      "pubDate": "2026-03-05T23:17:00+00:00"
+    },
+    {
+      "title": "박지훈 ‘왕과 사는 남자’ 천만 눈앞…관객을 도서관으로",
+      "desc": "도서 대출이 크게 증가한 것으로 나타났다. 특히 이광수의 소설 ‘단종애사’는 지난해 월 평균 10~20건 수준이던 대출이 지난달 148건으로 급증했다. 올해 1월 대출 건수 28건과 비교하면 5배 이상 증가한 수치다. 같은...",
+      "link": "https://www.mk.co.kr/article/11980547",
+      "naver": "https://m.entertain.naver.com/article/410/0001114879",
+      "host": "mk.co.kr",
+      "score": 2.3145,
+      "pubDate": "2026-03-05T23:13:00+00:00"
+    },
+    {
+      "title": "李 다주택 규제에 밀린 가계대출 총량…은행권, 가산금리 속속 인상",
+      "desc": "기업은행도 이날부터 주담대와 전세대출에 대한 금리감면권 한도를 축소한다. 감면권을 축소하면 대출금리는 그만큼 오르는 효과가 있다. 주담대 금리감면권은 0.1%p, 전세대출은 0.2%p씩 각각 줄어든다. 다만 이번 조치는...",
+      "link": "https://www.news1.kr/finance/general-finance/6091658",
+      "naver": "https://n.news.naver.com/mnews/article/421/0008809738?sid=101",
+      "host": "news1.kr",
+      "score": 2.2681,
+      "pubDate": "2026-03-05T21:20:00+00:00"
+    },
+    {
+      "title": "'한혜진·장윤주' 키운 에스팀, 코스닥 데뷔[오늘 상장]",
+      "desc": "공모가는 희망범위 상단인 8500원으로 확정했으며 일반 투자자를 대상으로 공모주 청약을 실시한 결과 1960.87대 1의 경쟁률을 기록했다. 청약 증거금은 약 3조 7501억원이었다. 지난해 연결기준 매출액은...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02374726645380696",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006229430?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.1702,
-      "pubDate": "2026-03-04T22:54:00+00:00"
+      "score": 2.2526,
+      "pubDate": "2026-03-05T22:26:00+00:00"
     },
     {
-      "title": "[E-로컬뉴스]포항시, 청도군, 달서구, 대구대, 대구보건대, 수성구 소식",
-      "desc": "건전한 부동산 거래 질서 확립과 전세사기 예방을 위한 '전세사기 예방 실천 중개업소 캠페인' 발대식을... 특히 임차인과 가장 가까운 접점에 있는 공인중개사의 자발적인 참여를 통해 안전한 부동산 거래 문화를...",
-      "link": "https://www.ekn.kr/web/view.php?key=20260305029054962",
-      "naver": "https://www.ekn.kr/web/view.php?key=20260305029054962",
-      "host": "ekn.kr",
-      "score": 2.1674,
-      "pubDate": "2026-03-04T23:12:00+00:00"
+      "title": "[다주택자 대출 규제 향방은] 비거주 1주택자 전세대출 제한, 지방 외지...",
+      "desc": "실제로 자기자본으로 전세금을 충당할 수 있음에도 전세대출을 최대 한도로 받아 전세 끼고 아파트를 매매하는 수요가 상당했다. 이재명 대통령은 최근 이같은 비거주 1주택자들도 '투기'로 간주하면서 금융당국도 규제...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603050106288080898",
+      "naver": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603050106288080898",
+      "host": "dnews.co.kr",
+      "score": 2.2508,
+      "pubDate": "2026-03-05T22:02:00+00:00"
     },
     {
-      "title": "“청소기로 햄스터 흡입” 수사중에도 학대 생중계한 30대",
-      "desc": "그러나 A 씨는 격리 직후 다시 토끼 등을 분양받은 사실을 SNS에 공개하며 추가 범행이 우려됐다. 경찰 관계자는 “학대의 반복성과 잔혹성을 고려해 사건을 기소 의견으로 검찰에 송치했다”고 전했다.",
-      "link": "https://www.donga.com/news/Society/article/all/20260305/133466952/2",
-      "naver": "https://n.news.naver.com/mnews/article/020/0003701529?sid=102",
+      "title": "현대차, 렌터카 상생 특별 프로모션 실시",
+      "desc": "할부 금리를 24/36/48 개월 기준 기존 대비 0.3~0.8%포인트 인하하고, 할부금 잔액의 경우 계약 종료 시점에 ▲차량 반납 ▲유예금 일시 납부 통한 상환 ▲대출 연장 등 다양한 선택지를 제공한다. 해당 상품은...",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=429869",
+      "naver": "http://www.econonews.co.kr/news/articleView.html?idxno=429869",
+      "host": "econonews.co.kr",
+      "score": 2.1967,
+      "pubDate": "2026-03-05T23:44:00+00:00"
+    },
+    {
+      "title": "LG이노텍, 1430억 펀드 조성 등 협력사 상생 강화…'상생데이' 개최",
+      "desc": "이는 시중보다 낮은 금리로 대출을 지원하는 프로그램으로 현재까지 누적 지원 금액은 2620억 원에 달한다. 공장 자동화를 돕는 '스마트공장 구축 지원'도 지속한다. 구축 비용의 최대 60%를 지원하는 이 제도를 통해...",
+      "link": "https://www.news1.kr/industry/general-industry/6092137",
+      "naver": "https://n.news.naver.com/mnews/article/421/0008809892?sid=101",
+      "host": "news1.kr",
+      "score": 2.194,
+      "pubDate": "2026-03-05T23:43:00+00:00"
+    },
+    {
+      "title": "이은형 건설정책연구위원, 전남개발공사 투자사업 심사위원 연임",
+      "desc": "(현 한국광해광업공단) 등 국가·지방공기업의 투자심의·자문위원직을 다수 역임했다. 경영, 건축, 국제관계와 문화를 전공해 기업경영과 건설산업, 건설·부동산을 함께 다루는 전문인력으로도 평가된다.",
+      "link": "https://www.hankyung.com/article/2026030627916",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005258927?sid=102",
+      "host": "hankyung.com",
+      "score": 2.1885,
+      "pubDate": "2026-03-05T23:41:00+00:00"
+    },
+    {
+      "title": "현대차, 렌터카 상생 특별 프로모션 실시…할인 혜택 강화",
+      "desc": "할부 금리를 24·36·48 개월 기준 기존 대비 0.3~0.8%포인트 인하하고, 할부금 잔액의 경우 계약 종료 시점에 ▷차량 반납 ▷유예금 일시 납부 통한 상환 ▷대출 연장 등 다양한 선택지를 제공한다. 해당 상품은...",
+      "link": "https://biz.heraldcorp.com/article/10688257?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/016/0002609290?sid=101",
+      "host": "biz.heraldcorp.com",
+      "score": 2.1694,
+      "pubDate": "2026-03-05T23:34:00+00:00"
+    },
+    {
+      "title": "전남지역 2025년 전세사기 피해자 150명 생활안정자금 지원받았다",
+      "desc": "지난해 전남지역에서 생활안정자금 지원을 받은 전세사기 피해자가 150명에 달한 것으로 나타났습니다. 전남도는 지난해 전세사기 피해 신고자 가운데 생활안정자금 지원 대상자로 판명된 150명에게 1인당 100만 원씩...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202603060006",
+      "naver": "https://n.news.naver.com/mnews/article/660/0000104685?sid=102",
+      "host": "ikbc.co.kr",
+      "score": 2.1614,
+      "pubDate": "2026-03-05T23:31:00+00:00"
+    },
+    {
+      "title": "김포 풍무역-사우역 옆 639채 분양",
+      "desc": "분양 관계자는 “김포에서 지난해 공급한 3개 단지가 평균 약 10 대 1의 청약 경쟁률로 모두 계약을 완료했다”며 “현재 김포는 비(非)규제지역이고 분양가상한제도 적용된 단지라 분양 전부터 수요자들의 관심이...",
+      "link": "https://www.donga.com/news/Economy/article/all/20260305/133473247/2",
+      "naver": "https://n.news.naver.com/mnews/article/020/0003701766?sid=101",
       "host": "donga.com",
-      "score": 2.1513,
-      "pubDate": "2026-03-04T22:26:00+00:00"
-    },
-    {
-      "title": "충북도, '중동사태 대응 실물경제 영향 긴급 점검회의' 열어",
-      "desc": "특히 중소벤처기업진흥공단, 수출입은행 등과 공조해 정책자금 및 특례보증, 대출금리 우대 등 파격적인 금융 지원책을 실시간 전파해 기업의 유동성 위기를 조기 극복하도록 행정력을 집중할 방침이다. 이와 함께 도는...",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2401529",
-      "naver": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2401529",
-      "host": "enewstoday.co.kr",
-      "score": 2.1356,
-      "pubDate": "2026-03-04T23:00:00+00:00"
-    },
-    {
-      "title": "[기특 거품] [루닛] 또 대규모 유증, 주주반발·금감원 '변수'",
-      "desc": "과거 주주배정 유상증자는 없다고 공언했으나 이를 번복한 데다 최대주주 측의 저조한 청약 참여율이 도마... 구주주 청약 예정일은 오는 4월 22~23일, 납입일은 같은 달 30일, 상장예정일은 5월 15일이다. 직후인 5월...",
-      "link": "https://news.dealsitetv.com/articles/166357",
-      "naver": "https://news.dealsitetv.com/articles/166357",
-      "host": "news.dealsitetv.com",
-      "score": 2.0836,
-      "pubDate": "2026-03-04T23:18:00+00:00"
-    },
-    {
-      "title": "‘불법 가구 쪼개기’에 막힌 전세사기 피해 구제",
-      "desc": "",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8499794&ref=A",
-      "naver": "https://n.news.naver.com/mnews/article/056/0012135568?sid=102",
-      "host": "news.kbs.co.kr",
-      "score": 2.0826,
-      "pubDate": "2026-03-04T22:39:00+00:00"
+      "score": 2.1534,
+      "pubDate": "2026-03-05T15:31:00+00:00"
     }
   ]
 }
