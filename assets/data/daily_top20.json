@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-04-11T23:26:41.162356Z",
+  "generatedAt": "2026-04-12T23:27:34.831212Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "서울 아파트 매매 10건 중 4건이 '소형'…청약 만점통장도",
-      "desc": "지난해 6·27 대출 규제로 주택담보대출(주담대) 한도가 6억원으로 축소됐고, 10·15 부동산 대책으로 고가... KB부동산 기준 지난달 소형 아파트 매매가격은 9억9566만원으로 10억원 턱밑까지 상승했다. 지난해 3월...",
-      "link": "https://www.newsis.com/view/NISX20260410_0003586840",
-      "naver": "https://n.news.naver.com/mnews/article/003/0013881991?sid=101",
-      "host": "newsis.com",
-      "score": 2.5289,
-      "pubDate": "2026-04-11T23:00:00+00:00"
-    },
-    {
-      "title": "[반려동물] '세계 햄스터의 날'…소동물, 인기 속 저가분양 부작용도",
-      "desc": "지난달 말에도 강원도 속초의 숙박시설 인근과 대구 달성군의 아파트 주차장에서 각각 플라스틱 통에 담긴 채 유기된 햄스터가 잇따라 발견됐다. 조희경 동물자유연대 대표는 \"소동물은 여전히 '장난감'처럼 소비되는...",
-      "link": "https://www.yna.co.kr/view/AKR20260411001300030?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016016119?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.4315,
-      "pubDate": "2026-04-11T23:01:00+00:00"
-    },
-    {
-      "title": "4월 전국 청약 시장 본격화…아직 3만6986가구 분양 남았다",
-      "desc": "부동산정보업체 부동산인포에 따르면 4월 전국 분양 예정은 총 4만3742가구(일반 3만1206가구)다. 4월 분양 물량은 올 들어 최고치다. 이 중 6756가구(일반 4876가구)가 청약을 받았다. 서울에서는 지난 1일 1순위...",
-      "link": "https://www.dailian.co.kr/news/view/1631822/?sc=Naver",
-      "naver": "https://n.news.naver.com/mnews/article/119/0003079557?sid=101",
-      "host": "dailian.co.kr",
-      "score": 2.3985,
-      "pubDate": "2026-04-11T22:48:00+00:00"
-    },
-    {
-      "title": "\"이사철 훈풍도 없다\" 광주 아파트 거래 절벽 현실화",
-      "desc": "3월 거래량 5.2%·4월 거래량 63.9% 감소…전월세도 급감 집 안팔려 신규 입주도 저조…\"수도권·지방 부동산... 정부의 강력한 부동산 규제로 대출이 어려워지면서 기존 아파트 거래는 물론 신규 아파트 입주도 저조한...",
-      "link": "https://www.yna.co.kr/view/AKR20260410121800054?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016016058?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.3863,
-      "pubDate": "2026-04-11T22:00:00+00:00"
-    },
-    {
-      "title": "스트라드비젼, 증권신고서 제출…코스닥 상장 절차 본격화",
-      "desc": "향후 기관 수요예측과 일반 청약을 거쳐 코스닥 시장에 상장할 계획이며, 대표 주관사는 KB증권이 맡았다. 스트라드비젼은 자동차용 AI 인식 소프트웨어를 개발·공급하는 기업으로, 핵심 제품인 객체 인식 솔루션...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01151286645415464",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006255373?sid=105",
-      "host": "edaily.co.kr",
-      "score": 2.3287,
-      "pubDate": "2026-04-11T22:40:00+00:00"
-    },
-    {
-      "title": "[분양캘린더]노량진·반포 '알짜' 분양…일반 3844가구 풀린다",
-      "desc": "12일 부동산R114에 따르면 4월 셋째 주 전국 9개 단지, 총 6151가구(일반분양 3844가구)가 청약을 진행한다. 서울 동작구 '라클라체자이드파인', 서초구 잠원동 '오티에르 반포', 충남 천안시 '업성 푸르지오 레이크시티...",
-      "link": "https://www.mt.co.kr/estate/2026/04/12/2026041013135386745",
-      "naver": "https://n.news.naver.com/mnews/article/008/0005342903?sid=101",
-      "host": "mt.co.kr",
-      "score": 2.2863,
-      "pubDate": "2026-04-11T22:00:00+00:00"
-    },
-    {
-      "title": "서울 1~2인 가구 역대 최고…대단지 소형으로 실수요 집중",
-      "desc": "한국부동산원 청약홈에 따르면 SK에코플랜트가 1월 서울 서대문구 연희동 일원에 분양한 '드파인 연희'는... 부동산R114에 따르면 올해 입주했거나 입주를 앞둔 전용면적 60㎡ 이하 물량은 총 7975가구(임대 제외)로...",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026041012352193547",
-      "naver": "https://www.newsway.co.kr/news/view?ud=2026041012352193547",
-      "host": "newsway.co.kr",
-      "score": 2.1997,
-      "pubDate": "2026-04-11T21:18:00+00:00"
-    },
-    {
-      "title": "\"당첨만 되면 20억 차익\"…로또청약 이번주 나온다 [청약 ABC]",
-      "desc": "11일 한국부동산원 청약홈에 따르면 서초구 잠원동 ‘오티에르반포’가 13~14일 1순위 청약을 받는다. 총 251가구 중 일반분양 물량은 86가구(전용면적 44~115㎡)다. 당첨되기만 하면 약 20억원의 시세 차익을 기대할 수...",
-      "link": "https://www.hankyung.com/article/202604102626i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005273702?sid=101",
+      "title": "올해 청약 당첨자 10명 중 6명 30대 이하였다",
+      "desc": "13일 부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1~2월 전국 전체 청약 당첨자 7365명 중 30대 이하는 61.2%(4507명)였다....",
+      "link": "https://www.hankyung.com/article/2026041356707",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005274006?sid=101",
       "host": "hankyung.com",
-      "score": 2.1795,
-      "pubDate": "2026-04-11T08:15:00+00:00"
+      "score": 2.9291,
+      "pubDate": "2026-04-12T22:20:00+00:00"
     },
     {
-      "title": "1조 거론됐던 이 패션업체, 몸값 왜 이래?... 주관사도 손해 보며 상장 ...",
-      "desc": "이후 같은 달 20일부터 일반 청약을 받는다. 계획대로라면 6월 초 상장한다. 회사는 상장 과정에서 227만2637주를 공모한다는 방침이다. 신주 모집 210만주에 구주 매출 17만2637주가 포함됐다. 주당 희망 공모가 범위는...",
-      "link": "https://biz.chosun.com/stock/market_trend/2026/04/12/FLV5VMJ6JNAQ7DE55YW6IEPSYI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001156143?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.1674,
-      "pubDate": "2026-04-11T21:01:00+00:00"
-    },
-    {
-      "title": "담보 없어도 대출길 열린다…소상공인 대출심사 ‘미래 성장성’ 본다",
-      "desc": "금융이력이 부족해도 성장 가능성이 높은 소상공인이라면 은행권에서 대출 한도 확대와 금리 우대 혜택을... 늘리고 금리를 낮출 수 있다. 금융당국은 올해 하반기부터 7개 은행을 중심으로 약 1조8000억원 규모...",
-      "link": "https://www.sentv.co.kr/article/view/sentv202604100113",
-      "naver": "https://www.sentv.co.kr/article/view/sentv202604100113",
-      "host": "sentv.co.kr",
-      "score": 2.1341,
-      "pubDate": "2026-04-11T23:02:00+00:00"
-    },
-    {
-      "title": "“한국은행 꿈 접고 신용불량자 됐다”…취준생 끌어들인 대형 보험대리...",
-      "desc": "보험 판매를 넘어 대출 중개와 불법 대부업까지. 취업준비생인 20대 청년들을 보험설계사로 모집해 다단계식... 등록금은 학자금 대출과 장학금으로 충당하고, 1학년 때부터 아르바이트를 하며 학업을 병행했다. 그의...",
-      "link": "https://www.khan.co.kr/article/202604120800011",
-      "naver": "https://n.news.naver.com/mnews/article/032/0003439235?sid=101",
-      "host": "khan.co.kr",
-      "score": 2.1289,
-      "pubDate": "2026-04-11T23:00:00+00:00"
-    },
-    {
-      "title": "모건스탠리 “비트코인ETF, 긴 여정의 시작…토큰MMF 등 RWA 전반에 관심...",
-      "desc": "또 올덴버그는 지난 2월 비트코인 기반 수익 서비스와 대출 서비스도 검토 중이라고 밝힌 바 있다. 블룸버그의 선임 ETF 애널리스트 에릭 발추나스는, 모건스탠리의 비트코인 트러스트가 이르면 수요일 출시될 때...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01154566645415464",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006255374?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.1287,
-      "pubDate": "2026-04-11T22:40:00+00:00"
-    },
-    {
-      "title": "“수백대 1 바늘구멍에 쥐꼬리 이자, 그 돈으로 주식하는게”…청약통...",
-      "desc": "분양가 급등·대출규제 겹치며 주택 청약 매력 급속도로 약화 두 달 새 가입자 10만명 줄어 주택기금 재원 흔들릴라 ‘긴장’ 분양가 상승과 대출규제까지 겹치며 청약이 더 이상 유리한 내 집 마련 수단이 아니라는...",
-      "link": "https://www.mk.co.kr/article/12014336",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005664422?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.1286,
-      "pubDate": "2026-04-11T02:07:00+00:00"
-    },
-    {
-      "title": "전략연 자금 9억 횡령 혐의 前 연구기획실장, 1심 징역 3년",
-      "desc": "조씨는 2017년 12월∼2022년 5월 전략연 연구개발적립금 등 9억4000여만원을 카드비, 유흥비, 대출금 상환 등 개인 용도로 사용한 혐의를 받는다. 또 전 국가안보실 행정관인 고모씨에게 2019년 1월∼2020년 2월 4300여만원의...",
-      "link": "https://biz.chosun.com/topics/law_firm/2026/04/12/QP5ANVCKRJG7VBJRKHGKKFOYEM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001156152?sid=102",
-      "host": "biz.chosun.com",
-      "score": 2.1062,
-      "pubDate": "2026-04-11T22:09:00+00:00"
-    },
-    {
-      "title": "[금감원 Q&A] “개인정보 요구 순간 끊으세요”…이실장 불법대출 수법...",
-      "desc": "대출 중개·실행·추심 분업화…초단기 고금리로 채무 악순환 개인정보 요구·지인 협박까지…원스톱 신고로... 금융감독원은 대출 중개부터 실행, 추심까지 역할을 나눈 조직형 범죄가 확산되고 있다며 소비자 주의를...",
-      "link": "http://www.metroseoul.co.kr/article/20260412500015",
-      "naver": "http://www.metroseoul.co.kr/article/20260412500015",
-      "host": "metroseoul.co.kr",
-      "score": 2.0885,
-      "pubDate": "2026-04-11T22:44:00+00:00"
-    },
-    {
-      "title": "3월 고용·수입 물가 동향은...中 1분기 성장률 주목 [한동훈의 위클리...",
-      "desc": "(Fed·연준)는 이달 말 연방시장공개위원회(FOMC)를 2주 앞두고 최신 경기 동향보고서인 베이지북을 내놓는다. 이 보고서가 진단하는 고용 및 물가 동향이 미국 금리 향방에 영향을 줄 수 있기 때문에 관심이 모아진다.",
-      "link": "https://www.sedaily.com/article/20031278?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004609687?sid=101",
+      "title": "9개 단지서 6151가구 분양…‘오티에르 반포’ 등 주목 [분양 캘린더]",
+      "desc": "부동산R114에 따르면 이달 13일에는 서울 서초구 잠원동 ‘오티에르 반포’가, 14일에는 서울 동작구 노량진동 ‘라클라체자이드파인’이 각각 청약에 나선다. 포스코이앤씨의 하이엔드 브랜드가 적용된 오티에르...",
+      "link": "https://www.sedaily.com/article/20031424?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004609952?sid=101",
       "host": "sedaily.com",
-      "score": 2.0885,
-      "pubDate": "2026-04-11T22:01:00+00:00"
+      "score": 2.8606,
+      "pubDate": "2026-04-12T23:13:00+00:00"
     },
     {
-      "title": "“요샌 이 동네 실수요자 몰린대”…서울 아파트 거래, 7건 중 1건은 노...",
-      "desc": "12일 부동산 정보 앱 집품이 국토교통부 실거래가 공개시스템을 분석한 결과 지난 2월 기준 서울에서 체결된 아파트 매매 계약 5839건 가운데 노원구는 818건을 기록하며 전체의 14.0%를 차지했다. 이는 서울 25개...",
-      "link": "https://www.mk.co.kr/article/12014511",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005664528?sid=101",
+      "title": "올해 청약 당첨자 10명 중 6명은 30대 이하…통계 집계 이래 최고",
+      "desc": "13일 부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1~2월 전국 전체 청약 당첨자 7365명 중 30대 이하는 61.2%(4507명)로 집계됐다....",
+      "link": "https://www.khan.co.kr/article/202604130801001",
+      "naver": "https://n.news.naver.com/mnews/article/032/0003439432?sid=101",
+      "host": "khan.co.kr",
+      "score": 2.7291,
+      "pubDate": "2026-04-12T23:01:00+00:00"
+    },
+    {
+      "title": "레이저옵텍, 유상증자 구주주 청약률 109.5% 기록…중장기 성장 추진 탄...",
+      "desc": "피부 미용 및 질환 치료 레이저기기 전문기업 레이저옵텍이 지난 8~9일 진행한 주주배정 유상증자 구주주 청약에서 100%가 넘는 청약률을 기록하며 흥행에 성공했다. 10일 레이저옵텍의 공시에 따르면, 이번 청약 결과...",
+      "link": "https://www.hankyung.com/article/202604135840i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005274020?sid=105",
+      "host": "hankyung.com",
+      "score": 2.6877,
+      "pubDate": "2026-04-12T23:23:00+00:00"
+    },
+    {
+      "title": "올해 청약 당첨자 10명중 6명은 30대 이하…통계 집계 이래 최고",
+      "desc": "13일 부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1∼2월 전국 전체 청약 당첨자 7천365명 중 30대 이하는 61.2%(4천507명)으로...",
+      "link": "https://www.yna.co.kr/view/AKR20260412020000003?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016017058?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.6657,
+      "pubDate": "2026-04-12T21:01:00+00:00"
+    },
+    {
+      "title": "‘하루라도 빨리 내 집 마련’ 올해 청약 당첨자 60%가 ‘30대 이하’[부...",
+      "desc": "13일 부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1∼2월 전국 전체 청약 당첨자 7365명 중 30대 이하는 61.2%(4507명)으로...",
+      "link": "https://biz.heraldcorp.com/article/10715439?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/016/0002628496?sid=101",
+      "host": "biz.heraldcorp.com",
+      "score": 2.4714,
+      "pubDate": "2026-04-12T23:17:00+00:00"
+    },
+    {
+      "title": "올해 청약 당첨자 10명중 6명은 30대 이하…역대 최고",
+      "desc": "13일 부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1∼2월 전국 전체 청약 당첨자 7천365명 중 30대 이하가 61.2%(4천507명)를...",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=228154",
+      "naver": "https://www.ngonews.kr/news/articleView.html?idxno=228154",
+      "host": "ngonews.kr",
+      "score": 2.4369,
+      "pubDate": "2026-04-12T23:04:00+00:00"
+    },
+    {
+      "title": "아파트 당첨자 10명 중 6명은 '30대 이하'…역대 최고 기록",
+      "desc": "13일 부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1∼2월 전국 전체 청약 당첨자 7365명 중 30대 이하는 61.2%(4507명)으로...",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000030080",
+      "naver": "https://www.jnilbo.com/news/articleView.html?idxno=90000030080",
+      "host": "jnilbo.com",
+      "score": 2.4112,
+      "pubDate": "2026-04-12T22:54:00+00:00"
+    },
+    {
+      "title": "매경이 전하는 세상의 지식 (매-세-지, 4월 13일)",
+      "desc": "범위를 어떻게 설정할 지에 관심이 쏠리는 가운데 신규 전세대출 보증 금지, 기존 대출 만기연장 제한 등 강력한 조치가 테이블에 올라갈 가능성이 거론됩니다. ☞ 재테크의 기본! 부동산 정보, 쉽고 빠르게 알고싶다면",
+      "link": "https://www.mk.co.kr/article/12014917",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005664834?sid=101",
       "host": "mk.co.kr",
-      "score": 2.0847,
-      "pubDate": "2026-04-11T23:21:00+00:00"
+      "score": 2.3865,
+      "pubDate": "2026-04-12T22:01:00+00:00"
     },
     {
-      "title": "24개월 최고 연 5.15%…제주은행 'MZ 플랜적금' [이주의 은행 적금금리-...",
-      "desc": "우대 조건은 ▲소득이체 연 0.6%p ▲카드이용 연 0.3%p ▲오픈뱅킹 연 0.6%p ▲청약보유 연 0.3%p ▲마케팅 동의 연 0.1%p 등이다. 가입 한도는 월 300만원 이하며 1인 다계좌 개설 가능하다. 국민은행...",
-      "link": "http://www.fntimes.com/html/view.php?ud=2026041016473819545e6e69892f_18",
-      "naver": "http://www.fntimes.com/html/view.php?ud=2026041016473819545e6e69892f_18",
-      "host": "fntimes.com",
-      "score": 2.0693,
-      "pubDate": "2026-04-11T21:02:00+00:00"
+      "title": "법원 “금융위가 예가람·고려 저축은행에 부과한 과징금 20억 취소”",
+      "desc": "이 과정에서 고객 63명의 대출 금액, 기간, 금리, 연대보증인 등 개인신용정보 77건이 고객의 동의 없이 제공됐다. 고려저축은행은 2018년 4월부터 2021년 11월까지 법률 검토를 받기 위해 대출약정서와 부속 서류를 계열사...",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/04/13/TOLDDBEVD5CWDESYGJLPS6GISI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001156299?sid=102",
+      "host": "biz.chosun.com",
+      "score": 2.3865,
+      "pubDate": "2026-04-12T22:01:00+00:00"
     },
     {
-      "title": "\"버틸 여력 없다\"…미분양·청약 부진에 중견 건설업계 생존 위기",
-      "desc": "한국부동산원 청약홈에 따르면 지난달 시공능력평가 상위 10대 건설사를 제외한 중견 건설사들의 분양... IBK기업은행의 지난해 말 기준 중소 건설업 연체율은 1.22%로, 부동산 프로젝트파이낸싱(PF) 부실이 본격화한...",
-      "link": "https://www.newsis.com/view/NISX20260410_0003586498",
-      "naver": "https://n.news.naver.com/mnews/article/003/0013881925?sid=101",
-      "host": "newsis.com",
-      "score": 2.0634,
-      "pubDate": "2026-04-11T20:00:00+00:00"
+      "title": "계열사 협의체에 신용정보 제공한 저축은행…法 “과징금 처분 취소해야...",
+      "desc": "해당 자료에는 고객의 대출금액, 금리, 대출기간 등 개인신용정보가 포함돼 있었다. 또 정보 제공 과정에서는 정보주체의 사전 동의가 이뤄지지 않았다. 금융위원회는 이를 신용정보법 위반으로 판단해 2024년 12월...",
+      "link": "https://www.sedaily.com/article/20031523?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004609935?sid=102",
+      "host": "sedaily.com",
+      "score": 2.3843,
+      "pubDate": "2026-04-12T22:00:00+00:00"
     },
     {
-      "title": "\"당첨만 되면 20억 차익\"...현금 부자들만 신났네",
-      "desc": "12일 한국부동산원 청약홈에 따르면 서울 서초구 잠원동 ‘오티에르반포’&lt;사진&gt; 가 오는 13일부터 14일까지 1순위 청약을 진행합니다. 해당 단지는 총 251가구 중 86가구가 일반분양 물량으로 공급되며, 전용면적 44~115...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000303681?division=NAVER",
-      "naver": "https://n.news.naver.com/mnews/article/374/0000503819?sid=101",
+      "title": "[전국 주요 신문 사설](13일 조간)",
+      "desc": "나라' … 미래 준비할 때 ▲ 경북신문 = 6·3 지방선거 표심 의식… 선심성 예산 논란 ▲ 경북일보 = 공보의 급감, 공보의제 근본적 수정 불가피하다 농협까지 불법 대출…상호금융 전수 점검해야 (서울=연합뉴스)",
+      "link": "https://www.yna.co.kr/view/AKR20260413014200011?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016017112?sid=102",
+      "host": "yna.co.kr",
+      "score": 2.3265,
+      "pubDate": "2026-04-12T23:00:00+00:00"
+    },
+    {
+      "title": "올해 청약 당첨자 61% '30대 이하'…통계 집계 이래 최고",
+      "desc": "13일 부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1∼2월 전국 전체 청약 당첨자 7천365명 중 30대 이하는 61.2%(4천507명)으로...",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=731178",
+      "naver": "https://www.slist.kr/news/articleView.html?idxno=731178",
+      "host": "slist.kr",
+      "score": 2.2843,
+      "pubDate": "2026-04-12T22:00:00+00:00"
+    },
+    {
+      "title": "저축은행 시장 양강 구도 굳어지나… SBI vs OK 경쟁 격화",
+      "desc": "전문가들은 \"저축은행 시장은 금리와 대출 규제 환경 변화 속에서 브랜드 신뢰도와 접근성이 중요한 경쟁 요소로 자리 잡고 있다\"고 분석한다. 특히 대환대출, 자동차담보대출 등 특정 상품군에 대한 관심이 브랜드...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=444844",
+      "naver": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=444844",
+      "host": "pinpointnews.co.kr",
+      "score": 2.2384,
+      "pubDate": "2026-04-12T22:24:00+00:00"
+    },
+    {
+      "title": "올해 청약 당첨자 10명중 6명은 '30대 이하'",
+      "desc": "부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1∼2월 전국 전체 청약 당첨자 7,365명 중 30대 이하는 61.2%(4,507명)으로...",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260413063236Sem",
+      "naver": "https://n.news.naver.com/mnews/article/422/0000854354?sid=101",
+      "host": "yonhapnewstv.co.kr",
+      "score": 2.2276,
+      "pubDate": "2026-04-12T21:33:00+00:00"
+    },
+    {
+      "title": "원유 시장 스타 트레이더도 이란 전쟁 초기 수천억 날려",
+      "desc": "비톨은 원자재 거래소에서 대규모 증거금 요구(마진 콜)가 발생할 경우에 대비해 30억 달러(약 4조4565억원) 규모의 긴급 대출 한도를 확보했다. 아직 이를 사용하지는 않은 것으로 전해진다. 비톨의 바레인 지역...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02013926645415792",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006255933?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.2187,
+      "pubDate": "2026-04-12T23:16:00+00:00"
+    },
+    {
+      "title": "[이슈체크] 계열사 누락에 우회지원 논란까지…HDC, 공정거래 이슈 속 '...",
+      "desc": "공정거래위원회는 최근 HDC가 계열사 HDC아이파크몰에 사실상 저금리 자금을 장기간 지원한 행위를... 임대차 계약 외형 속 자금지원…공정위 '저금리 대출' 판단 공정거래위원회는 8일 HDC가 계열사 HDC아이파크몰에...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=300669",
+      "naver": "https://www.thepublic.kr/news/articleView.html?idxno=300669",
+      "host": "thepublic.kr",
+      "score": 2.1959,
+      "pubDate": "2026-04-12T23:26:00+00:00"
+    },
+    {
+      "title": "1113만명 코인 투자하는데 한국에는 기본법도 없다",
+      "desc": "은행의 본질적 수익 구조는 예금(수신)→지급준비금→대출이라는 신용창출 기능에 기반한다.... 미국 백악관 경제자문위원회(CEA)가 이달 발표한 보고서에 따르면, 스테이블코인 이자를 전면 금지해도 은행 대출 증가...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01954886645415792",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006255916?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.1947,
+      "pubDate": "2026-04-12T23:07:00+00:00"
+    },
+    {
+      "title": "\"한 살이라도 젊을 때 집 사놓자\"…청약시장 큰 손 20대",
+      "desc": "오늘(13일) 부동산 전문 리서치업체 리얼투데이가 한국부동산원의 연령별 청약 당첨자 정보(일반분양 단지 기준)를 분석한 결과에 따르면 올해 1∼2월 전국 전체 청약 당첨자 7365명 중 30대 이하는 61.2%(4507명)으로...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000303752?division=NAVER",
+      "naver": "https://n.news.naver.com/mnews/article/374/0000503893?sid=101",
       "host": "biz.sbs.co.kr",
-      "score": 2.0634,
-      "pubDate": "2026-04-11T20:00:00+00:00"
+      "score": 2.1941,
+      "pubDate": "2026-04-12T21:16:00+00:00"
+    },
+    {
+      "title": "취업해도 못 갚는 학자금 대출...체납액 800억 넘어 통계 작성 이래 역대...",
+      "desc": "학자금 대출을 갚지 못한 비율이 지난해 20%에 육박해 역대 최고에 달한 것으로 집계됐다. 13일 국세청 국세통계포털에 따르면, 2025년 귀속 ‘취업 후 상환 학자금대출’(ICL)의 미상환비율(이하 누적 기준)은 금액...",
+      "link": "https://www.chosun.com/economy/economy_general/2026/04/13/APEJ2XV5UBDU3GBZXGJATQNTLI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver": "https://n.news.naver.com/mnews/article/023/0003970464?sid=101",
+      "host": "chosun.com",
+      "score": 2.1849,
+      "pubDate": "2026-04-12T23:22:00+00:00"
     }
   ]
 }
