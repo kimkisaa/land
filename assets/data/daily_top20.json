@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-05-09T23:39:58.381638Z",
+  "generatedAt": "2026-05-10T23:43:25.922802Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "백악관이 밀면 아들들이 투자?…트럼프 형제 ‘아빠 찬스’ 논란",
-      "desc": "또, 미국 증권 규제 당국 서류에 따르면 올해 4월 초 기준 아메리칸 벤처스는 플로리다의 제모 살롱 체인부터 버뮤다 가상자산 대출업체, 원자력 에너지 스타트업 등 다양한 사업을 지원하는 21개 펀드에 걸쳐...",
-      "link": "https://www.mk.co.kr/article/12042419",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005677583?sid=104",
+      "title": "‘미분양 무덤’ 대구까지 세 자릿수 경쟁률…지방 부동산도 바닥쳤나",
+      "desc": "10일 한국부동산원 청약홈에 따르면 충남 천안 ‘엘리프 성성호수공원’ 1블록은 지난 7일 진행된 1순위... 한국부동산원에 따르면 5월 첫째주 지방 전셋값은 0.04% 상승했다. 울산(0.14%) 전남(0.07%) 경남(0.07%) 전북(0.06...",
+      "link": "https://www.mk.co.kr/article/12042867",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005677906?sid=101",
       "host": "mk.co.kr",
-      "score": 2.5463,
-      "pubDate": "2026-05-09T23:20:00+00:00"
+      "score": 2.8991,
+      "pubDate": "2026-05-10T23:05:00+00:00"
     },
     {
-      "title": "불장 놓칠라 마통 쓰는 개미들…5대銀 잔액 3년4개월 만에 최대",
-      "desc": "2023년은 고금리 충격으로 위축됐던 가계대출이 부동산과 주식 시장 회복 기대를 타고 다시 고개를 들던 시기였다. 이후 5대 은행의 마이너스통장 잔액은 계속 30조원대 후반에 머무르다가 주택담보대출 규제에...",
-      "link": "https://www.yna.co.kr/view/AKR20260509040500002?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016067408?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.5256,
-      "pubDate": "2026-05-09T20:51:00+00:00"
+      "title": "남양주 민간임대 '왕숙진접 메르디앙 더 퍼스트', 사업계획 승인 변경 ...",
+      "desc": "단지는 10년 장기 민간임대 방식으로 공급되며, 청약통장 없이 만 19세 이상이면 신청 가능하다. 장기 거주 안정성을 확보할 수 있는 구조와 함께 향후 분양 전환까지 고려할 수 있는 점이 특징이다. 지하 2층~지상 29층, 총...",
+      "link": "http://www.ikld.kr/news/articleView.html?idxno=334199",
+      "naver": "http://www.ikld.kr/news/articleView.html?idxno=334199",
+      "host": "ikld.kr",
+      "score": 2.4691,
+      "pubDate": "2026-05-10T23:32:00+00:00"
     },
     {
-      "title": "여신업계 사잇돌대출 하반기 나올 듯…중금리대출엔 속내 복잡",
-      "desc": "정부는 민간 중금리대출에 규제 완화 인센티브를 제공하는 등 활성화 계획도 내놨다. 여전사의 경우 총자산 대비 대출자산 비중을 계산할 때 중금리대출1은 기존 80%보다 낮은 50%만 축소 인정된다. 대출자산 비중을 낮춰...",
-      "link": "https://www.yna.co.kr/view/AKR20260509031700002?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016067406?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.5187,
-      "pubDate": "2026-05-09T20:47:00+00:00"
+      "title": "사회초년생 경제적 홀로서기 돕고",
+      "desc": "프로그램은 재무 상태 진단 및 현금 흐름 분석, 저축·투자 상품의 이해, 부동산 대출 개념(LTV·DSR)과 전세사기 예방법, 개별 자산 관리 포트폴리오 설계 등 사회 초년생에게 필요한 실무 내용으로 구성됐다. 특히 전문...",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1541283",
+      "naver": "http://www.knnews.co.kr/news/articleView.php?idxno=1541283",
+      "host": "knnews.co.kr",
+      "score": 2.4425,
+      "pubDate": "2026-05-10T23:22:00+00:00"
     },
     {
-      "title": "[여기는 논설실]코스피 7500과 세수 호황, 청와대는 무엇을 보고 있나",
-      "desc": "금리 인상 기조와 이자이익 증가가 배경이다. ▶조선·방산·바이오 — 신성장 가시화 HD현대중공업 올해... 이미 38개 기관의 물가 전망치가 일제히 연 2.5%로 올라섰고 한국은행은 하반기 금리 인상을 예고했다....",
-      "link": "https://www.hankyung.com/article/202605095486i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005284978?sid=101",
-      "host": "hankyung.com",
-      "score": 2.4542,
-      "pubDate": "2026-05-09T23:23:00+00:00"
-    },
-    {
-      "title": "퇴근 후에 '진짜 돈' 번다…밤마다 14조원 몰리는 '이곳'",
-      "desc": "3월 이후 국내 증시에 큰 영향을 주고 있는 중동 지역 지정학적 리스크가 여전히 남아 있는 데다 미국을 비롯한 주요국 중앙은행의 금리 인상·동결 가능성도 시장 변수가 되고 있어서다. 이번 주에는 이란 전쟁이...",
-      "link": "https://www.hankyung.com/article/2026051059737",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005284977?sid=101",
-      "host": "hankyung.com",
-      "score": 2.4411,
-      "pubDate": "2026-05-09T23:18:00+00:00"
-    },
-    {
-      "title": "마키나락스, 공모가 1만5000원 확정…의무보유 확약률 코스닥 IPO 역대 최...",
-      "desc": "평가해준 데 감사드린다”며 “상장 이후에도 산업 현장 혁신을 이끄는 글로벌 피지컬 AI 기업으로 성장해 나가겠다”고 말했다. 마키나락스는 오는 11~12일 일반 청약을 거쳐 20일 코스닥 시장에 상장할 예정이다.",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01131606645447608",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006277286?sid=105",
+      "title": "“민간 브랜드에 분양가는 더 싸” 민간참여 공공분양 ‘눈길’",
+      "desc": "그레니티를 청약을 진행한다. 이 단지는 지하 2층~지상 29층, 4개 동, 전용면적 59·74·84㎡, 총 494가구 규모다. 2022년 사전청약 이후 잔여 물량에 대한 본청약이 진행되는 단지로, 전용 84㎡ 기준 분양가는 약 7억 8300만원...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01390726645447936",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006277974?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.3729,
-      "pubDate": "2026-05-09T23:11:00+00:00"
+      "score": 2.3908,
+      "pubDate": "2026-05-10T20:02:00+00:00"
     },
     {
-      "title": "\"내 집 마련 기회\" 올해 3기 신도시 청약 본격화",
-      "desc": "함영진 우리은행 부동산리서치 랩장은 \"최근 수도권 전세매물 구득과 월세화 이슈에 더해 신도시 양질의 입지에 분양가 상한제로 인한 비교적 저렴한 분양가 수준을 고려하면 신혼부부 및 생애최초주택구입자...",
-      "link": "https://www.asiatime.co.kr/article/20260508500212",
-      "naver": "https://www.asiatime.co.kr/article/20260508500212",
-      "host": "asiatime.co.kr",
-      "score": 2.362,
-      "pubDate": "2026-05-09T22:02:00+00:00"
+      "title": "[단독] 軍장병 ‘빚투’ 급증하는데…군인공제회, 대부업체에 6년간 대...",
+      "desc": "“사회초년생인 군인이 명확한 자금 운용 계획 없이 고금리 대출의 유혹에 빠지면 전역 후 신용 상태에... 고금리로 군 장병들을 유혹해 빚더미로 내몰고 있는 대부업에 대출을 늘리는 것이 바람직하냐는 지적이다....",
+      "link": "https://www.sedaily.com/article/20042305?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004619298?sid=100",
+      "host": "sedaily.com",
+      "score": 2.3526,
+      "pubDate": "2026-05-10T22:01:00+00:00"
     },
     {
-      "title": "“불장 놓칠라” 빚내는 개미들…‘마통’ 잔액 40조 돌파, 3년4개월만 ...",
-      "desc": "10일 금융권에 따르면 KB국민·신한·하나·우리·NH농협 등 5대 은행의 개인 마이너스통장(신용한도대출)... “상승장을 놓칠 수 없다”는 이른바 ‘포모(FOMO)’ 심리가 개인 투자자들을 자극하면서 단기 대출까지 투자...",
-      "link": "https://www.joongang.co.kr/article/25427004",
-      "naver": "https://n.news.naver.com/mnews/article/025/0003522090?sid=101",
-      "host": "joongang.co.kr",
-      "score": 2.1921,
-      "pubDate": "2026-05-09T23:37:00+00:00"
+      "title": "다음은 초고가·비거주1주택자…장특공제·보유세 강화에 대출까지 ‘3...",
+      "desc": "금융 당국은 은행권을 대상으로 규제지역 내 유주택자가 받은 보증부 전세대출 현황을 파악 중으로, 이 자료를 바탕으로 대출 규제를 마련해 조만간 발표한다는 계획이다. 전문가들은 매물이 크게 늘기는 어려울 것으로...",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/05/11/QIDVFMQEL5DTLHDH4JMPAWIIMY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001163204?sid=101",
+      "host": "biz.chosun.com",
+      "score": 2.3371,
+      "pubDate": "2026-05-10T21:01:00+00:00"
     },
     {
-      "title": "국내 주식시장 강세, 마이너스통장 대출 3년 만에 최대치 돌파",
-      "desc": "2023년은 고금리 충격으로 위축됐던 가계대출이 부동산과 주식시장 회복 기대 속에 다시 늘기 시작한 시기였고, 이후에도 주택담보대출 규제 강화에 따른 풍선 효과로 일부 자금 수요가 신용대출로 옮겨붙는 흐름이...",
-      "link": "https://www.tokenpost.kr/news/economy/358046",
-      "naver": "https://www.tokenpost.kr/news/economy/358046",
-      "host": "tokenpost.kr",
-      "score": 2.1577,
-      "pubDate": "2026-05-09T22:00:00+00:00"
+      "title": "국토장관 \"비거주 1주택자 거래허용 검토\"",
+      "desc": "이와 함께 대출 규제나 거래제한 등 고강도 안정화 조치, 글로벌 채권금리 상승에 따른 주택담보대출 금리 상승, 시장 질서를 확립하기 위한 강력한 단속체제를 갖추는 등 과거와는 여건이라고 김 장관은 강조했다. 앞서...",
+      "link": "https://view.asiae.co.kr/article/2026051108131502989",
+      "naver": "https://n.news.naver.com/mnews/article/277/0005760614?sid=101",
+      "host": "view.asiae.co.kr",
+      "score": 2.3193,
+      "pubDate": "2026-05-10T23:13:00+00:00"
     },
     {
-      "title": "“빚 내서라도 뛰어든다”…마통 40조 돌파, 3년 4개월 만에 ‘최대’",
-      "desc": "마이너스통장 잔액은 2023년 고금리 여파로 위축됐던 가계대출이 부동산 및 주식시장 회복 기대와 맞물려 반등한 이후 한동안 30조원대 후반에 머물렀다. 이후 주택담보대출 규제에 따른 풍선효과와 국내외 증시...",
-      "link": "https://www.dt.co.kr/article/12061505?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/029/0003025713?sid=101",
-      "host": "dt.co.kr",
-      "score": 2.1473,
-      "pubDate": "2026-05-09T21:55:00+00:00"
+      "title": "한투증권 \"고물가 우려 잠시 내려놓고 반도체 계속 붙잡아야\"",
+      "desc": "그러나 그는 \"현재 명목 금리에서 실질 금리를 빼서 산출하는 기대 인플레이션은 1년과 2년 기준으로 고점에서 반락하고 있다\"며 \"향후 미국·이란 종전 협상에서 유의미한 결과가 나온다면 물가는 더 이상 시장 전체를...",
+      "link": "https://www.yna.co.kr/view/AKR20260511018700008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016068572?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3193,
+      "pubDate": "2026-05-10T23:13:00+00:00"
     },
     {
-      "title": "증시 불장에 '빚투' 다시 꿈틀…마통 잔액 3년4개월만 최대",
-      "desc": "당시에는 고금리 충격 이후 부동산과 증시 회복 기대감이 살아나며 가계대출이 다시 증가세를 보이던 시기다. ◆코스피 급등에 '빚투' 수요 확대 은행권에서는 최근 코스피 급등세가 마이너스통장 사용 증가에...",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1708132",
-      "naver": "https://www.ebn.co.kr/news/articleView.html?idxno=1708132",
-      "host": "ebn.co.kr",
-      "score": 2.1463,
-      "pubDate": "2026-05-09T23:20:00+00:00"
+      "title": "롯데건설, AAA 채권 3000억 조달…“준공 전 돈맥경화 줄인다”",
+      "desc": "이번 자산유동화증권(ABS)은 분양이 완료된 다수 사업장의 안정적인 현금흐름을 기초자산으로 한다. 여기에 하나은행의 신용공여(15000억원)와 롯데건설의 예금 운용 등을 통해 최고 신용등급인 AAA등급으로 발행됐다....",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02177926645447936",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006278075?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.3164,
+      "pubDate": "2026-05-10T23:31:00+00:00"
     },
     {
-      "title": "[이번주 청약 길잡이] '고덕국제신도시 수자인풍경채'등 전국 4881가구 접...",
-      "desc": "10일 부동산 전문 리서치업체 리얼투데이에 따르면 수도권에서는 ▲경기도 안양시 '안양 에버포레 자연앤 e편한세상'(민간참여 공공분양, 404가구) ▲경기도 평택시 '고덕국제신도시 수자인풍경채'(1126가구)...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451539",
-      "naver": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451539",
-      "host": "pinpointnews.co.kr",
-      "score": 2.1414,
-      "pubDate": "2026-05-09T21:00:00+00:00"
+      "title": "현대건설, '에테르노 용산' 본PF 전환 채비",
+      "desc": "업계에 따르면 이 사업장은 사전청약에서 사실상 완판 수준의 성적을 거둔 것으로 알려졌다. 이 때문에 내부적으로는 외부 자금수혈인 PF 없이 분양수입과 자기자본을 활용해 사업을 끌고 가는 방안도 검토됐던...",
+      "link": "https://dealsite.co.kr/articles/161369",
+      "naver": "https://dealsite.co.kr/articles/161369",
+      "host": "dealsite.co.kr",
+      "score": 2.2547,
+      "pubDate": "2026-05-10T22:02:00+00:00"
     },
     {
-      "title": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’",
-      "desc": "오 후보 측은 대출 규제, 토허제, 양도세 중과, 보유세 강화, 장특공 폐지 논란등 을 묶어 “집값 폭등, 전세... 전세사기와 고금리, 공사비 상승 등으로 빌라 공급이 위축된 상황에서 아파트 공급만 기다릴 수는 없다는...",
-      "link": "https://www.mk.co.kr/article/12042276",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005677504?sid=101",
+      "title": "매경이 전하는 세상의 지식 (매-세-지, 5월 11일)",
+      "desc": "소규모 빌라 건축주들이 신축 빌라 분양 실패로 수억원대 취득세를 추징받을 위기에 처했습니다. 서민 주거의 징검다리 역할을 해온 빌라 공급이 더 감소할 가능성이 제기되고 있습니다. 5. 류재철 LG전자 사장이 취임 후...",
+      "link": "https://www.mk.co.kr/article/12042776",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005677894?sid=102",
       "host": "mk.co.kr",
-      "score": 2.1388,
-      "pubDate": "2026-05-09T04:10:00+00:00"
+      "score": 2.2526,
+      "pubDate": "2026-05-10T22:01:00+00:00"
     },
     {
-      "title": "기업은행, 중소기업 금융 재편 속 건전성 시험대",
-      "desc": "특히 부동산업과 임대업 연체율이 장기 평균보다 높은 수준으로 올라섰다는 보도가 이어지면서 중소기업 대출 중심 포트폴리오의 민감도가 부각됐다. 금리 인하가 지연되거나 내수 회복이 늦어질 경우 대손비용...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16056539",
-      "naver": "https://www.topstarnews.net/news/articleView.html?idxno=16056539",
-      "host": "topstarnews.net",
-      "score": 2.1255,
-      "pubDate": "2026-05-09T23:12:00+00:00"
+      "title": "880만원 내고 매칭된 ‘결정사’ 소개남…SNS엔 ‘웨딩 사진·아내 이름...",
+      "desc": "한편 소비자원에 따르면 결혼서비스 관련 피해구제 신청은 2024년 905건에서 지난해 1076건으로 18.9% 증가했다. 피해 유형은 계약해지 및 위약금, 청약철회 관련 분쟁이 전체의 80% 이상을 차지했다",
+      "link": "https://www.joongang.co.kr/article/25427192",
+      "naver": "https://n.news.naver.com/mnews/article/025/0003522272?sid=102",
+      "host": "joongang.co.kr",
+      "score": 2.2434,
+      "pubDate": "2026-05-10T22:42:00+00:00"
     },
     {
-      "title": "인터넷은행, 고신용자에 대출 쏠려…‘중저신용 대출’ 설립 취지 무색",
-      "desc": "정부가 중·저신용자를 포용하지 못하는 금융권 신용대출 관행에 대해 지적한 가운데 은행권 전반에서 고신용 쏠림이 심각한 것으로 나타났다. 특히 '중금리 대출 확대'를 설립 취지로 내세운 인터넷 전문은행의 중...",
-      "link": "https://www.sentv.co.kr/article/view/sentv202605080082",
-      "naver": "https://www.sentv.co.kr/article/view/sentv202605080082",
-      "host": "sentv.co.kr",
-      "score": 2.1002,
-      "pubDate": "2026-05-09T23:02:00+00:00"
+      "title": "코스피 급등에 마통 잔액 40조원대…3년4개월 만에 최대",
+      "desc": "2023년은 고금리 여파로 위축됐던 가계대출이 부동산과 주식시장 회복 기대를 타고 다시 늘기 시작한 시기다. 이후 5대 은행의 마이너스통장 잔액은 30조원대 후반에 머물렀다. 그러나 주택담보대출 규제에 따른...",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=705000",
+      "naver": "https://www.cstimes.com/news/articleView.html?idxno=705000",
+      "host": "cstimes.com",
+      "score": 2.2068,
+      "pubDate": "2026-05-10T22:26:00+00:00"
     },
     {
-      "title": "대통령이 찍은 '포용금융 성적표' … 금융지주 회장들 '정책 생존게임'...",
-      "desc": "금융위원회는 올해 민간 중금리대출 공급 목표를 지난해보다 1조 1000억원 늘어난 31조 9000억원으로 확대했고... 금융위는 ▲대안 신용평가(CSS) 확대 ▲가산금리 체계 점검 ▲중저신용자 대출 실적 반영 등을 검토 중인...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/08/2026050800093.html",
-      "naver": "https://biz.newdaily.co.kr/site/data/html/2026/05/08/2026050800093.html",
-      "host": "biz.newdaily.co.kr",
-      "score": 2.0952,
-      "pubDate": "2026-05-09T23:00:00+00:00"
+      "title": "“지역 건설사 쓰면 용적률 두 배”…인천 정비사업 판 바꾼다",
+      "desc": "정비사업 시행사 입장에서 지역업체와 손잡으면 분양 가구 수를 더 확보할 수 있어 사업 수익성이 높아진다. 대형 건설사 위주로 굳어진 민간 시장에 지역업체가 파고들 유인책을 마련한 셈이다. 공공 영역에서도...",
+      "link": "https://www.sedaily.com/article/20042308?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004619306?sid=102",
+      "host": "sedaily.com",
+      "score": 2.2023,
+      "pubDate": "2026-05-10T22:24:00+00:00"
     },
     {
-      "title": "\"나만 소외될라\" 마통 뚫었다…불장에 '빚투' 폭발",
-      "desc": "2023년은 고금리 충격으로 위축됐던 가계대출이 부동산과 주식 시장 회복 기대를 타고 다시 고개를 들던 시기였습니다. 이후 5대 은행의 마이너스통장 잔액은 계속 30조 원대 후반에 머무르다가 주택담보대출...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202605100004",
-      "naver": "https://n.news.naver.com/mnews/article/660/0000109031?sid=101",
-      "host": "ikbc.co.kr",
-      "score": 2.0731,
-      "pubDate": "2026-05-09T22:51:00+00:00"
+      "title": "[5월 둘째 부동산 이슈] 양도세 중과 부활에 '매물 잠김' 우려… 청약 시...",
+      "desc": "이번 주 부동산 시장은 다주택자 양도소득세 중과 한시 배제 조치 종료와 수도권 핵심 입지의 청약 결과에... ◆ 부동산 서비스업 심리 위축… 전세난은 여전 부동산 산업 전반의 체감 경기는 여전히 차갑다....",
+      "link": "https://www.betanews.net/article/view/beta202605100005",
+      "naver": "https://www.betanews.net/article/view/beta202605100005",
+      "host": "betanews.net",
+      "score": 2.2016,
+      "pubDate": "2026-05-10T23:06:00+00:00"
     },
     {
-      "title": "디데이 밝았다…팔자면 중과, 버티면 세금 부담 2배 '껑충'",
-      "desc": "정부는 부동산 거래 위축과 매물 감소를 완화하기 위해 2022년 5월부터 다주택자 양도세 중과를 한시적으로... 구윤철 부총리 겸 재정경제부 장관은 지난 8일 경제·부동산관계장관회의에서 \"대출 규제와...",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605100041&t=NN",
-      "naver": "https://n.news.naver.com/mnews/article/215/0001251576?sid=101",
-      "host": "wowtv.co.kr",
-      "score": 2.0726,
-      "pubDate": "2026-05-09T22:07:00+00:00"
+      "title": "[전국 주요 신문 사설](11일 조간)",
+      "desc": "매물잠김·전세난 최소화해야 다시 마주 앉는 삼성전자 노사, 파국은 안 된다 국민 절반 부정 평가, 실패로... 위기의 전세버스산업 '정책균형' 시급해 ▲ 전자신문 = 국가데이터 활용 극대화 새 길 열어야 ▲ 파이낸셜뉴스...",
+      "link": "https://www.yna.co.kr/view/AKR20260511012100011?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016068560?sid=102",
+      "host": "yna.co.kr",
+      "score": 2.1867,
+      "pubDate": "2026-05-10T23:00:00+00:00"
     },
     {
-      "title": "\"잔인한 금융?\"..중신용자 1200만명, '신용성장계좌'로 대출절벽 넘는다",
-      "desc": "금융거래 이력이 없어 고금리 대출을 써야 하는 중신용자를 대상으로 '신용성장계좌'가 도입된다. 세금... 낮아지고 금리단층 문제도 일부 해소될 것으로 기대된다. 10일 금융당국에 따르면 금융위원회는 이재명 정부의...",
-      "link": "https://www.mt.co.kr/finance/2026/05/10/2026050817244371353",
-      "naver": "https://n.news.naver.com/mnews/article/008/0005355132?sid=101",
-      "host": "mt.co.kr",
-      "score": 2.0504,
-      "pubDate": "2026-05-09T21:05:00+00:00"
+      "title": "신한·우리은행, 서울시금고 쟁탈전 '지역사회 기여 확대' 불가피",
+      "desc": "예금금리(20점) ▲시민 이용 편의성(18점) ▲금고업무 관리능력(28점) ▲지역사회 기여 및 시와의 협력사업... 대출 및 예금 금리와 관련해서도 해당 규정을 삭제했다. 서울시의회는 해당 조례안을 심사한 보고서에서 \"편차...",
+      "link": "https://www.topdaily.kr/articles/110027",
+      "naver": "https://www.topdaily.kr/articles/110027",
+      "host": "topdaily.kr",
+      "score": 2.1854,
+      "pubDate": "2026-05-10T23:38:00+00:00"
     },
     {
-      "title": "24개월 최고 연 5.15%…제주은행 'MZ 플랜적금' [이주의 은행 적금금리-...",
-      "desc": "우대조건은 ▲주거래우대 0.50% ▲공과금 자동이체 0.40~0.60% ▲신규고객 0.20% ▲주택청약종합저축 보유 0.... 우대 조건은 ▲소득이체 연 0.6%p ▲카드이용 연 0.3%p ▲오픈뱅킹 연 0.6%p ▲청약보유 연 0.3%p ▲마케팅...",
-      "link": "http://www.fntimes.com/html/view.php?ud=2026050817270944135e6e69892f_18",
-      "naver": "http://www.fntimes.com/html/view.php?ud=2026050817270944135e6e69892f_18",
-      "host": "fntimes.com",
-      "score": 2.045,
-      "pubDate": "2026-05-09T21:02:00+00:00"
+      "title": "KB국민은행 인니 \"대출 금리, 선별적으로 낮출 것\"",
+      "desc": "포트폴리오별 위험·만기 따라 차등 적용 \"무리한 금리 인하 시 수익성 부담\"  KB국민은행 인도네시아 법인(KB뱅크)이 “대출금리를 선별적·단계적으로 조정하겠다”고 밝혔다. 포트폴리오별 위험과 만기를 고려해...",
+      "link": "https://www.theguru.co.kr/news/article.html?no=101539",
+      "naver": "https://www.theguru.co.kr/news/article.html?no=101539",
+      "host": "theguru.co.kr",
+      "score": 2.1691,
+      "pubDate": "2026-05-10T23:32:00+00:00"
+    },
+    {
+      "title": "KB국민은행, 개인사업자 금융비용 부담 완화 앞장",
+      "desc": "때 금리가 연 5%를 초과하는 경우 초과분(최대 4%p)에 해당하는 이자금액이 대출원금 상환에 자동으로... 지원대상은 대출금리가 연 5%를 초과하는 원화 대출을 보유한 저신용등급의 개인사업자 고객이다. KB국민은행은...",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=401572",
+      "naver": "https://www.epnc.co.kr/news/articleView.html?idxno=401572",
+      "host": "epnc.co.kr",
+      "score": 2.1637,
+      "pubDate": "2026-05-10T23:30:00+00:00"
+    },
+    {
+      "title": "인니 은행권 순이자마진 하락 속 OK저축은행만 5%대 유지, 비결은?",
+      "desc": "예금과 대출의 금리차이에서 발생하는 수익과 채권 등 유가증권에서 발생한 이자가 포함된다. 올해 인니... 이는 글로벌 경제의 불확실성과 고금리 자금 확보 경쟁, 자금 조달 비용 압박에서 비롯됐다. 이에 더해...",
+      "link": "https://www.theguru.co.kr/news/article.html?no=101549",
+      "naver": "https://www.theguru.co.kr/news/article.html?no=101549",
+      "host": "theguru.co.kr",
+      "score": 2.1584,
+      "pubDate": "2026-05-10T23:28:00+00:00"
     }
   ]
 }
