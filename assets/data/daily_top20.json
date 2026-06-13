@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-06-12T00:15:01.823669Z",
+  "generatedAt": "2026-06-13T00:14:39.118425Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "청년 주거고민 한자리에…인천 ‘찾아가는 상담소’ 연다",
-      "desc": "전세사기와 주거비 부담에 노출된 청년층을 직접 찾아가 계약·금융·청약 정보를 제공하는 방식이다. 시는... △사회초년생 부동산 계약 요령 △부동산 금융 및 전세사기 방지 △공공·민영주택 청약 등 세 갈래다. 첫...",
-      "link": "https://www.sedaily.com/article/20054857?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004630355?sid=102",
-      "host": "sedaily.com",
-      "score": 2.7431,
-      "pubDate": "2026-06-11T22:28:00+00:00"
-    },
-    {
-      "title": "동탄 집값 7% 뛰자… 규제지역 지정 가능성 커졌다",
-      "desc": "조정대상지역은 최근 3개월 주택가격 상승률이 해당 시·도 소비자물가 상승률의 1.3배를 넘고, 청약 과열이나 분양권 거래 증가 등의 요건을 충족하면 지정할 수 있다. 투기과열지구는 최근 3개월 주택가격 상승률이 해당...",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/06/12/PIIZHUDZBVBAVMPWUKKBSUWUDQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001171256?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.5836,
-      "pubDate": "2026-06-11T21:01:00+00:00"
-    },
-    {
-      "title": "'머스크 팬덤' 폭발했다…스페이스X, 아람코 넘어 IPO 새 역사",
-      "desc": "특히 머스크를 지지하는 강력한 개인투자자 팬덤이 대거 유입되면서 소액 주주 청약 금액만 1000억 달러(약... 결국 청약 마지막 날까지 자금이 지속적으로 유입되면서 개인 배정 물량의 5배에서 7배에 달하는 초과...",
-      "link": "https://www.hankyung.com/article/2026061221267",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005297948?sid=104",
-      "host": "hankyung.com",
-      "score": 2.573,
-      "pubDate": "2026-06-11T23:26:00+00:00"
-    },
-    {
-      "title": "차가원 측 '전세사기 부인'에…이승기 \"본질 왜곡, 범죄 혐의 엄중히 책...",
-      "desc": "미분양 해소를 위한 바이럴 대상이 아니었고 전세사기도 아니다\"라며 \"해당 계약은 사업적·경영적 판단에 따라 이뤄진 것\"이라고 주장했다. 현 변호사에 따르면 이승기가 거주 중인 호실은 당초 다른 법인이 분양받기로...",
-      "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010317791&plink=ORI&cooper=NAVER",
-      "naver": "https://m.entertain.naver.com/article/416/0000324107",
-      "host": "ent.sbs.co.kr",
-      "score": 2.528,
-      "pubDate": "2026-06-11T23:48:00+00:00"
-    },
-    {
-      "title": "교육 인프라에 분양가상한제…고덕국제신도시 수자인하우스디 분양",
-      "desc": "청약 일정은오는 22일 특별공급을 시작으로 23일 1순위, 24일 2순위 순으로 진행된다. 당첨자는 30일... 청약 문턱도 낮다. 고덕국제신도시 수자인하우스디가 들어서는 평택 고덕국제신도시는 거주지 제한 없이 전국에서...",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1712250",
-      "naver": "https://www.ebn.co.kr/news/articleView.html?idxno=1712250",
-      "host": "ebn.co.kr",
-      "score": 2.4702,
-      "pubDate": "2026-06-12T00:04:00+00:00"
-    },
-    {
-      "title": "서울 아파트 분양가 최고치 경신, 기분양 오피스텔에 수요자 관심",
-      "desc": "정부의 10·15 부동산 대책 이후 규제지역 내 주택담보대출비율(LTV)이 40%까지 축소된 데다, 차주별 소득 기준... 부동산 업계 전문가는 \"서울 내 아파트는 물론 비아파트 공급까지 전반적으로 줄어든 상황에서 신규...",
-      "link": "https://www.thegolftimes.co.kr/news/articleView.html?idxno=81333",
-      "naver": "https://www.thegolftimes.co.kr/news/articleView.html?idxno=81333",
-      "host": "thegolftimes.co.kr",
-      "score": 2.4595,
-      "pubDate": "2026-06-12T00:00:00+00:00"
-    },
-    {
-      "title": "[창간 6주년 특별기획 포용금융]하나금융, 취약계층부터 소상공인까지....",
-      "desc": "중금리대출 공급 확대와 연체채권 소각, 청년 전세사기 보장보험 도입 등을 통해 금융 사각지대 해소에 적극... 하나금융그룹은 사회적 위협인 전세사기로부터 청년의 소중한 자산을 보호하고 제도권 금융의 사각지대에...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=48245",
-      "naver": "https://www.public25.com/news/articleView.html?idxno=48245",
-      "host": "public25.com",
-      "score": 2.4122,
-      "pubDate": "2026-06-11T23:00:00+00:00"
-    },
-    {
-      "title": "하나은행, 연봉 수십억인 사람에게도 신용대출은 1억까지만 내준다",
-      "desc": "만기 연장 때 예외 없애고 원칙적 감액 금융당국이 신용대출 관리 관련해 비상관리체제를 선언하면서 시중은행들도 잇따라 신용대출 조이기에 나서고 있다. 하나은행은 금융당국 방침에 맞춰 고액 연봉자 신용대출...",
-      "link": "https://www.mk.co.kr/article/12072373",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005692844?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.3865,
-      "pubDate": "2026-06-12T00:10:00+00:00"
-    },
-    {
-      "title": "한·일 전문가 총집결…삼일PwC, IPO 세미나 개최",
-      "desc": "박권의 김앤장 변호사는 “해외 IPO라도 국내 투자자를 대상으로 청약을 권유할 경우 증권신고서 제출 의무가 발생할 수 있다”며 “해외증권 발행 과정에서도 공모 해당 여부를 사전에 면밀히 검토해야 한다”고...",
-      "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02843766645481064",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006303967?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.3729,
-      "pubDate": "2026-06-11T23:46:00+00:00"
-    },
-    {
-      "title": "OK저축은행, 정기예금 금리 ‘연 4.0%’로 인상",
-      "desc": "유치하려는 저축은행 간의 수신 경쟁이 당분간 이어질 것으로 보인다”고 분석했다. 부동산 프로젝트파이낸싱(PF) 부실 정리 과정에서 자산건전성 관리를 위해 충분한 유동성을 선제적으로 확보하려는 계산도 깔려 있다.",
-      "link": "https://www.mk.co.kr/article/12072371",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005692843?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.3621,
-      "pubDate": "2026-06-12T00:01:00+00:00"
-    },
-    {
-      "title": "호르무즈 열리나…트럼프 \"이번 주말\" 이란 \"아직\" 뉴욕증시는 급등[뉴...",
-      "desc": "예금금리를 연 2.00％에서 2.25％로, 기준금리(주요재융자금리)와 한계대출금리를 각각 2.40％, 2.65％로 올리기로 한 것. ECB의 금리 인상은 2023년 9월 이후 2년 9개월 만이다. -크리스틴 라가르드 ECB 총재는...",
-      "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02633846645481064",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006303912?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.3577,
-      "pubDate": "2026-06-11T22:58:00+00:00"
-    },
-    {
-      "title": "[정선미의 돈터치] 현기증 나는 증시, 흔들리는 돈줄",
-      "desc": "지준일과 스페이스X 청약, 메리츠스팩 청약, 국고채 원리금 상환 등 이벤트가 겹친 탓도 있지만 그게 전부가 아니다. 이벤트가 소화된 다음날인 11일에도 레포 최고 체결금리는 5%를 나타냈다. 레포금리 이상 급등은 이미...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419629",
-      "naver": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419629",
-      "host": "news.einfomax.co.kr",
-      "score": 2.328,
-      "pubDate": "2026-06-11T23:48:00+00:00"
-    },
-    {
-      "title": "개인투자자 돈 153조 몰렸다…스페이스X, 공모가 135달러 확정",
-      "desc": "항공우주기업 스페이스X 기업공개(IPO) 공모 청약에서 개인 투자자 수요가 150조원을 넘겼다는 보도가 나왔다. 블룸버그 통신은 11일(현지시간) 소식통을 인용해 스페이스X에 청약하려는 개인투자자들의 주문...",
-      "link": "https://www.hankyung.com/article/2026061219557",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005297920?sid=101",
-      "host": "hankyung.com",
-      "score": 2.3238,
-      "pubDate": "2026-06-11T21:25:00+00:00"
-    },
-    {
-      "title": "평택 '고덕국제신도시 수자인하우스디' 분양",
-      "desc": "청약은 오는 22일 특별공급을 시작으로 23일 1순위, 24일 2순위 접수가 진행되며 당첨자 발표는 30일이다. 정당계약은 7월 13일부터 15일까지 이뤄진다. 단지는 분양가상한제가 적용되며 거주의무기간이 없으며 청약...",
-      "link": "https://www.newsis.com/view/NISX20260611_0003665668",
-      "naver": "https://n.news.naver.com/mnews/article/003/0014002291?sid=102",
-      "host": "newsis.com",
-      "score": 2.301,
-      "pubDate": "2026-06-11T22:55:00+00:00"
-    },
-    {
-      "title": "파노라마 오션뷰…부산 ‘알티에로 광안’ 15일 특공 돌입",
-      "desc": "청약 일정은 15일 특별공급을 시작으로 16일 부산·경남·울산시 거주자를 대상으로 일반 1순위, 17일 2순위 청약을 받는다. 당첨자 발표는 23일이다. ‘알티에로 광안’은 기존 하이엔드를 넘어 하이퍼엔드 단지를...",
-      "link": "https://www.sedaily.com/article/20054778?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004630359?sid=101",
-      "host": "sedaily.com",
-      "score": 2.2921,
-      "pubDate": "2026-06-11T22:51:00+00:00"
-    },
-    {
-      "title": "분양가 경쟁력·교통망·배후수요 갖춘 '마곡 더 자하' 공급",
-      "desc": "현재 부동산 시장은 고분양가 기조가 지속되고 서울 내 주택 공급 감소 우려가 현실화되면서 신축 주거 단지에 대한 희소성이 높아지는 흐름을 보이고 있다. 고금리와 공사비 상승 여파로 신축 분양가가 상승하며 자산...",
-      "link": "https://magazine.hankyung.com/business/article/202606111103b",
-      "naver": "https://n.news.naver.com/mnews/article/050/0000107219?sid=101",
-      "host": "magazine.hankyung.com",
-      "score": 2.2621,
-      "pubDate": "2026-06-12T00:01:00+00:00"
-    },
-    {
-      "title": "[송윤주의 부동산생태계] 저축은행 대출 부실 심화…비아파트 공급 ‘빨...",
-      "desc": "한편 수도권 외곽과 지방의 비아파트 사업장들은 부동산 경기 침체로 분양가보다 시세가 떨어지거나... 부동산 PF 위기, 러-우 전쟁 등으로 건설공사비가 급등해 주택 착공이 위축됐고, 이에 따라 입주 물량이 감소해...",
-      "link": "https://www.ekn.kr/web/view.php?key=20260611025132581",
-      "naver": "https://www.ekn.kr/web/view.php?key=20260611025132581",
-      "host": "ekn.kr",
-      "score": 2.2595,
-      "pubDate": "2026-06-12T00:00:00+00:00"
-    },
-    {
-      "title": "'고덕국제신도시 수자인하우스디' 견본주택 개관",
-      "desc": "청약 일정은 오는 22일 특별공급을 시작으로 23일 1순위, 24일 2순위 접수를 받는다. 당첨자 발표는 30일이며... 평택 고덕국제신도시는 거주지 제한 없이 전국에서 청약이 가능한 비규제지역이다. 만 19세 이상이면...",
-      "link": "https://www.newsis.com/view/NISX20260612_0003666512",
-      "naver": "https://n.news.naver.com/mnews/article/003/0014002384?sid=101",
-      "host": "newsis.com",
-      "score": 2.241,
-      "pubDate": "2026-06-11T23:53:00+00:00"
-    },
-    {
-      "title": "현대로템, 1500억 동반성장펀드 조성… 철도 협력사와 상생 강화",
-      "desc": "협력사의 금리 감면을 지원한다. 협력사의 글로벌 시장 진출을 위해선 신한은행·수출입은행과 함께 상생금융협약을 체결했다. 이를 통해 무역금융과 보증, 우대금리를 지원한다는 계획이다. 국내 내수 시장 활성화...",
-      "link": "https://biz.chosun.com/industry/company/2026/06/12/OCCGI5NUNZDCBEBORRXBRXJQYI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001171273?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.2358,
-      "pubDate": "2026-06-11T23:51:00+00:00"
-    },
-    {
-      "title": "\"0.3㎜ 미만 균열도 제대로 보수해야\"…LH, 9억대 하자소송 패소",
-      "desc": "재판부는 입주자 측이 청구한 9억7천596만원 중 9억1천491만원을 아파트 신축·분양 시행자인 LH가 지급하도록 명령했다. 또 소송 비용 중 90%는 LH가, 나머지 10%는 입주자대표회의 측이 부담하도록 했다. 앞서 이 아파트...",
-      "link": "https://www.yna.co.kr/view/AKR20260611100100065?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016134518?sid=102",
+      "title": "부산시, 시금고 지정 공정성 강화…심사위원 과반을 민간에",
+      "desc": "예금·대출금리, 사회공헌 순위 편차 5%→10%로 확대 한해 17조원이 넘는 부산시 예산을 관리하는 금고를... 또 시금고에 지원한 은행들이 제시하는 예금 및 대출 금리와 지역사회 공헌실적의 순위 편차를 5%에서 10%로...",
+      "link": "https://www.yna.co.kr/view/AKR20260612116400051?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016136875?sid=101",
       "host": "yna.co.kr",
-      "score": 2.2207,
-      "pubDate": "2026-06-11T22:17:00+00:00"
+      "score": 2.5837,
+      "pubDate": "2026-06-12T23:30:00+00:00"
+    },
+    {
+      "title": "[IPO챗] 6월 셋째주 공모주 청약 2곳·수요예측 2곳",
+      "desc": "6월 셋째 주 기업공개(IPO) 시장은 공모주 청약 2곳과 수요예측 2곳이 각각 예정돼 있다. 13일... 공모주 청약을 받는다. 스트라드비젼은 인공지능(AI) 기반 자율주행 소프트웨어를 개발하는 기업으로, 지난해...",
+      "link": "https://www.yna.co.kr/view/AKR20260612124200008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016136886?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.5605,
+      "pubDate": "2026-06-13T00:00:00+00:00"
+    },
+    {
+      "title": "‘73억 대출’ 한남동 빌라…이승기, 전세금 받을수 있나",
+      "desc": "105억 전세의 진실 사진|JTBC·원헌드레드 가수 겸 배우 이승기와 차가원 원헌드레드·빅플래닛메이드엔터 회장 측의 갈등이 진흙탕 공방으로 번지고 있다. 표면적으로는 ‘105억 전세사기 의혹’과 ‘전속계약 해지 명분...",
+      "link": "https://www.sportsseoul.com/news/read/1615723?ref=naver",
+      "naver": "https://m.entertain.naver.com/article/468/0001246960",
+      "host": "sportsseoul.com",
+      "score": 2.4715,
+      "pubDate": "2026-06-12T23:25:00+00:00"
+    },
+    {
+      "title": "[6월 셋째주 분양] 전국 10개 단지 청약… 수도권 민간 아파트 분양 ‘1...",
+      "desc": "12일 부동산 전문 리서치업체 리얼투데이에 따르면, 6월 셋째 주에는 전국 10곳에서 총 3910가구(행복주택 제외)가 청약에 나설 예정이다. 10개 단지를 지역별로 구분할 경우 서울 2곳, 경기 2곳, 부산 2곳, 광주 2곳...",
+      "link": "https://www.viva100.com/article/20260612500745",
+      "naver": "https://www.viva100.com/article/20260612500745",
+      "host": "viva100.com",
+      "score": 2.4658,
+      "pubDate": "2026-06-13T00:02:00+00:00"
+    },
+    {
+      "title": "'역대급 IPO' 스페이스X, 첫날 흥행…공모가 대비 19.3%↑",
+      "desc": "스페이스X 공모에는 총 3500억달러 규모의 청약 자금이 몰렸다. 기관투자자 주문이 2500억달러, 개인 투자자 주문이 1000억 달러를 기록하며 시장의 높은 관심을 반영했다. 커브 투자 매니지먼트의 하워드 챈...",
+      "link": "https://www.hankyung.com/article/2026061340877",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005298325?sid=104",
+      "host": "hankyung.com",
+      "score": 2.3998,
+      "pubDate": "2026-06-12T22:06:00+00:00"
+    },
+    {
+      "title": "‘금 불패’ 믿음 흔들...“눈높이 낮춰라”",
+      "desc": "중동 전쟁 장기화에도 가격 반등에 어려움을 겪는 가운데, 미국 금리 인하 기대감 후퇴라는 악재까지... 호르무즈 해협 폐쇄가 길어질수록 유가가 뛰고, 유가 상승은 물가와 금리 부담을 키운다. 고금리 환경이...",
+      "link": "https://www.mk.co.kr/article/12072666",
+      "naver": "https://n.news.naver.com/mnews/article/024/0000106201?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.3632,
+      "pubDate": "2026-06-13T00:01:00+00:00"
+    },
+    {
+      "title": "[주간분양] 지난주 분양 아파트 순위 내 마감 '0'",
+      "desc": "13일 한국부동산원에 따르면 지난 8일부터 12일까지 전국에서 분양 및 공공지원민간임대 아파트와 오피스텔 5개 단지가 청약홈을 통해 입주자를 모집했다. 분양 아파트 결과를 보면 '강릉 성보필리오 더센트럴힐즈'와...",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5030066",
+      "naver": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5030066",
+      "host": "shinailbo.co.kr",
+      "score": 2.3406,
+      "pubDate": "2026-06-12T23:12:00+00:00"
+    },
+    {
+      "title": "선거 끝나자 분양시장 재시동…6월 공급물량 '최대'",
+      "desc": "13일 부동산R114에 따르면 6월 분양 물량은 총 3만5202가구(일반 2만2959가구, 6월 청약하는 기분양 물량 포함)... 부동산 업계 한 전문가는 \"금리와 분양가 부담이 이어지는 상황에서도 입지와 상품 경쟁력을 갖춘 신규...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026061210215529489",
+      "naver": "https://www.newsway.co.kr/news/view?ud=2026061210215529489",
+      "host": "newsway.co.kr",
+      "score": 2.3195,
+      "pubDate": "2026-06-12T22:16:00+00:00"
+    },
+    {
+      "title": "[부동산캘린더] 다음주 수도권 공급 가뭄 속…지방 대단지 분양",
+      "desc": "13일 부동산 전문 리서치업체 리얼투데이에 따르면 6월 셋째 주에는 전국 10곳에서 총 3910가구(오피스텔·공공지원 민간임대·통합공공임대·조합원 취소분 포함, 행복주택 제외)의 청약 접수가 진행된다....",
+      "link": "https://dealsite.co.kr/articles/163514",
+      "naver": "https://dealsite.co.kr/articles/163514",
+      "host": "dealsite.co.kr",
+      "score": 2.3176,
+      "pubDate": "2026-06-12T23:02:00+00:00"
+    },
+    {
+      "title": "[분양캘린더] 다음 주 전국 3606가구 분양…평택·천안·부산 공급",
+      "desc": "13일 부동산114에 따르면 6월 셋째 주 청약시장에서는 경기 평택시 '평택고덕우미린프레스티지', 충남 천안시 '백석시그니처자이 1·2단지', 부산 수영구 '알티에로광안' 등이 청약에 나선다. 우미건설 컨소시엄은 경기...",
+      "link": "https://www.news1.kr/realestate/general/6195855",
+      "naver": "https://n.news.naver.com/mnews/article/421/0009001588?sid=101",
+      "host": "news1.kr",
+      "score": 2.313,
+      "pubDate": "2026-06-12T23:00:00+00:00"
+    },
+    {
+      "title": "마통 한도도 줄어든다고?[오늘의 머니 팁]",
+      "desc": "제한하거나 금리를 높이는 방식입니다. 갑작스러운 지출에 대비해 신용대출을 고민하고 계셨다면 은행마다... 일부 은행은 대출 금리를 올립니다. NH농협은행은 15일부터 신규 신용대출 우대금리를 0.1%포인트 낮출...",
+      "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02378006645481392",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006305000?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.2596,
+      "pubDate": "2026-06-12T22:11:00+00:00"
+    },
+    {
+      "title": "“기다린 보람 있었다”…스페이스X, 나스닥 데뷔 첫날 19%↑",
+      "desc": "스페이스X는 이번 기업공개(IPO) 과정에서 총 3500억달러 규모의 청약 자금을 끌어모았다. 기관투자자 주문이 2500억달러, 개인투자자 주문이 1000억달러에 달해 미국 증시 최대 흥행 기업공개(IPO) 가운데 하나로...",
+      "link": "https://www.mk.co.kr/article/12073233",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005693265?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.235,
+      "pubDate": "2026-06-12T21:31:00+00:00"
+    },
+    {
+      "title": "중동 리스크 완화에 3대 지수 동반 상승…스페이스X IPO도 흥행 [뉴욕증...",
+      "desc": "10년물 국채 금리는 전 거래일보다 2bp(1bp=0.01%포인트) 오른 연 4.48%를 기록했다. 이날 발표된 6월 미시간대 소비자 심리지수 예비치가 48.9로 전월 역대 최저치에서 반등한 점도 금리 상승 요인으로 작용했다. 달러...",
+      "link": "https://www.hankyung.com/article/2026061341067",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005298326?sid=101",
+      "host": "hankyung.com",
+      "score": 2.2296,
+      "pubDate": "2026-06-12T22:21:00+00:00"
+    },
+    {
+      "title": "주담대 금리 상단 3년 8개월만 최고…영끌·빚투족 '비상' [많이 본 경제...",
+      "desc": "기사에 언급된 주택담보대출과 신용대출 외에 전세대출 금리도 오름세입니다. 지난 10일 시중은행 전세대출 금리는 2년 만기 기준 4.11%에서 6.71%로, 상단이 7%대에 가까워지고 있는데요. 지난달 말과 비교하면 상단이 0.34...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000315985?division=NAVER",
+      "naver": "https://n.news.naver.com/mnews/article/374/0000515818?sid=101",
+      "host": "biz.sbs.co.kr",
+      "score": 2.213,
+      "pubDate": "2026-06-12T23:00:00+00:00"
+    },
+    {
+      "title": "[분양 캘린더] 6월 셋째 주 ‘알티에로광안’ 등 3606가구 분양",
+      "desc": "◇청약 단지(7곳) 부동산 정보업체 부동산114에 따르면 6월 셋째 주에는 전국에서 7개 단지 3606가구(일반분양 3088가구)가 분양에 나선다. 16일에는 경기 남양주시 ‘다산지금A3(통합공공임대)’, 평택시...",
+      "link": "https://www.etoday.co.kr/news/view/2593099",
+      "naver": "https://www.etoday.co.kr/news/view/2593099",
+      "host": "etoday.co.kr",
+      "score": 2.1921,
+      "pubDate": "2026-06-12T22:02:00+00:00"
+    },
+    {
+      "title": "'평택고덕우미린프레스티지' 등 3606가구 분양예정[분양캘린더]",
+      "desc": "13일 부동산R114에 따르면, 청약 일정은 경기 평택시 고덕동 '평택고덕우미린프레스티지', 충남 천안시 백석동 '백석시그니처자이1·2단지', 부산 수영구 민락동 '알티에로광안' 등에서 진행된다. 견본주택은 경남...",
+      "link": "https://www.newsis.com/view/NISX20260612_0003667059",
+      "naver": "https://n.news.naver.com/mnews/article/003/0014004358?sid=101",
+      "host": "newsis.com",
+      "score": 2.1882,
+      "pubDate": "2026-06-12T22:00:00+00:00"
+    },
+    {
+      "title": "다음주 금융당국 일정",
+      "desc": "활용 금리인하요구서비스” 등 혁신금융 서비스 3건 신규 지정 의결(배포시) △18일(목) -‘26.4월말 국내은행의 원화대출 연체율 현황(잠정)(06:00) -2025년 개인연금저축 투자 현황 관련주요 통계(12:00)...",
+      "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02161526645481392",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006304990?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.1867,
+      "pubDate": "2026-06-12T21:32:00+00:00"
+    },
+    {
+      "title": "“이자도 못 받는다” 5대은행 ‘깡통대출’ 5조6000억원",
+      "desc": "향후 기준금리 인상 가능성도 변수다. 금리가 오를 경우 취약 차주의 원리금 상환 부담은 더욱 커질 수밖에 없다. 경기 회복세가 더딘 상황에서 자영업자와 중소기업이 고금리 부담을 견디지 못할 경우 무수익여신 규모...",
+      "link": "https://economist.co.kr/article/view/ecn202606100047",
+      "naver": "https://n.news.naver.com/mnews/article/243/0000099080?sid=101",
+      "host": "economist.co.kr",
+      "score": 2.1632,
+      "pubDate": "2026-06-13T00:01:00+00:00"
+    },
+    {
+      "title": "시중은행 가계대출, 이달 들어 벌써 2.8조↑…'빚투'에 신용대출 1.6조 ...",
+      "desc": "NH농협은행은 주담대 우대금리를 0.2%포인트 축소했다. 신용대출 우대금리는 0.1%포인트가량 줄였다. 우대금리 축소 조치로 대출금리 하단이 상향 조정된다. 농협은행은 주택담보대출의 MCG 모기지보험 가입도...",
+      "link": "https://www.newsis.com/view/NISX20260612_0003667332",
+      "naver": "https://n.news.naver.com/mnews/article/003/0014004404?sid=101",
+      "host": "newsis.com",
+      "score": 2.1605,
+      "pubDate": "2026-06-13T00:00:00+00:00"
+    },
+    {
+      "title": "머스크, 사상 첫 ‘조만장자’ 등극...스페이스X, 단숨에 美 시총 6위",
+      "desc": "스페이스X는 앞서 지난 10일 공모주 청약에서도 3500억 달러의 증거금을 끌어모으며 흥행에 성공한 바 있다. 이 가운데 기관투자가 주문액이 2500억 달러, 개인투자자 주문이 1000억 달러에 달했다. 스페이스X는 이번...",
+      "link": "https://www.sedaily.com/article/20055306?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004630705?sid=104",
+      "host": "sedaily.com",
+      "score": 2.135,
+      "pubDate": "2026-06-12T21:31:00+00:00"
     }
   ]
 }
