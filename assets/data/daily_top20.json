@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-07-10T23:52:48.715652Z",
+  "generatedAt": "2026-07-11T23:47:21.374048Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "'시세차익 18억'…안유진이 강남 로또 아파트 뚫은 방법 [연수원]",
-      "desc": "아이돌 그룹 아이브(IVE) 멤버 안유진이 서울 방배동 '디에이치방배' 청약에 당첨된 것으로 알려졌습니다. 이 단지 분양가는 인근 시세 대비 약 18억원 저렴합니다. 이 같은 '로또 분양'에 당첨되기 위해 청약 가점이...",
-      "link": "https://www.hankyung.com/article/202607108832i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005308822?sid=101",
+      "title": "7월부터 번지는 대출 한파…금융당국 총량 규제에 은행권 빗장",
+      "desc": "우리은행은 지난 7월 1일 신규 접수분부터 ‘우리아파트론’ 5년 고정형 금리를 최대 1.1%포인트 상향... 집값·전셋값 동반 상승에 불안 심리 자극…실수요자 자금 조달 비상 서울 아파트 가격과 전세 가격이 동시에...",
+      "link": "https://economist.co.kr/article/view/ecn202607070044",
+      "naver": "https://n.news.naver.com/mnews/article/243/0000100331?sid=101",
+      "host": "economist.co.kr",
+      "score": 2.477,
+      "pubDate": "2026-07-11T23:00:00+00:00"
+    },
+    {
+      "title": "수도권 내 규제지역 확대, 분양시장서 비규제지역으로 수요 이동",
+      "desc": "부동산 업계 한 관계자는 “청약 자격이나 초기 자금 등을 고려하면 규제지역보단 서울 접근성과 인프라를 갖춘 비규제지역으로 관심을 돌리는 수요자들이 있을 것”이라며 “남은 비규제지역 중 대표적으로 고양시...",
+      "link": "https://www.dailian.co.kr/news/view/1665742/?sc=Naver",
+      "naver": "https://n.news.naver.com/mnews/article/119/0003110435?sid=101",
+      "host": "dailian.co.kr",
+      "score": 2.4296,
+      "pubDate": "2026-07-11T22:40:00+00:00"
+    },
+    {
+      "title": "\"공무원 연금 받아도 빠듯\"…집 한 채 75세 부부의 노후 해법",
+      "desc": "나머지 1억원은 리츠 등 부동산 간접투자 상품에 배분할 수 있다. 직접 상가나 오피스텔을 사지 않고도 임대수익 성격의 수입을 얻을 수 있지만, 금리와 부동산 경기 영향을 받는 만큼 비중은 10% 안팎으로 제한하는 게...",
+      "link": "https://www.hankyung.com/article/202607034049i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005308899?sid=101",
       "host": "hankyung.com",
-      "score": 2.8333,
-      "pubDate": "2026-07-10T22:01:00+00:00"
+      "score": 2.3794,
+      "pubDate": "2026-07-11T23:01:00+00:00"
     },
     {
-      "title": "[머니플로우] 개미들 '실탄' 떨어졌나…투자자예탁금 100조원도 '위태'",
-      "desc": "유안타증권 김용구 연구원은 \"개인 투자자가 시장을 지지하고는 있으나 한국은행 금리 인상, 정부의 대출 규제 및 예탁금 감소 등을 고려할 때 무한정 개인의 순매수 여력이 확장될 수는 없다고 판단한다\"고...",
-      "link": "https://www.yna.co.kr/view/AKR20260710123900008?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016188516?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.7639,
-      "pubDate": "2026-07-10T23:00:00+00:00"
-    },
-    {
-      "title": "KB 주담대 한도 축소에 거래 현장 혼선…30대·신혼부부 직격탄[집슐랭...",
-      "desc": "이에 따라 주택 수요가 상대적으로 대출 규제를 덜 받는 청약시장이나 부동산 경매시장으로 이동하는 풍선... 남혁우 우리은행 부동산연구원은 “대출 의존도가 높은 서울 중하위 지역과 수도권 대부분 지역에서 거래가...",
-      "link": "https://www.sedaily.com/article/20066347?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004640492?sid=101",
-      "host": "sedaily.com",
-      "score": 2.7435,
-      "pubDate": "2026-07-10T22:06:00+00:00"
-    },
-    {
-      "title": "기업 투자 몰리는 호남권…첨단3지구 청약·분양권 시장 활기[코주부]",
-      "desc": "전남광주통합특별시 역시 반도체 산업 육성 기대감이 부동산시장에 반영되기 시작했다. 주택산업연구원이 발표한 7월 분양전망지수에서 광주는 전월보다 32.6포인트 오른 88.2를 기록했다. 전국에서 가장 큰 상승...",
-      "link": "https://www.sedaily.com/article/20066348?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004640493?sid=101",
-      "host": "sedaily.com",
-      "score": 2.6435,
-      "pubDate": "2026-07-10T22:06:00+00:00"
-    },
-    {
-      "title": "[부동산캘린더] 내주 청약 단지 3곳 그쳐…견본주택은 11곳 개관",
-      "desc": "11일 부동산114에 따르면 7월 셋째 주에는 전국 3개 단지에서 총 753가구(일반분양 146가구)가 분양을 시작한다. 14일에 1순위 청약을 받는 서울 동작구 상도동 '동작센트럴동문디이스트'는 전체 301가구 중 72가구가...",
-      "link": "https://www.yna.co.kr/view/AKR20260710134000003?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016188464?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.619,
-      "pubDate": "2026-07-10T21:00:00+00:00"
-    },
-    {
-      "title": "분양시장 '옥석 가리기' 심화…역세권·브랜드·직주근접 갖춘 단지에 ...",
-      "desc": "한국부동산원 청약홈 자료를 분석한 결과, 올해 상반기 서울을 제외한 전국에서 청약을 받은 110개 단지... 부동산업계는 초기 자금 부담을 낮추는 계약 조건이나 금융 지원 여부도 실수요자들의 선택에 영향을 미치고...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=355802",
-      "naver": "http://www.biztribune.co.kr/news/articleView.html?idxno=355802",
-      "host": "biztribune.co.kr",
-      "score": 2.4183,
-      "pubDate": "2026-07-10T23:22:00+00:00"
-    },
-    {
-      "title": "[분양캘린더] 동작센트럴동문디이스트 청약…다음 주 전국 3곳 분양",
-      "desc": "11일 부동산114에 따르면 7월 셋째 주에는 전국 3개 단지, 총 753가구(일반분양 146가구)가 분양을 시작한다. 청약은 서울 동작구 '동작센트럴동문디이스트', 울산 울주군 '센텀엘카사', 경기 군포시 '군포대야미 A1...",
-      "link": "https://www.news1.kr/realestate/general/6224678",
-      "naver": "https://n.news.naver.com/mnews/article/421/0009053423?sid=101",
-      "host": "news1.kr",
-      "score": 2.3639,
-      "pubDate": "2026-07-10T23:00:00+00:00"
-    },
-    {
-      "title": "개미들 ‘실탄’ 바닥나나… 예탁금 107조, 5개월 만에 최저",
-      "desc": "유안타증권 김용구 연구원은 “개인 투자자가 시장을 지지하고는 있지만 한국은행 기준금리 인상과 정부 대출 규제, 예탁금 감소 등을 고려하면 개인 순매수 여력이 무한정 확대되기는 어렵다”고 분석했다....",
-      "link": "https://www.kbmaeil.com/article/20260711500042",
-      "naver": "https://www.kbmaeil.com/article/20260711500042",
-      "host": "kbmaeil.com",
-      "score": 2.36,
-      "pubDate": "2026-07-10T23:38:00+00:00"
-    },
-    {
-      "title": "혼돈의 코스피, 증시 대기자금 110조 밑으로 '추락'",
-      "desc": "김용구 유안타증권 연구원은 \"개인 투자자가 시장을 지지하고는 있으나 한은 금리 인상, 정부 대출 규제 및 예탁금 감소 등을 고려할 때 무한정 순매수 여력이 확장될 수는 없다\"고 진단했다. 한편 주식 투자를 위해...",
-      "link": "https://www.ajunews.com/view/20260711081910877",
-      "naver": "https://www.ajunews.com/view/20260711081910877",
-      "host": "ajunews.com",
-      "score": 2.3389,
-      "pubDate": "2026-07-10T23:30:00+00:00"
-    },
-    {
-      "title": "코스피 급락에 투자 예탁금 110조원 아래로, 개인 매수 여력 감소",
-      "desc": "유안타증권 김용구 연구원은 한국은행의 금리 인상, 정부의 대출 규제, 예탁금 감소 등을 감안하면 개인의 매수 여력이 계속 무한정 확대되기는 어렵다고 분석했다. 시장 심리를 보여주는 다른 지표도 다소...",
-      "link": "https://www.tokenpost.kr/news/market/376706",
-      "naver": "https://www.tokenpost.kr/news/market/376706",
-      "host": "tokenpost.kr",
-      "score": 2.3234,
-      "pubDate": "2026-07-10T23:24:00+00:00"
-    },
-    {
-      "title": "\"이름도 몰랐는데\"…SK하이닉스 美 상장에 외신 '화들짝'",
-      "desc": "공모에는 500개가 넘는 기관이 참여했고 청약 경쟁률은 7대1을 기록했다. 최근 증시 변동성에도 글로벌 투자자들의 AI 인프라 수요가 여전히 강하다는 신호로 받아들여졌다. 외신들은 동시에 과열 가능성도 경고했다....",
-      "link": "https://www.hankyung.com/article/2026071088397",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005308819?sid=101",
+      "title": "피크아웃 공포 덮친 반도체…증권가는 \"지금이 기회\" [주간전망]",
+      "desc": "이 경우 미 중앙은행(Fed)의 금리 인상 우려가 완화되며 채권 금리와 달러화가 하향 안정될 수 있다는 분석이다. 또 이번주부터 시작되는 2분기 실적 시즌도 시장 분위기를 반전시킬 수 있는 이벤트로 지목된다. 특히...",
+      "link": "https://www.hankyung.com/article/2026071080506",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005308900?sid=101",
       "host": "hankyung.com",
-      "score": 2.3207,
-      "pubDate": "2026-07-10T21:01:00+00:00"
+      "score": 2.3794,
+      "pubDate": "2026-07-11T23:01:00+00:00"
     },
     {
-      "title": "\"주식할 맛 안 난다\"…개미들 지갑 닫자 예탁금 107조 추락",
-      "desc": "유안타증권 김용구 연구원은 \"개인 투자자들이 시장을 지탱하고 있지만 기준금리 인상과 대출 규제, 예탁금 감소 등을 고려하면 개인의 매수 여력이 무한정 확대되기는 어려울 것\"이라고 진단했다. 공매도 투자...",
-      "link": "https://www.kizmom.com/news/articleView.html?idxno=111497",
-      "naver": "https://www.kizmom.com/news/articleView.html?idxno=111497",
-      "host": "kizmom.com",
-      "score": 2.3031,
-      "pubDate": "2026-07-10T23:16:00+00:00"
+      "title": "이미 계약서에 도장까지 찍었는데... 이사철 앞두고 날벼락 맞은 사람들",
+      "desc": "12일 금융권에 따르면 하나은행은 지난 10일부터 오는 9월 실행되는 주택담보대출과 전세자금대출에 한해... 다만 이주비·중도금·잔금 등 집단대출과 정책성 자금인 기금대출·보금자리론, 전세사기 피해자의 주택...",
+      "link": "https://www.wikitree.co.kr/articles/1145975",
+      "naver": "https://www.wikitree.co.kr/articles/1145975",
+      "host": "wikitree.co.kr",
+      "score": 2.3382,
+      "pubDate": "2026-07-11T21:58:00+00:00"
     },
     {
-      "title": "KB '수성' vs 신한 '추격'…리딩금융 승부처는 결국 '비은행'",
-      "desc": "정부의 가계부채 관리 강화와 기준금리 하락으로 은행의 이자이익 증가세가 둔화할 가능성이 큰 만큼... 은행은 대출 규제와 자본 규제 강화, 금리 변동 등의 영향으로 실적 차별화에 한계가 있는 반면, 비은행은...",
-      "link": "https://www.ajunews.com/view/20260710131351214",
-      "naver": "https://www.ajunews.com/view/20260710131351214",
-      "host": "ajunews.com",
-      "score": 2.2687,
-      "pubDate": "2026-07-10T23:02:00+00:00"
+      "title": "“3대가 떠난 가족여행, 웃으면서 돌아왔다고?”…크루즈의 반전 매력,...",
+      "desc": "지난달 19~25일 운항을 마친 모두투어의 첫 전세 크루즈 투어가 대표적이다. 부산과 일본 홋카이도 일대를 오간 6박7일 여정 동안 탑승객들은 각자 취향과 체력에 맞춰 크루즈가 제공하는 수십 가지 콘텐츠를 골라 즐겼다....",
+      "link": "https://www.mk.co.kr/article/12096275",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005706059?sid=103",
+      "host": "mk.co.kr",
+      "score": 2.2245,
+      "pubDate": "2026-07-11T23:19:00+00:00"
     },
     {
-      "title": "[분양 캘린더] 7월 셋째 주 ‘동작센트럴동문디이스트’ 등 753가구 분양",
-      "desc": "◇청약 단지(3곳) 부동산 정보업체 부동산114에 따르면 7월 셋째 주에는 전국 3개 단지 753가구(일반분양 146가구)가 분양에 나선다. 14일에는 서울 동작구 ‘동작센트럴동문디이스트’, 울산 울주군 ‘센텀엘카사’...",
-      "link": "https://www.etoday.co.kr/news/view/2602654",
-      "naver": "https://www.etoday.co.kr/news/view/2602654",
-      "host": "etoday.co.kr",
-      "score": 2.2353,
-      "pubDate": "2026-07-10T22:02:00+00:00"
+      "title": "가계대출 '셧다운' 수순…5대 은행 3곳 연간 목표 초과",
+      "desc": "12일 금융권에 따르면, 하나은행은 지난 10일부터 9월 실행되는 주택담보대출과 전세자금대출에 한해 대출모집인을 통한 접수를 중단했다. 지난 2일 8월 실행분 접수를 중단한 데 이어 불과 일주일여 지난 시점에 9월...",
+      "link": "https://www.yna.co.kr/view/AKR20260711044200002?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016189096?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.2129,
+      "pubDate": "2026-07-11T20:51:00+00:00"
     },
     {
-      "title": "내주 청약단지 3곳 그쳐…모델하우스는 11곳 개관",
-      "desc": "11일 부동산114에 따르면 7월 셋째 주에는 전국 3개 단지에서 총 753가구(일반분양 146가구)가 분양을 시작한다. 14일에 1순위 청약을 받는 서울 동작구 상도동 '동작센트럴동문디이스트'는 전체 301가구 중 72가구가...",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=751015",
-      "naver": "https://www.slist.kr/news/articleView.html?idxno=751015",
-      "host": "slist.kr",
-      "score": 2.2152,
-      "pubDate": "2026-07-10T21:52:00+00:00"
+      "title": "[분양캘린더] 7월 2주차 전국 청약 3곳…753가구 공급",
+      "desc": "12일 부동산R114에 따르면 7월 셋째 주 전국 3개 단지에서 총 753가구(일반분양 146가구)가 분양에 나선다. 동문건설은 서울 동작구 상도동 363-10번지 일원에 공급하는 '동작센트럴동문디이스트'의 청약을 진행한다. 지하...",
+      "link": "https://www.mt.co.kr/estate/2026/07/12/2026071017023844289",
+      "naver": "https://n.news.naver.com/mnews/article/008/0005384633?sid=101",
+      "host": "mt.co.kr",
+      "score": 2.183,
+      "pubDate": "2026-07-11T21:30:00+00:00"
     },
     {
-      "title": "주담대 규제 강화 속 서울 외곽으로 몰린 매수세… 중랑구 거래 71% 급증",
-      "desc": "서울부동산정보광장에 따르면 지난해 6월부터 올해 6월까지 체결된 매매 계약을 기준으로 강서구 아파트... 남혁우 우리은행 부동산연구원은 “서울 외곽에서는 정책 대출을 활용할 수 있는 6억원 전후 아파트와...",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/07/11/PGKWHKWBUREFBLQ42N5WBQK72E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001178431?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.1207,
-      "pubDate": "2026-07-10T21:01:00+00:00"
+      "title": "신한證, ‘신한 Light’ 펀드 출시…선취 판매수수료 ‘제로’",
+      "desc": "ELS와 채권 상품도 판매 비용을 줄여 고객에게 제공되는 쿠폰과 금리 조건을 높인 온라인 전용 상품을 매주 2~3개씩 선보인다. 하반기에는 대상 상품을 확대해 고객 선택의 폭을 넓힐 예정이다. 고객들은 신한 SOL증권...",
+      "link": "https://www.sedaily.com/article/20066540?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004640613?sid=101",
+      "host": "sedaily.com",
+      "score": 2.177,
+      "pubDate": "2026-07-11T23:00:00+00:00"
     },
     {
-      "title": "\"청약 아니면 답 없다\"…3040 내 집 마련 실수요 청약 '쏠림'",
-      "desc": "한국부동산원에 따르면 올해 1분기 수도권 청약 당첨자 7493명 가운데 3040세대는 6497명으로 전체의 86.71%를... 부동산 리서치업체 리얼투데이가 주택도시보증공사(HUG)의 민간 아파트 분양가격 동향을 분석한 결과에...",
-      "link": "https://www.newsis.com/view/NISX20260710_0003704208",
-      "naver": "https://n.news.naver.com/mnews/article/003/0014060229?sid=101",
+      "title": "신한투자증권, 선취 판매수수료 ‘0원’인 온라인 전용 펀드 ‘신한 라...",
+      "desc": "신한투자증권은 주가연계증권(ELS)과 채권 상품들에도 비용을 낮추고 금리 조건은 높인 온라인 전용 상품을 매주 2~3개씩 선보일 예정이다. 권영대 신한투자증권 투자상품본부장은 “고객이 금융 상품 선택 시 가장...",
+      "link": "https://www.chosun.com/economy/money/2026/07/12/EHVIMFFM7RASTMILOYJ6ZLQM3Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver": "https://n.news.naver.com/mnews/article/023/0003987084?sid=101",
+      "host": "chosun.com",
+      "score": 2.1505,
+      "pubDate": "2026-07-11T23:29:00+00:00"
+    },
+    {
+      "title": "[분양일정]동작센트럴동문디이스트外 753가구 청약",
+      "desc": "지역에서 청약 일정이 이어진다. 전국에서 분양에 나서는 단지는 3곳으로, 일반분양 물량은 146가구에 그친다. 부동산114에 따르면 7월 셋째 주에는 전국 3개 단지에서 총 753가구(일반분양 146가구)가 청약을 진행한다....",
+      "link": "http://www.kjdaily.com/article.php?aid=1783803806682145227",
+      "naver": "http://www.kjdaily.com/article.php?aid=1783803806682145227",
+      "host": "kjdaily.com",
+      "score": 2.1389,
+      "pubDate": "2026-07-11T21:06:00+00:00"
+    },
+    {
+      "title": "[주간 '분양현장']전국 3개 단지·753가구 청약…견본주택 11곳 개관",
+      "desc": "12일 한국부동산원 청약홈에 따르면 7월 셋째 주 서울 동작구 상도동 '동작센트럴동문디이스트', 울산 울주군 온양읍 '센텀엘카사' 등 3곳에서 청약을 진행한다. 견본주택은 강원 춘천시 장학리 '춘천리버뷰아이파크...",
+      "link": "https://www.sidae.com/article/2026071017485487893",
+      "naver": "https://n.news.naver.com/mnews/article/417/0001151284?sid=101",
+      "host": "sidae.com",
+      "score": 2.1372,
+      "pubDate": "2026-07-11T21:05:00+00:00"
+    },
+    {
+      "title": "신한투자증권, 온라인 펀드 선취수수료 0원…‘라이트 상품’ 출시",
+      "desc": "판매 관련 비용을 줄여 고객에게 제공되는 쿠폰과 금리 조건을 높인 온라인 전용 상품을 매주 2~3개씩 선보일 예정이다. 하반기에는 대상 상품을 추가로 확대해 선택지를 넓힌다는 방침이다. 고객은 신한 SOL증권 앱 내...",
+      "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01157846645513864",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006328209?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.1319,
+      "pubDate": "2026-07-11T23:02:00+00:00"
+    },
+    {
+      "title": "[시험대 오른 경찰] ① 해방 후 70년 지속된 검경 수사권 갈등 마침표 찍...",
+      "desc": "1990년대 들어 대검찰청 중앙수사부는 수서지구 택지 특혜 분양 사건과 동화은행장 비자금 사건, 슬롯머신 비리 사건, 덕산그룹 부도 사건 등 대형 사건을 잇달아 수사했다. 1995년에는 노태우·전두환 전 대통령을 재판에...",
+      "link": "https://www.yna.co.kr/view/AKR20260711022200004?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016189109?sid=102",
+      "host": "yna.co.kr",
+      "score": 2.1284,
+      "pubDate": "2026-07-11T21:00:00+00:00"
+    },
+    {
+      "title": "버티던 집주인들 “더는 못 버텨”…서울 경매 넘어간 집, 반년 새 무려",
+      "desc": "과거 저금리 시기에 대출을 최대한 끌어써 집을 마련한 집주인들이 이후 금융 비용 부담과 임대시장 둔화를 견디지 못하면서 아파트보다 회복이 느린 비아파트·중저가 주택에서 이런 사례가 두드러졌다는...",
+      "link": "https://www.sedaily.com/article/20066573?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004640601?sid=101",
+      "host": "sedaily.com",
+      "score": 2.0907,
+      "pubDate": "2026-07-11T19:31:00+00:00"
+    },
+    {
+      "title": "\"목표치 넘긴 물가\"…한은, 이번주 기준금리 인상 전망",
+      "desc": "서울 아파트 가격은 공급 부족 우려가 지속되며 가격 상승 기대가 커지고, 매물까지 줄며 오름세가 계속되고 있다. 주택 관련 대출이 견조한 증가세를 지속하고, 기타대출도 큰 폭으로 늘며 은행 가계대출도 잡히지...",
+      "link": "https://www.newsis.com/view/NISX20260710_0003704724",
+      "naver": "https://n.news.naver.com/mnews/article/003/0014061040?sid=101",
       "host": "newsis.com",
-      "score": 2.119,
-      "pubDate": "2026-07-10T21:00:00+00:00"
+      "score": 2.077,
+      "pubDate": "2026-07-11T23:00:00+00:00"
     },
     {
-      "title": "[분양캘린더] 상도동 동작센트럴동문디이스트 등 753가구 분양",
-      "desc": "11일 부동산114에 따르면 7월 셋째 주에는 전국 3개 단지 총 753가구(일반분양 146가구)가 분양을 시작한다. 서울 동작구 상도동 동작센트럴동문디이스트와 울산 울주군 온양읍 센텀엘카사 등 3곳에서 청약을 진행한다....",
-      "link": "https://www.newspim.com/news/view/20260710001329",
-      "naver": "https://www.newspim.com/news/view/20260710001329",
-      "host": "newspim.com",
-      "score": 2.119,
-      "pubDate": "2026-07-10T21:00:00+00:00"
+      "title": "홈플러스 ‘운명의 일주일’ 회생 가능성 여전히 ‘안갯속’",
+      "desc": "대출 금리를 최대 1.0%포인트(p) 우대한다고 지난 8일 밝혔다. KB국민은행은 홈플러스와 거래하는 중소기업·소상공인에 최대 5억원 운전자금 대출, 할인 금리 제공, 대출 만기 연장 등을 지원하기로 했다. 하나은행도...",
+      "link": "https://www.ekn.kr/web/view.php?key=20260711020561546",
+      "naver": "https://www.ekn.kr/web/view.php?key=20260711020561546",
+      "host": "ekn.kr",
+      "score": 2.077,
+      "pubDate": "2026-07-11T23:00:00+00:00"
     },
     {
-      "title": "3년 6개월 만의 금리인상 유력…'추가 인상' 신호 나오나[한은 미리보기...",
-      "desc": "한국은행이 다음주 금융통화위원회(금통위)를 열고 기준금리를 결정한다. 시장에서는 3년 6개월 만의 기준금리 인상이 유력한 가운데, 관심은 7월 인상 자체보다 연내 추가 인상 여부와 긴축 속도에 쏠리고 있다....",
-      "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01758086645513536",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006327490?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.1187,
-      "pubDate": "2026-07-10T23:02:00+00:00"
+      "title": "셀트리온 '통큰 보상'에…삼성바이오 노조, 파업·소송 늪서 탄식",
+      "desc": "이외 특별격려금 500만원, 사내근로복지기금 250억원 추가 출연, 금리 연 1.5%이하 1억원 주택자금대출 도입, 교대수당 30만원 인상, 문화행사비 10억원 조성, 사내식당 운영 개선 등 복지조건도 덧붙였다. 문제는...",
+      "link": "http://www.inews24.com/view/1984529",
+      "naver": "https://n.news.naver.com/mnews/article/031/0001041461?sid=101",
+      "host": "inews24.com",
+      "score": 2.077,
+      "pubDate": "2026-07-11T23:00:00+00:00"
     },
     {
-      "title": "“신혼집 장만할 때 보탠 ‘축의금’, 비과세 대상 아닙니다”[세금GO]",
-      "desc": "혼주인 부모의 하객이 낸 축의금으로 자녀 부부가 부동산과 같은 자산을 구입한다면 증여세가 부과될 수 있다는 게 과세당국의 설명이다. 과세당국은 신랑·신부와의 친분 관계에 기초한 축의금은 신랑·신부의...",
-      "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01807286645513536",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006327499?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.0915,
-      "pubDate": "2026-07-10T23:31:00+00:00"
+      "title": "세무법인 직원이 세금 처리 대행하며 7억 횡령…징역 5년 선고",
+      "desc": "이 직원은 모 세무회계법인에서 부동산 세무 담당 직원으로 일하며 2019년 7월부터 2023년 3월 사이 의뢰인의... 그는 횡령한 돈을 자신의 부동산 개발 사업을 위해 유용하거나 생활비로 쓴 것으로 조사됐다. 또 횡령 사실을...",
+      "link": "https://www.donga.com/news/Society/article/all/20260712/134279730/1",
+      "naver": "https://n.news.naver.com/mnews/article/020/0003733211?sid=102",
+      "host": "donga.com",
+      "score": 2.0612,
+      "pubDate": "2026-07-11T23:33:00+00:00"
+    },
+    {
+      "title": "아이브 안유진, ‘40억’ 방배동 아파트 청약 당첨됐나…시세차익 보니",
+      "desc": "그룹 아이브 안유진이 ‘디에이치 방배’ 일반분양 추첨에 당첨된 것으로 알려졌다. 10일 분양업계에 따르면 안유진은 오는 9월 입주를 앞둔 ‘디에이치 방배’ 일반분양 추첨에 당첨됐다. 디에이치 방배는...",
+      "link": "https://www.mk.co.kr/article/12096064",
+      "naver": "https://m.entertain.naver.com/article/009/0005705982",
+      "host": "mk.co.kr",
+      "score": 2.0483,
+      "pubDate": "2026-07-11T05:36:00+00:00"
     }
   ]
 }
