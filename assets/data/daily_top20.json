@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-08-24T23:16:08.663751Z",
+  "generatedAt": "2026-08-25T23:18:19.927028Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "\"서울이 더 싼데?\"…'국평 16억' 부천 새 아파트 등장에 '술렁' [시장톡...",
-      "desc": "부천 국평도 16억원 시대 열렸다 25일 한국부동산원 청약홈에 따르면 경기 부천시 원미구 상동 '상동역 롯데캐슬 시그니처'와 서울 서대문구 홍은동 '쌍용 더 플래티넘 서대문'이 전날 특별공급을 시작으로 분양...",
-      "link": "https://www.hankyung.com/article/2026082479446",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005324248?sid=101",
+      "title": "\"이 동네가 16억?\" 분양가에 화들짝…결국 '청약 미달'났다 [주간이집]",
+      "desc": "부동산 시장은 정부의 정책·규제 영향을 크게 받는 시장이지만 결국 수요의 힘이 작동하기 마련입니다. 시장경제는 사람들이 각자의 목적을 위해 거래하는 과정에서 '보이지 않는 손', 즉 수요와 공급에 따른 가격...",
+      "link": "https://www.hankyung.com/article/2026082513246",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005324725?sid=101",
       "host": "hankyung.com",
-      "score": 2.8469,
-      "pubDate": "2026-08-24T21:31:00+00:00"
+      "score": 2.9424,
+      "pubDate": "2026-08-25T21:31:00+00:00"
     },
     {
-      "title": "'제일풍경채 첨단3지구 A6블록', 8월 25일 1순위 청약 개시",
-      "desc": "이처럼 해당 단지는 산업단지 배후 주거지로서의 가치와 첨단3지구에서 마지막으로 분양가 상한제가 적용되는 민간분양 아파트라는 점에서 관심을 받고 있다. 청약은 거주지 관계없이 전국에서 가능하며...",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250003&t=NN",
-      "naver": "https://n.news.naver.com/mnews/article/215/0001263465?sid=101",
-      "host": "wowtv.co.kr",
-      "score": 2.4564,
-      "pubDate": "2026-08-24T23:00:00+00:00"
+      "title": "대출 총량 늘리자 집단 대출만 '숨통'…일반 대출 수요자 '울상'",
+      "desc": "정부의 가계 대출 규제로 입주를 앞둔 아파트 청약 당첨자들이 잔금 대출이 어려워지자, 정부가 부랴부랴... [리포트] 얼마전까지 잔금 대출이 나오지 않았던 경기도 수원의 한 신축 아파트 단지. 정부가 대출총량을...",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690035.html",
+      "naver": "https://n.news.naver.com/mnews/article/448/0000635670?sid=004",
+      "host": "news.tvchosun.com",
+      "score": 2.5801,
+      "pubDate": "2026-08-25T23:11:00+00:00"
     },
     {
-      "title": "\"유명브랜드 입점 확정\"…거북섬 상가 800억대 사기 사건 송치",
-      "desc": "경찰, 허위·과대 광고로 판단…\"200억 상당 부당이득 챙겨\" 경기 시흥시 거북섬의 대형 수변 상가 분양... 모 분양시행사 운영자 A씨를 검찰에 불구속 송치했다고 25일 밝혔다. A씨는 2021년 1월부터 2022년 8월까지 시흥시...",
-      "link": "https://www.yna.co.kr/view/AKR20260824144800061?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016268283?sid=102",
-      "host": "yna.co.kr",
-      "score": 2.4564,
-      "pubDate": "2026-08-24T23:00:00+00:00"
-    },
-    {
-      "title": "[8.13 부동산금융대책] 전세사기로 막힌 비아파트 시장, 청년 대출부터...",
-      "desc": "24일 건설·부동산 업계에 따르면 정부는 8·13 부동산금융대책을 통해 비아파트 청년 수요자를 대상으로 한 정책금융을 확대하겠다는 계획이다. 청년미래보금자리론은 생애 최초로 주택을 구입하는 만 39세 이하 청년...",
-      "link": "https://dealsite.co.kr/articles/167641",
-      "naver": "https://dealsite.co.kr/articles/167641",
-      "host": "dealsite.co.kr",
-      "score": 2.4141,
-      "pubDate": "2026-08-24T22:02:00+00:00"
-    },
-    {
-      "title": "'대구 3위' 건설사도 결국 못 버텼다…지방 건설업계 '초긴장'",
-      "desc": "대출금리 상승과 분양시장 침체로 대구 수성구 사월동 공동주택 사업에서도 피해가 발생했다. 여기에 신탁사와 금융권이 담보를 이유로 회사 현금성 자산을 동결하면서 일시적 유동성 위기가 커졌다. 지난 3월에는 대구...",
-      "link": "https://www.hankyung.com/article/2026082498267",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005324218?sid=101",
+      "title": "첫 집으로 이런 집 사면 큰일납니다 | 연수원",
+      "desc": "내년 1월부터 만 39세 이하가 4억 이하 비아파트를 구입할 때 받을 수 있는 정책 대출 '청년미래보금자리론'이 신설됩니다. 1인 가구나 사회초년생이 월세 낼 돈으로 자가를 마련할 수 있도록 지원하겠다는 취지입니다....",
+      "link": "https://www.hankyung.com/article/202608262550i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005324728?sid=004",
       "host": "hankyung.com",
-      "score": 2.3852,
-      "pubDate": "2026-08-24T13:09:00+00:00"
+      "score": 2.5424,
+      "pubDate": "2026-08-25T21:31:00+00:00"
     },
     {
-      "title": "[마켓뷰] 코스피, 전날 급락 딛고 저가매수 유입되나",
-      "desc": "나스닥·S&P500 하락…MSCI 한국 ETF·야간 선물도 내려 美 국채 금리·WTI 하락…\"반도체주 저가 매수세 유입... 미국 30년물 국채 금리는 4bp(1bp=0.01%포인트) 이상 하락해 5.23%, 10년 만기물은 3bp 이상 떨어진 4.70% 수준을...",
-      "link": "https://www.yna.co.kr/view/AKR20260825021400008?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016268288?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.3591,
-      "pubDate": "2026-08-24T23:01:00+00:00"
-    },
-    {
-      "title": "한국토지주택공사, 이달 양주회천 A-26블록 공공분양 792호 공급 실시",
-      "desc": "청약은 9월 중 특별공급과 일반공급 순으로 진행되며, 계약은 12월, 입주는 2029년 10월로 예정돼 있다. LH는 남양주시 별내동에 주택전시관을 열어 주택 정보와 분양 상담을 제공하고, 일부 주택형은 견본주택 관람도...",
-      "link": "https://www.hankookilbo.com/news/article/A2026082417170003537?did=NA",
-      "naver": "https://n.news.naver.com/mnews/article/469/0000949863?sid=101",
-      "host": "hankookilbo.com",
-      "score": 2.3558,
-      "pubDate": "2026-08-24T22:20:00+00:00"
-    },
-    {
-      "title": "분양전환 올해만 1.2만가구…‘자금조달 사각지대’ 확산 우려 [분양전...",
-      "desc": "공공임대주택 분양전환 물량이 잇따라 나오면서 향동에서 드러난 고금리 대출 문제가 다른 지역에서도 되풀이될 수 있다는 우려가 나온다. 분양전환 대상자들이 은행권과 정책금융에서 필요한 자금을 마련하지 못할...",
-      "link": "https://www.etoday.co.kr/news/view/2616536",
-      "naver": "https://www.etoday.co.kr/news/view/2616536",
-      "host": "etoday.co.kr",
-      "score": 2.2891,
-      "pubDate": "2026-08-24T21:02:00+00:00"
-    },
-    {
-      "title": "[단독] “LH 보증 법무사”라더니⋯분양전환 틈탄 고금리 대출 [분양전...",
-      "desc": "공공임대주택 분양전환 과정의 자금조달 사각지대를 파고든 고금리 대출 영업이 벌어지고 있는 것으로 확인됐다. 한국토지주택공사(LH)로부터 분양전환에 필요한 소유권 이전등기 등 서류 업무를 위탁받은 법무법인이...",
-      "link": "https://www.etoday.co.kr/news/view/2616528",
-      "naver": "https://www.etoday.co.kr/news/view/2616528",
-      "host": "etoday.co.kr",
-      "score": 2.2891,
-      "pubDate": "2026-08-24T21:02:00+00:00"
-    },
-    {
-      "title": "세금 피하니 대출 문턱… 노도강·금관구로 몰린 '반짝 온기', 다음 규제...",
-      "desc": "서울 아파트 시장이 8·3 세제개편 이후 지역별로 엇갈린 흐름을 보이고 있다. 강남·서초는 다주택자... 이후 강남구(-0.02%)와 서초구(-0.04%) 아파트값이 전주 대비 하락 전환했고, 압구정·청담·반포 등에서는 시세보다...",
-      "link": "https://www.betanews.net/article/view/beta202608240053",
-      "naver": "https://www.betanews.net/article/view/beta202608240053",
-      "host": "betanews.net",
-      "score": 2.2725,
-      "pubDate": "2026-08-24T23:06:00+00:00"
-    },
-    {
-      "title": "'반도체 센서 IC 팹리스' 해치텍, 코스닥 데뷔[오늘상장]",
-      "desc": "해치텍은 지난 12일부터 이틀에 걸쳐 일반 투자자를 대상으로 공모청약을 실시해 경쟁률 25.7309대 1(비례경쟁률 51.4618대 1)을 기록했다. 전체 공모주식의 25%에 해당하는 25만주에 대해 643만주가 청약 접수됐고...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=02374726645550928&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006357395?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2641,
-      "pubDate": "2026-08-24T22:02:00+00:00"
-    },
-    {
-      "title": "한국은행은 ‘주식’ 덜어냈다…자산구조 다변화, 핵심은 이 자산",
-      "desc": "한국은행 대차대조표 분석 예치금·RP매입·대출 확대 해외자산 운용수익 늘면서 누적 순이익 작년의... 외화증권 중심의 유가증권 쏠림 현상을 완화하는 동시에 예치금, 환매조건부채권(RP) 매입, 대출금...",
-      "link": "https://www.mk.co.kr/article/12135355",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005725280?sid=101",
+      "title": "매경이 전하는 세상의 지식 (매-세-지, 8월 26일)",
+      "desc": "대기업들은 일단 회사채보다 금리가 저렴한 은행 대출로 급한 불을 끄고 있습니다. 3. 도널드 트럼프 미국 행정부가 이란과 거래하는 국가나 기관에 대한 2차 제재 계획을 발표했습니다. 이란이 반년 동안 군사적 압박을...",
+      "link": "https://www.mk.co.kr/article/12136051",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005725821?sid=102",
       "host": "mk.co.kr",
-      "score": 2.263,
-      "pubDate": "2026-08-24T22:23:00+00:00"
+      "score": 2.5069,
+      "pubDate": "2026-08-25T22:01:00+00:00"
     },
     {
-      "title": "중국 동참 없이는 놀랍지도 않은 ‘이란 왕따’ [트럼프 스톡커]",
-      "desc": "중동의 긴장이 더 높아진 만큼 상승 압력이 컸어야 했던 미국 국채 금리도 오랜만에 내림세를 보였다.... 미국 국채 금리도 중동 소식보다는 재무부가 바이백(재매입)을 위해 일반계정(TGA)까지 동원할 수 있다는 CNBC...",
-      "link": "https://www.sedaily.com/article/20082817?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004654783?sid=104",
+      "title": "'대출 찾아 삼만리'…대출 조이자 비교 앱 사용량 급증",
+      "desc": "금융당국 관계자도 \"이번주 중으로 금융회사별 총량 배분 협의를 마무리할 것\"이라면서도 \"분양 당시 잔금대출 등을 계획하고 한 부분이 있기에 이런 집단대출은 일정 부분 풀리겠지만 가계대출 총량규제를 엄격하게...",
+      "link": "https://news.bizwatch.co.kr/article/finance/2026/08/25/0034",
+      "naver": "https://n.news.naver.com/mnews/article/648/0000050157?sid=101",
+      "host": "news.bizwatch.co.kr",
+      "score": 2.4774,
+      "pubDate": "2026-08-25T23:10:00+00:00"
+    },
+    {
+      "title": "'로또 줍줍' 정부가 가져간다...14억 집 8억에 잡을 마지막 기회? 청약 ...",
+      "desc": "인창C구역 재개발 사업으로 조성되는 11개동 1180가구의 대단지 아파트이다. 지난 3월 입주했다. 전매제한은 기간이 종료됐고, 재당첨 제한은 10년이다. 실거주의무는 없다. 분양가는 8억7710만원이다. 국토교통부...",
+      "link": "https://www.fnnews.com/news/202608260736503966",
+      "naver": "https://n.news.naver.com/mnews/article/014/0005566417?sid=101",
+      "host": "fnnews.com",
+      "score": 2.4323,
+      "pubDate": "2026-08-25T22:53:00+00:00"
+    },
+    {
+      "title": "내일 금통위…엇갈린 금리 전망속 '점도표'에도 주목",
+      "desc": "금리 3.50%까지 선반영, 3.75% 제시 없으면 큰 충격 없을것\" \"3.25%보다 낮은 점의 수가 늘어나면 긴축 우려 완화될수도\" 8월 한국은행 금융통화위원회가 하루 앞으로 다가온 가운데 금융투자업계는 전망이 갈리는 기준금리...",
+      "link": "https://www.yna.co.kr/view/AKR20260825131200008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016270677?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3506,
+      "pubDate": "2026-08-25T23:00:00+00:00"
+    },
+    {
+      "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고",
+      "desc": "증권가, 손해 보험 주목…\"하반기부터 실손 지급 보험금 감소 예상\" 최근 금리가 오르면서 금융주 중... 이처럼 보험주와 증권주의 수익률이 엇갈린 데에는 금리 상승이 자리하는 것으로 해석된다. 통상 보험사는 운용...",
+      "link": "https://www.yna.co.kr/view/AKR20260825152900008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016270675?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3506,
+      "pubDate": "2026-08-25T23:00:00+00:00"
+    },
+    {
+      "title": "5000명 추심 해방…기업은행, 장기 연체 채권 1200억 소각",
+      "desc": "계층의 재기를 지원하기 위해 2030년까지 30조 원 이상의 자금을 공급하겠다는 목표도 내걸었다. 7월 말 신용평점 하위 50%에게 연 4.9% 금리로 최대 2000만 원을 빌려주는 ‘IBK 착한금리 포용대출’을 출시한 바 있다.",
+      "link": "https://www.sedaily.com/article/20083235?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004655178?sid=101",
       "host": "sedaily.com",
-      "score": 2.2485,
-      "pubDate": "2026-08-24T22:57:00+00:00"
+      "score": 2.2926,
+      "pubDate": "2026-08-25T21:06:00+00:00"
     },
     {
-      "title": "“증시 제1변수는 금리…삼성전자·SK하이닉스가 피난처”",
-      "desc": "미국 장기금리 상승으로 글로벌 증시의 밸류에이션 부담이 커지는 가운데 국내 증시에서는 삼성전자(005930)와 SK하이닉스(000660)로 수급이 다시 집중될 수 있다는 전망이 나왔다. 고금리가 이어질수록 외부 자금에...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=02538726645550928&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006357420?sid=101",
+      "title": "삼성전자 '5억 사내 대출' 다음달 풀려…반도체 벨트 벌써 '들썩'",
+      "desc": "남혁우 / 우리은행 부동산연구원 \"경기 반도체 배후의 주거지의 역할이 거기에서 시작된 그런 매수의 움직임이 서울 동남권 같은 인기 지역의 매수 움직임으로 연결될 수….\" 정부는 대출 규제에 이어 세금 카드까지...",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690037.html",
+      "naver": "https://n.news.naver.com/mnews/article/448/0000635671?sid=004",
+      "host": "news.tvchosun.com",
+      "score": 2.2855,
+      "pubDate": "2026-08-25T23:13:00+00:00"
+    },
+    {
+      "title": "‘대구 삼대천왕’도 못버티고 간판내렸다…하루 12곳씩 문닫는 이 업계",
+      "desc": "태왕 측은 지역 부동산 경기 침체 장기화와 금융시장 경색에 따른 유동성 악화를 회생 신청 배경으로 꼽았다. 지역 건설사를 짓누르는 가장 큰 부담 가운데 하나는 좀처럼 줄지 않는 미분양이다. 국토부에 따르면...",
+      "link": "https://www.mk.co.kr/article/12136328",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005725815?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.2424,
+      "pubDate": "2026-08-25T21:31:00+00:00"
+    },
+    {
+      "title": "美반도체 반등에 코스피 힘받나…엔비디아 실적 분수령[뉴스새벽배송]",
+      "desc": "뉴욕증시 3대 지수가 25일(현지시간) 미국 국채금리 하락과 반도체주 강세에 힘입어 일제히 상승했다.... (사진=로이터) 뉴욕증시, 국채금리 하락에 일제히 상승 -이날 뉴욕증시에서 다우존스30 산업평균지수는...",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02574806645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006358027?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.2333,
-      "pubDate": "2026-08-24T23:10:00+00:00"
+      "score": 2.2274,
+      "pubDate": "2026-08-25T23:10:00+00:00"
     },
     {
-      "title": "HUG 전세안심신탁, 금융권 PF 경쟁구도 될까…PF대출 금리 왜곡 우려도",
-      "desc": "다음달 시행 예정인 주택도시보증공사(HUG)의 '전월세 안심신탁사업'이 금융권과의 불필요한 부동산PF 경쟁... 목표 수익률은 4%인데, 이같은 수익률을 제공하려면 별도의 비용 등을 고려해 수익률 5% 정도의 부동산PF...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608241415036410088",
-      "naver": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608241415036410088",
-      "host": "dnews.co.kr",
-      "score": 2.2096,
-      "pubDate": "2026-08-24T22:00:00+00:00"
+      "title": "금리 하락에 반도체 저가 매수세, 국내 증시 회복 신호탄?",
+      "desc": "따른 금리 및 유가 하락 속 마이크론(+2.4%), 엔비디아(+2.2%) 등 반도체주의 저가 매수세 유입에 힘입어... 사진=연합 이어 “시장 금리의 상방 압력이 제한되고 있다는 점은 안도 요인”이라며 “최근 일련의 금리 급등...",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02548566645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006358023?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.2059,
+      "pubDate": "2026-08-25T23:02:00+00:00"
     },
     {
-      "title": "\"국평 10억? 안 사요\" 미분양 광명 '그 아파트', 국평 20억 시대로",
-      "desc": "해당 단지는 철산주공 8·9단지를 재건축한 아파트로, 2022년 말 일반분양 청약 당시만 해도 전용59㎡가 7억... 주요 아파트 가격이 잇따라 20억원에 근접하거나 이를 넘어서는 모습이다. 20일 한국부동산원이 발표한 주간...",
-      "link": "https://realty.chosun.com/site/data/html_dir/2026/08/24/2026082402989.html",
-      "naver": "https://realty.chosun.com/site/data/html_dir/2026/08/24/2026082402989.html",
+      "title": "\"분양가 3억 폭등에 '취득세' 폭탄까지\"…성남 '신희타' 울분",
+      "desc": "성남복정2지구 A1블록 신혼희망타운 사전청약자들이 본청약 분양가가 사전청약 당시보다 최대 50% 가까이 뛰면서 취득세 부담까지 급증했다며 집단 반발하고 있다. 분양가가 6억원 후반대인 성남지역 다른...",
+      "link": "https://realty.chosun.com/site/data/html_dir/2026/08/25/2026082502789.html",
+      "naver": "https://realty.chosun.com/site/data/html_dir/2026/08/25/2026082502789.html",
       "host": "realty.chosun.com",
-      "score": 2.193,
-      "pubDate": "2026-08-24T21:04:00+00:00"
+      "score": 2.1849,
+      "pubDate": "2026-08-25T21:02:00+00:00"
     },
     {
-      "title": "“LH 지연 책임 왜 우리가”…복정2 분양가 5억→8억 ‘껑충’",
-      "desc": "사전청약 5.3억→본청약 8억 본청약 3년4개월·입주 4년5개월 지연 대책위 “사업 지연 비용 전가” 반발 분양가 재검토·금융지원 확대 요구 경기 성남 복정2지구를 사전청약한 신혼부부들이 수년간 본청약을 기다린...",
-      "link": "https://www.segye.com/newsView/20260824517153?OutUrl=naver",
-      "naver": "https://n.news.naver.com/mnews/article/022/0004153416?sid=101",
-      "host": "segye.com",
-      "score": 2.193,
-      "pubDate": "2026-08-24T21:04:00+00:00"
+      "title": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아”",
+      "desc": "은행 역시 금리가 오를 때 대출금리가 예금금리보다 빠르게 상승해 순이자마진이 확대되면 이자이익이 늘어날 수 있다. 금융주는 최근 반도체주에 비해 상대적으로 강세를 보이고 있다. 24일(현지시간) 미국...",
+      "link": "https://www.khan.co.kr/article/202608260600141",
+      "naver": "https://n.news.naver.com/mnews/article/032/0003466443?sid=101",
+      "host": "khan.co.kr",
+      "score": 2.1811,
+      "pubDate": "2026-08-25T21:00:00+00:00"
     },
     {
-      "title": "하나證 “코스피 3대 변수…삼전닉스·엔비디아·잭슨홀 주목”",
-      "desc": "삼전닉스 주주환원은 하단 지지 엔비디아·美 금리가 상단 결정 하나증권이 삼성전자·SK하이닉스의 주주환원과 엔비디아 실적, 잭슨홀 미팅 이후 미국 장기금리를 코스피의 추가 상승 여부를 결정할 ‘3가지 관문’...",
-      "link": "https://biz.chosun.com/stock/stock_general/2026/08/25/JP22C6U4YRFXLJLCUNCXJPSPJ4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001188066?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.1799,
-      "pubDate": "2026-08-24T22:30:00+00:00"
+      "title": "'오남역 서희스타힐스 여의재' 특공·1순위 미달사태...고분양가 후폭풍",
+      "desc": "25일 청약홈에 따르면 남양주시 오남읍 양지리 101번지 일원에서 선보인 이 지역주택조합이 180가구 일반분양을 실시한 결과 특별공급 소진율이 38%를 기록하는 데 이어 1순위 청약에서도 0.38 대 1의 경쟁률을...",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309686",
+      "naver": "https://www.straightnews.co.kr/news/articleView.html?idxno=309686",
+      "host": "straightnews.co.kr",
+      "score": 2.1407,
+      "pubDate": "2026-08-25T20:38:00+00:00"
     },
     {
-      "title": "[투자노트] 고금리 시대 투자법… “금리 오를 땐 ROE, 유지할 땐 ROA 봐...",
-      "desc": "하나증권 보고서 미국 국채금리가 고공행진하면서 주식시장의 부담이 커지고 있다. 고금리 국면에서 주식에 투자하려면 어떤 기업을 골라야 할까. 하나증권은 금리가 상승하는 시기엔 주주환원을 통해...",
-      "link": "https://biz.chosun.com/stock/stock_general/2026/08/25/665VWZPS2BADNEQ5UQARGQ4SAE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001188065?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.1751,
-      "pubDate": "2026-08-24T22:28:00+00:00"
+      "title": "대구 3대 건설사 태왕이앤씨도 법정관리…폐업 10곳 중 6곳은 지방 업체...",
+      "desc": "미분양 적체로 분양대금 회수가 막힌 데다 프로젝트파이낸싱(PF) 경색과 일감 부족까지 겹치면서 지방 건설업계의 자금줄이 빠르게 마르고 있다는 분석이다. 대구 3위 건설사이자 시공능력평가 67위인...",
+      "link": "https://www.sedaily.com/article/20083236?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004655183?sid=101",
+      "host": "sedaily.com",
+      "score": 2.1301,
+      "pubDate": "2026-08-25T21:25:00+00:00"
     },
     {
-      "title": "신협, 제주 금융취약계층에 ‘상생안정 가계대출’…연 1% 저금리 지원",
-      "desc": "저금리 대출 지원에 나선다. 금융상담과 교육을 대출과 연계해 단순 자금 지원을 넘어 금융위기 예방과... 상생안정 가계대출은 저신용으로 금융서비스 이용이 어려운 금융취약계층에 긴급생활자금을 저금리로...",
-      "link": "https://thetracker.co.kr/View.aspx?No=4197634",
-      "naver": "https://thetracker.co.kr/View.aspx?No=4197634",
-      "host": "thetracker.co.kr",
-      "score": 2.1725,
-      "pubDate": "2026-08-24T23:06:00+00:00"
+      "title": "IFEZ, 외국인 맞춤형 주거 공개강좌 '시선 집중'",
+      "desc": "우선 계약서 작성 전 꼭 확인해야 할 등기부등본 보는 법부터 필수 서류 안내에 이어 최근 사회적 문제로 대두되는 전세사기를 예방하기 위한 전세보증보험 제도 완벽 해부, 현직 전문 공인중개사가 직접 강사로 나서 국내...",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=908733",
+      "naver": "https://www.kgnews.co.kr/news/article.html?no=908733",
+      "host": "kgnews.co.kr",
+      "score": 2.1297,
+      "pubDate": "2026-08-25T22:52:00+00:00"
+    },
+    {
+      "title": "BNK경남은행, 추석 특별 대출 8천억 원 지원",
+      "desc": "지원 기간은 10월 26일까지 두 달 간이며 신규 자금 4천억 원과 기존 대출 기한 연기 4천억 원입니다. 업체별로 최대 30억 원까지 지원하며, 금리도 최고 1.0%p 감면합니다.",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646157&ref=A",
+      "naver": "https://n.news.naver.com/mnews/article/056/0012244581?sid=101",
+      "host": "news.kbs.co.kr",
+      "score": 2.0967,
+      "pubDate": "2026-08-25T22:39:00+00:00"
+    },
+    {
+      "title": "\"서울 신축 가뭄속 옥석 가리기\"…'쌍용 더 플래티넘 서대문' 청약 열기...",
+      "desc": "한국부동산원 청약홈 집계에 따르면 특별공급을 제외한 28가구 모집에 총 1,112건의 청약통장이 접수돼 평균 39.71대 1의 경쟁률을 나타냈다. 주택형별로는 전용면적 59㎡A 타입이 240.50대 1로 가장 높은 경쟁률을...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86119",
+      "naver": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86119",
+      "host": "thefairnews.co.kr",
+      "score": 2.0938,
+      "pubDate": "2026-08-25T23:16:00+00:00"
     }
   ]
 }
