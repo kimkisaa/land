@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-08-31T01:01:22.728963Z",
+  "generatedAt": "2026-09-01T01:31:59.063762Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "9월 전국 아파트 분양 늘었지만…서울 일반분양 '29세대'",
-      "desc": "김은선 직방 빅데이터랩실 랩장은 \"최근 청약시장은 입지와 분양가 경쟁력을 갖춘 단지에 수요가 집중되는 반면, 지역과 가격 수준에 따라 청약 성적의 편차도 나타나고 있다\"며 \"주택가격 상승과 금융비용 부담이...",
-      "link": "https://www.hankyung.com/article/2026083126816",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005326513?sid=101",
-      "host": "hankyung.com",
-      "score": 2.9576,
-      "pubDate": "2026-08-31T00:06:00+00:00"
-    },
-    {
-      "title": "\"이걸로 어차피 집 못 사\"…30대마저 '청약통장' 버렸다",
-      "desc": "청약통장을 새로 만드는 사람보다 해지하는 사람이 더 많은 흐름이 4년째 이어지고 있다. 분양가와 주거비 부담이 커지면서 청약통장의 실효성이 떨어지고 있다는 지적이 나온다. 31일 정희용 국민의힘 의원이...",
-      "link": "https://www.hankyung.com/article/2026083126797",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005326503?sid=100",
-      "host": "hankyung.com",
-      "score": 2.9181,
-      "pubDate": "2026-08-30T23:49:00+00:00"
-    },
-    {
-      "title": "\"4년째 청약통장 가입자 보다 깬 사람 더 많았다\"",
-      "desc": "주택도시보증공사에 따르면 서울 민간아파트 평균 분양가는 3.3㎡ 당 2022년 2978만원에서 2023년 3495만원, 2024년 4409만원, 2025년 5270만원으로 뛰었고 올해는 약 6000만원대를 형성하고 있는 것으로 나타났다....",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=02578086645552896&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006360785?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.8464,
-      "pubDate": "2026-08-31T01:00:00+00:00"
-    },
-    {
-      "title": "9월, 전국 26개 단지 2만2704가구 분양 예정… 전년 동월比 15%↑",
-      "desc": "직방은 “금리와 대출 규제로 자금 부담이 높아진 상황에서 실제 공급 규모와 함께 분양가 경쟁력과 입지에 따른 청약 수요의 차별화가 어떻게 나타날지 주목된다”고 밝혔다.",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/31/YJBAAI3EZZA23M65PEFUK5AJTA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001189247?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.7674,
-      "pubDate": "2026-08-30T23:26:00+00:00"
-    },
-    {
-      "title": "우리도 이제 천조국…대출에 이어 정기예금도 1000조 돌파",
-      "desc": "증시 조정·금리 인상 맞물려 자금 이동 5대 시중은행(KB국민·신한·하나·우리·NH농협)의 정기예금 잔액이 사상 처음으로 1000조원을 넘어섰다. 증시 변동성이 커진 가운데 예금금리가 연 3%대로 오르면서, 위험자산...",
-      "link": "https://www.mk.co.kr/article/12140119",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005727929?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.6827,
-      "pubDate": "2026-08-31T00:55:00+00:00"
-    },
-    {
-      "title": "[머니톡스] 부동산 3단계 하락 전이 메커니즘…3년 전과 다른 점은",
-      "desc": "2022∼2023년 기준금리 인상 사이클로 접어들면서, 2021년 초저금리로 천정부지로 치솟던 서울 부동산 시장이... 금리 인상으로 긴축 국면이 되면 부동산 시장은 숨 고르기에 들어갈 수 있다. 금리가 인상되면 주택담보대출...",
-      "link": "https://www.yna.co.kr/view/AKR20260831040600546?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016279553?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.6478,
-      "pubDate": "2026-08-31T00:42:00+00:00"
-    },
-    {
-      "title": "“전세도 없고 매매는 힘들고”…전년 대비 서울 아파트 입주물량 ‘반...",
-      "desc": "미분양’ 85% 지방에 올해 들어 7월까지 서울 아파트 준공 물량이 작년 같은 기간보다 절반 가까이... 1∼7월 전국 공동주택 분양은 12만8019가구로 지난해 같은 기간(9만717가구)보다 41.1% 증가했다. 서울...",
-      "link": "https://www.mk.co.kr/article/12140070",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005727892?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.5388,
-      "pubDate": "2026-08-30T23:58:00+00:00"
-    },
-    {
-      "title": "LH, 매입임대 제도개선 담은 하반기 사업설명회 개최",
-      "desc": "청약 및 대출 제도 개편과 실수요자를 위한 대출 규제 완화, 민간 건설사를 위한 프로젝트파이낸싱(PF) 보증 확대 방안도 이번 대책에 포함됐다. 이른바 '8.13 대책'으로 불리는 이 방안은 공공택지 지정뿐 아니라...",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=364475",
-      "naver": "http://www.ftoday.co.kr/news/articleView.html?idxno=364475",
-      "host": "ftoday.co.kr",
-      "score": 2.4818,
-      "pubDate": "2026-08-31T00:16:00+00:00"
-    },
-    {
-      "title": "9월 전국 2.3만가구 분양…60% 수도권, 서울은 단 85가구",
-      "desc": "경우 청약 당첨 이후 자금 조달 부담도 커질 수 있다. 김은선 직방 빅데이터랩실 랩장은 \"금리와 대출 규제로 실수요자들의 자금 부담이 높아졌다\"며 \"실제 공급 규모와 함께 분양가 경쟁력과 입지에 따른 청약...",
-      "link": "https://www.news1.kr/realestate/general/6274242",
-      "naver": "https://n.news.naver.com/mnews/article/421/0009140775?sid=101",
-      "host": "news1.kr",
-      "score": 2.472,
-      "pubDate": "2026-08-31T00:12:00+00:00"
-    },
-    {
-      "title": "“어차피 줍줍 나오는데”… 서울 완판 행진 속 청약통장 깨는 경기·인...",
-      "desc": "속에서도 청약 수요가 몰린 반면 경기도는 브랜드 대단지조차 미달을 면치 못하며 극명한 온도 차를 드러냈다. 31일 한국부동산원 청약홈 집계에 따르면 올해 7~8월 경기도에서 분양한 13개 단지 가운데 일반1순위...",
-      "link": "https://www.sedaily.com/article/20085013?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004656728?sid=101",
+      "title": "전세사기 여진에 고금리까지…경매 신청 역대 최대",
+      "desc": "지지옥션에 따르면 서울 아파트 경매 낙찰률은 6월 34%, 7월 38.3%로 40%를 밑돌았으며, 선호 단지에만... 브랜드 아파트를 포함한 장기전세주택 1381가구(신규 291가구·재공급 1090가구)를 공급한다고 밝혔다. 청약은 9월...",
+      "link": "https://www.sedaily.com/article/20085603?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004657246?sid=101",
       "host": "sedaily.com",
-      "score": 2.4654,
-      "pubDate": "2026-08-30T21:36:00+00:00"
+      "score": 2.9178,
+      "pubDate": "2026-09-01T01:01:00+00:00"
     },
     {
-      "title": "[특징주] 뷰노, 314억 주주배정 유상증자 결정에 23% 급락",
-      "desc": "기존 주주 대상 청약은 11월 9~10일 이틀 동안 실시되며 여기서 발생한 미청약 실권주에 대한 일반 공모는 11월 12일과 13일 진행된다. 주금 납입일은 11월 17일, 신주 상장 예정일은 11월 30일이다. 최종 발행 가액은...",
-      "link": "https://biz.chosun.com/stock/stock_general/2026/08/31/CP7U2GQVBZFJRORW323W6LLCAA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001189276?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.4347,
-      "pubDate": "2026-08-31T00:37:00+00:00"
+      "title": "이리츠코크렙 \"금리 올라도 연 7% 배당 유지\"…분기배당도 검토",
+      "desc": "한국은행의 기준금리 인상으로 상장 리츠의 금융비용 부담이 커진 가운데 이리츠코크렙이 공모가 기준 연... 다만 실제 배당금은 향후 금리와 차환 조건 등에 따라 달라질 수 있다. 관건은 내년 돌아오는 대규모 대출...",
+      "link": "https://www.hankyung.com/article/202609015768r",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005327061?sid=101",
+      "host": "hankyung.com",
+      "score": 2.7515,
+      "pubDate": "2026-09-01T01:14:00+00:00"
     },
     {
-      "title": "치솟는 서울 분양가… 7억 대 공급 ‘브라운스톤 월곡 센트럴’ 관심 집...",
-      "desc": "한국부동산원 청약홈 자료를 보면 지난 6월 성북구에서 분양한 단지는 1순위 접수 5,469건 가운데 70.7%인 3... 한 부동산 전문가는 \"분양가에서 땅값이 차지하는 비중이 커진 구조라 공사비가 진정되더라도 서울...",
-      "link": "https://view.asiae.co.kr/article/2026083109301543328",
-      "naver": "https://n.news.naver.com/mnews/article/277/0005809369?sid=101",
-      "host": "view.asiae.co.kr",
-      "score": 2.4167,
-      "pubDate": "2026-08-31T00:30:00+00:00"
+      "title": "한방씩 주고 받은 베선트 VS 워시…싸울 일만 남았다 [이상은의 워싱턴...",
+      "desc": "자본지출도, 기업 이익도, 대출 활동도 모두 활발해서 광범위한 금융 여건이 긴축적이라고 보기는 어렵다\"고 말했습니다. 즉 베선트 장관은 금리가 너무 높다고 말하는 반면, 워시 의장은 그렇게 높은 것은 아니라고...",
+      "link": "https://www.hankyung.com/article/202609015143i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005327045?sid=104",
+      "host": "hankyung.com",
+      "score": 2.7102,
+      "pubDate": "2026-09-01T00:58:00+00:00"
     },
     {
-      "title": "9월 전국 아파트 분양, 전년比 15% 증가…금리 인상 영향이 변수",
-      "desc": "직방 관계자는 \"최근 청약시장은 입지와 분양가 경쟁력을 갖춘 단지에 수요가 집중되는 반면 지역과 가격 수준에 따라 청약 성적의 편차도 나타나고 있다\"며 \"주택가격 상승과 금융비용 부담이 맞물리면서...",
-      "link": "https://www.mt.co.kr/estate/2026/08/31/2026083108261356180",
-      "naver": "https://n.news.naver.com/mnews/article/008/0005406871?sid=101",
-      "host": "mt.co.kr",
-      "score": 2.4158,
-      "pubDate": "2026-08-30T23:48:00+00:00"
+      "title": "대기업 채용 세제 혜택 내년 폐지…비수도권·중기 재정 지원 확대",
+      "desc": "신축 아파트를 포함한 장기전세주택 1381가구를 공급하며 9월 14일부터 청약 접수를 시작한다. 신규 공급... 서울 아파트 경매 낙찰률은 6~7월 각각 34%·38.3%로 40%를 밑돌아 매물 소화 속도가 공급 증가를 따라가지...",
+      "link": "https://www.sedaily.com/article/20085608?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004657247?sid=101",
+      "host": "sedaily.com",
+      "score": 2.6178,
+      "pubDate": "2026-09-01T01:01:00+00:00"
     },
     {
-      "title": "충청권 9월 아파트 3천152세대 분양…천안 중심",
-      "desc": "31일 부동산 플랫폼 직방에 따르면 9월 지방 분양 물량은 광주(3천216세대)에 이어 충남(3천152세대)이 두... 두 대단지의 청약 성적에 지역 부동산업계 관심이 쏠릴 전망이다. 천안은 세종·대전과 인접한 충청권 광역...",
-      "link": "https://www.jbnews.com/news/articleView.html?idxno=1510443",
-      "naver": "https://www.jbnews.com/news/articleView.html?idxno=1510443",
-      "host": "jbnews.com",
-      "score": 2.4066,
-      "pubDate": "2026-08-31T00:26:00+00:00"
-    },
-    {
-      "title": "'더샵 송도그란테르' 주거형 오피스텔 분양 중",
-      "desc": "앞서 더샵 송도그란테르 아파트는 지난 5월 진행된 1순위 청약에서 1036가구 모집에 1만8288명이 접수했다.... 이는 동일한 입지에 조성되는 더샵 송도그란테르 아파트 분양가와 국제업무지구 내 주요 아파트 매매가격의...",
-      "link": "https://edu.donga.com/news/articleView.html?idxno=111385",
-      "naver": "https://edu.donga.com/news/articleView.html?idxno=111385",
-      "host": "edu.donga.com",
-      "score": 2.3966,
-      "pubDate": "2026-08-31T00:22:00+00:00"
-    },
-    {
-      "title": "집값 상승·금리 부담 맞물린 9월…2만2704가구 분양 예정",
-      "desc": "수도권 부동산 가격 상승세와 대출 문턱 강화로 9월 분양 시장은 시세 대비 분양가 경쟁력을 갖춘 단지로 수요가 쏠리는 현상이 심화할 것이란 분석이 나왔다. 직방은 다음달 전국 아파트 분양예정 물량이 26개...",
-      "link": "https://view.asiae.co.kr/article/2026083108365090024",
-      "naver": "https://n.news.naver.com/mnews/article/277/0005809284?sid=101",
-      "host": "view.asiae.co.kr",
-      "score": 2.389,
-      "pubDate": "2026-08-30T23:36:00+00:00"
-    },
-    {
-      "title": "9월 2만 2704가구 분양 예정…전년 比 15% 증가",
-      "desc": "직방 관계자는 \"최근 청약시장은 입지와 분양가 경쟁력을 갖춘 단지에 수요가 집중되는 반면, 지역과 가격 수준에 따라 청약 성적의 편차도 나타나고 있다\"며 \"9월에는 공급지역이 넓게 분산되는 만큼 권역별...",
-      "link": "https://www.asiatime.co.kr/article/20260831500047",
-      "naver": "https://www.asiatime.co.kr/article/20260831500047",
-      "host": "asiatime.co.kr",
-      "score": 2.3769,
-      "pubDate": "2026-08-31T00:14:00+00:00"
-    },
-    {
-      "title": "코스피, 美금리인상 우려에 1%대 내려 6,600대…코스닥도 급락(종합)",
-      "desc": "6% 급락해 800선 근접…3거래일만에 하락세 전환 (서울=연합뉴스) 이민영 기자 = 미국 금리인상 시기가... 지난주 말 뉴욕증시는 미국의 기준금리 인상 우려가 다시 부각되면서 3대 지수가 일제히 하락했다....",
-      "link": "https://www.yna.co.kr/view/AKR20260831045500008?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016279612?sid=101",
+      "title": "해수부 직원용 임대주택 48가구 중 해수부 직원 입주 3가구",
+      "desc": "또 '서면 가화만사성 더테라스'는 급경사와 열악한 접근성이 문제점으로 지적됐는데도 1순위로 선정됐고, 해수부 임시청사와 가까우면서도 분양가보다 10% 할인된 가격으로 응찰한 아파트 단지는 대상에서 빠졌다. 곽...",
+      "link": "https://www.yna.co.kr/view/AKR20260901070000051?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016281818?sid=101",
       "host": "yna.co.kr",
-      "score": 2.3691,
-      "pubDate": "2026-08-31T00:50:00+00:00"
+      "score": 2.4783,
+      "pubDate": "2026-09-01T01:24:00+00:00"
     },
     {
-      "title": "LH, 내달 1일 주택매입 설명회…수도권 규제지역 ‘원가법’ 병행",
-      "desc": "주택도시보증공사(HUG) 보증을 통해 토지비의 30% 수준까지 저리 대출을 받을 수 있는 상품도 안내한다. 설명회는 별도 사전 신청 없이 참석할 수 있으며 LH와 HUG, 은행 등이 참여하는 6개 상담부스에서 일대일 상담도...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=02446886645552896&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006360752?sid=101",
+      "title": "SH, 마곡17단지 잔금 완납 전 입주·등기 허용…'방공제 5500만원' 부담 ...",
+      "desc": "◆ 대출 규제 변경으로 발 묶였던 수분양자…SH, 선제 조치 나서 토지임대부 분양주택인 마곡17단지는 2023년 9월 사전청약과 2026년 2월 본청약 입주자 모집 공고를 거쳐 지난 8월부터 본격적인 입주가 시작됐다. 그러나...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=144867",
+      "naver": "http://www.bizwnews.com/news/articleView.html?idxno=144867",
+      "host": "bizwnews.com",
+      "score": 2.4754,
+      "pubDate": "2026-09-01T00:44:00+00:00"
+    },
+    {
+      "title": "\"이자만 50만원 늘어\" 빚투족 비상…신용대출 금리 6%대 돌파",
+      "desc": "한국은행의 기준금리 인상 등 여파로 신용대출 금리가 6%대로 올라섰다. 무리해서 대출을 받아 투자 등에 사용한 이른바 ‘빚투(빚내서 투자)족’의 이자 부담은 더욱 커질 것으로 보인다. 기준금리가 2.75%에서 3.00...",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=03125846645575856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006361414?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.3667,
-      "pubDate": "2026-08-31T00:30:00+00:00"
+      "score": 2.4652,
+      "pubDate": "2026-09-01T01:00:00+00:00"
     },
     {
-      "title": "[윤준의 부동산수첩] 대출 30조, '실수요자 밸브' 맞나",
-      "desc": "다만 청약 점수와 소득 요건을 충족하는 구간에서는 자금 조달이 쉬워지며 거래량으로 이어질 수 있다. 수도권 위성도시와 지방 광역시는 상대적으로 정책 효과를 더 크게 받을 수 있다. 규제가 비교적 느슨하고 실거주...",
-      "link": "https://www.nbntv.kr/news/articleView.html?idxno=340639",
-      "naver": "https://www.nbntv.kr/news/articleView.html?idxno=340639",
-      "host": "nbntv.kr",
-      "score": 2.3547,
-      "pubDate": "2026-08-30T23:20:00+00:00"
+      "title": "이달 전국분양 2만가구… 서울 물량은 85가구뿐",
+      "desc": "00%까지 끌어올렸고, 대출금리가 시차를 두고 상승할 경우 청약 당첨 이후 자금 조달 부담이 커질 수 있다.... 따라 청약 수요가 갈릴 것으로 보인다. 수요자들의 관심이 큰 주요 단지 분양은 뒤로 밀리고, 분양가는...",
+      "link": "https://www.munhwa.com/article/11613544?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/021/0002815341?sid=101",
+      "host": "munhwa.com",
+      "score": 2.4351,
+      "pubDate": "2026-09-01T00:27:00+00:00"
+    },
+    {
+      "title": "쌍용건설 '쌍용 더 플래티넘 한강' 333가구 10월 분양",
+      "desc": "1순위 해당지역 청약에서 평균 39.71대 1의 경쟁률을 기록했다. 분양 관계자는 \"쌍용 더 플래티넘 한강은 양수역 역세권을 비롯해 남·북한강을 동시에 조망할 수 있는 입지\"라며 \"대표할 랜드마크로 조성하기 위해 만전을...",
+      "link": "https://www.news1.kr/realestate/general/6275796",
+      "naver": "https://n.news.naver.com/mnews/article/421/0009143163?sid=101",
+      "host": "news1.kr",
+      "score": 2.4026,
+      "pubDate": "2026-09-01T00:55:00+00:00"
+    },
+    {
+      "title": "진천군 지역사회보장협의체, 주거 위기가구 자립 지원",
+      "desc": "이번 사업은 고금리와 임대료 상승, 전세사기 우려 등으로 취약계층의 주거 진입장벽이 높아짐에 따라 퇴거... 군 지역사회보장협의체는 주거 위기에 처한 저소득 취약계층 2가구를 발굴해 맞춤형 전세 주거 지원과 함께...",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=924655",
+      "naver": "http://www.cctimes.kr/news/articleView.html?idxno=924655",
+      "host": "cctimes.kr",
+      "score": 2.3803,
+      "pubDate": "2026-09-01T00:46:00+00:00"
+    },
+    {
+      "title": "[양향자의 청년솔루션] 청년의 땀이 자산이 되고 월급이 내일이 되는 나...",
+      "desc": "정권이 바뀔 때마다 대출과 세금, 청약 기준이 뒤집히면 1년 뒤 계획조차 세울 수 없습니다. 청년 주거정책은 최소 10년의 국가계획으로 세우고, 제도가 바뀌더라도 이미 준비하던 청년에게는 기존 조건을 보장해야 합니다....",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128928",
+      "naver": "https://www.ntoday.co.kr/news/articleView.html?idxno=128928",
+      "host": "ntoday.co.kr",
+      "score": 2.3747,
+      "pubDate": "2026-09-01T00:00:00+00:00"
+    },
+    {
+      "title": "코람코신탁 \"이리츠코크렙, 금리 인상에도 연 7% 배당 유지\"",
+      "desc": "통상 금리 상승은 리츠(REITs·부동산투자회사)의 차입비용을 높여 배당 여력을 떨어뜨릴 수 있는 요인으로 꼽힌다. 코람코는 이리츠코크렙이 보유한 유보 현금과 매년 오르는 임대료를 활용하면 금리 상승에 따른 이자...",
+      "link": "https://www.yna.co.kr/view/AKR20260901069500008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016281800?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3648,
+      "pubDate": "2026-09-01T01:19:00+00:00"
+    },
+    {
+      "title": "신기술 쏟아져도 결국 ‘역세권 대단지’…불패 공식 잇는 신규 분양은...",
+      "desc": "단지 규모에 따른 청약 쏠림도 뚜렷하다. 부동산R114에 따르면 지난해 전국 1000가구 이상 대단지 54곳에는 총 38만8128명이 몰려 단지당 평균 약 7188명이 접수했다. 1000가구 미만 단지의 단지당 평균 청약자 수(약 1783명)...",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/111003",
+      "naver": "https://www.smarttoday.co.kr/ko-kr/articles/111003",
+      "host": "smarttoday.co.kr",
+      "score": 2.3562,
+      "pubDate": "2026-09-01T00:36:00+00:00"
+    },
+    {
+      "title": "서울 아파트 고가화에 강북권도 ‘8억원 미만’ 거래 감소",
+      "desc": "한국부동산원 청약홈에 따르면 2026년 6월 성북구 장위뉴타운에서 분양한 한 단지는 전용 59㎡ 분양가가 14억3,000만~14억6,000만원으로 책정됐다. 같은 해 7월 노원구 월계동에서 공급된 단지의 전용 59㎡ 역시 12억4...",
+      "link": "https://biz.heraldcorp.com/article/10858208?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/016/0002690954?sid=101",
+      "host": "biz.heraldcorp.com",
+      "score": 2.3467,
+      "pubDate": "2026-09-01T00:32:00+00:00"
+    },
+    {
+      "title": "주택금융공사, 8억 유로 커버드본드 발행",
+      "desc": "주문 물량은 발행규모 8억 유로를 크게 웃도는 21.4억 유로에 달해 2.7배의 초과 청약을 달성했다. 이에 따라 가산금리도 역대 최저 수준으로 낮췄다. 투자자 유형별 비중은 은행 43%·자산운용사 30%·중앙은행·국제기구...",
+      "link": "https://news.tf.co.kr/read/economy/2360242.htm",
+      "naver": "https://n.news.naver.com/mnews/article/629/0000529313?sid=101",
+      "host": "news.tf.co.kr",
+      "score": 2.341,
+      "pubDate": "2026-09-01T01:10:00+00:00"
+    },
+    {
+      "title": "“주식 때문에 속상하시죠?”…연 12% 적금으로 유혹하는 은행권, 조건...",
+      "desc": "우대금리 적금 경쟁 주식 시장 변동성에 지친 개인들이 저축에 관심을 보이며 금융권에 적금 출시 경쟁이 치열해지고 있다. 금융사는 카드 사용 실적과 적금 우대 금리를 연동하는 방식으로 카드 매출 증대와 수신...",
+      "link": "https://www.mk.co.kr/article/12141006",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005728484?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.3306,
+      "pubDate": "2026-09-01T01:06:00+00:00"
+    },
+    {
+      "title": "인터넷은행 ‘카·토·케’ 될까…12억원 차로 케이뱅크 따라붙은 토스...",
+      "desc": "대출 비교, 지급 결제, 투자 등 플랫폼 사업을 강화한 것이 실적을 견인했다. 체크카드 결제 규모가 2분기... 토스뱅크는 하반기 펀드 판매 개시와 주택담보대출 출시를 토대로 수익 확대에 더욱 힘을 실을 것으로...",
+      "link": "https://www.mk.co.kr/article/12140993",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005728474?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.3076,
+      "pubDate": "2026-09-01T00:57:00+00:00"
+    },
+    {
+      "title": "울산 ‘문수로 비스타 더파크’ 분양예…700세대 대단지·중소형 평면 선...",
+      "desc": "울산에서도 대단지의 경쟁력은 청약 성적을 통해 확인되고 있다. 한국부동산원 청약 홈 자료에 따르면 최근 3년간 울산시 전체 평균 청약 경쟁률은 2.98대 1인 반면, 700세대 이상 대단지는 4.55대 1로 집계됐다. 세부...",
+      "link": "https://www.etoday.co.kr/news/view/2619998",
+      "naver": "https://www.etoday.co.kr/news/view/2619998",
+      "host": "etoday.co.kr",
+      "score": 2.2747,
+      "pubDate": "2026-09-01T00:00:00+00:00"
+    },
+    {
+      "title": "9월 분양, 수도권 쏠림 '지속'…전문가 \"청약 시장, 눈치싸움 치열\"",
+      "desc": "따른 청약 옥석 가리기는 한층 심화될 전망이다. 1일 부동산 정보업체 직방의 9월 전국 분양예정 물량을... 입지와 분양가 경쟁력을 엄밀히 따지는 청약 수요의 차별화 현상이 더욱 뚜렷해질 것\"이라고 전망했다.",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=749447",
+      "naver": "https://www.econovill.com/news/articleView.html?idxno=749447",
+      "host": "econovill.com",
+      "score": 2.2662,
+      "pubDate": "2026-08-31T23:56:00+00:00"
+    },
+    {
+      "title": "[속보] 李 “‘금리 상승’ 취약 계층 고통 최소화해야... 재정 ‘정교한...",
+      "desc": "",
+      "link": "https://biz.chosun.com/policy/politics/president_office/2026/09/01/W6PDOCJDIJFPJJBV2VHALUV6DA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001189551?sid=100",
+      "host": "biz.chosun.com",
+      "score": 2.2489,
+      "pubDate": "2026-09-01T01:13:00+00:00"
     }
   ]
 }
