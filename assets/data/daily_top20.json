@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-09-13T00:30:59.445649Z",
+  "generatedAt": "2026-09-14T00:33:53.252319Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "금융위, '아파텔'에도 집단대출 총량규제 제외 검토한다",
-      "desc": "이달 분양을 시작한 목동윤슬자이 등 대단지 주거형 오피스텔이 시장에서 주목받는 가운데 은행권의... 제2금융권 관계자는 \"아파트 분양 시장이 얼어붙어 있다 보니 주거용 오피스텔 수요도 늘어나는 것 같다\"며 \"일단...",
-      "link": "https://www.yna.co.kr/view/AKR20260912043100002?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016306211?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.552,
-      "pubDate": "2026-09-12T20:57:00+00:00"
-    },
-    {
-      "title": "“서울 집값 못 버텨 인천 갔더니”…분양가 1년 새 1억1000만원 뛰었다",
-      "desc": "13일 부동산R114에 따르면 올해 인천 아파트 평균 3.3㎡당 2236만원으로 집계됐다. 인천에서 3.3㎡당... 한국부동산원의 매입자 거주지별 아파트 매매거래현황 자료를 보면 올해 상반기 인천 아파트 매매거래는 총...",
-      "link": "https://www.mk.co.kr/article/12151248",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005734307?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.492,
-      "pubDate": "2026-09-13T00:28:00+00:00"
-    },
-    {
-      "title": "[주간분양] 이주 '올 뉴 챔피언스시티 1차' 등 11곳 청약",
-      "desc": "13일 한국부동산원에 따르면 이달 14일부터 18일까지 전국에서 분양 및 공공지원민간임대 아파트와 오피스텔 11개 단지가 청약홈을 통해 입주자 모집 절차를 개시한다. 지역별로는 경기 분양 단지가 4개로 가장...",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061197",
-      "naver": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061197",
-      "host": "shinailbo.co.kr",
-      "score": 2.4648,
-      "pubDate": "2026-09-13T00:18:00+00:00"
-    },
-    {
-      "title": "서울 3대 공기업 채무 급증…서울에너지공사 5년새 3배로 껑충",
-      "desc": "SH공사의 경우 도시개발사업 추진에 따른 대규모 투자와 공공임대주택 사업의 수익성 제약, 분양사업의 선투자·후회수 구조에 따른 재무 변동성으로 차입금과 공사채가 증가한 것으로 분석됐다....",
-      "link": "https://www.yna.co.kr/view/AKR20260911094500004?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016306368?sid=102",
-      "host": "yna.co.kr",
-      "score": 2.4178,
-      "pubDate": "2026-09-13T00:00:00+00:00"
-    },
-    {
-      "title": "예금금리 뛰자 대출열기 식었다…가계대출 6개월 만에 감소",
-      "desc": "전세자금대출 역시 2497억원 감소했다. 가계대출과 주택담보대출, 신용대출, 전세자금대출이 모두 전월 말보다 감소한 것은 지난 1월 이후 8개월 만이다. 은행권에서는 가계대출 총량관리와 함께 가파르게 오른...",
-      "link": "https://www.fnnews.com/news/202609130908417115",
-      "naver": "https://n.news.naver.com/mnews/article/014/0005574785?sid=101",
-      "host": "fnnews.com",
-      "score": 2.3948,
-      "pubDate": "2026-09-13T00:29:00+00:00"
-    },
-    {
-      "title": "와이즈플래닛·빅웨이브로보틱스 일반청약[증시캘린더]",
-      "desc": "대상 청약을 진행한다. 멜콘과 진코스텍은 기관투자자 대상 수요예측에 나선다. 브릴스는 9월 15일까지 수요예측을 진행한 뒤 17~18일 일반청약을 이어간다. 9월 14~15일 △와이즈플래닛컴퍼니 일반청약 -자체...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=01230006645579792&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006368310?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.3755,
-      "pubDate": "2026-09-13T00:03:00+00:00"
-    },
-    {
-      "title": "천안 아이파크 시티 3·4단지 견본주택 개관, 1628가구 분양",
-      "desc": "청약은 9월 14일 특별공급을 시작으로 15일 1순위, 16일 2순위 접수를 진행한다. 당첨자는 3단지 9월 22일, 4단지 23일 발표하며 정당계약은 10월 7일부터 9일까지다. 견본주택은 아산시 배방읍 장재리 일원에 마련됐다....",
-      "link": "https://www.viva100.com/article/20260913500077",
-      "naver": "https://www.viva100.com/article/20260913500077",
-      "host": "viva100.com",
-      "score": 2.3634,
-      "pubDate": "2026-09-12T23:38:00+00:00"
-    },
-    {
-      "title": "3%대 예금 속속 등장...은행권 자금 쟁탈전 본격화",
-      "desc": "전세자금대출도 2497억원 감소했다. 가계대출뿐 아니라 주택담보대출과 신용대출, 전세대출이 모두 전월 말보다 감소한 것은 올해 1월 이후 8개월 만이다. 대출 수요가 둔화한 배경으로는 금리 상승과 금융당국 및...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=226972",
-      "naver": "https://www.youthdaily.co.kr/news/article.html?no=226972",
-      "host": "youthdaily.co.kr",
-      "score": 2.3436,
-      "pubDate": "2026-09-13T00:10:00+00:00"
-    },
-    {
-      "title": "[기획] 정부는 실수요자 대출 규제, 삼성전자는 사내대출 확대…자산격...",
-      "desc": "역대급 성과급 등 상대적으로 안정적인 소득과 복지제도를 갖춘 대기업 임직원은 저금리 사내대출을... 주택 매매자금은 최대 5억원까지 연 1.5% 금리로 지원한다. 수도권과 광역시에서는 25억원 이하이면서 전용면적 85...",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1412848",
-      "naver": "https://www.m-i.kr/news/articleView.html?idxno=1412848",
-      "host": "m-i.kr",
-      "score": 2.3178,
-      "pubDate": "2026-09-13T00:00:00+00:00"
-    },
-    {
-      "title": "\"금리 흔들려도 AI 성장 유효\"…코스피 7000선 안착할까 [주간전망]",
-      "desc": "상승 요인으로는 인공지능(AI) 모델 아스트라 효과를, 하락 요인으로는 시장 금리 추가 상승 가능성을 언급했다. 이 증권사 이상준 연구원은 \"금리 변동성이 높은 국면이지만 AI 산업의 변화에도 주목할 시점\"이라며...",
-      "link": "https://www.hankyung.com/article/2026091179876",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005331639?sid=101",
+      "title": "보유세 강화 예고에도…6개월 새 4억 뛴 서울 신축",
+      "desc": "14일 부동산 업계에 따르면 올해 서울에서 분양한 단지들은 높은 청약 경쟁률을 기록했다. 대우건설이 지난 5월 동작구 흑석동에 공급한 '써밋더힐'은 특별공급을 제외한 1순위 청약에서 211가구를 모집했다....",
+      "link": "https://www.hankyung.com/article/2026091420336",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005331883?sid=101",
       "host": "hankyung.com",
-      "score": 2.279,
-      "pubDate": "2026-09-12T23:01:00+00:00"
+      "score": 2.9855,
+      "pubDate": "2026-09-13T23:50:00+00:00"
     },
     {
-      "title": "美국채금리 불붙었는데...美재무장관의 ‘위험한 변질’[이태규의 워싱...",
-      "desc": "미국 국채금리가 급등하는 가운데 이를 진화해야 할 스콧 베선트 재무장관이 과연 제 역할을 할 수 있을지... 우선 지난 11일(현지 시간) 미국 10년물 국채금리는 0.004%포인트 오른 4.968%에 장을 마쳤다. 장중 5%를 넘기도...",
-      "link": "https://www.sedaily.com/article/20090173?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004661200?sid=104",
+      "title": "“같은 동네 맞아?”…브랜드 유무에 아파트값 수천만원 차이 갈렸다",
+      "desc": "이어질까 부동산 시장에서 입지와 상품 조건이 비슷한 주거지라도 가격 흐름에는 차이가 나타나고 있다.... 14일 한국부동산원 청약홈에 따르면 올해 1~6월 시공능력평가 상위 10대 건설사가 전국에 분양한 브랜드 단지...",
+      "link": "https://www.mk.co.kr/article/12151701",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005734632?sid=101",
+      "host": "mk.co.kr",
+      "score": 2.9206,
+      "pubDate": "2026-09-14T00:04:00+00:00"
+    },
+    {
+      "title": "송파·위례 더그리드 첫 분양...'힐스테이트 송파더그리드' 14일 청약접...",
+      "desc": "아파트는 주택가격 구간별로 대출 한도가 일률적으로 정해져 있지만, 오피스텔은 제한을 받지 않아 담보인정비율(LTV)이 최대 70%까지 적용받는다. 다만 실제 대출 가능액은 총부채원리금상환비율(DSR) 등 개인 여건에...",
+      "link": "https://realty.chosun.com/site/data/html_dir/2026/09/14/2026091400858.html",
+      "naver": "https://realty.chosun.com/site/data/html_dir/2026/09/14/2026091400858.html",
+      "host": "realty.chosun.com",
+      "score": 2.5841,
+      "pubDate": "2026-09-14T00:28:00+00:00"
+    },
+    {
+      "title": "강신철 부자 ‘철거민 특공 막차’… 보상공고 이틀 뒤 분양서 임대로",
+      "desc": "보상공고 이틀 뒤 분양 특공 폐지 철거민 지원은 장기전세로 전환 후보자 측 “정상 절차로 청약” 강신철... 아파트에 청약할 수 있었다. 신규 택지에서 공급되는 아파트 물량 일부를 철거민 몫으로 배정하는...",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/14/KBXY25TUONGRJAIKQMBG6N5LSE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001192086?sid=101",
+      "host": "biz.chosun.com",
+      "score": 2.5553,
+      "pubDate": "2026-09-13T21:02:00+00:00"
+    },
+    {
+      "title": "금융투자상품 속 '위험'과 금융분쟁 [양동운의 금융 관찰기]",
+      "desc": "예컨대, 주식투자는 해당 종목의 기업가치와 위험, 선박 투자는 해당 선박의 가치(용선료의 현금흐름)와 위험, 리츠(REITs) 투자는 해당 건물(분양대금과 임대료의 현금흐름)의 가치와 위험 등을 분석해 투자할 만할 경우...",
+      "link": "https://www.hankyung.com/article/202609131200i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005331891?sid=102",
+      "host": "hankyung.com",
+      "score": 2.5309,
+      "pubDate": "2026-09-14T00:08:00+00:00"
+    },
+    {
+      "title": "이소영, 中企 지원 ‘성장·스케일업 중심’ 전환 예고",
+      "desc": "새도약기금과 새출발기금 등 채무 조정 제도와 관련해서는 성실 상환자가 불이익을 받지 않도록 금리·대출 한도 우대를 확대해야 한다고 강조했다. 채무 조정 대상자에게는 컨설팅과 사업화 지원을 연계하고 위기 징후를...",
+      "link": "https://biz.chosun.com/industry/business-venture/2026/09/14/MZUPRXCJMBCUNKYZKVTSFVPHZM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001192113?sid=101",
+      "host": "biz.chosun.com",
+      "score": 2.4954,
+      "pubDate": "2026-09-13T23:54:00+00:00"
+    },
+    {
+      "title": "인천시, 소상공인 ‘505억 특례보증’…추석 자금난 던다",
+      "desc": "대출 한도는 업체당 최대 5000만원으로 1년 거치 5년 분할상환 조건이다. 고금리 부담을 덜어주기 위한 이차보전 혜택도 지원된다. 대출 첫해에는 연 2.0%, 이후 2년간은 연 1.5%의 이자를 시가 대신 부담한다. 보증료율도...",
+      "link": "https://www.sedaily.com/article/20090406?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004661436?sid=102",
       "host": "sedaily.com",
-      "score": 2.2702,
-      "pubDate": "2026-09-13T00:20:00+00:00"
+      "score": 2.4757,
+      "pubDate": "2026-09-13T23:46:00+00:00"
     },
     {
-      "title": "[노을 딥시크④]유증 때 맺은 RP의 후유증…최대주주 지분 400만주 외부...",
-      "desc": "당시 엠씨드는 유증에서 배정받은 222만969주 중 약 10%인 22만2096주를 주당 1788원에 청약했다. 취득대금은 약 4억원이었다. 나머지 신주인수권 대부분은 매각했다. 반면 RP 계약에 묶인 엠씨드 기존 노을 주식은 갈수록...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=01174246645579792&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006368294?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.2421,
-      "pubDate": "2026-09-12T23:07:00+00:00"
+      "title": "천안 분양시장 3000가구 큰장…아이파크·푸르지오 나란히 출격",
+      "desc": "성성호수 생활권과 두정역 인근에서 각각 대단지가 청약에 나서는 가운데, 천안이 최근 미분양관리지역으로 지정되면서 실제 청약 수요가 얼마나 따라붙을지가 관심사다. 14일 분양업계에 따르면...",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571322996310",
+      "naver": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571322996310",
+      "host": "megaeconomy.co.kr",
+      "score": 2.4413,
+      "pubDate": "2026-09-14T00:12:00+00:00"
     },
     {
-      "title": "[정비사업탐방] 둘로 쪼개진 상대원2구역 재개발, 갈등 봉합은 '요원'",
-      "desc": "비대위 관계자는 \"사업비 대출 한도가 5600억원인데 그 중에서 5400억원을 썼다\"며 \"허그 보증 대출 만기가 내년 5월로 다가온 상황이라 그전에 일반분양을 진행해 빨리 갚아야 한다\"고 말했다. 관계자에 따르면 판자촌...",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1412756",
-      "naver": "https://www.m-i.kr/news/articleView.html?idxno=1412756",
-      "host": "m-i.kr",
-      "score": 2.2178,
-      "pubDate": "2026-09-13T00:00:00+00:00"
+      "title": "[신축 뜯어보기] [목동윤슬자이] 33억 오피스텔…“목동 아파트가 낫다...",
+      "desc": "청약과 대출 문턱이 아파트보다 낮다는 점도 분양 측의 주요 판매 전략이다. 청약통장이나 주택 소유 여부와 관계없이 만 19세 이상이면 청약할 수 있다. 사업자 측은 LTV가 최대 70%까지 적용될 수 있어 고가...",
+      "link": "https://news.dealsitetv.com/articles/175703",
+      "naver": "https://news.dealsitetv.com/articles/175703",
+      "host": "news.dealsitetv.com",
+      "score": 2.4192,
+      "pubDate": "2026-09-13T23:22:00+00:00"
     },
     {
-      "title": "\"67% 폭락에도 또?\"…'AI 천재'가 SK하이닉스 다시 찍은 이유 [김주완의...",
-      "desc": "로이터통신에 따르면 JP모간은 SA와의 대출 관계를 종료했다. SA는 전문 브로커 클리어스트리트와 새로 거래하기 시작했다. 골드만삭스·씨티·뱅크오브아메리카는 여전히 브로커로 활동한다. 투자한 기업의...",
-      "link": "https://www.hankyung.com/article/202609120496i",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005331632?sid=101",
-      "host": "hankyung.com",
-      "score": 2.1594,
-      "pubDate": "2026-09-12T22:01:00+00:00"
+      "title": "동원개발 ‘문수로 비스타 더파크’, 18일 견본주택 개관…22일 1순위 청...",
+      "desc": "분양 일정은 18일 견본주택 개관을 시작으로 21일 특별공급, 22일 1순위 청약, 23일 2순위 청약을 진행한다. 당첨자 발표는 10월 1일이며 정당계약은 10월 12일부터 14일까지 진행할 예정이다. 1순위 청약 자격과 지역별...",
+      "link": "https://www.segye.com/newsView/20260911511799?OutUrl=naver",
+      "naver": "https://n.news.naver.com/mnews/article/022/0004158737?sid=101",
+      "host": "segye.com",
+      "score": 2.4155,
+      "pubDate": "2026-09-14T00:02:00+00:00"
     },
     {
-      "title": "대형 건설사, '브랜드타운'으로 뭉친다...벌어지는 정비사업 양극화",
-      "desc": "13일 한국부동산원 청약홈에 따르면 올해 상반기 10대 건설사 브랜드로 전국에 공급된 51개 단지(일반분양 1만9917가구)에는 19만6206명이 1순위로 청약해 평균 9.85대 1의 경쟁률을 기록했다. 같은 기간 비브랜드 아파트...",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026091110364229158",
-      "naver": "https://www.newsway.co.kr/news/view?ud=2026091110364229158",
-      "host": "newsway.co.kr",
-      "score": 2.1576,
-      "pubDate": "2026-09-12T22:00:00+00:00"
+      "title": "새옥동 '문수로 비스타 더파크', 18일 견본주택 오픈",
+      "desc": "분양 일정은 이달 18일 견본주택 오픈을 시작으로 21일 특별공급, 22일 1순위, 23일 2순위 청약 순으로... 청약통장 가입 기간 6개월 이상, 지역·면적별 예치금을 충족한 만 19세 이상 울산·부산·경남 거주자는 세대주...",
+      "link": "http://www.koreastocknews.com/news/articleView.html?idxno=121188",
+      "naver": "http://www.koreastocknews.com/news/articleView.html?idxno=121188",
+      "host": "koreastocknews.com",
+      "score": 2.4104,
+      "pubDate": "2026-09-14T00:00:00+00:00"
     },
     {
-      "title": "3%대 중반 넘긴 시중은행 예금 금리…대출 증가세는 꺾여",
-      "desc": "전세자금대출도 2천497억원 줄었다. 5대 은행의 가계대출을 비롯해 주택담보대출, 신용대출, 전세대출 등이 일제히 전월 말 대비 감소한 것은 올해 1월 이후 8개월 만에 처음이다. 이런 흐름은 최근 대출 금리...",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=765729",
-      "naver": "https://www.slist.kr/news/articleView.html?idxno=765729",
-      "host": "slist.kr",
-      "score": 2.1514,
-      "pubDate": "2026-09-12T22:48:00+00:00"
+      "title": "신한증권, '신한 프리미어 발행어음' 특판 출시",
+      "desc": "이번 특판은 약정형 6개월물이며 세전 연 4.50% 금리를 적용한다. 총한도는 300억원이고 소진 시 조기 종료될 수 있다. 최소 가입금액은 100만원, 1인당 최대 가입 한도는 3억원이다. 중도 해지 시 약정이율의 50%가...",
+      "link": "https://www.yna.co.kr/view/AKR20260914036000008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016308004?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3813,
+      "pubDate": "2026-09-14T00:27:00+00:00"
     },
     {
-      "title": "“대출·세금 복잡해도 역세권은 못 참지”…청약 경쟁률 수백 대 1 아파...",
-      "desc": "청약 흥행 15곳 중 12곳 ‘역세권’ 서울 서초 경쟁률 1000대 1 대구도 세자릿 수 경쟁 ‘쑥’... 교통은 물론 상업·편의시설 이용이 편리해 실거주 만족도가 높은 데다 향후 집값 상승 기대감까지 더해지면서 청약과...",
-      "link": "https://www.mk.co.kr/article/12151052",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005734208?sid=101",
+      "title": "베선트 \"3% 성장시 위기 극복\"…현실서 가능할까?",
+      "desc": "WSJ, 90년대 이후 지속적 3% 성장한 적 없어 미국의 재정 적자와 국가부채 위기에 대한 우려로 국채금리가... 생산성이 높아지면 예상 투자수익률이 상승해 차입 자금에 대한 수요가 증가하고, 이는 금리 상승으로 이어질...",
+      "link": "https://www.yna.co.kr/view/AKR20260914024900009?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016307987?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3651,
+      "pubDate": "2026-09-14T00:21:00+00:00"
+    },
+    {
+      "title": "트럼프 “금리 안내리면 몇몇 적자국가와 교역 중단”…또다시 연준 압...",
+      "desc": "도널드 트럼프 미국 대통령이 연방준비제도(Fed·연준)의 금리 인하를 압박하며 금리를 내리지 않을 경우 무역 적자국과의 교역을 중단할 수 있다고 거듭 경고했다. 13일(현지시간) 아일랜드 방문을 마치고 귀국하기 전...",
+      "link": "https://www.mk.co.kr/article/12151703",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005734634?sid=104",
       "host": "mk.co.kr",
-      "score": 2.1415,
-      "pubDate": "2026-09-12T05:25:00+00:00"
+      "score": 2.3387,
+      "pubDate": "2026-09-14T00:11:00+00:00"
     },
     {
-      "title": "[금융 Pick] 우리금융그룹, 아이들 공부방 다시 세운다…거제 30가구 긴...",
-      "desc": "집중호우가 발생하면 금융권은 통상 피해 고객에 대한 긴급생활안정자금, 대출 만기 연장, 금리 우대와 함께 성금·생필품 등을 지원해왔다. 반면 우리다문화장학재단은 '아이들이 어디에서 다시 공부할 것인가'라는...",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=208175",
-      "naver": "https://www.lcnews.co.kr/news/articleView.html?idxno=208175",
-      "host": "lcnews.co.kr",
-      "score": 2.1332,
-      "pubDate": "2026-09-13T00:06:00+00:00"
+      "title": "서울 토지거래허가 신청 4개월째 내림세…가격은 권역별 양극화",
+      "desc": "한 부동산 시장 전문가는 \"대출 규제 지속과 기준금리 인상으로 매수자들의 자금 마련 부담이 커진... 【 청년일보=김재두 기자 】 서울 송파구의 한 부동산 중개업소 앞 모습. [사진=연합뉴스]",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=226991",
+      "naver": "https://www.youthdaily.co.kr/news/article.html?no=226991",
+      "host": "youthdaily.co.kr",
+      "score": 2.3155,
+      "pubDate": "2026-09-14T00:02:00+00:00"
     },
     {
-      "title": "美 장기채 쇼크에 번지는 공포…한은의 '입' 더 독해질까",
-      "desc": "이투데이=배근미 기자 | 美 10년물 국채 금리 '5% 돌파' 위협…물가 불안·수급 충격 여파 한은, 미 국채 급등 배경 AI 투자·재정적자發 실질금리 상승 지목 미 국채 충격 후폭풍, 韓 대출금리·환율·내수까지 전방위적 영향...",
-      "link": "https://www.etoday.co.kr/news/view/2624585",
-      "naver": "https://www.etoday.co.kr/news/view/2624585",
-      "host": "etoday.co.kr",
-      "score": 2.1332,
-      "pubDate": "2026-09-13T00:06:00+00:00"
+      "title": "\"판매 전 과정 손질\" 새마을금고, 금소법 도입 위해 선제 대응",
+      "desc": "새마을금고 상품에 청약철회권, 자료열람권 등 소비자 권리 사항을 반영했다. 대출 심사 과정에서도 소비자의... 공제·예금·카드 등 상품설명서에 중요사항 설명, 소비자 불이익 안내, 위험요인 고지, 청약철회권과...",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7183990",
+      "naver": "https://weekly.hankooki.com/news/articleView.html?idxno=7183990",
+      "host": "weekly.hankooki.com",
+      "score": 2.3104,
+      "pubDate": "2026-09-14T00:00:00+00:00"
     },
     {
-      "title": "신용 대신 기술 본다…수은, 벤처에 최대 50억원 대출",
-      "desc": "기술력을 평가해 최대 50억원을 빌려주고 투자와 대출을 연계하는 한편, 경영 정상화 기업에는 연 1% 금리와... 특례대출에는 우량 중소기업 수준의 금리를 적용하고 비수도권 기업에는 추가 우대금리를 제공한다. 기업의...",
-      "link": "https://www.dt.co.kr/article/12083538?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/029/0003047591?sid=101",
-      "host": "dt.co.kr",
-      "score": 2.1076,
-      "pubDate": "2026-09-12T23:56:00+00:00"
+      "title": "은행권, 정기예금 최고 3.6%…가계대출은 이달 들어 감소",
+      "desc": "전세자금대출도 2497억원 줄었다. 가계대출과 주담대, 신용대출, 전세대출이 모두 전월 말보다 줄어든 것은 지난 1월 이후 8개월 만이다. 대출금리의 기준이 되는 시장금리는 상승하고 있다. 주담대 주기·혼합형...",
+      "link": "https://sateconomy.co.kr/news/view/1065616598965135",
+      "naver": "https://sateconomy.co.kr/news/view/1065616598965135",
+      "host": "sateconomy.co.kr",
+      "score": 2.3104,
+      "pubDate": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "title": "외면받던 오피스텔에 다시 눈길…아파트값 급등에 ‘대체재’ 부상하나",
+      "desc": "아파트 가격 상승으로 자금 부담이 커지자 청약통장이 필요 없고 대출 규제에서도 비교적 자유로운... 이에 청약통장이 필요 없고 상대적으로 규제 문턱이 낮은 오피스텔로 실수요가 옮겨가고 있다는 분석이다. 이...",
+      "link": "https://www.dailian.co.kr/news/view/1689322/?sc=Naver",
+      "naver": "https://n.news.naver.com/mnews/article/119/0003132178?sid=101",
+      "host": "dailian.co.kr",
+      "score": 2.309,
+      "pubDate": "2026-09-13T22:30:00+00:00"
+    },
+    {
+      "title": "9월 셋째주 분양시장, 서울 오피스텔·지방 대단지 몰렸지만…양극화 여...",
+      "desc": "가을 성수기를 맞아 물량은 늘었지만, 서울과 지방의 청약 온도 차는 오히려 더 벌어지는 모습이다. ◆ 송파 '13조 복합개발' 첫 공급… 현대건설 오피스텔 1393실 14일 청약 14일 서울 송파구 복정역 인근에서...",
+      "link": "https://www.betanews.net/article/view/beta202609130001",
+      "naver": "https://www.betanews.net/article/view/beta202609130001",
+      "host": "betanews.net",
+      "score": 2.2749,
+      "pubDate": "2026-09-13T23:02:00+00:00"
+    },
+    {
+      "title": "코스피 3% 급락 출발…SK하이닉스 5%대↓ [코주부]",
+      "desc": "(Fed·연준)의 금리 인상 가능성까지 커지면서 위험 회피 심리가 확산한 것으로 풀이된다. 한국거래소에... 미국의 금리 인상 가능성이 높아진 점도 증시의 부담으로 작용했다. 미국의 8월 헤드라인 CPI와 근원 CPI는...",
+      "link": "https://www.sedaily.com/article/20090439?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004661460?sid=101",
+      "host": "sedaily.com",
+      "score": 2.2571,
+      "pubDate": "2026-09-14T00:18:00+00:00"
     }
   ]
 }
