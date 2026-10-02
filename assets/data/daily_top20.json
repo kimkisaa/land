@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-10-01T01:43:48.647737Z",
+  "generatedAt": "2026-10-02T01:54:53.531629Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "\"서울도 아닌데 19억?\"…3억4000만원이었던 '이 동네'",
-      "desc": "동안 공사비와 땅값 등 공급 비용도 함께 오를 수 있어서다. 다만 청약을 검토할 때는 초기 공급이라는 이유만으로 향후 가격 상승을 기대하기보다 사업 속도와 교통계획, 분양가 경쟁력 등을 함께 따져봐야 한다.",
-      "link": "https://www.hankyung.com/article/2026100164226",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005337955?sid=101",
+      "title": "'국민평형'보다 큰 집 잘 팔렸다…가격 상승률도 평균의 3배",
+      "desc": "청약시장에서도 넓은 주택형에 수요가 몰리는 사례가 나왔다. 지난 4월 충남 아산에서 분양한 ‘아산탕정자이 메트로시티’에서는 전용 125㎡A의 1순위 경쟁률이 67.5대 1로 전체 10개 주택형 가운데 가장 높았다. 전용...",
+      "link": "https://www.hankyung.com/article/2026100292266",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005338442?sid=101",
       "host": "hankyung.com",
-      "score": 2.8353,
-      "pubDate": "2026-09-30T23:53:00+00:00"
+      "score": 2.7763,
+      "pubDate": "2026-10-01T23:34:00+00:00"
     },
     {
-      "title": "트럼프·빅테크 ‘AI 자율규제’ 합의…내부통제·외부감사 의무화",
-      "desc": "▶기사 바로가기: 은행 예금 80%가 법인 몫…만기까지 짧아져 대출금리 더 뛴다 ▶기사 바로가기: 현대모비스, 6000억원에 램프사업 매각 확정…내년 4월 물적분할 ▶기사 바로가기: 9월에도 21.5조 팔아치운 외인...",
-      "link": "https://www.sedaily.com/article/20096919?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004667178?sid=101",
-      "host": "sedaily.com",
-      "score": 2.6882,
-      "pubDate": "2026-10-01T01:01:00+00:00"
-    },
-    {
-      "title": "시민사회 \"정부 주거안정플랜, 취약계층 지원방안 부족\"",
-      "desc": "한편 서동규 민달팽이유니온 위원장은 \"민간임대주택 세입자 측면에서 관리비 투명성 강화와 청년월세지원 확대는 의미 있는 진전이지만, 전세사기 예방을 위해서는 보다 적극적인 조치가 필요하다\"며 \"민간임대주택의...",
-      "link": "https://www.yna.co.kr/view/AKR20261001066600004?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016349425?sid=102",
-      "host": "yna.co.kr",
-      "score": 2.6337,
-      "pubDate": "2026-10-01T01:19:00+00:00"
-    },
-    {
-      "title": "M&A시장 한파에도…UBS, 재무자문 1위 탈환[2026년 3분기 리그테이블]",
-      "desc": "세계 각국 중앙은행의 기준금리 인상과 정치권의 사모펀드(PEF) 규제 강화 등으로 기업 인수합병(M&A) 시장과 국내 PEF들의 투자활동이 위축된 데 따른 영향으로 풀이된다. 다만 일부 대기업그룹이 비핵심 계열사와...",
-      "link": "https://www.hankyung.com/article/202609304285r",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005338019?sid=101",
+      "title": "쇼핑 천조국 미국…소비로 성장하는 경제[박신영의 월가 아나토미]",
+      "desc": "미국 국채금리는 고공행진하고 있고, 인플레이션도 좀처럼 잡히지 않고 있습니다. 금리 상승으로 대출 이자 부담은 커지고, 인플레이션으로 장바구니 물가도 오르고 있습니다. 그런데도 미국인들의 소비는 멈추지...",
+      "link": "https://www.hankyung.com/article/202610029519i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005338506?sid=104",
       "host": "hankyung.com",
-      "score": 2.5906,
-      "pubDate": "2026-10-01T01:02:00+00:00"
+      "score": 2.7386,
+      "pubDate": "2026-10-02T01:32:00+00:00"
     },
     {
-      "title": "[단독] 전세사기로 떠안은 집…‘생애최초 LTV 기회’ 날아가지 않는다",
-      "desc": "앞서 금융당국은 지난 8·13 부동산 대책을 통해 과거 주택 보유 이력이 있더라도 미성년자 때 주택 지분을 상속받는 등 불가피한 사유가 있는 경우 금융회사 여신심사위원회 심사를 거쳐 생애최초 LTV를 적용할 수 있도록...",
-      "link": "https://www.mk.co.kr/article/12165693",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005742426?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.5711,
-      "pubDate": "2026-10-01T00:54:00+00:00"
-    },
-    {
-      "title": "전세사기로 떠안은 집 있어도 '생애최초 LTV' 혜택받는다",
-      "desc": "앞서 금융당국은 8·13 부동산 대책을 통해 불가피한 사유가 있으면, 집 보유 이력이 있더라도 대출 시 금융회사 심사를 거쳐 담보 인정 비율, LTV에 대해 생애 최초 혜택을 받을 수 있도록 했습니다. 규제 지역에서...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000337735?division=NAVER",
-      "naver": "https://n.news.naver.com/mnews/article/374/0000535777?sid=101",
-      "host": "biz.sbs.co.kr",
-      "score": 2.5337,
-      "pubDate": "2026-10-01T01:19:00+00:00"
-    },
-    {
-      "title": "“청주 집값, 남쪽으로 이동”…활황 이끄는 ‘신분평’의 부상",
-      "desc": "청주 부동산시장의 중심축이 남쪽으로 이동하고 있다. 최근 청주는 신규 분양시장이 활기를 되찾은 가운데... 이런 가운데 부동산디벨로퍼 HM그룹이 신분평지구에서 총 3948가구 규모의 대단위 브랜드타운을 조성할...",
-      "link": "https://www.mk.co.kr/article/12165778",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005742460?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.4898,
-      "pubDate": "2026-10-01T01:40:00+00:00"
-    },
-    {
-      "title": "금융위, 금리 인상기 리스크 점검… 채권시장 안정 대책 마련",
-      "desc": "관계기관 합동으로 지난 8월 28일 발표한 ‘금리 상승기 대비 취약차주 지원방안’을 차질 없이 추진하고, 대출금리 상승 동향과 취약 부문별 상환 부담 가중 가능성을 면밀하게 점검하기로 했다. 필요할 경우 보완 방안도...",
-      "link": "https://biz.chosun.com/stock/finance/2026/10/01/TE3ODVU63RBJ5HLILRANY7EUXY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001195515?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.4882,
-      "pubDate": "2026-10-01T01:01:00+00:00"
-    },
-    {
-      "title": "GH ‘지분적립형 분양주택’…지역상생 ‘최우수’",
-      "desc": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 제도개선도 이끌어냈다. 금융위원회 법령해석을 받아 전용 대출상품 개발 기반을 마련했으며 법인세 및 보유세 부담을 완화했다. 특별공급 대상에 청년과 신생아...",
-      "link": "https://www.naeil.com/news/read/603875?ref=naver",
-      "naver": "https://www.naeil.com/news/read/603875?ref=naver",
-      "host": "naeil.com",
-      "score": 2.4614,
-      "pubDate": "2026-10-01T00:50:00+00:00"
-    },
-    {
-      "title": "경매로 번진 경기둔화…지방·비아파트부터 ‘경고등’",
-      "desc": "대출을 갚지 못하거나 전세보증금을 돌려주지 못해 법원으로 넘어오는 사건이 늘었다. 지방과 비아파트는... 법원행정처는 기준금리 인상과 전세보증금 미반환 사고 증가를 주요 원인으로 꼽았다. 전세사기...",
-      "link": "http://www.metroseoul.co.kr/article/20261001500063",
-      "naver": "http://www.metroseoul.co.kr/article/20261001500063",
-      "host": "metroseoul.co.kr",
-      "score": 2.4104,
-      "pubDate": "2026-10-01T00:28:00+00:00"
-    },
-    {
-      "title": "\"4년 만에 최악의 9월\"…美국채, 더 잔인한 10월 오나",
-      "desc": "매슈 스콧 얼라이언스번스타인 글로벌 트레이딩 책임자는 모기지담보증권(MBS)을 대량 보유한 헤지펀드와 리츠(부동산투자신탁)가 장기 국채를 대거 팔았다고 전했다. 금리가 오르면 주택 대출 조기 상환이 줄어 MBS의...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=03007766645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006378295?sid=101",
-      "host": "edaily.co.kr",
-      "score": 2.3832,
-      "pubDate": "2026-10-01T00:38:00+00:00"
-    },
-    {
-      "title": "[특징주] 브릴스, 코스닥 상장 첫날 장 초반 급등",
-      "desc": "일반 투자자 대상 공모주 청약에서 1천676.26대 1의 경쟁률을 기록했고 청약 증거금으로 약 4조9천31억원이 모였다. 앞서 진행한 수요 예측에서 1천187.74대 1의 경쟁률을 기록했고 공모가는 희망 범위(1만6천500...",
-      "link": "https://www.yna.co.kr/view/AKR20261001038700008?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016349020?sid=101",
+      "title": "공정위 증원 몫 상임위원에 김자봉 금융연구원 선임연구위원",
+      "desc": "특히 여러 인터뷰와 논문 등에서 차주의 신용 등급과 담보 등을 토대로 예상되는 손실 위험을 반영하는 현재의 대출금리 체계 대신 차주의 부도로 인한 금융시스템 전체에 미치는 충격까지 반영하는 방향으로 바뀌어야...",
+      "link": "https://www.yna.co.kr/view/AKR20261002062900002?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016352829?sid=101",
       "host": "yna.co.kr",
-      "score": 2.3773,
-      "pubDate": "2026-10-01T00:13:00+00:00"
+      "score": 2.6079,
+      "pubDate": "2026-10-02T01:20:00+00:00"
     },
     {
-      "title": "로봇 솔루션 기업 브릴스, 코스닥 상장 첫날 135% 급등 [이런국장 저런...",
-      "desc": "지난달 17~18일 진행한 일반투자자 대상 청약에서 1676.26대 1의 경쟁률을 기록했으며 청약 증거금은 약 4조 9031억 원, 청약 건수는 11만 3800건으로 집계됐다. 앞서 기관투자자 대상 수요예측에는 국내외 2181개...",
-      "link": "https://www.sedaily.com/article/20096937?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004667170?sid=101",
-      "host": "sedaily.com",
-      "score": 2.3711,
-      "pubDate": "2026-10-01T00:54:00+00:00"
+      "title": "순천만에서 확인된 국가정원 효과... 34만평 정원 인접 '쌍용 더 플래티...",
+      "desc": "단지는 비규제지역으로 청약통장 가입 기간이 12개월 이상이면 1순위 자격이 부여되며, 실거주 의무와 재당첨 제한이 없다. 여기에 주택담보대출비율(LTV)도 최대 70%(생애 최초 80%)까지 적용될 전망이다. 업계 관계자는...",
+      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31753",
+      "naver": "https://www.rcast.co.kr/news/articleView.html?idxno=31753",
+      "host": "rcast.co.kr",
+      "score": 2.4034,
+      "pubDate": "2026-10-02T00:36:00+00:00"
     },
     {
-      "title": "HUG, 공인중개사협회와 '전월세 안심신탁' 활성화 방안 논의",
-      "desc": "한편, 안심신탁은 임차인의 전세보증금을 HUG가 직접 예치하고 관리하는 대신 임대인에게는 전세금 운용 수익을 주는 임대차 모델이다. 보증금이 집주인 손을 거치지 않기 때문에 전세사기를 원천적으로 막을 수 있고...",
-      "link": "https://www.nocutnews.co.kr/news/6585606?utm_source=naver&utm_medium=article&utm_campaign=20261001103009",
-      "naver": "https://n.news.naver.com/mnews/article/079/0004194590?sid=102",
-      "host": "nocutnews.co.kr",
-      "score": 2.3653,
-      "pubDate": "2026-10-01T01:31:00+00:00"
+      "title": "\"브로드컴, 앤트로픽에 57조원 대출\"…'순환금융' 지적",
+      "desc": "미국 반도체업체 브로드컴이 인공지능(AI) 개발기업 앤트로픽에 420억달러(약 57조2천억원)를 대출해주기로... 브로드컴의 경쟁사인 엔비디아도 최근 수년간 강력한 자금력을 바탕으로 수요 기업들에 대출해주는 등 칩...",
+      "link": "https://www.yna.co.kr/view/AKR20261002060000009?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016352944?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3731,
+      "pubDate": "2026-10-02T01:45:00+00:00"
     },
     {
-      "title": "\"불송치 받아도 계약취소는 남는다\"… 캡틴법률사무소, 주택법 위반 대...",
-      "desc": "부정청약 의심을 받은 당첨자에게 경찰 수사는 첫 관문일 뿐이다. 형사 절차에서 혐의없음 결정을 받더라도 시행사나 재건축·재개발 조합이 공급계약 취소를 통보하는 경우가 있고, 이때는 계약금 몰취와 수분양자 지위를...",
-      "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=91342",
-      "naver": "https://www.mediafine.co.kr/news/articleView.html?idxno=91342",
-      "host": "mediafine.co.kr",
-      "score": 2.324,
-      "pubDate": "2026-10-01T00:34:00+00:00"
+      "title": "“최대 800만원 구매 혜택”…쉐보레, 10월 가을 나들이 프로모션",
+      "desc": "트랙스 크로스오버·트레일블레이저 구매자는 같은 금리 조건의 할부와 50만원의 유류비 지원을 이용할 수 있다. 쉐보레는 생산 시점에 따라 최대 100만원의 재고 할인도 제공한다. 쉐보레는 100만원 특별 할인 대상...",
+      "link": "https://www.mk.co.kr/article/12166953",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005743088?sid=103",
+      "host": "mk.co.kr",
+      "score": 2.3624,
+      "pubDate": "2026-10-02T01:41:00+00:00"
     },
     {
-      "title": "결국 드러나는 대단지의 저력... 입주 후 신고가 쓴 수도권 단지들의 반...",
-      "desc": "3㎡당 평균 3998만원의 분양가로 고분양가 논란을 겪었고, 과천 거주자 대상 1순위 청약에서는 물량의 절반... 2022년 12월 3804세대 대단지로 분양에 나섰지만 금리가 가파르게 오르던 시기와 맞물려 1순위 청약 경쟁률이...",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=882299",
-      "naver": "https://www.getnews.co.kr/news/articleView.html?idxno=882299",
-      "host": "getnews.co.kr",
-      "score": 2.3211,
-      "pubDate": "2026-09-30T23:46:00+00:00"
+      "title": "40대 이하 청약자 83.8%…교육환경 갖춘 ‘옥정중앙역 디에트르Ⅱ’ 10월...",
+      "desc": "부동산 리서치업체 리얼투데이가 한국부동산원 청약홈 자료를 분석한 결과, 올해 7월 27일 기준 지방 분양 아파트 가운데 청약 경쟁률 상위 5개 단지는 모두 학교와 가깝거나 학교 신설이 예정된 단지였다. 대구...",
+      "link": "https://www.ddaily.co.kr/page/view/2026100209540205988",
+      "naver": "https://n.news.naver.com/mnews/article/138/0002243464?sid=101",
+      "host": "ddaily.co.kr",
+      "score": 2.3469,
+      "pubDate": "2026-10-02T00:55:00+00:00"
     },
     {
-      "title": "[2026 국감] 가계대출 총량 관리에…DSR 적용 예외 70% 넘었다",
-      "desc": "이처럼 DSR 규제 적용 예외 비중이 분기 연속 늘어난 건 은행들이 가계부채 총량 관리를 위해 주택 분양 관련 필수자금이나 생계자금 위주로 취급을 집중했기 때문으로 풀이된다. DSR 규제를 적용받지 않는...",
-      "link": "https://www.dailian.co.kr/news/view/1696622/?sc=Naver",
-      "naver": "https://n.news.naver.com/mnews/article/119/0003138336?sid=101",
-      "host": "dailian.co.kr",
-      "score": 2.3194,
-      "pubDate": "2026-10-01T00:32:00+00:00"
-    },
-    {
-      "title": "가계대출 총량 관리에…DSR 미적용 대출 70% 돌파",
-      "desc": "다만 전세자금대출 비중은 작년 2분기 11.9%에서 올해 2분기 9.3%로 2.6%포인트 줄었다. 전체 금융권 잔액 기준으로도 DSR 규제 적용 예외 비중은 2022년 3분기 이후 최고였다. DSR 규제 적용 예외 대출 비중은 작년...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=02673206645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006378211?sid=101",
+      "title": "현대건설, 경기 평택 ‘힐스테이트 고덕엘리스트’ 분양",
+      "desc": "분양가 상한제가 적용되며 3.3㎡당 평균 분양가는 1683만원대다. 견본주택은 경기 평택시 고덕동에 마련됐다. 힐스테이트 고덕엘리스트(사진=현대건설) 힐스테이트 고덕엘리스트는 평택시 고덕국제화지구 A12·65블록에...",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=03335766645608984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006379477?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.3098,
-      "pubDate": "2026-09-30T23:14:00+00:00"
+      "score": 2.3124,
+      "pubDate": "2026-10-02T01:41:00+00:00"
     },
     {
-      "title": "與서도 “농지 전수조사 당장 중단해야”",
-      "desc": "김 의원은 “농지 가격이 떨어졌다는 이야기가 현장에서 나오고 있고, 실제 거래가 이뤄지지 않거나 대출 과정에서 담보 가치가 떨어질 수도 있는 우려가 있다”며 “농지은행이 예산을 확충한다고 말하지만 언제까지...",
-      "link": "https://biz.chosun.com/policy/politics/assembly/2026/10/01/Q7UPLOCD75CG7PSVK4UZZVBIP4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001195543?sid=100",
-      "host": "biz.chosun.com",
-      "score": 2.2953,
-      "pubDate": "2026-10-01T01:42:00+00:00"
-    },
-    {
-      "title": "HUG, 공인중개사협회와 '전월세 안심신탁 활성화' 간담회 개최",
-      "desc": "안심신탁은 임차인의 전세보증금을 허그(HUG)가 직접 예치·관리하고 임대인에게는 전세금 운용 수익을 제공하는 새로운 임대차 모델이다. 이를 통해 급격한 월세화를 방지할 수 있을 뿐만 아니라, 전세사기를 원천적으로...",
-      "link": "http://www.ikld.kr/news/articleView.html?idxno=341606",
-      "naver": "http://www.ikld.kr/news/articleView.html?idxno=341606",
+      "title": "구리는 묶이고 별내는 비규제… 서울 접근성 갖춘 신축단지 주목",
+      "desc": "선착순 계약은 만 19세 이상이면 청약통장 소유 여부나 거주 지역과 상관없이 누구나 계약 가능하다. 경기도 남양주시 별내동에 마련된 분양 인포메이션에 방문하면 샘플하우스를 직접 확인할 수 있다.",
+      "link": "http://www.ikld.kr/news/articleView.html?idxno=341615",
+      "naver": "http://www.ikld.kr/news/articleView.html?idxno=341615",
       "host": "ikld.kr",
-      "score": 2.2906,
-      "pubDate": "2026-10-01T01:02:00+00:00"
+      "score": 2.311,
+      "pubDate": "2026-10-01T23:52:00+00:00"
+    },
+    {
+      "title": "기준금리 오르자 CMA도 들썩…증권사 금리 경쟁 '활활'",
+      "desc": "특히 최근에는 증권사 계좌를 통해 주식 거래나 공모주 청약 등을 시작한 투자자들이 투자 대기자금을 CMA에 넣어두는 경우가 늘고 있다. 증권사 입장에서는 CMA가 새로운 고객을 확보하고 향후 주식·채권·펀드 등...",
+      "link": "https://www.imaeil.com/page/view/2026100210073760890",
+      "naver": "https://n.news.naver.com/mnews/article/088/0001031886?sid=101",
+      "host": "imaeil.com",
+      "score": 2.3053,
+      "pubDate": "2026-10-02T01:19:00+00:00"
+    },
+    {
+      "title": "JYP 신사옥 앞 '용도변경'에…유현준 \"용산공원에 집 짓는 격\"·서울시 ...",
+      "desc": "서울시는 JYP가 예상하지 못한 부지 변경이었다는 지적에 대해서는 2023년 9월 분양공고에 주변 토지이용계획이 바뀔 수 있다고 명시돼 있었다고 밝혔다. 해당 용지는 지난해 10월 자족시설용지로 변경됐고 JYP 신사옥...",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=03207846645608984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006379439?sid=101",
+      "host": "edaily.co.kr",
+      "score": 2.2834,
+      "pubDate": "2026-10-02T01:30:00+00:00"
+    },
+    {
+      "title": "청주 남부권 '신분평 더웨이시티' 3948가구 조성 계획...992가구 이달 분...",
+      "desc": "분양가격과 청약 일정, 입주 예정일 등 구체적인 공급 조건은 입주자모집공고를 통해 확인할 필요가 있다. 학교와 교육·의료 서비스 등 계획 사항도 확정 여부와 이용 조건을 함께 살펴봐야 한다.",
+      "link": "https://magazine.hankyung.com/money/article/202610017073c",
+      "naver": "https://magazine.hankyung.com/money/article/202610017073c",
+      "host": "magazine.hankyung.com",
+      "score": 2.231,
+      "pubDate": "2026-10-02T00:02:00+00:00"
+    },
+    {
+      "title": "“빚내서 투자? 잠깐만”…신용대출 줄고 예금은 늘었다",
+      "desc": "부동산114에 따르면 10월 전국에서 총 4만5691가구가 분양에 나선다. 전월보다 70.6% 늘어난 규모다. 은행권 관계자는 “10월까지는 분양과 이사가 활발한 가을 성수기를 맞아 대출 수요가 늘어날 수 있다\"며 “12월로...",
+      "link": "https://www.ekn.kr/web/view.php?key=20261002020261539",
+      "naver": "https://www.ekn.kr/web/view.php?key=20261002020261539",
+      "host": "ekn.kr",
+      "score": 2.2129,
+      "pubDate": "2026-10-02T01:22:00+00:00"
+    },
+    {
+      "title": "트리븐 센텀, 약 78만㎡ 명장공원과 함께 조성",
+      "desc": "분양 관계자는 “명장공원과 센텀2지구를 함께 이용할 수 있는 입지를 트리븐 센텀의 주요 특징으로 보고 있다”고 밝혔다. 두산에너빌리티㈜가 시공하는 트리븐 센텀은 1단지 852세대, 2단지 792세대 등 총 1644세대로...",
+      "link": "https://biz.chosun.com/industry/business_info/2026/10/02/64DYJ4SMNVC6HOBZWDH5B25MFY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver": "https://n.news.naver.com/mnews/article/366/0001195799?sid=101",
+      "host": "biz.chosun.com",
+      "score": 2.1967,
+      "pubDate": "2026-10-02T00:33:00+00:00"
+    },
+    {
+      "title": "홈플러스 납품·입점업체 정책자금 1400억···실제 집행률 22% 그쳐",
+      "desc": "중기부는 낮은 정책자금 이용률을 개선하기 위해 지난 7월 대출금리를 인하했다. 중진공 대출금리는 기존 3.78%에서 3.28%로, 소진공은 3.85%에서 3.35%로 각각 0.5%포인트 낮췄다. 그러나 금리 인하 이후에도 전체...",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=155433",
+      "naver": "https://www.smartbizn.com/news/articleView.html?idxno=155433",
+      "host": "smartbizn.com",
+      "score": 2.1922,
+      "pubDate": "2026-10-02T01:52:00+00:00"
+    },
+    {
+      "title": "카카오뱅크, 개인사업자 대출 잔액 4조원 돌파",
+      "desc": "신용대출과 보증서대출, 부동산담보대출 등 상품을 늘리고 비대면 신청 편의성과 금리 경쟁력을 앞세워... 은행연합회 공시에 따르면 지난 8월 말 신규취급액 평균 금리는 신용대출 5.66%, 보증서대출 3.91...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366540",
+      "naver": "http://www.ftoday.co.kr/news/articleView.html?idxno=366540",
+      "host": "ftoday.co.kr",
+      "score": 2.1922,
+      "pubDate": "2026-10-02T01:52:00+00:00"
+    },
+    {
+      "title": "[단독]공공주택 119만호 짓는다는데…기금 여유자금 6년 새 ‘49조→14조...",
+      "desc": "청약저축 해지로 기금 수입은 줄어든 반면, 정책대출과 임대주택 건설 등 기금 투입 사업이 늘어난... 청약통장 등을 통해 조성되는 재원인 주택도시기금은 주거 복지, 주택 공급 등에 활용되는 예산이다. 기금의...",
+      "link": "https://biz.heraldcorp.com/article/10891247?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/016/0002704682?sid=101",
+      "host": "biz.heraldcorp.com",
+      "score": 2.1901,
+      "pubDate": "2026-10-02T00:30:00+00:00"
+    },
+    {
+      "title": "카카오뱅크, 개인사업자 대출 잔액 4조 돌파…출시 3년 11개월 만",
+      "desc": "카카오뱅크는 이 같은 편의성 외에도 '폭넓은 상품 구성'과 '경쟁력 있는 금리'를 인기 요인으로 꼽았다.... 은행연합회 공시에 따르면 카카오뱅크의 8월말 개인사업자 신규취급액 평균 금리는 ▲신용대출 5.66...",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=882479",
+      "naver": "https://www.getnews.co.kr/news/articleView.html?idxno=882479",
+      "host": "getnews.co.kr",
+      "score": 2.1868,
+      "pubDate": "2026-10-02T01:50:00+00:00"
+    },
+    {
+      "title": "[N잡 앱테크] 신한 쏠퀴즈,10월 2일 오늘의 퀴즈 정답",
+      "desc": "부동산, 전세금, 차량 등 실물자산까지 한눈에 확인 가능하며, 주식 종목 추천, 환율 알림, 입출금 조건별 상품 추천, 연금·대출 정보 등 다양한 맞춤형 금융 콘텐츠를 제공한다.",
+      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=230350",
+      "naver": "https://www.job-post.co.kr/news/articleView.html?idxno=230350",
+      "host": "job-post.co.kr",
+      "score": 2.183,
+      "pubDate": "2026-10-02T01:10:00+00:00"
+    },
+    {
+      "title": "iM금융, 금융 본업 연계한 ESG 드라이브…계열사 시너지 본격화",
+      "desc": "iM뱅크는 한국환경산업기술원의 '녹색정책금융 활성화 이차보전 지원 사업자'로 선정된 데 이어 '한국형 녹색채권 발행 이차보전 지원사업'에 지속 참여하고 있으며, 소상공인 특례보증과 중금리 대출을 통해...",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=119332",
+      "naver": "http://www.newsdream.kr/news/articleView.html?idxno=119332",
+      "host": "newsdream.kr",
+      "score": 2.1813,
+      "pubDate": "2026-10-02T01:48:00+00:00"
     }
   ]
 }
