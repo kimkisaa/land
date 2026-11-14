@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-11-13T03:03:49.504399Z",
+  "generatedAt": "2026-11-14T02:50:16.411536Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "돈 없는데 청약해도 될까…내 집 마련, 질문부터 바꿔라",
-      "desc": "\"돈이 없는데 청약을 해도 되느냐고 누군가 묻는다면 이렇게 답해주자. 돈이 없기 때문에 청약을 하는 거라고.\" 내 집 마련을 고민하는 사람에게 필요한 것은 집값 전망만이 아니다. 분양대금을 언제 얼마나 내야 하는지...",
-      "link": "https://www.hankyung.com/article/202611134697H",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005353515?sid=103",
-      "host": "hankyung.com",
-      "score": 2.8947,
-      "pubDate": "2026-11-13T01:41:00+00:00"
-    },
-    {
-      "title": "부산 옛 한국유리 부지 복합개발 ‘일광 더 에스’, 11월 갤러리 개관 예...",
-      "desc": "‘일광 더 에스’ 갤러리는 부산 해운대구 우동 센텀시티역 인근에 마련될 예정이다. 입주는 2029년 7월 예정이며, 구체적인 청약 일정과 분양가 등은 향후 입주자모집공고를 통해 안내될 예정이다.",
-      "link": "https://www.hankyung.com/article/202611122345O",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005353465?sid=101",
-      "host": "hankyung.com",
-      "score": 2.702,
-      "pubDate": "2026-11-13T00:01:00+00:00"
-    },
-    {
-      "title": "“서울 아니면 눈길도 안 줘요”…경기 아파트 청약 10곳 중 7곳 미달",
-      "desc": "아파트 청약시장에서 분양 단지 10곳 중 7곳이 모집 가구 수를 채우지 못했다. 특히 오산과 화성에서는 조사 대상 8개 단지가 모두 미달되며 청약 부진이 두드러졌다. 반면 일부 단지는 1순위에서 전 주택형이...",
-      "link": "https://www.mk.co.kr/article/12207753",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005763153?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.6859,
-      "pubDate": "2026-11-13T00:48:00+00:00"
-    },
-    {
-      "title": "“전세사기 막으려 등기부 떼는데 수수료 인상 웬 말”… 공인중개사협...",
-      "desc": "부동산 업계는 사법부의 이러한 움직임이 디지털 행정 흐름에 역행하는 대표적인 ‘탁상행정’이라고 날을... 특히 최근 전세사기와 기획부동산 등 지능화된 부동산 범죄가 기승을 부리면서 중개사뿐 아니라 임차인...",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/13/73ITORNBEVDAXPOPULZKAL64CA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001204572?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.5925,
-      "pubDate": "2026-11-13T03:01:00+00:00"
-    },
-    {
-      "title": "판교역까지 10분대…‘제일풍경채 광주 포에듀’ 견본주택 개관",
-      "desc": "비규제지역에 들어서는 만큼 청약 문턱도 상대적으로 낮다. 만 19세 이상 수도권 거주자로 청약통장 가입 기간이 12개월 이상이고 지역·면적별 예치금액을 충족하면 1순위 청약이 가능하다. 다주택자와 세대원도...",
-      "link": "https://www.sedaily.com/article/20113922?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004681839?sid=101",
-      "host": "sedaily.com",
-      "score": 2.5401,
-      "pubDate": "2026-11-13T02:01:00+00:00"
-    },
-    {
-      "title": "정점식 “이용철은 ‘탈옥 맞춤형 장관’…국민 눈높이엔 부적격”",
-      "desc": "정 원내대표는 “여당이 정부에 요구할 것은 부동산 정책의 전면적 기조 전환”이라며 실거주 의무·전세대출 규제 기조 전환과 재건축·재개발 활성화를 요구했다. 그러면서 “지금 당장 국민들에게 시급한 문제는 수도권...",
-      "link": "https://www.mk.co.kr/article/12207774",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005763164?sid=100",
-      "host": "mk.co.kr",
-      "score": 2.5251,
-      "pubDate": "2026-11-13T01:08:00+00:00"
-    },
-    {
-      "title": "높아진 청약 문턱에 민간임대 인기… 포스코이앤씨 '더샵 일산센트로' ...",
-      "desc": "서울 등 수도권 주요 지역의 아파트 청약 문턱이 높아지면서 장기일반민간임대주택이 주거 대안으로... 지난해 서울 분양 아파트의 평균 청약 당첨 가점은 65.8점으로, 관련 통계가 공개된 2020년 이후 가장 높은 수준을...",
-      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072494",
-      "naver": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072494",
-      "host": "ksilbo.co.kr",
-      "score": 2.468,
-      "pubDate": "2026-11-13T02:52:00+00:00"
-    },
-    {
-      "title": "수도권 청약 소형 평형에 접수 몰려…경기·인천 60~85㎡는 절반 가까이...",
-      "desc": "한국부동산원 청약홈의 분양정보·경쟁률 공공데이터를 데일리팝 솔로인사이트랩이 분석한 결과... 경기·인천 새 아파트 청약, 전용면적별 일반공급 1세대당 1순위 접수 건수 (자료: 한국부동산원 청약홈...",
-      "link": "http://www.dailypop.kr/news/articleView.html?idxno=104328",
-      "naver": "http://www.dailypop.kr/news/articleView.html?idxno=104328",
-      "host": "dailypop.kr",
-      "score": 2.4006,
-      "pubDate": "2026-11-13T02:26:00+00:00"
-    },
-    {
-      "title": "정점식 “민주당 종부세 반란쇼, 4일 천하…납세자 엄중 심판 받을 것”",
-      "desc": "강화와 전세대출 규제 강화 기조, 재개발·재건축에 대한 정부의 미온적인 태도를 바꿔야 한다”고 촉구했다.... 정 원내대표는 “지금 당장 국민에게 시급한 문제는 수도권 전월세난”이라며 “전세는 씨가 마르고 월세...",
-      "link": "https://www.sedaily.com/article/20113860?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004681793?sid=100",
-      "host": "sedaily.com",
-      "score": 2.3975,
-      "pubDate": "2026-11-13T00:54:00+00:00"
-    },
-    {
-      "title": "9월 통화량 17.1조원 늘어…기업은 11개월 만에 감소",
-      "desc": "금리가 오르며 2년 미만 정기예적금도 같은 기간 8조2천억원이 증가했다. 반면 2년 미만 금전신탁은 반도체기업의 주주환원, 법인세 중간예납 등 영향으로 10조원 감소했다. 경제 주체별로는 가계 및 비영리단체...",
-      "link": "https://www.yna.co.kr/view/AKR20261113066900002?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016440447?sid=101",
+      "title": "\"전세사기 예방이 최선\"…전북도, 전월세 안심계약 상담서비스",
+      "desc": "공인중개사가 관리관계 확인·임대계약 유의사항 등 안내 전북특별자치도는 전세 사기 피해를 예방하고... 권리관계 ▲ 전세 사기 피해 사례와 예방법 ▲ 전입신고·확정일자·계약금 지급 등이다. 최정일 도...",
+      "link": "https://www.yna.co.kr/view/AKR20261114022100055?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016441670?sid=101",
       "host": "yna.co.kr",
-      "score": 2.3898,
-      "pubDate": "2026-11-13T03:00:00+00:00"
+      "score": 2.3589,
+      "pubDate": "2026-11-14T00:20:00+00:00"
     },
     {
-      "title": "[분양] 현대건설,'디에이치 반포124' 외",
-      "desc": "사전당첨자 청약은 16~17일, 일반 청약은 26~27일 LH청약플러스에서 진행하며, 당첨자는 12월 8일 발표한다. 금호건설은 주택형에 따라 알파룸과 방 3개 구조를 적용하고, 전 가구 계절창고와 층간차음재를 제공할...",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=642718",
-      "naver": "https://www.seoulfn.com/news/articleView.html?idxno=642718",
-      "host": "seoulfn.com",
-      "score": 2.3881,
-      "pubDate": "2026-11-13T02:21:00+00:00"
+      "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새...",
+      "desc": "이에 조합이 강남구청을 통해 한국부동산원에 산정을 의뢰했고, 구청이 그 결과를 토대로 최근 조합에 예상... KB부동산에 따르면 2015년 8월부터 2025년 8월까지 서울 아파트값은 70.7% 올랐습니다. 이 기간은 저금리와...",
+      "link": "https://www.hankyung.com/article/2026111348856",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005353805?sid=101",
+      "host": "hankyung.com",
+      "score": 2.3026,
+      "pubDate": "2026-11-14T01:31:00+00:00"
     },
     {
-      "title": "서울시, 독산·대림·천호동 등 6곳 '신통기획 후보지' 추가선정",
-      "desc": "또한 투기 세력 유입을 막기 위해 이들 지역을 토지거래허가구역으로 지정하고, 분양권을 노린 지분쪼개기를 방지하고자 후보지별 권리산정기준일을 고시하고 건축허가를 제한한다. 명노준 서울시 주택실장은 \"후보지...",
-      "link": "https://www.yna.co.kr/view/AKR20261113041800004?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016440329?sid=102",
+      "title": "LH “3기 신도시 사업기간 연장, 실제 착공 여건 반영…공급 차질 없어...",
+      "desc": "사업비 증가가 사전청약자의 분양가 부담으로 이어질 수 있다는 우려에 대해서도 직접적인 영향은 없다고... LH는 사업기간 연장에 따른 분양가 상승 우려에 대해서도 선을 그었다. LH는 “사업기간 조정에 따른...",
+      "link": "https://www.viva100.com/article/20261114500005",
+      "naver": "https://www.viva100.com/article/20261114500005",
+      "host": "viva100.com",
+      "score": 2.2405,
+      "pubDate": "2026-11-14T01:02:00+00:00"
+    },
+    {
+      "title": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
+      "desc": "에스에프씨·유캐스트 18∼19일 일반청약 다음 주(16∼20일) 기업공개(IPO) 시장에서는... 일반투자자 대상 공모주 청약에는 에스에프씨와 유캐스트가 나선다. OLED(유기발광다이오드) 소재 전문기업 에스에프씨와...",
+      "link": "https://www.yna.co.kr/view/AKR20261113076800008?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016441654?sid=101",
       "host": "yna.co.kr",
-      "score": 2.3735,
-      "pubDate": "2026-11-13T02:15:00+00:00"
+      "score": 2.2233,
+      "pubDate": "2026-11-14T00:00:00+00:00"
     },
     {
-      "title": "[아파트 PF 인사이드] 재분양 앞둔 '구미 꽃동산' 개발, 950억 보증 연장",
-      "desc": "다만 이 중 450가구는 준공 후 미분양이다. 이번 공급 물량의 절반이 넘는 701가구가 전용 98·110㎡인 만큼 전용 84㎡에서 청약 수요를 확보하더라도 중대형까지 계약이 이어져야 사업비 회수에 속도를 낼 수 있다.",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=678511",
-      "naver": "https://n.news.naver.com/mnews/article/293/0000093198?sid=101",
-      "host": "bloter.net",
-      "score": 2.3638,
-      "pubDate": "2026-11-13T02:11:00+00:00"
+      "title": "서울·경기 1,340가구 쏟아진다, 중화역·안산신길 핫플 분양 스타트",
+      "desc": "부동산 리서치기관 리얼투데이에 따르면, 11월 셋째 주에는 10개 지역에서 도시형생활주택, 공공분양, 민간참여 공공분양을 포함한 물량이 청약 신청을 받는다. 행복주택은 포함되지 않는다. 이번 공급 물량의 상당...",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=885612",
+      "naver": "https://www.gokorea.kr/news/articleView.html?idxno=885612",
+      "host": "gokorea.kr",
+      "score": 2.2044,
+      "pubDate": "2026-11-14T00:44:00+00:00"
     },
     {
-      "title": "집값 25%부터 나눠 사는 아파트 '지분적립형 공공분양주택'…첫 청약 10...",
-      "desc": "첫 청약에서 높은 경쟁률을 기록했다. 초기 분양대금 부담을 낮춘 새로운 공급 방식에 수요가 몰렸지만... 1순위 청약에서 72가구 모집에 7233건이 접수됐다. 평균 경쟁률은 100.46대 1이다. 앞서 진행된...",
-      "link": "http://www.dailypop.kr/news/articleView.html?idxno=104525",
-      "naver": "http://www.dailypop.kr/news/articleView.html?idxno=104525",
-      "host": "dailypop.kr",
-      "score": 2.3519,
-      "pubDate": "2026-11-13T02:06:00+00:00"
+      "title": "“광교 아파트 반의 반값” 대박 난 청약…‘로또’ 아닌 ‘20년 할부’...",
+      "desc": "이재명 정부가 밀고 있는 '초저가' 지분적립형 분양주택이 첫 청약에서 흥행했다. 경기주택도시공사(GH)... 판교신도시 분양에서 청약 돌풍이 불며 상한제 주택은 '로또'로 불렸다. 2007년엔 토지임대부와...",
+      "link": "https://www.joongang.co.kr/article/25478579",
+      "naver": "https://n.news.naver.com/mnews/article/025/0003565108?sid=101",
+      "host": "joongang.co.kr",
+      "score": 2.1781,
+      "pubDate": "2026-11-13T21:00:00+00:00"
     },
     {
-      "title": "전국 첫 ‘지분적립형’ GH 광교 센트레빌 청약 대박… 240가구에 2만명...",
-      "desc": "분양주택’이 청약 시장에서 흥행 돌풍을 일으켰다. 특히 초기 목돈 마련이 어려운 청년층의 폭발적인... 분양주택의 청약 접수 결과 총 2만 946건이 접수됐다. 평균 경쟁률은 특별공급 71대 1, 일반공급 1순위 100대...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121613531600866",
-      "naver": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121613531600866",
-      "host": "dnews.co.kr",
-      "score": 2.3425,
-      "pubDate": "2026-11-13T02:02:00+00:00"
+      "title": "\"성장 뒤 불평등\", \"집값 아닌 세입자\" 살핀 정의당의 원외국감",
+      "desc": "② 주거 : \"주거안정이 주택정책 중심돼야\", \"전세사기 피해 회복 책임져야\" 주거 분야에서 정의당은... 또 주택도시보증공사에 전세사기 피해 회복 실적과 지원 현황 공개를 요청하고, 정부에 전세사기 피해주택 공공매입...",
+      "link": "https://www.pressian.com/pages/articles/2026111311131283311?utm_source=naver&utm_medium=search",
+      "naver": "https://n.news.naver.com/mnews/article/002/0002465874?sid=100",
+      "host": "pressian.com",
+      "score": 2.1614,
+      "pubDate": "2026-11-14T02:36:00+00:00"
     },
     {
-      "title": "아파트 규제 강화에 ‘단지형 브랜드 오피스텔’ 부상…‘더샵 퍼스트...",
-      "desc": "아파트 단지와 한 울타리에서 조경과 커뮤니티를 공유하면서도, 청약과 대출 기준은 아파트보다 유연하다.... 청약 문턱은 낮다. 오피스텔은 청약통장 가입 여부, 거주지 제한, 재당첨 제한과 무관하다. 만 19세 이상이면...",
-      "link": "https://www.sentv.co.kr/article/view/sentv202611130054",
-      "naver": "https://www.sentv.co.kr/article/view/sentv202611130054",
-      "host": "sentv.co.kr",
-      "score": 2.3414,
-      "pubDate": "2026-11-13T01:16:00+00:00"
+      "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영...",
+      "desc": "감시 강화와 양국 간 긴장 고조를 사업 위험 요인으로 제시했다. 최근 AI 관련 주식의 급락에도 앤트로픽 IPO에 대한 투자 수요는 높은 것으로 알려졌다. 블룸버그에 따르면 공모주 청약 수요는 공급 물량의 약 6배에 달한다.",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217402",
+      "naver": "https://www.aitimes.com/news/articleView.html?idxno=217402",
+      "host": "aitimes.com",
+      "score": 2.1555,
+      "pubDate": "2026-11-14T01:54:00+00:00"
     },
     {
-      "title": "정점식 \"민주당, 4일천하 종부세 반란쇼…김민석 허수아비 신세 처량\"",
-      "desc": "구체적으로 토지거래허가제를 통한 실거주 의무 강화, 전세대출 규제 기조, 재건축·재개발 활성화에 대한 정부의 태도 등을 문제 삼았다. 특히 수도권 전월세난을 시급한 현안으로 꼽으며 “전세는 씨가 마르고 월세...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=02856886645645392&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006409335?sid=100",
+      "title": "李 대통령 “유통주식 10% 미만 상장사 퇴출 검토”",
+      "desc": "거래대금 감소와 금리 상승에 따른 복합 악재에 자사주 소각 등 주주환원책도 주가 하락을 막지 못해 반등 모멘텀을 찾기 어려운 양상이다. [주식투자자 관심 뉴스] 1. ‘유통주식 10% 미만’ 상장사 퇴출 추진...",
+      "link": "https://www.sedaily.com/article/20114305?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004682152?sid=101",
+      "host": "sedaily.com",
+      "score": 2.1508,
+      "pubDate": "2026-11-14T01:52:00+00:00"
+    },
+    {
+      "title": "국제유가 상승에 달러 강세…달러인덱스 19개월 만에 최고",
+      "desc": "74달러에 마감했고, 유가 상승에 따른 물가 압력과 미국의 금리 인상 기대가 달러 강세를 부추겼다.... 다만 은행 예금과 달리 원금이 보장되지 않고 시장 금리 변화에 따라 수익률이 달라진다는 점은 유의할...",
+      "link": "https://www.sedaily.com/article/20114301?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004682148?sid=101",
+      "host": "sedaily.com",
+      "score": 2.1414,
+      "pubDate": "2026-11-14T01:48:00+00:00"
+    },
+    {
+      "title": "강정일 전남광주시의원, “전세사기 구제·화재안전 보강 등 행정 역량...",
+      "desc": "행정사무감사에서 전세사기 피해 구제와 화재안전 성능보강 사업 등 시민... 먼저 강 위원장은 전세사기피해자 인용률이 저조한 원인을 까다로운 선정 요건에서...",
+      "link": "http://www.breaknews.com/1250986",
+      "naver": "http://www.breaknews.com/1250986",
+      "host": "breaknews.com",
+      "score": 2.1351,
+      "pubDate": "2026-11-14T02:26:00+00:00"
+    },
+    {
+      "title": "[부동산캘린더] 다음주 1681가구 청약…서울·경기에 80% 집중",
+      "desc": "14일 부동산 전문 리서치업체 리얼투데이에 따르면 11월 셋째 주에는 전국 10곳에서 총 1681가구가 청약 접수를 받는다. 전주 5215가구보다 3534가구 줄어든 규모다. 도시형생활주택과 공공분양, 민간참여 공공분양을...",
+      "link": "https://dealsite.co.kr/articles/172781",
+      "naver": "https://dealsite.co.kr/articles/172781",
+      "host": "dealsite.co.kr",
+      "score": 2.1268,
+      "pubDate": "2026-11-14T00:02:00+00:00"
+    },
+    {
+      "title": "[막전막후] \"검사는 증거에 손대지 말라\"",
+      "desc": "서울중앙지법에서 재판이 진행중인 전세사기 사건 피해자는 지난달, 새로운 증거를 제출하기 위해 서울중앙집공소청 검사를 찾아갔지만 \"경찰로 가라\"는 말을 들었다. 형사소송법 개정으로 검사의 수사권이 없어졌기...",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=131826",
+      "naver": "https://www.pennmike.com/news/articleView.html?idxno=131826",
+      "host": "pennmike.com",
+      "score": 2.1095,
+      "pubDate": "2026-11-14T02:16:00+00:00"
+    },
+    {
+      "title": "내주 전국 10곳서 1681가구 공급…수도권 집중",
+      "desc": "부동산 전문 리서치업체 리얼투데이는 11월 셋째 주 전국 10곳에서 총 1681가구(도시형생활주택·공공분양·민간참여 공공분양 포함, 행복주택 제외)가 청약 신청을 받는다고 14일 밝혔다. 전체 물량의 약 80%인 1340가구...",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=887177",
+      "naver": "https://www.getnews.co.kr/news/articleView.html?idxno=887177",
+      "host": "getnews.co.kr",
+      "score": 2.0995,
+      "pubDate": "2026-11-13T23:46:00+00:00"
+    },
+    {
+      "title": "건축비가 밀어올린다, 분양가 딜레마",
+      "desc": "2021년 문재인 정부의 3기 신도시 사전청약 이후 건축비가 급등하며 2025년 본청약 당시에는 분양가가 사전청약 때보다 15~18% 급등한 바 있다. 공공이 주택 공급을 주도해도 과거의 보금자리주택지구(그린벨트 해제)...",
+      "link": "https://www.joongang.co.kr/article/25478539",
+      "naver": "https://n.news.naver.com/mnews/article/353/0000057256?sid=101",
+      "host": "joongang.co.kr",
+      "score": 2.068,
+      "pubDate": "2026-11-13T16:08:00+00:00"
+    },
+    {
+      "title": "비트코인, 석달만에 7만달러 붕괴…\"매수자가 사라졌다\"",
+      "desc": "높은 국제유가와 지속적인 인플레이션은 미국 연방준비제도(Fed·연준)가 추가 금리 인상에 나설 것이라는... 기준금리를 인상할 것이라는 전망에 힘을 실었다. 식품과 에너지를 제외한 근원 소비자물가지수는 전월...",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02558406645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006409797?sid=101",
       "host": "edaily.co.kr",
-      "score": 2.334,
-      "pubDate": "2026-11-13T00:47:00+00:00"
+      "score": 2.0616,
+      "pubDate": "2026-11-14T01:35:00+00:00"
     },
     {
-      "title": "서울시, 금천구 독산동 등 재개발 신규 후보지 6곳 선정",
-      "desc": "갭투자 등 투기 목적 거래는 토지거래허가구역으로 지정해 원천 차단한다. 재개발 분양권을 노린 지분쪼개기 등은 후보지별로 권리산정기준일을 고시하고 건축허가를 제한해 예방한다.",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/13/ZA6XYWIRXBFENITYDYPFCXUWGA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001204568?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.3337,
-      "pubDate": "2026-11-13T02:39:00+00:00"
+      "title": "[분양 캘린더] 중화역 라온프라이빗 센트로 등 10곳서 1681가구 청약",
+      "desc": "14일 부동산 전문 리서치업체 리얼투데이에 따르면, 다음 주 전국 10곳에서 총 1681가구가 청약 접수를 받는다. 도시형생활주택과 공공분양, 민간참여 공공분양을 포함하고 행복주택은 제외한 수치다. 전체 청약...",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611130145",
+      "naver": "https://www.sentv.co.kr/article/view/sentv202611130145",
+      "host": "sentv.co.kr",
+      "score": 2.0306,
+      "pubDate": "2026-11-13T23:02:00+00:00"
     },
     {
-      "title": "솔베이, 7년 만기 5억유로 채권 금리 4.75% 확정",
-      "desc": "회사는 청약 규모가 발행액의 4배를 조금 넘었다고 밝혔다. 조달 순수입은 일반적인 그룹 운영 목적에 사용되며, 2028년 4월 만기인 7억5000만유로 채권의 일부 차환도 포함된다. 솔베이는 해당 기존 채권 가운데...",
-      "link": "https://www.vegannews.co.kr/news/article.html?no=404336",
-      "naver": "https://www.vegannews.co.kr/news/article.html?no=404336",
-      "host": "vegannews.co.kr",
-      "score": 2.2472,
-      "pubDate": "2026-11-13T02:04:00+00:00"
+      "title": "[분양캘린더] 다음 주 전국 10곳서 1681가구 청약…6곳은 수도권",
+      "desc": "14일 부동산 분석업체 리얼투데이에 따르면 11월 셋째 주 청약 물량은 지난주(5215가구)보다 3534가구 줄었다. 청약은 서울 중랑구 '중화역 라온프라이빗 센트로', 경기 광주시 '제일풍경채 광주 포에듀', 경북 경산시...",
+      "link": "https://www.news1.kr/realestate/general/6353394",
+      "naver": "https://n.news.naver.com/mnews/article/421/0009288760?sid=101",
+      "host": "news1.kr",
+      "score": 2.0276,
+      "pubDate": "2026-11-13T23:00:00+00:00"
     },
     {
-      "title": "매매·전세 동반 상승하는 수원… 유일 비규제 권선구 ‘힐스테이트 수...",
-      "desc": "현재 일부 잔여가구를 대상으로 특별분양을 진행하고 있다. 일반적인 선분양 아파트와 달리 입주까지 오랜 기간을 기다릴 필요가 없고, 실제 조성된 단지와 주거환경을 직접 확인한 뒤 계약할 수 있다는 점이 특징이다....",
-      "link": "https://www.dt.co.kr/article/12094970?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/029/0003058935?sid=101",
-      "host": "dt.co.kr",
-      "score": 2.2378,
-      "pubDate": "2026-11-13T02:00:00+00:00"
+      "title": "15년 전 5천만원 주고 산 제주땅이 고작 82만원…충격 받은 임예진, 무슨...",
+      "desc": "배우 임예진이 15년 전 노후 대비용으로 매입했던 제주도 땅이 기획부동산 사기에 당한 ‘맹지’였음을... 인근 부동산 관계자는 “여기는 석산이라 땅값이 많이 싸고 들어올 수 있는 게 아무것도 없다”며 “평당 10만...",
+      "link": "https://www.mk.co.kr/article/12208840",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005763628?sid=103",
+      "host": "mk.co.kr",
+      "score": 2.0095,
+      "pubDate": "2026-11-14T02:16:00+00:00"
+    },
+    {
+      "title": "‘부정청약 엄벌’ 칼 빼든 이재명정부…이혜훈 ‘반포 아파트’ 몰수 ...",
+      "desc": "국토교통부와 국무조정실 부동산감독추진단은 지난해 7월부터 올해 3월까지 분양한 서울 등 규제지역 전체... 이 대통령은 지난 5일 경찰 국가수사본부의 부동산 투기 단속 성과를 소개하면서도 “부동산 투기 등 불법...",
+      "link": "https://www.segye.com/newsView/20261113514493?OutUrl=naver",
+      "naver": "https://n.news.naver.com/mnews/article/022/0004175039?sid=100",
+      "host": "segye.com",
+      "score": 2.0019,
+      "pubDate": "2026-11-13T21:22:00+00:00"
     }
   ]
 }
