@@ -1,187 +1,187 @@
 {
-  "generatedAt": "2026-11-25T05:09:47.786507Z",
+  "generatedAt": "2026-11-26T04:37:44.701715Z",
   "windowHours": 24,
   "topN": 20,
   "items": [
     {
-      "title": "[단독] “연봉 5천인데 이자 지원해준다구요?”…전월세 신청자 폭발",
-      "desc": "서울시가 이자를 지원해도 대출은 다른 전세대출과 마찬가지로 은행의 가계대출 총량 관리 대상에 포함된다. 금융당국은 금융회사별로 가계대출 잔액의 증가 폭을 관리하면서 서민금융·중금리대출 취급액의 일부를...",
-      "link": "https://www.mk.co.kr/article/12218000",
-      "naver": "https://n.news.naver.com/mnews/article/009/0005768696?sid=101",
-      "host": "mk.co.kr",
-      "score": 2.8208,
-      "pubDate": "2026-11-25T04:40:00+00:00"
-    },
-    {
-      "title": "\"겁먹고 주식 팔았는데 어쩌나\"…코스피 '바닥 신호' 나왔다 [한경우의...",
-      "desc": "기준금리 인상기와 겹친 2021년 말~2022년에도 5번 가운데 3번 상승했다. 특히 이번 VIX 급등 기간 미국... 양도성 예금증서(CD) 금리 연동 대출 비중이 높아 기준금리가 오르면 순이자마진(NIM)이 빠르게 개선될 수...",
-      "link": "https://www.hankyung.com/article/2026112589076",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005357972?sid=101",
+      "title": "대출 막히자 너도나도 찾더니…'국평'보다 몸값 더 뛰었다",
+      "desc": "수도권 아파트 시장에서 전용면적 59㎡를 비롯한 소형 주택의 인기가 높아지고 있다. 대출 규제와 집값 상승에 따른 자금 부담이 커지면서 중대형보다 소형 아파트의 가격 상승률이 높고 청약에도 수요가 집중되는...",
+      "link": "https://www.hankyung.com/article/2026112620617",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005358541?sid=101",
       "host": "hankyung.com",
-      "score": 2.6981,
-      "pubDate": "2026-11-25T04:31:00+00:00"
+      "score": 3.0356,
+      "pubDate": "2026-11-26T03:33:00+00:00"
     },
     {
-      "title": "GH 전세임대 잔금 1억6천만원 건넨 당일 임대인과 연락 두절",
-      "desc": "추미애 \"전세사기 피해 발생…원인 파악·유사 피해 전수 조사\" 지시 경기주택도시공사(GH)의 전세임대 사업에서 임대인이 보증금 잔금을 받은 날 연락이 끊겨 입주 예정자가 집에 들어가지 못하는 일이 벌어졌다. 추미애...",
-      "link": "https://www.yna.co.kr/view/AKR20261125106400061?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016462707?sid=102",
-      "host": "yna.co.kr",
-      "score": 2.6843,
-      "pubDate": "2026-11-25T05:04:00+00:00"
-    },
-    {
-      "title": "부산 소비자심리지수 두 달 내리 하락…증시 조정 등 영향",
-      "desc": "국내외 증시 조정과 대출 금리 상승 등의 영향으로 소비 심리가 위축된 영향으로 분석된다.... 한국은행 부산본부는 인공지능(AI) 분야 투자 둔화 우려 등으로 국내외 증시 조정이 이어진 데다 대출금리도 높아져...",
-      "link": "https://www.yna.co.kr/view/AKR20261125102300051?input=1195m",
-      "naver": "https://n.news.naver.com/mnews/article/001/0016462651?sid=101",
-      "host": "yna.co.kr",
-      "score": 2.6627,
-      "pubDate": "2026-11-25T04:56:00+00:00"
-    },
-    {
-      "title": "\"작아도 서울 새 아파트\"…청약 신청 80% 쏠린 '소형의 반전'",
-      "desc": "서울 아파트 청약시장에서 전용면적 60㎡ 이하 소형 주택형에 신청이 집중되고 있다. 올해 들어 9월까지 전체 1순위 청약 신청의 80.8%가 소형에 몰렸다. 높아진 분양가에 자금 부담이 상대적으로 적은 작은 집으로...",
-      "link": "https://www.hankyung.com/article/2026112584116",
-      "naver": "https://n.news.naver.com/mnews/article/015/0005357870?sid=101",
-      "host": "hankyung.com",
-      "score": 2.5126,
-      "pubDate": "2026-11-24T23:51:00+00:00"
-    },
-    {
-      "title": "철도가 가른 3기 신도시 청약… 부천대장 129대 1, 바로 옆 계양은 미달",
-      "desc": "신도시 청약 성적이 철도 교통망에 따라 극명하게 엇갈렸다. 경기 부천 대장지구에서 이달 분양한 아파트에는 82가구 모집에 1만명 넘게 몰렸다. 바로 옆 인천 계양지구에선 1·2순위 청약을 다 받고도 모집 가구...",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/3EJJHLPSV5FADCQSQEZIPXKGXY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001207201?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.5121,
-      "pubDate": "2026-11-25T02:13:00+00:00"
-    },
-    {
-      "title": "전주시, 전세사기 피해자 월세·대출이자 지원…12월 1일부터 접수",
-      "desc": "전북 전주시가 전세사기 피해 임차인에게 최대 300만원 주거비를 지원한다. 전주시가 다음달 1일부터 15일까지 전주시 누리집을 통해 '2026년 전세피해 주택임차인 주거비 지원사업' 4분기 신청을 받는다고 25일 밝혔다....",
-      "link": "https://www.pressian.com/pages/articles/2026112513571174219?utm_source=naver&utm_medium=search",
-      "naver": "https://n.news.naver.com/mnews/article/002/0002467488?sid=102",
-      "host": "pressian.com",
-      "score": 2.4898,
-      "pubDate": "2026-11-25T05:06:00+00:00"
-    },
-    {
-      "title": "믿는 도끼에 발등..GH 임대주택서 전세사기, 추미애 \"원인 규명하라\"",
-      "desc": "추미애 경기도지사가 경기주택도시공사(GH)의 기존주택 전세임대 사업 과정에서 발생한 전세사기 피해에 대한 조사를 지시했다. 경기주택도시공사(GH) 사옥 전경.(사진=황영민 기자) 25일 경기도에 따르면 기존주택...",
-      "link": "https://www.edaily.co.kr/News/Read?newsId=02778166645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "naver": "https://n.news.naver.com/mnews/article/018/0006415317?sid=100",
-      "host": "edaily.co.kr",
-      "score": 2.4431,
-      "pubDate": "2026-11-25T04:29:00+00:00"
-    },
-    {
-      "title": "가계대출 금리 5% 돌파…주담대 오르고 신용대출 내렸다",
-      "desc": "전세자금대출 금리와 보증대출 금리 역시 각각 0.06%p, 0.11%p 상승해 연 4.63%와 4.56%를 기록했다. 이와 달리 일반신용대출 금리는 전달보다 0.06%p 하락한 연 6.43%로 나타나 지난 6월(5.72%) 이후 5개월 만에...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2087172",
-      "naver": "https://n.news.naver.com/mnews/article/654/0000213352?sid=101",
-      "host": "kado.net",
-      "score": 2.387,
-      "pubDate": "2026-11-25T05:05:00+00:00"
-    },
-    {
-      "title": "주담대 금리 14년 7개월 만에 최고…가계대출도 5% 넘어",
-      "desc": "전세자금대출 금리는 4.63%로 전월보다 0.06%p 높아졌다. 보증대출 금리도 0.11%p 오른 4.56%를 기록했다. 일반신용대출은금리가 전월보다 0.06%p 내린 6.43%로 집계돼 5개월 만에 하락했다. 지표금리가 올랐지만...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251324175070571",
-      "naver": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251324175070571",
-      "host": "dnews.co.kr",
-      "score": 2.3789,
-      "pubDate": "2026-11-25T05:02:00+00:00"
-    },
-    {
-      "title": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월 만에 최고",
-      "desc": "전세자금대출 금리는 4.63%로 0.06%p 올랐고, 보증대출 금리도 4.56%로 0.11%p 올랐습니다. 일반 신용대출 금리는 6.43%로, 전월보다 0.06%p 낮아졌습니다. 지난 6월(5.72%) 이후 5개월 만에 하락 전환했습니다. 10월...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862826&plink=ORI&cooper=NAVER",
-      "naver": "https://n.news.naver.com/mnews/article/055/0001405702?sid=101",
-      "host": "news.sbs.co.kr",
-      "score": 2.3627,
-      "pubDate": "2026-11-25T04:56:00+00:00"
-    },
-    {
-      "title": "[르포] 천안 성성호수공원 앞 ‘더샵 라크원’…공급 부담 속 가격 경쟁...",
-      "desc": "한국부동산원 청약홈에 따르면 지난 9월 분양한 천안 아이파크 시티 3·4단지는 일반공급 1609가구 모집에 1순위 청약 321건이 접수되는 데 그쳤다. 2순위 청약 이후에도 1224가구가 미달됐다. 특히 두 단지의 전용 102...",
-      "link": "https://www.viva100.com/article/20261125500682",
-      "naver": "https://www.viva100.com/article/20261125500682",
-      "host": "viva100.com",
-      "score": 2.3425,
-      "pubDate": "2026-11-25T04:08:00+00:00"
-    },
-    {
-      "title": "주담대 금리 5% 눈앞…가계 이자 부담 커진다",
-      "desc": "전세자금대출 금리는 4.63%로 0.06%포인트, 보증대출 금리는 4.56%로 0.11%포인트 각각 상승했다. 반면 일반 신용대출 금리는 6.43%로 전월보다 0.06%포인트 하락해 5개월 만에 내림세로 전환했다. 일부 은행이 기존에...",
-      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=82010",
-      "naver": "http://www.issuenbiz.com/news/articleView.html?idxno=82010",
-      "host": "issuenbiz.com",
-      "score": 2.3363,
-      "pubDate": "2026-11-25T04:46:00+00:00"
-    },
-    {
-      "title": "오늘의 메모[11월 26일]",
-      "desc": "▲주권변경상장=대원화성(024890)(주식소각) ▲구주주유상청약=이렘(009730) 큐리언트(115180) ▲보통주추가상장=탑머티리얼·한빛레이저(주식매수선택권행사) 광진실업(026910)(유상 제3자배정) ▲상호변경...",
-      "link": "https://www.sedaily.com/article/20118757?ref=naver",
-      "naver": "https://n.news.naver.com/mnews/article/011/0004685994?sid=101",
+      "title": "LS일렉트릭, 100분기 연속 흑자…3분기 영업익 132% 급증",
+      "desc": "IPO 시장에서는 이달에만 5개 기업이 공모를 철회했고, 10월 이후 공모 청약을 마친 16곳 중 의무보유확약 비율 40%를 넘긴 기업이 단 한 곳도 없어 투자심리 위축이 뚜렷한 모습이다. 중복상장 규제 강화로 대기업...",
+      "link": "https://www.sedaily.com/article/20119291?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004686440?sid=101",
       "host": "sedaily.com",
-      "score": 2.3263,
-      "pubDate": "2026-11-25T04:01:00+00:00"
+      "score": 2.6057,
+      "pubDate": "2026-11-26T04:02:00+00:00"
     },
     {
-      "title": "“주식시장만 요동”…진정되면 저점 매수 기회 올까",
-      "desc": "하이일드 스프레드는 신용등급이 낮은 회사채 수익률에서 국채 수익률을 뺀 금리 차이로, 벌어질수록 기업 신용 위험이 커졌다는 뜻이다. MOVE지수는 미국 국채 금리 변동성을 나타내며, 오를수록 채권 시장이...",
-      "link": "https://www.mk.co.kr/article/12217995",
-      "naver": "https://n.news.naver.com/mnews/article/024/0000109877?sid=101",
+      "title": "[정책리뷰] 기준금리 연 3.00% → 3.25%, 반도체 특수 속 소비 위축",
+      "desc": "부동산시장 역시 주택담보대출 금리 상승으로 매수세가 약화할 수 있다. 건설업계의 경우 부동산 프로젝트파이낸싱(PF) 금융비용 증가와 미분양 해소 지연 등이 경영 부담으로 작용할 전망이다. 투자·고용 위축 가능성...",
+      "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=46623",
+      "naver": "http://www.financialreview.co.kr/news/articleView.html?idxno=46623",
+      "host": "financialreview.co.kr",
+      "score": 2.5574,
+      "pubDate": "2026-11-26T04:22:00+00:00"
+    },
+    {
+      "title": "대우건설 컨소시엄, '경북도청 푸르지오 퍼스티온' 27일 견본주택 개관",
+      "desc": "신도시 내 민간분양 아파트 공급은 2016년 이후 약 10년 만이다. 향후 A-4블록을 포함해 총 2408가구 규모의... 유주택자도 1순위 청약이 가능한 만큼 새 아파트를 기다려 온 지역 수요자들의 관심이 클 것\"이라고 말했다.",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202611261330449970205868f676_30",
+      "naver": "http://www.beyondpost.co.kr/view.php?ud=202611261330449970205868f676_30",
+      "host": "beyondpost.co.kr",
+      "score": 2.4899,
+      "pubDate": "2026-11-26T04:34:00+00:00"
+    },
+    {
+      "title": "2031년 김포의 일상 어떨까…‘한강 푸르지오 리버프론트’에 관심",
+      "desc": "신규 분양 아파트는 기존 주택 매매와 달리 입주 전까지 계약금과 중도금, 잔금 등을 나눠 납부한다. 계약서에 명시된 일정에 따라 자금을 마련할 수 있어 입주 시점까지 소득과 금융자산, 기존 주택이나 전세보증금의...",
+      "link": "https://www.donga.com/news/Economy/article/all/20261126/135095272/1",
+      "naver": "https://n.news.naver.com/mnews/article/020/0003765392?sid=101",
+      "host": "donga.com",
+      "score": 2.4844,
+      "pubDate": "2026-11-26T04:32:00+00:00"
+    },
+    {
+      "title": "두산에너빌리티, 영주 ‘트리븐 가흥’ 765가구 분양",
+      "desc": "공급한다.부동산R114의 아파트 입주물량 자료에 따르면 영주시의 20년 이상 노후 아파트 비율은 71%에... 것이 부동산업계의 분석이다.한국부동산원 청약홈에 따르면 올해 3월 서울 영등포구에서 분양한 ‘더샵...",
+      "link": "https://www.kbsm.net/news/view.php?idx=543436",
+      "naver": "https://www.kbsm.net/news/view.php?idx=543436",
+      "host": "kbsm.net",
+      "score": 2.4735,
+      "pubDate": "2026-11-26T04:28:00+00:00"
+    },
+    {
+      "title": "대우건설, 경북도청신도시 2단계 첫 민간분양…1165세대",
+      "desc": "이 단지는 경북도청신도시 2단계 첫 분양 단지이자 예천·안동 지역 첫 푸르지오 브랜드 아파트다.... 1순위 청약까지 가능해 새 아파트를 기다려 온 지역 수요자들에게 실질적인 기회가 될 것\"이라고 말했다.",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=729563",
+      "naver": "https://www.cstimes.com/news/articleView.html?idxno=729563",
+      "host": "cstimes.com",
+      "score": 2.4735,
+      "pubDate": "2026-11-26T04:28:00+00:00"
+    },
+    {
+      "title": "IBK기업은행, 중·저신용자 위한 ‘IBK중금리 생활안정대출’ 선봬",
+      "desc": "IBK기업은행이 중·저신용자의 생활안정자금 마련을 돕기 위해 ‘IBK중금리 생활안정대출’을 출시했다고... 대출 최고금리는 반기마다 고시되는 민간중금리대출 금리 상한을 적용해 최대 연 8.02%다. 대출 한도는 1인당...",
+      "link": "https://www.donga.com/news/Economy/article/all/20261126/135095217/1",
+      "naver": "https://n.news.naver.com/mnews/article/020/0003765391?sid=101",
+      "host": "donga.com",
+      "score": 2.4574,
+      "pubDate": "2026-11-26T04:22:00+00:00"
+    },
+    {
+      "title": "전용 59㎡, 새로운 국민평형으로 부상… 84㎡와 분양시장 양강 구도",
+      "desc": "한국부동산원 청약홈에 따르면 올해 1~10월 전국 194개 분양 단지의 1순위 청약자 33만9961명 가운데 32.9%(11만1954명)가 전용 59㎡에 청약했다. 1순위 청약자 3명 중 1명꼴이다. 부동산R114 자료를 보면 같은 기간 전용 59...",
+      "link": "https://edu.donga.com/news/articleView.html?idxno=114082",
+      "naver": "https://edu.donga.com/news/articleView.html?idxno=114082",
+      "host": "edu.donga.com",
+      "score": 2.4521,
+      "pubDate": "2026-11-26T04:20:00+00:00"
+    },
+    {
+      "title": "1순위 청약자 32.9%가 전용 59㎡ 선택… 84㎡와 분양시장 '양강 구도' 뚜...",
+      "desc": "한국부동산원 청약홈 집계에 따르면 올해 1월부터 10월까지 전국 194개 민간·공공 분양 단지의 1순위 청약... 부동산R114 분석 결과에서도 같은 기간 전용 59㎡의 1순위 평균 청약경쟁률은 14.53대 1을 기록해 전체...",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3053601",
+      "naver": "https://www.apnews.kr/news/articleView.html?idxno=3053601",
+      "host": "apnews.kr",
+      "score": 2.4468,
+      "pubDate": "2026-11-26T04:18:00+00:00"
+    },
+    {
+      "title": "기준금리 또 올라 3.25%…부동산 매수세 위축에도 전월세 불안은 ‘여전...",
+      "desc": "다만 양 전문가는 “예산을 낮춘 매수자와 전세에서 매매로 전환하는 실수요가 겹치는 10억원 이하 선호... 김 위원은 “서울과 수도권 주요 지역은 신규 입주 물량 감소와 실거주 규제 등에 따른 전세 공급 감소가...",
+      "link": "https://www.mk.co.kr/article/12219140",
+      "naver": "https://n.news.naver.com/mnews/article/009/0005769302?sid=101",
       "host": "mk.co.kr",
-      "score": 2.3081,
-      "pubDate": "2026-11-25T04:35:00+00:00"
+      "score": 2.4382,
+      "pubDate": "2026-11-26T01:56:00+00:00"
     },
     {
-      "title": "주담대 금리 5% 눈앞…14년 7개월 만에 최고치",
-      "desc": "집단대출 금리는 4.80%로 0.09%포인트, 보증대출 금리는 4.56%로 0.11%포인트, 전세자금대출 금리는 4.63%로 0.06%포인트 각각 상승했다. 반면 소액대출 금리는 6.41%로 0.15%포인트, 일반신용대출 금리는 6.43%로 0.06%포인트...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=904359",
-      "naver": "https://www.newsworks.co.kr/news/articleView.html?idxno=904359",
-      "host": "newsworks.co.kr",
-      "score": 2.3006,
-      "pubDate": "2026-11-25T04:32:00+00:00"
+      "title": "대우건설 컨소, '경북도청 푸르지오 퍼스티온' 분양",
+      "desc": "특히 이 단지는 경북도청신도시 2단계에서 처음 공급되는 민간분양 아파트이자 예천·안동 지역에 처음... 이는 약 10년 만에 공급되는 신도시 민간분양 아파트로 분양가상한제가 적용되고 유주택자도 1순위 청약이...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=303386",
+      "naver": "https://www.financialpost.co.kr/news/articleView.html?idxno=303386",
+      "host": "financialpost.co.kr",
+      "score": 2.4209,
+      "pubDate": "2026-11-26T04:08:00+00:00"
     },
     {
-      "title": "서울 1순위 청약자 10명 중 8명은 전용 60㎡ 이하 소형 청약",
-      "desc": "9월말 기준 80.8%가 소형 청약자 올해 서울의 전용면적 60㎡ 이하 소형 타입 1순위 청약자 비율이 역대 최고치를 기록 중인 것으로 나타났다. 서울 분양가가 높아지면서 상대적으로 자금 부담이 덜한 소형으로 수요가...",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/C35BG7DWABCTTINHFFPAWBJXZE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "naver": "https://n.news.naver.com/mnews/article/366/0001207120?sid=101",
-      "host": "biz.chosun.com",
-      "score": 2.2958,
-      "pubDate": "2026-11-24T23:36:00+00:00"
+      "title": "“국민평형 대신 소형”…서울 1순위 청약 80%, 60㎡ 이하 집중",
+      "desc": "■ 부동산신탁사 양극화 심화: 국내 14개 부동산신탁사의 올해 1~9월 누적 당기순손실이 865억 원에 달하는 가운데, 코람코자산신탁만 490억 원의 순이익을 올리며 뚜렷한 차별화를 연출했다. 리츠와 신탁 병행 구조...",
+      "link": "https://www.sedaily.com/article/20119298?ref=naver",
+      "naver": "https://n.news.naver.com/mnews/article/011/0004686446?sid=101",
+      "host": "sedaily.com",
+      "score": 2.4107,
+      "pubDate": "2026-11-26T04:04:00+00:00"
     },
     {
-      "title": "주담대 금리 5% 육박…14년7개월 만에 최고",
-      "desc": "전세자금대출 금리는 4.63%로 0.06%p 올랐다. 반면 일반신용대출은 일부 은행의 가산금리 인하 영향으로 6.43%까지 낮아지며 5개월 만에 하락 전환했다. 기업대출 금리는 4.55%로 전월 대비 0.06%p 높아졌다. 대기업과...",
-      "link": "http://www.press9.kr/news/articleView.html?idxno=87006",
-      "naver": "http://www.press9.kr/news/articleView.html?idxno=87006",
-      "host": "press9.kr",
-      "score": 2.2808,
-      "pubDate": "2026-11-25T04:24:00+00:00"
+      "title": "\"창밖에 호수가 보이네\"…같은 84㎡인데 집값 4억 차이",
+      "desc": "산과 강, 호수 등 자연 조망을 갖춘 아파트가 주목받고 있다. 인근 단지보다 수억원 높은 가격에 거래되는가 하면 분양시장에서도 높은 청약 경쟁률을 기록하고 있다. 26일 국토교통부 실거래가 공개시스템에 따르면...",
+      "link": "https://www.gpkorea.com/news/articleView.html?idxno=149049",
+      "naver": "https://www.gpkorea.com/news/articleView.html?idxno=149049",
+      "host": "gpkorea.com",
+      "score": 2.3907,
+      "pubDate": "2026-11-26T03:56:00+00:00"
     },
     {
-      "title": "[단독] 5대 은행, 뉴홈 전용 전세대출 내일 출시…금리 1.7~2.6%",
-      "desc": "뉴홈 청약 당첨자들은 그동안 2022년 발표 당시와 동일한 조건의 전용 대출 상품 출시를 요구해왔는데요.... 이 상품은 사전청약 또는 본청약 입주자모집공고일이 지난 8월25일 이전인 사업장에 한해 신청할 수 있으며...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000348765?division=NAVER",
-      "naver": "https://n.news.naver.com/mnews/article/374/0000545790?sid=101",
-      "host": "biz.sbs.co.kr",
-      "score": 2.2746,
-      "pubDate": "2026-11-25T02:48:00+00:00"
+      "title": "서류 줄이고 보증 문턱 낮췄다… 서울신보, ‘규제혁신 대상’ 대통령 ...",
+      "desc": "‘서울형 안심통장’을 도입해 모바일 신청만으로 1영업일 이내 보증 승인이 가능하도록 했다. 이를 통해 기존 고금리 대출 대비 약 1844억원의 이자 부담을 줄였으며, 현재 7개 지자체가 해당 모델을 벤치마킹하고 있다.",
+      "link": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500134?wlog_tag3=naver",
+      "naver": "https://n.news.naver.com/mnews/article/081/0003703447?sid=102",
+      "host": "seoul.co.kr",
+      "score": 2.3817,
+      "pubDate": "2026-11-26T04:31:00+00:00"
     },
     {
-      "title": "은행 가계대출 금리 5% 돌파…5개월 연속 상승세",
-      "desc": "전세자금대출 금리는 연 4.56%로 0.11%p 상승한 반면 일반신용대출 금리는 연 6.43%로 0.06%p 하락했다. 금리 수준별로 보면 지난달 연 5% 이상 가계대출 비중은 40.1%로 전월(31.6%)보다 8.5%p 확대됐다. 지난해 같은...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887090",
-      "naver": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887090",
-      "host": "hansbiz.co.kr",
-      "score": 2.2711,
-      "pubDate": "2026-11-25T04:20:00+00:00"
+      "title": "서울시, 장기안심주택 7000가구 모집…중장년층 특별공급 신설",
+      "desc": "청약은 다음달 14~16일 SH 인터넷 청약시스템에서 받는다. 당첨자 발표일은 내년 3월 18일이다. 당첨자는 2028년 3월 17일까지 약 1년간 입주할 주택을 찾으면 된다. 명노준 서울시 주택실장은 “계층별 특별공급을...",
+      "link": "https://www.hankyung.com/article/202611261513i",
+      "naver": "https://n.news.naver.com/mnews/article/015/0005358512?sid=101",
+      "host": "hankyung.com",
+      "score": 2.3747,
+      "pubDate": "2026-11-26T02:16:00+00:00"
+    },
+    {
+      "title": "中 국채금리 사상 최저 1.565%…'AI 공포'에 배당주로 피신",
+      "desc": "씨티그룹은 이달 보고서에서 “대출 수요 부진과 풍부한 유동성, 장기물에 대한 구조적 수요가 중국 장기 국채 금리를 박스권이나 그보다 낮은 수준에 묶어둘 것”이라고 내다봤다. 씨티는 기관의 자산배분 수요와...",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02830646645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver": "https://n.news.naver.com/mnews/article/018/0006415940?sid=104",
+      "host": "edaily.co.kr",
+      "score": 2.3537,
+      "pubDate": "2026-11-26T03:19:00+00:00"
+    },
+    {
+      "title": "신현송 \"반도체 올해 영업익 700조원…국민경제 파급 시간문제\"(종합)",
+      "desc": "기준금리 추가 인상에 신중해야 한다는 지적과 관련해서는 민간 소비뿐 아니라 투자와 수출, 재정 등 경제 전체를 살펴 통화정책을 운용해야 한다고 덧붙였다. 신 총재는 이날 금리 인상 결정과 관련해서는 \"선제적인...",
+      "link": "https://www.yna.co.kr/view/AKR20261126098451002?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016465175?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.326,
+      "pubDate": "2026-11-26T04:10:00+00:00"
+    },
+    {
+      "title": "신현송 \"내년 4.1% 성장 자신\"…인상 반대 2명에도 긴축 페달",
+      "desc": "황건일·이수형 금통위원이 이번 기준금리 인상에 반대의견을 제시했고, 금통위도 통화정책방향 의결문에서 '속도' 문구를 삭제하며 신중한 태도로 선회했기 때문이다. 기준금리 인상 결정에 금통위원 2명이 동결 의견을...",
+      "link": "https://www.yna.co.kr/view/AKR20261126105100002?input=1195m",
+      "naver": "https://n.news.naver.com/mnews/article/001/0016465169?sid=101",
+      "host": "yna.co.kr",
+      "score": 2.3235,
+      "pubDate": "2026-11-26T04:09:00+00:00"
+    },
+    {
+      "title": "전용 59㎡, 새로운 '국민평형' 부상…1순위 청약자 3명 중 1명 선택",
+      "desc": "[사진=피알본] 아파트 분양시장에서 전용면적 59㎡가 기존 국민평형으로 불리던 84㎡와 함께 주요 주택형으로 자리 잡고 있다. 분양가 부담이 커진 가운데 1·2인 가구가 늘어나고 소형 평형에도 4베이 설계가...",
+      "link": "https://www.ajunews.com/view/20261126094011408",
+      "naver": "https://www.ajunews.com/view/20261126094011408",
+      "host": "ajunews.com",
+      "score": 2.315,
+      "pubDate": "2026-11-26T03:24:00+00:00"
     }
   ]
 }
